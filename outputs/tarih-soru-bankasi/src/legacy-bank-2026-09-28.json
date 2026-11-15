@@ -1,0 +1,2574 @@
+[
+  {
+    "id": "T01-001",
+    "topic": "Ana yurt",
+    "skill": "Bilgi",
+    "stem": "Türklerin ana yurdu Orta Asya’nın genel coğrafi sınırlandırmasında kuzey, güney, batı ve doğu sınırları aşağıdakilerin hangisinde sırasıyla doğru verilmiştir?",
+    "options": [
+      "Sibirya — Hindukuş Dağları — Hazar Denizi — Kingan Dağları",
+      "Sibirya — Kingan Dağları — Hazar Denizi — Hindukuş Dağları",
+      "Hindukuş Dağları — Sibirya — Hazar Denizi — Kingan Dağları",
+      "Sibirya — Hindukuş Dağları — Kingan Dağları — Hazar Denizi",
+      "Kingan Dağları — Hindukuş Dağları — Hazar Denizi — Sibirya"
+    ],
+    "answer": "A",
+    "explanation": "Sıralama kuzeyde Sibirya, güneyde Hindukuş Dağları, batıda Hazar Denizi ve doğuda Kingan Dağlarıdır. Özellikle Hindukuş ile Kingan’ın yönlerinin karıştırılması yanlış seçeneğe götürür. Burada bir devletin belirli bir tarihteki sınırları değil, Türklerin ana yurdu için kullanılan genel coğrafi çerçeve sorulmaktadır.",
+    "sources": [
+      {
+        "title": "MEB – Tarih 9, ikinci dönem hazırlık materyali",
+        "url": "https://ogmmateryal.eba.gov.tr/panel/upload/files/ktjwzblfjdt.pdf"
+      }
+    ]
+  },
+  {
+    "id": "T01-005",
+    "topic": "Türk adının anlamları",
+    "skill": "Bilgi",
+    "stem": "Türk adını 'olgunluk çağı' ve 'töre sahibi' açıklamalarıyla ilişkilendiren kişiler aşağıdakilerin hangisinde sırasıyla doğru verilmiştir?",
+    "options": [
+      "Vámbéry — Ziya Gökalp",
+      "Kaşgarlı Mahmud — Vámbéry",
+      "Gerhard Doerfer — Kaşgarlı Mahmud",
+      "Kaşgarlı Mahmud — Ziya Gökalp",
+      "Ziya Gökalp — Gerhard Doerfer"
+    ],
+    "answer": "D",
+    "explanation": "Olgunluk çağı açıklaması Kaşgarlı Mahmud’la, töre sahibi açıklaması Ziya Gökalp’le ilişkilidir. Soruda iki eşleştirmenin de istenen sıraya uygun olması gerekir. Vámbéry’nin türemek görüşü ile Doerfer’in devlete bağlı halk yaklaşımı bu iki açıklamadan ayrılır.",
+    "sources": [
+      {
+        "title": "MEB – Türklerin Tarih Sahnesine Çıkışı",
+        "url": "https://img.eba.gov.tr/491/79a/4c1/731/384/3a4/a5e/af7/aab/392/28e/3ae/72b/d1e/001/49179a4c17313843a4a5eaf7aab39228e3ae72bd1e001.pdf"
+      },
+      {
+        "title": "MEB – Tarih 9, ikinci dönem hazırlık materyali",
+        "url": "https://ogmmateryal.eba.gov.tr/panel/upload/files/ktjwzblfjdt.pdf"
+      }
+    ]
+  },
+  {
+    "id": "T01-006",
+    "topic": "Türk adının anlamları",
+    "skill": "Bilgi",
+    "stem": "Türk adının kökenini bir türeme fiiliyle açıklayan görüş ile adı devlet-halk ilişkisi çerçevesinde değerlendiren görüş aşağıdakilerin hangisinde doğru kişilerle eşleştirilmiştir?",
+    "options": [
+      "Ziya Gökalp — Kaşgarlı Mahmud",
+      "Gerhard Doerfer — Vámbéry",
+      "Vámbéry — Gerhard Doerfer",
+      "Kaşgarlı Mahmud — Ziya Gökalp",
+      "Vámbéry — Kaşgarlı Mahmud"
+    ],
+    "answer": "C",
+    "explanation": "Vámbéry, Türk adını türemek fiiliyle ilişkilendirir; Doerfer ise devlete bağlı halk anlamını öne çıkarır. İlk açıklama kelimenin kökenine, ikincisi siyasi bir topluluğa bağlılığa odaklanır. Kişilerin doğru bilinmesi kadar kökte istenen sıranın korunması da önemlidir.",
+    "sources": [
+      {
+        "title": "Pegem – Türk siyasi tarihi, Türk adının anlamlarına ilişkin açıklamalar",
+        "url": "https://depo.pegem.net/9780202200378.pdf"
+      }
+    ]
+  },
+  {
+    "id": "T01-007",
+    "topic": "Türk adının anlamları",
+    "skill": "Bilgi",
+    "stem": "Türk adının anlamına ilişkin aşağıdaki eşleştirmelerden hangisi yanlıştır?",
+    "options": [
+      "Vámbéry — Türemek",
+      "Kaşgarlı Mahmud — Olgunluk çağı",
+      "Ziya Gökalp — Töre sahibi",
+      "Çin kaynakları — Miğfer",
+      "Gerhard Doerfer — Güç ve kuvvet"
+    ],
+    "answer": "E",
+    "explanation": "Yanlış eşleştirme Doerfer–güç ve kuvvettir. Doerfer’in açıklaması devlete bağlı halktır; güç ve kuvvet anlamı Eski Uygur metinleriyle ilişkilendirilir. Diğer dört seçenekte araştırmacı veya kaynak ile ona bağlanan anlam doğru eşleştirilmiştir.",
+    "sources": [
+      {
+        "title": "Pegem – Türk siyasi tarihi, Türk adının anlamlarına ilişkin açıklamalar",
+        "url": "https://depo.pegem.net/9780202200378.pdf"
+      },
+      {
+        "title": "Pegem – Türk adının anlamı ve Uygur metinleri",
+        "url": "https://depo.pegem.net/9780202310367.pdf"
+      }
+    ]
+  },
+  {
+    "id": "T01-008",
+    "topic": "Türk adının anlamları",
+    "skill": "Bilgi ve kavram",
+    "stem": "Türk adına verilen anlamlardan hangisi, topluluğun bir siyasi teşkilata bağlılığına doğrudan vurgu yapmaktadır?",
+    "options": [
+      "Türemek",
+      "Olgunluk çağı",
+      "Miğfer",
+      "Devlete bağlı halk",
+      "Güç ve kuvvet"
+    ],
+    "answer": "D",
+    "explanation": "Devlete bağlı halk ifadesinde ayırt edici unsur siyasi teşkilata bağlılıktır. Miğfer bir nesneye benzetmeyi, olgunluk çağı bir gelişme dönemini, türemek köken açıklamasını, güç ve kuvvet ise bir niteliği vurgular. Bu nedenle doğrudan devlet-toplum ilişkisini anlatan seçenek D’dir.",
+    "sources": [
+      {
+        "title": "Pegem – Türk siyasi tarihi, Türk adının anlamlarına ilişkin açıklamalar",
+        "url": "https://depo.pegem.net/9780202200378.pdf"
+      }
+    ]
+  },
+  {
+    "id": "T01-009",
+    "topic": "Türk adının anlamları",
+    "skill": "Bilgi ve kavram",
+    "stem": "Türk adını açıklarken kanun, düzen ve töre kavramlarını öne çıkaran yaklaşım aşağıdaki isimlerden hangisiyle ilişkilendirilir?",
+    "options": [
+      "Ziya Gökalp",
+      "Vámbéry",
+      "Kaşgarlı Mahmud",
+      "Gerhard Doerfer",
+      "Herodotos"
+    ],
+    "answer": "A",
+    "explanation": "Ziya Gökalp, Türk adını töre sahibi olmakla ilişkilendirir. Töre; toplumsal düzeni, kuralları ve geleneksel hukuku kapsar. Doerfer’in devlete bağlı halk açıklaması da siyasi bir boyut taşır; ancak kökte özellikle töre ve kanun vurgulandığı için Gökalp seçilmelidir.",
+    "sources": [
+      {
+        "title": "MEB – Tarih 9, ikinci dönem hazırlık materyali",
+        "url": "https://ogmmateryal.eba.gov.tr/panel/upload/files/ktjwzblfjdt.pdf"
+      },
+      {
+        "title": "Pegem – Türk siyasi tarihi, Türk adının anlamlarına ilişkin açıklamalar",
+        "url": "https://depo.pegem.net/9780202200378.pdf"
+      }
+    ]
+  },
+  {
+    "id": "T01-010",
+    "topic": "Türk adının anlamları",
+    "skill": "Bilgi",
+    "stem": "Aşağıdaki kaynak-anlam eşleştirmelerinden hangisi doğrudur?",
+    "options": [
+      "Çin kaynakları — Olgunluk çağı",
+      "Eski Uygur metinleri — Güç ve kuvvet",
+      "Dîvânu Lugâti't-Türk — Miğfer",
+      "Çin kaynakları — Devlete bağlı halk",
+      "Eski Uygur metinleri — Töre sahibi"
+    ],
+    "answer": "B",
+    "explanation": "Doğru eşleştirme Eski Uygur metinleri–güç ve kuvvettir. Olgunluk çağı Kaşgarlı Mahmud’un açıklamasıyla, miğfer Çin kaynaklarındaki anlatımla ilişkilendirilir. Devlete bağlı halk Doerfer’e, töre sahibi ise Ziya Gökalp’e ait yaklaşımlardır.",
+    "sources": [
+      {
+        "title": "Pegem – Türk adının anlamı ve Uygur metinleri",
+        "url": "https://depo.pegem.net/9780202310367.pdf"
+      },
+      {
+        "title": "TDV İslâm Ansiklopedisi – Miğfer",
+        "url": "https://islamansiklopedisi.org.tr/migfer"
+      }
+    ]
+  },
+  {
+    "id": "T01-012",
+    "topic": "Türk ve Türkiye adları",
+    "skill": "Bilgi",
+    "stem": "Türk adının erken kayıtları, Türk adını devlet adı olarak kullanan ilk siyasi teşkilat ve Türkiye adının görüldüğü kaynak geleneği birlikte düşünüldüğünde aşağıdaki eşleştirmelerden hangisi doğrudur?",
+    "options": [
+      "Çin kaynakları — Asya Hunları — Bizans kaynakları",
+      "Bizans kaynakları — Göktürkler — Çin kaynakları",
+      "Çin kaynakları — Göktürkler — Bizans kaynakları",
+      "Orhun Yazıtları — Uygurlar — İran kaynakları",
+      "İran kaynakları — Göktürkler — Çin kaynakları"
+    ],
+    "answer": "C",
+    "explanation": "Doğru üçlü Çin kaynakları, Göktürkler ve Bizans kaynaklarıdır. Bir adın yazılı kayıtlarda görülmesi, devlet adı olması ve coğrafi ad olarak kullanılması farklı olgulardır. Asya Hunları ilk Türk devleti olarak anılırken Türk adını devlet adı yapan ilk siyasi teşkilat Göktürklerdir.",
+    "sources": [
+      {
+        "title": "MEB – Tarih 9, ikinci dönem hazırlık materyali",
+        "url": "https://ogmmateryal.eba.gov.tr/panel/upload/files/ktjwzblfjdt.pdf"
+      },
+      {
+        "title": "MEB – Tarih 10 çalışma defteri, Türkiye adı",
+        "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/calisma_defteri/f1/10/tarih/files/basic-html/page4.html"
+      }
+    ]
+  },
+  {
+    "id": "T01-013",
+    "topic": "Türk ve Türkiye adları",
+    "skill": "Bilgi",
+    "stem": "Türk adını devlet adı olarak kullanan ilk Türk devleti aşağıdakilerden hangisidir?",
+    "options": [
+      "Asya Hun Devleti",
+      "Uygur Devleti",
+      "Avrupa Hun Devleti",
+      "Avar Devleti",
+      "Göktürk Devleti"
+    ],
+    "answer": "E",
+    "explanation": "Türk adını devlet adı olarak kullanan ilk devlet Göktürk Devleti’dir. Asya Hun Devleti daha önce kurulmuştur; ancak kök, en eski Türk devletini değil Türk adını taşıyan ilk devleti sormaktadır. Bu iki ölçütü ayırmak Asya Hunları çeldiricisini elemenin temelidir.",
+    "sources": [
+      {
+        "title": "MEB – Tarih 9, ikinci dönem hazırlık materyali",
+        "url": "https://ogmmateryal.eba.gov.tr/panel/upload/files/ktjwzblfjdt.pdf"
+      }
+    ]
+  },
+  {
+    "id": "T01-014",
+    "topic": "Türk ve Türkiye adları",
+    "skill": "Bilgi ve ilişkilendirme",
+    "stem": "Türkiye adının erken dönem coğrafi kullanımını inceleyen bir araştırmacı, aşağıdaki kaynak gruplarından hangisine öncelik vermelidir?",
+    "options": [
+      "Bizans kaynaklarına",
+      "Orhun Yazıtlarına",
+      "Çin hanedan yıllıklarına",
+      "Uygur hukuk belgelerine",
+      "İran destanlarına"
+    ],
+    "answer": "A",
+    "explanation": "Türkiye adının erken coğrafi kullanımları için Bizans kaynakları önem taşır. Bu kullanım bir bölgenin adlandırılmasıyla ilgilidir. Çin kaynaklarında Türk adının kaydedilmesi veya Göktürklerin Türk adını devlet adı olarak kullanması farklı araştırma konularıdır.",
+    "sources": [
+      {
+        "title": "MEB – Tarih 10 çalışma defteri, Türkiye adı",
+        "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/calisma_defteri/f1/10/tarih/files/basic-html/page4.html"
+      }
+    ]
+  },
+  {
+    "id": "T01-016",
+    "topic": "Orta Asya kültür merkezleri",
+    "skill": "Bilgi",
+    "stem": "Orta Asya'nın en eski kültür merkezi aşağıdakilerden hangisidir?",
+    "options": [
+      "Tagar",
+      "Karasuk",
+      "Andronova",
+      "Afanesyevo",
+      "Anav"
+    ],
+    "answer": "E",
+    "explanation": "Anav, Orta Asya’nın en eski kültür merkezlerinden biri olarak öne çıkar ve bu karşılaştırmada en eski merkez olarak verilir. Afanesyevo ise en eski Türk kültür merkezi olarak tanımlanır. Kökte Türk kültürü sınırlaması bulunmadığından bu iki nitelemeyi birbirine karıştırmamak gerekir.",
+    "sources": [
+      {
+        "title": "MEB – Ortaöğretim tarih materyali, kültür merkezleri ve göçler",
+        "url": "https://ogmmateryal.eba.gov.tr/panel/upload/pdf/wdbo0cludiq.pdf"
+      },
+      {
+        "title": "MEB – Konaklama ve Seyahat: Orta Asya kültür merkezlerinin ders sınıflandırması",
+        "url": "https://kitap.eba.gov.tr/panel/dosyalar/upload/2910/0/U_0_16_04_2024_10_01_43_703.pdf"
+      }
+    ]
+  },
+  {
+    "id": "T01-017",
+    "topic": "Orta Asya kültür merkezleri",
+    "skill": "Bilgi",
+    "stem": "En eski Türk kültür merkezi olarak kabul edilen kültür aşağıdakilerden hangisidir?",
+    "options": [
+      "Anav",
+      "Afanesyevo",
+      "Tagar",
+      "Karasuk",
+      "Kelteminar"
+    ],
+    "answer": "B",
+    "explanation": "En eski Türk kültür merkezi olarak kabul edilen kültür Afanesyevo’dur. Anav’ın Orta Asya’nın en eski kültür merkezi sayılması farklı bir nitelemedir. Sorudaki Türk kültür merkezi vurgusu, Anav ile Afanesyevo arasında seçim yapmayı sağlar.",
+    "sources": [
+      {
+        "title": "MEB – Ortaöğretim tarih materyali, kültür merkezleri ve göçler",
+        "url": "https://ogmmateryal.eba.gov.tr/panel/upload/pdf/wdbo0cludiq.pdf"
+      },
+      {
+        "title": "MEB – Tarih 9 Çalışma Defteri 5, s.18: kültür merkezleri",
+        "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/calisma_defteri/f5/9/tarih/files/basic-html/page18.html"
+      }
+    ]
+  },
+  {
+    "id": "T01-018",
+    "topic": "Orta Asya kültür merkezleri",
+    "skill": "Bilgi",
+    "stem": "Orta Asya'nın en gelişmiş kültür merkezi olarak kabul edilen kültür aşağıdakilerden hangisidir?",
+    "options": [
+      "Anav",
+      "Kelteminar",
+      "Afanesyevo",
+      "Tagar",
+      "Andronova"
+    ],
+    "answer": "D",
+    "explanation": "Bu karşılaştırmada cevap Tagar’dır. Tagar kültürü gelişmiş maden işçiliği ve hayvan tasvirli eserleriyle öne çıkar. En eski merkez Anav, en eski Türk kültür merkezi Afanesyevo, demir işlemeciliğinin erken merkezi Karasuk nitelemeleri ise farklı özellikleri ölçer.",
+    "sources": [
+      {
+        "title": "MEB – Ortaöğretim tarih materyali, kültür merkezleri ve göçler",
+        "url": "https://ogmmateryal.eba.gov.tr/panel/upload/pdf/wdbo0cludiq.pdf"
+      },
+      {
+        "title": "MEB – Konaklama ve Seyahat: Orta Asya kültür merkezlerinin ders sınıflandırması",
+        "url": "https://kitap.eba.gov.tr/panel/dosyalar/upload/2910/0/U_0_16_04_2024_10_01_43_703.pdf"
+      }
+    ]
+  },
+  {
+    "id": "T01-019",
+    "topic": "Orta Asya kültür merkezleri",
+    "skill": "Bilgi",
+    "stem": "Afanesyevo kültürünün yayılma alanını genişleten devamı olarak anlatılan, tunç ve altın eşyalarıyla tanınan kültür aşağıdakilerden hangisidir?",
+    "options": [
+      "Andronova",
+      "Karasuk",
+      "Anav",
+      "Kelteminar",
+      "Tagar"
+    ],
+    "answer": "A",
+    "explanation": "Cevap Andronova’dır. Afanesyevo ile kültürel devamlılık ilişkisi ve tunç-altın eşyalar birlikte ayırt edici ipuçlarıdır. Karasuk demir işlemeciliğiyle, Kelteminar Aral çevresindeki avcılık ve balıkçılıkla öne çıktığından bu tanıma uymaz.",
+    "sources": [
+      {
+        "title": "MEB – Ortaöğretim tarih materyali, kültür merkezleri ve göçler",
+        "url": "https://ogmmateryal.eba.gov.tr/panel/upload/pdf/wdbo0cludiq.pdf"
+      },
+      {
+        "title": "MEB – İlk Türklere Kültürel Açıdan Genel Bakış",
+        "url": "https://img.eba.gov.tr/974/672/7fe/8e6/af9/d14/467/8a9/073/b7c/7cb/c49/e6b/de2/001/9746727fe8e6af9d144678a9073b7c7cbc49e6bde2001.pdf"
+      }
+    ]
+  },
+  {
+    "id": "T01-020",
+    "topic": "Orta Asya kültür merkezleri",
+    "skill": "Bilgi",
+    "stem": "Orta Asya'da demirin ilk işlendiği kültür merkezi aşağıdakilerden hangisidir?",
+    "options": [
+      "Anav",
+      "Afanesyevo",
+      "Karasuk",
+      "Kelteminar",
+      "Andronova"
+    ],
+    "answer": "C",
+    "explanation": "Orta Asya’daki erken demir işlemeciliği Karasuk kültürüyle ilişkilendirilir. Andronova’nın tunç ve altın eşyalarıyla karıştırılmamalıdır. Kökteki coğrafi sınır Orta Asya’dır; cevap, demirin dünya genelinde ilk kez burada işlendiği anlamına gelmez.",
+    "sources": [
+      {
+        "title": "MEB – Tarih 9 Çalışma Defteri 5, s.18: kültür merkezleri",
+        "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/calisma_defteri/f5/9/tarih/files/basic-html/page18.html"
+      },
+      {
+        "title": "MEB – Ortaöğretim tarih materyali, kültür merkezleri ve göçler",
+        "url": "https://ogmmateryal.eba.gov.tr/panel/upload/pdf/wdbo0cludiq.pdf"
+      }
+    ]
+  },
+  {
+    "id": "T01-021",
+    "topic": "Orta Asya kültür merkezleri",
+    "skill": "Bilgi",
+    "stem": "Aral Gölü çevresinde yerleşik yaşamın görüldüğü kültür merkezi aşağıdakilerden hangisidir?",
+    "options": [
+      "Afanesyevo",
+      "Tagar",
+      "Kelteminar",
+      "Andronova",
+      "Karasuk"
+    ],
+    "answer": "C",
+    "explanation": "Aral Gölü çevresi, yerleşik yaşam ve balıkçılık-avcılık ipuçları Kelteminar kültürünü gösterir. Anav’da da yerleşik yaşamın izleri vardır; fakat kökte Aral çevresi özellikle belirtilmiştir. Bu nedenle yalnız yerleşik yaşam ifadesine bakmak yerine yer ve geçim biçimini birlikte değerlendirmek gerekir.",
+    "sources": [
+      {
+        "title": "MEB – Türk Kültür Ocağı, kültür bölgeleri ve ekonomik faaliyetler",
+        "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/beceri_temelli/11/cografya/files/basic-html/page93.html"
+      },
+      {
+        "title": "MEB – Dünya Kültürlerine Giriş, Kelteminar",
+        "url": "https://kitap.eba.gov.tr/panel/dosyalar/upload/2910/0/U_0_15_12_2022_20_32_53_878.pdf"
+      },
+      {
+        "title": "MEB – Konaklama ve Seyahat: Orta Asya kültür merkezlerinin ders sınıflandırması",
+        "url": "https://kitap.eba.gov.tr/panel/dosyalar/upload/2910/0/U_0_16_04_2024_10_01_43_703.pdf"
+      }
+    ]
+  },
+  {
+    "id": "T01-022",
+    "topic": "Orta Asya kültür merkezleri",
+    "skill": "Yorum",
+    "stem": "Anav kültürü çevresinde yaşayan insanların kerpiç evlerde oturduğu; tarım, hayvancılık ve dokumacılıkla uğraştığı bilinmektedir.\n\nBuna göre;\nI. yerleşik yaşamın izlerine rastlandığı,\nII. ekonomik faaliyetlerin çeşitlilik gösterdiği,\nIII. dokumacılık ürünlerinin dış ticaretin temelini oluşturduğu\nyargılarından hangilerine ulaşılabilir?",
+    "options": [
+      "Yalnız I",
+      "Yalnız II",
+      "I ve II",
+      "II ve III",
+      "I, II ve III"
+    ],
+    "answer": "C",
+    "explanation": "Kerpiç evler yerleşik yaşamı, tarım-hayvancılık-dokumacılık ise ekonomik çeşitliliği destekler; I ve II’ye ulaşılır. Dokuma yapılması, ürünlerin ihraç edildiğini veya dış ticaretin temelini oluşturduğunu göstermez. III için üretimin ötesinde ticaretin yönü ve hacmi hakkında kanıt gerekir.",
+    "sources": [
+      {
+        "title": "MEB – İlk Türklere Kültürel Açıdan Genel Bakış",
+        "url": "https://img.eba.gov.tr/974/672/7fe/8e6/af9/d14/467/8a9/073/b7c/7cb/c49/e6b/de2/001/9746727fe8e6af9d144678a9073b7c7cbc49e6bde2001.pdf"
+      }
+    ]
+  },
+  {
+    "id": "T01-023",
+    "topic": "Orta Asya kültür merkezleri",
+    "skill": "Bilgi",
+    "stem": "Aşağıdaki kültür merkezi-özellik eşleştirmelerinden hangisi yanlıştır?",
+    "options": [
+      "Anav — Tarımsal faaliyetler",
+      "Kelteminar — Avcılık ve balıkçılık",
+      "Tagar — Hayvan tasvirli metal eserler",
+      "Afanesyevo — Aral Gölü çevresinde balıkçılık",
+      "Karasuk — Demir işlemeciliğinin erken örnekleri"
+    ],
+    "answer": "D",
+    "explanation": "Yanlış eşleştirme Afanesyevo–Aral Gölü çevresinde balıkçılıktır. Bu coğrafya ve geçim biçimi Kelteminar’la ilişkilidir. Anav’da tarım, Tagar’da hayvan tasvirli metal eserler ve Karasuk’ta erken demir işlemeciliği diğer seçeneklerde doğru verilmiştir.",
+    "sources": [
+      {
+        "title": "MEB – Türk Kültür Ocağı, kültür bölgeleri ve ekonomik faaliyetler",
+        "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/beceri_temelli/11/cografya/files/basic-html/page93.html"
+      }
+    ]
+  },
+  {
+    "id": "T01-025",
+    "topic": "Orta Asya kültür merkezleri",
+    "skill": "Bilgi ve yorum",
+    "stem": "Orta Asya kültür bölgeleriyle ilgili aşağıdaki ilişkilerden hangisi, coğrafi çevrenin ekonomik faaliyetlere etkisini en doğrudan örneklendirir?",
+    "options": [
+      "Metal süs eşyalarının mezarlara bırakılması",
+      "Aral Gölü çevresindeki Kelteminar'da balıkçılığın öne çıkması",
+      "Bir kültürün adını kazı yapılan yerden alması",
+      "Farklı merkezlerde benzer bezemelerin görülmesi",
+      "Bir kültürün önceki kültürün devamı sayılması"
+    ],
+    "answer": "B",
+    "explanation": "Aral Gölü’nün su kaynakları, çevresindeki topluluklara balıkçılık yapma imkânı sağlar. Böylece coğrafi ortam ile geçim faaliyeti arasında doğrudan ilişki kurulur. Mezara eşya bırakmak inançla, benzer bezemeler sanat ve etkileşimle ilgilidir; aynı ilişkiyi doğrudan göstermez.",
+    "sources": [
+      {
+        "title": "MEB – Türk Kültür Ocağı, kültür bölgeleri ve ekonomik faaliyetler",
+        "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/beceri_temelli/11/cografya/files/basic-html/page93.html"
+      }
+    ]
+  },
+  {
+    "id": "T01-026",
+    "topic": "Göçlerin nedenleri",
+    "skill": "Bilgi",
+    "stem": "Türk topluluklarının ana yurtlarından göç etmesinde etkili olan aşağıdaki nedenlerden hangisi diğerlerinden farklı olarak siyasi niteliktedir?",
+    "options": [
+      "Uzun süren kuraklık",
+      "Sürülerin beslenebileceği alanların daralması",
+      "Sert kışların hayvan kayıplarını artırması",
+      "Nüfusun geçim kaynakları üzerindeki baskısı",
+      "Boylar arasında üstünlük mücadelesi yaşanması"
+    ],
+    "answer": "E",
+    "explanation": "Boylar arasındaki üstünlük mücadelesi, yönetim ve hâkimiyetle ilgili olduğu için siyasi nedendir. Kuraklık ve ağır kış doğal koşulları; otlakların yetersizliği ve nüfus baskısı geçim sorunlarını öne çıkarır. Ekonomik sonuç doğurmaları, bu etkenlerin hepsini siyasi neden yapmaz.",
+    "sources": [
+      {
+        "title": "MEB – Ortaöğretim tarih materyali, kültür merkezleri ve göçler",
+        "url": "https://ogmmateryal.eba.gov.tr/panel/upload/pdf/wdbo0cludiq.pdf"
+      }
+    ]
+  },
+  {
+    "id": "T01-027",
+    "topic": "Göçlerin nedenleri",
+    "skill": "Bilgi ve neden-sonuç",
+    "stem": "Bozkırda kar fırtınaları ve ağır kış koşulları nedeniyle hayvanların otlara ulaşamaması ve sürü kayıpları yaşanması, göçleri öncelikle hangi yolla teşvik eder?",
+    "options": [
+      "Geçim kaynaklarını zayıflatarak",
+      "Tahtın veraset düzenini değiştirerek",
+      "Boyların dinî tercihini belirleyerek",
+      "Komşu devletlerin yönetimini merkezîleştirerek",
+      "Ticaret yollarının hukuki statüsünü değiştirerek"
+    ],
+    "answer": "A",
+    "explanation": "Hayvancılığa dayanan yaşamda sürü kaybı; besin, hammadde ve değişim imkânlarının azalması demektir. Ağır kışın göçe etkisi bu nedenle öncelikle geçim kaynaklarını zayıflatmasıdır. Doğal bir olay, ekonomik bir sorun üzerinden göçü teşvik etmektedir.",
+    "sources": [
+      {
+        "title": "MEB – Ortaöğretim tarih materyali, kültür merkezleri ve göçler",
+        "url": "https://ogmmateryal.eba.gov.tr/panel/upload/pdf/wdbo0cludiq.pdf"
+      }
+    ]
+  },
+  {
+    "id": "T01-028",
+    "topic": "Göçlerin nedenleri",
+    "skill": "Yorum",
+    "stem": "Bir bölgede nüfus ve hayvan sürüleri artarken kullanılabilir otlakların genişlememesi üzerine bazı topluluklar yeni alanlara yönelmiştir.\n\nBu göçü açıklayan temel ilişki aşağıdakilerden hangisidir?",
+    "options": [
+      "Askerî teşkilat — Din değişikliği",
+      "Üretim tekniği — Yazının kullanımı",
+      "Nüfus ve ihtiyaçlar — Kaynakların taşıma kapasitesi",
+      "Veraset sistemi — Hukuki birlik",
+      "Kültürel etkileşim — Sanat üslubu"
+    ],
+    "answer": "C",
+    "explanation": "Nüfus ve sürüler büyüdüğünde otlak, su ve besin ihtiyacı artar. Kaynaklar aynı ölçüde artmazsa mevcut alanın topluluğu geçindirme kapasitesi yetersiz kalabilir. Örnekte göçün gerekçesi bu ihtiyaç-kaynak dengesizliğidir; veraset veya din değişikliği hakkında bilgi yoktur.",
+    "sources": [
+      {
+        "title": "MEB – Ortaöğretim tarih materyali, kültür merkezleri ve göçler",
+        "url": "https://ogmmateryal.eba.gov.tr/panel/upload/pdf/wdbo0cludiq.pdf"
+      }
+    ]
+  },
+  {
+    "id": "T01-029",
+    "topic": "Göçlerin nedenleri",
+    "skill": "Bilgi ve sınıflandırma",
+    "stem": "Türk göçlerinin nedenleri arasında sayılan;\nI. boylar arası mücadele,\nII. komşu devletlerin baskısı,\nIII. kuraklık\netkenlerinden hangileri sırasıyla iç siyasi neden, dış siyasi neden ve doğal neden biçiminde doğru sınıflandırılmıştır?",
+    "options": [
+      "Yalnız I",
+      "I ve II",
+      "I ve III",
+      "II ve III",
+      "I, II ve III"
+    ],
+    "answer": "E",
+    "explanation": "Boylar arası mücadele topluluğun içindeki siyasi rekabeti, komşu devletlerin baskısı dış siyasi etkiyi, kuraklık ise doğal koşulları anlatır. Bu nedenle üç sınıflandırma da doğrudur. Kuraklığın ekonomiyi etkilemesi, onun doğal bir etken olma niteliğini değiştirmez.",
+    "sources": [
+      {
+        "title": "MEB – Ortaöğretim tarih materyali, kültür merkezleri ve göçler",
+        "url": "https://ogmmateryal.eba.gov.tr/panel/upload/pdf/wdbo0cludiq.pdf"
+      }
+    ]
+  },
+  {
+    "id": "T01-031",
+    "topic": "Göçlerin nedenleri",
+    "skill": "Yorum",
+    "stem": "Bir göç hareketinde ağır kış koşulları ve sürü kayıpları, başka bir harekette ise yeni yurtlar edinme isteği etkili olmuştur.\n\nBu iki örnek birlikte değerlendirildiğinde aşağıdakilerden hangisine ulaşılır?",
+    "options": [
+      "Göçlerin ekonomik etkisinin bulunmadığına",
+      "Göç yönlerinin aynı coğrafyaya yöneldiğine",
+      "Yeni yurt arayışının yalnız askerî yenilgiyle başladığına",
+      "Göçlerde zorlayıcı koşullarla yeni imkân arayışının etkili olabildiğine",
+      "Doğal etkenlerin siyasi sonuç doğurmadığına"
+    ],
+    "answer": "D",
+    "explanation": "İlk örnekte ağır kış ve sürü kaybı mevcut yurdu terk etmeye zorlar; ikinci örnekte yeni yurtların sunduğu imkânlar hareketi teşvik eder. Dolayısıyla göçlerde hem zorlayıcı koşullar hem yeni fırsat arayışı etkili olabilir. Örnekler bütün göçleri tek nedene bağlamayı desteklemez.",
+    "sources": [
+      {
+        "title": "MEB – Ortaöğretim tarih materyali, kültür merkezleri ve göçler",
+        "url": "https://ogmmateryal.eba.gov.tr/panel/upload/pdf/wdbo0cludiq.pdf"
+      }
+    ]
+  },
+  {
+    "id": "T01-032",
+    "topic": "Göçlerin nedenleri",
+    "skill": "Bilgi",
+    "stem": "Türk cihan hâkimiyeti düşüncesinin göçler ve yayılma hareketleriyle ilişkilendirilmesi, aşağıdakilerden hangisine vurgu yapar?",
+    "options": [
+      "İklim şartlarına uyum arayışına",
+      "Hayvan hastalıklarını önleme çabasına",
+      "Hâkimiyet alanını genişletme idealine",
+      "Sadece ticari pazar bulma isteğine",
+      "Üretim fazlasını depolama ihtiyacına"
+    ],
+    "answer": "C",
+    "explanation": "Cihan hâkimiyeti düşüncesi, siyasi egemenliği daha geniş alanlara yayma idealidir. Bu nedenle hâkimiyet alanını genişletme seçeneği doğrudur. Otlak veya pazar arayışı ekonomik ihtiyaçları açıklar; siyasi egemenlik idealinin doğrudan karşılığı değildir.",
+    "sources": []
+  },
+  {
+    "id": "T01-033",
+    "topic": "Göçlerin nedenleri",
+    "skill": "Bilgi ve yorum",
+    "stem": "Aşağıdaki durumlardan hangisi, Türk göçlerinde ekonomik zorunluluktan çok yeni yerleri tanıma ve yeni yurt edinme isteğini örneklendirir?",
+    "options": [
+      "Otlakları zarar gören bir topluluğun sürülerine alan araması",
+      "Komşu gücün saldırısıyla bir boyun bölgesini terk etmesi",
+      "Geçim sıkıntısı yaşamayan bir topluluğun elverişli yeni sahalar keşfetmek üzere hareket etmesi",
+      "Taht mücadelesinde yenilen grubun başka bölgeye çekilmesi",
+      "Ağır kış nedeniyle hayvanlarını kaybedenlerin göç etmesi"
+    ],
+    "answer": "C",
+    "explanation": "Geçim sıkıntısı bulunmadığı hâlde yeni sahalar keşfetmek üzere hareket edilmesi, yeni yurt arayışını öne çıkarır. Otlak kaybı ve ağır kış ekonomik zorlanmaya; saldırı ve taht mücadelesi siyasi baskıya işaret eder. Ayırt edici nokta, örnekte mevcut geçim koşullarının göçü zorunlu kılmamasıdır.",
+    "sources": []
+  },
+  {
+    "id": "T01-034",
+    "topic": "Göçlerin nedenleri",
+    "skill": "Bilgi",
+    "stem": "İlk Türk topluluklarının göç nedenleri arasında;\nI. nüfus artışı karşısında kaynakların yetersiz kalması,\nII. iklimin tarım ve hayvancılığı güçleştirmesi,\nIII. yeni Türk devletlerinin kurulması\nunsurlarından hangileri ekonomik neden kapsamında değerlendirilebilir?",
+    "options": [
+      "I ve II",
+      "Yalnız I",
+      "Yalnız III",
+      "II ve III",
+      "I, II ve III"
+    ],
+    "answer": "A",
+    "explanation": "Nüfus artışı karşısında kaynakların yetmemesi ve iklimin üretimi güçleştirmesi, geçim imkânlarını daraltır. Bu yüzden I ve II ekonomik nedenler kapsamında ele alınabilir. Yeni Türk devletlerinin kurulması ise burada göçü başlatan ekonomik koşul değil, göç sonrasında ortaya çıkabilen siyasi sonuçtur.",
+    "sources": [
+      {
+        "title": "MEB – Ortaöğretim tarih materyali, kültür merkezleri ve göçler",
+        "url": "https://ogmmateryal.eba.gov.tr/panel/upload/pdf/wdbo0cludiq.pdf"
+      }
+    ]
+  },
+  {
+    "id": "T01-035",
+    "topic": "Göçlerin nedenleri ve sonuçları",
+    "skill": "Bilgi",
+    "stem": "Aşağıdakilerden hangisi Türk göçlerinin nedenleri arasında değil, sonuçları arasında değerlendirilir?",
+    "options": [
+      "Boylar arasındaki hâkimiyet mücadeleleri",
+      "Türk kültürünün farklı coğrafyalara taşınması",
+      "Otlakların yetersiz kalması",
+      "Dış siyasi baskıların artması",
+      "Yeni yurtlar edinme isteği"
+    ],
+    "answer": "B",
+    "explanation": "Bir topluluğun dili, gelenekleri ve üretim alışkanlıkları göçle yeni bölgelere taşınır; bu kültürel bir sonuçtur. Boy mücadeleleri, otlak yetersizliği, dış baskı ve yeni yurt isteği ise hareketi başlatabilen etkenlerdir. Soruda göçten önceki itici nedenlerle göçün doğurduğu değişim ayrılmalıdır.",
+    "sources": [
+      {
+        "title": "MEB – Ortaöğretim tarih materyali, kültür merkezleri ve göçler",
+        "url": "https://ogmmateryal.eba.gov.tr/panel/upload/pdf/wdbo0cludiq.pdf"
+      }
+    ]
+  },
+  {
+    "id": "T01-036",
+    "topic": "Göçlerin sonuçları",
+    "skill": "Yorum",
+    "stem": "Göç eden topluluklar gittikleri bölgelere dil, gelenek ve üretim alışkanlıklarını taşımış; aynı zamanda karşılaştıkları toplumlardan etkilenmiştir.\n\nBu durum aşağıdakilerden hangisiyle en iyi açıklanır?",
+    "options": [
+      "Siyasi merkezîleşme",
+      "Coğrafi yalıtılmışlık",
+      "Ekonomik otarşi",
+      "Kültürel etkileşim",
+      "Veraset birliği"
+    ],
+    "answer": "D",
+    "explanation": "Topluluk hem kendi kültürünü taşımakta hem de yeni çevresinden etkilenmektedir. Bu karşılıklı değişim kültürel etkileşimdir. Coğrafi yalıtılmışlık temasın sınırlılığını, otarşi ise ekonomik bakımdan kendi kendine yeterli olmayı anlatır; parçanın vurgusunu karşılamaz.",
+    "sources": []
+  },
+  {
+    "id": "T01-037",
+    "topic": "Göçlerin sonuçları",
+    "skill": "Yorum",
+    "stem": "Göçlerden sonra bazı Türk topluluklarının farklı dinleri benimsemesi ve zamanla dillerinin değişmesi aşağıdakilerden hangisiyle daha doğrudan ilişkilendirilebilir?",
+    "options": [
+      "Bütün toplulukların aynı devlete bağlı kalmasıyla",
+      "Yeni çevrelerdeki toplumlarla uzun süreli etkileşim kurulmasıyla",
+      "Orta Asya'daki bütün otlakların ortadan kalkmasıyla",
+      "Göç yollarının yalnız kuzey yönünde uzanmasıyla",
+      "Hayvancılığın bütün bölgelerde sona ermesiyle"
+    ],
+    "answer": "B",
+    "explanation": "Yeni çevredeki topluluklarla uzun süre bir arada yaşamak dil ve din alanlarında değişime zemin hazırlayabilir. Bu yüzden doğrudan ilişki kültürel etkileşimdir. Bazı topluluklarda değişim görülmesi, göç eden her topluluğun dilini ve dinini değiştirdiği sonucunu doğurmaz.",
+    "sources": []
+  },
+  {
+    "id": "T01-039",
+    "topic": "Göçlerin sonuçları",
+    "skill": "Yorum",
+    "stem": "Türk tarihini inceleyen bir araştırmacı, aynı dönemde farklı bölgelerde yaşayan topluluklar için Çin, Bizans ve başka kaynak geleneklerinden birlikte yararlanmaktadır.\n\nBu araştırma ihtiyacının oluşmasında aşağıdakilerden hangisi daha etkilidir?",
+    "options": [
+      "Türk tarihinin bütün dönemlerinin yalnız sözlü kaynaklarla bilinmesi",
+      "Göçlerin kaynakların tamamını ortadan kaldırması",
+      "Türk topluluklarının geniş bir coğrafyaya yayılması",
+      "Devletlerin aynı dili kullanan tek bir kaynakta anlatılması",
+      "Bütün göçlerin tek bir siyasi merkezden yönetilmesi"
+    ],
+    "answer": "C",
+    "explanation": "Türk topluluklarının geniş bir coğrafyada farklı devlet ve toplumlarla ilişki kurması, onlara ilişkin kayıtların farklı kaynak geleneklerinde oluşmasına yol açmıştır. Araştırmacı bu kayıtları karşılaştırarak daha bütünlüklü bilgiye ulaşır. Bu çeşitlilik Türk tarihinin yalnız sözlü kaynaklardan bilindiği anlamına gelmez.",
+    "sources": []
+  },
+  {
+    "id": "T01-040",
+    "topic": "Göçlerin nedenleri ve sonuçları",
+    "skill": "Yorum",
+    "stem": "Bir boyun otlak yetersizliği nedeniyle başka bölgeye göç ettiği, burada farklı topluluklarla ilişki kurduğu ve zamanla yeni bir siyasi teşkilat oluşturduğu belirtilmektedir.\n\nBu anlatımda aşağıdaki ilişki dizilerinden hangisi vardır?",
+    "options": [
+      "Ekonomik neden — Kültürel temas — Siyasi sonuç",
+      "Dinî neden — Askerî teşkilat — Ekonomik sonuç",
+      "Siyasi neden — Hukuki birlik — Doğal sonuç",
+      "Kültürel neden — İklim değişimi — Dinî sonuç",
+      "Askerî neden — Nüfus azalması — Hukuki sonuç"
+    ],
+    "answer": "A",
+    "explanation": "Otlak yetersizliği hayvancılığı ve geçimi etkilediği için ekonomik nedendir. Farklı topluluklarla ilişki kurulması kültürel teması, yeni bir siyasi teşkilat oluşturulması siyasi sonucu gösterir. Olayların sırası neden–temas–sonuç ilişkisini kurmayı sağlar.",
+    "sources": []
+  },
+  {
+    "id": "T01-041",
+    "topic": "İskitler ve Sakalar",
+    "skill": "Bilgi",
+    "stem": "Pers kaynaklarında İskit toplulukları için kullanılan ad aşağıdakilerden hangisidir?",
+    "options": [
+      "Sabar",
+      "Saka",
+      "Avar",
+      "Ogur",
+      "Oğuz"
+    ],
+    "answer": "B",
+    "explanation": "Pers kaynaklarında İskit toplulukları için Saka adı kullanılır. Saka ve İskit adları farklı kaynak geleneklerindeki adlandırmalardır; modern araştırmalarda kapsadıkları coğrafya her zaman birebir aynı olmayabilir. Sabar, Avar, Ogur ve Oğuz başka topluluk adlarıdır.",
+    "sources": [
+      {
+        "title": "Encyclopaedia Iranica – Scythian Language",
+        "url": "https://www.iranicaonline.org/articles/scythian-language/"
+      }
+    ]
+  },
+  {
+    "id": "T01-043",
+    "topic": "İskitler ve destan geleneği",
+    "skill": "Bilgi",
+    "stem": "Türk destan geleneğindeki Alp Er Tunga, İran destan geleneğindeki hangi adla ilişkilendirilir?",
+    "options": [
+      "Rüstem",
+      "Zal",
+      "Cemşid",
+      "Feridun",
+      "Efrâsiyâb"
+    ],
+    "answer": "E",
+    "explanation": "Alp Er Tunga, İran destan geleneğinde Efrâsiyâb adıyla ilişkilendirilir. Şehnâme’deki İran-Turan mücadeleleri bu bağlantının önemli bağlamıdır. Rüstem ve diğer seçenekler aynı destan dünyasında karşılaşılabilecek adlardır; ancak sorulan kahramanın karşılığı değildir.",
+    "sources": [
+      {
+        "title": "TDV İslâm Ansiklopedisi – Efrâsiyâb",
+        "url": "https://islamansiklopedisi.org.tr/efrasiyab"
+      }
+    ]
+  },
+  {
+    "id": "T01-044",
+    "topic": "İskitler ve destan geleneği",
+    "skill": "Bilgi",
+    "stem": "İran-Turan mücadelelerinin ve Efrâsiyâb anlatılarının yer aldığı, Firdevsî'nin eseri aşağıdakilerden hangisidir?",
+    "options": [
+      "Şehnâme",
+      "Kutadgu Bilig",
+      "Dîvânu Lugâti't-Türk",
+      "Oğuz Kağan Destanı",
+      "Dede Korkut Hikâyeleri"
+    ],
+    "answer": "A",
+    "explanation": "Firdevsî’nin eseri Şehnâme’dir; İran-Turan mücadeleleri ve Efrâsiyâb anlatıları eserde yer alır. Kutadgu Bilig Yusuf Has Hacib’e, Dîvânu Lugâti’t-Türk Kaşgarlı Mahmud’a aittir. Eserin konusu kadar yazarının da bilinmesi seçenekleri ayırmayı sağlar.",
+    "sources": [
+      {
+        "title": "TDV İslâm Ansiklopedisi – Efrâsiyâb",
+        "url": "https://islamansiklopedisi.org.tr/efrasiyab"
+      }
+    ]
+  },
+  {
+    "id": "T01-046",
+    "topic": "İskitler ve kadınların konumu",
+    "skill": "Bilgi",
+    "stem": "İskitlerin başında yer aldığı anlatılan ve Pers hükümdarı Kyros'la mücadelesiyle tanınan kadın hükümdar aşağıdakilerden hangisidir?",
+    "options": [
+      "İlbilge Hatun",
+      "Terken Hatun",
+      "Süyümbike",
+      "Tomris",
+      "Börte"
+    ],
+    "answer": "D",
+    "explanation": "Cevap Tomris’tir. Herodotos’un anlatısında Pers hükümdarı Kyros’a karşı mücadele eden Tomris, geniş İskit-Saka dünyasıyla ilişkilendirilen Massagetlerin hükümdarıdır. Bu ilişki Tomris’in bütün İskit topluluklarını yönettiği anlamına gelmez.",
+    "sources": [
+      {
+        "title": "Encyclopaedia Iranica – Massagetae",
+        "url": "https://www.iranicaonline.org/articles/massagetae-2/"
+      }
+    ]
+  },
+  {
+    "id": "T01-047",
+    "topic": "İskitler ve kadınların konumu",
+    "skill": "Yorum",
+    "stem": "Avrasya bozkırlarında bazı kadın mezarlarında silahların ve savaş yarası izlerinin tespit edilmesi, aşağıdaki yargılardan hangisini daha doğrudan destekler?",
+    "options": [
+      "Bölgede bütün devletlerin kadınlarca yönetildiğini",
+      "Bazı kadınların savaş faaliyetlerine katılmış olabileceğini",
+      "Kadınlarla erkeklerin bütün hukuki haklarının aynı olduğunu",
+      "Savaşçılığın yalnız kadınlara özgü bir meslek olduğunu",
+      "Bütün kadınların aynı askerî eğitimi aldığını"
+    ],
+    "answer": "B",
+    "explanation": "Silahların savaş yarası izleriyle birlikte bulunması, bazı kadınların savaş faaliyetlerine katılmış olabileceğini destekler. Ancak bu kanıt bütün kadınların asker olduğunu veya kadınlarla erkeklerin tüm hukuki haklarının eşit bulunduğunu göstermez. Çıkarımın kapsamı buluntuların gösterebildiği ölçüde tutulmalıdır.",
+    "sources": [
+      {
+        "title": "Encyclopaedia Iranica – Amazons in the Iranian World",
+        "url": "https://www.iranicaonline.org/articles/amazons/amazons-ii/"
+      }
+    ]
+  },
+  {
+    "id": "T01-049",
+    "topic": "İskit sanatı",
+    "skill": "Bilgi",
+    "stem": "İskit sanatında geyik, yırtıcı kuş ve hayvan mücadelelerinin süs eşyalarında işlenmesi hangi kavramla karşılanır?",
+    "options": [
+      "Bitkisel bezeme",
+      "Geometrik üslup",
+      "Portre geleneği",
+      "Hayvan üslubu",
+      "Yazı bezemesi"
+    ],
+    "answer": "D",
+    "explanation": "Hayvanların ve hayvan mücadelelerinin bezemede öne çıkması hayvan üslubudur. Bitkisel bezemede bitki biçimleri, geometrik üslupta çizgi ve şekil düzenleri ayırt edicidir. Eserin metalden yapılması üretim tekniğini, üzerindeki hayvan tasvirleri ise sanatın konusunu gösterir.",
+    "sources": [
+      {
+        "title": "Encyclopaedia Iranica – Scythians",
+        "url": "https://www.iranicaonline.org/articles/scythians/"
+      }
+    ]
+  },
+  {
+    "id": "T01-050",
+    "topic": "İskit sanatı",
+    "skill": "Bilgi ve ilişkilendirme",
+    "stem": "İskitler için kullanılan 'bozkırın kuyumcuları' nitelemesi aşağıdaki alanlardan hangisindeki becerileriyle daha doğrudan ilişkilidir?",
+    "options": [
+      "Ahşap yapıların inşası",
+      "Sulama kanallarının açılması",
+      "Altın ve diğer metallerin işlenmesi",
+      "Seramik üzerindeki yazıların çoğaltılması",
+      "Taş duvarlı şehirlerin kurulması"
+    ],
+    "answer": "C",
+    "explanation": "Bozkırın kuyumcuları nitelemesi, İskitlerin özellikle altın ve diğer metaller üzerindeki ince işçiliğine dayanır. Kuyumculuk, madenin süs eşyası gibi ürünlere dönüştürülmesinde teknik ve estetik beceri gerektirir. Sulama veya yapı inşası farklı faaliyetlerdir; bu nitelemeyi açıklamaz.",
+    "sources": [
+      {
+        "title": "International Journal of Social Sciences – İskit giyimi ve altın işlemeciliği",
+        "url": "https://dergipark.org.tr/en/download/article-file/1139872"
+      }
+    ]
+  },
+  {
+    "id": "T01-051",
+    "topic": "İskitler ve askerî yaşam",
+    "skill": "Bilgi ve yorum",
+    "stem": "İskitlerin atı savaşta etkin biçimde kullanmaları, askerî güçlerine öncelikle hangi özelliği kazandırmıştır?",
+    "options": [
+      "Kuşatma surları inşa etme yeteneğini",
+      "Deniz aşırı harekât kapasitesini",
+      "Ağır piyade düzeninde hareket etme zorunluluğunu",
+      "Kalıcı garnizonlara bağımlılığı",
+      "Hızlı hareket ve manevra imkânını"
+    ],
+    "answer": "E",
+    "explanation": "Atlı birlikler hızlı yer değiştirebilir, ani hücum ve geri çekilme yapabilir. Bu nedenle atın savaşta etkin kullanımı öncelikle hareket ve manevra kabiliyetini artırır. Sur inşası veya deniz aşırı harekât ise farklı araçlar ve örgütlenme gerektirir.",
+    "sources": [
+      {
+        "title": "Encyclopaedia Iranica – Scythians",
+        "url": "https://www.iranicaonline.org/articles/scythians/"
+      }
+    ]
+  },
+  {
+    "id": "T01-052",
+    "topic": "İskitler ve günlük yaşam",
+    "skill": "Bilgi ve yorum",
+    "stem": "İskit giyiminde pantolon gibi biniciliğe uygun kıyafetlerin kullanılması aşağıdaki ilişkilerden hangisini örneklendirir?",
+    "options": [
+      "Siyasi sınırlar ile veraset kuralları arasındaki ilişkiyi",
+      "Günlük yaşam ve askerî ihtiyaçlar ile giyim arasındaki ilişkiyi",
+      "Ticaret yolları ile yazı sistemi arasındaki ilişkiyi",
+      "Dinî törenler ile takvim arasındaki ilişkiyi",
+      "Maden yatakları ile devlet adları arasındaki ilişkiyi"
+    ],
+    "answer": "B",
+    "explanation": "Biniciliğe uygun giyim, at üzerinde hareket etmeyi ve gündelik ihtiyaçları karşılamayı kolaylaştırır. Pantolon kullanımı bu nedenle yaşam biçimi ve askerî ihtiyaçlarla giyim arasındaki ilişkiyi örneklendirir. Veraset, yazı sistemi veya devlet adı hakkında doğrudan bilgi vermez.",
+    "sources": [
+      {
+        "title": "Encyclopaedia Iranica – Clothing of the Iranian tribes on the Pontic steppes",
+        "url": "https://www.iranicaonline.org/articles/clothing-vii/"
+      },
+      {
+        "title": "International Journal of Social Sciences – İskit giyimi ve altın işlemeciliği",
+        "url": "https://dergipark.org.tr/en/download/article-file/1139872"
+      }
+    ]
+  },
+  {
+    "id": "T01-053",
+    "topic": "İskit sanatı",
+    "skill": "Yorum",
+    "stem": "Bir İskit buluntusunda hem ince altın işçiliği hem de hayvan mücadelelerini gösteren tasvirler bulunmaktadır.\n\nBu buluntu aşağıdaki alanlardan hangileri hakkında birlikte bilgi verir?",
+    "options": [
+      "Veraset sistemi ve ticaret hukuku",
+      "Din adamlarının yetkileri ve ordu sayısı",
+      "Siyasi sınırlar ve nüfus miktarı",
+      "Maden işleme becerisi ve sanat üslubu",
+      "Tarım takvimi ve devlet teşkilatı"
+    ],
+    "answer": "D",
+    "explanation": "İnce altın işçiliği madenin işlenmesindeki teknik beceriyi, hayvan mücadeleleri ise sanat üslubunu gösterir. Böylece aynı buluntudan hem üretim tekniği hem de bezemenin konusu hakkında bilgi edinilir. Devletin nüfusu, sınırları veya veraset düzeni için bu eser tek başına yeterli değildir.",
+    "sources": [
+      {
+        "title": "Encyclopaedia Iranica – Scythians",
+        "url": "https://www.iranicaonline.org/articles/scythians/"
+      },
+      {
+        "title": "International Journal of Social Sciences – İskit giyimi ve altın işlemeciliği",
+        "url": "https://dergipark.org.tr/en/download/article-file/1139872"
+      }
+    ]
+  },
+  {
+    "id": "T01-056",
+    "topic": "Türk adının anlamları",
+    "skill": "Bilgi ve bağlam",
+    "stem": "Türk adının İran ve klasik şiir geleneğindeki bazı kullanımlarında 'güzel' ve 'sevgili' anlamları kazanması, aşağıdaki bağlamlardan hangisiyle ilgilidir?",
+    "options": [
+      "Devlete bağlı halkın hukuki statüsüyle",
+      "Miğfere benzetilen bir dağın biçimiyle",
+      "Kelimenin edebî tasvirlerde kazandığı anlamla",
+      "Bir devletin kuruluş belgesindeki unvanla",
+      "Ordu birliklerinin sayı düzeniyle"
+    ],
+    "answer": "C",
+    "explanation": "Burada kelimenin şiir içindeki mecaz ve tasvir anlamı sorulmaktadır. Güzel veya sevgili anlamında kullanılması edebî bağlamla ilgilidir; siyasi bağlılık ya da bir devletin adıyla aynı anlam düzlemi değildir. Bir sözcüğün edebî kullanımı, tarihî kökenini tek başına açıklamaz.",
+    "sources": [
+      {
+        "title": "Klasik Şiirde Türk Güzeli – araştırma makalesi",
+        "url": "https://dergipark.org.tr/tr/download/article-file/621044"
+      }
+    ]
+  },
+  {
+    "id": "T01-057",
+    "topic": "Orta Asya kültür merkezleri",
+    "skill": "Bilgi ve yorum",
+    "stem": "Kelteminar kültüründe yerleşik yaşamın izlerine rastlanırken geçim faaliyetleri arasında avcılık ve balıkçılık da bulunmaktadır.\n\nBu iki bilgi birlikte değerlendirildiğinde aşağıdakilerden hangisine ulaşılır?",
+    "options": [
+      "Yerleşik yaşamın yalnız tarımsal üretimle birlikte düşünülmemesi gerektiğine",
+      "Balıkçılık yapılan her yerde şehir devleti kurulduğuna",
+      "Avcılığın yerleşik yaşamla birlikte sona erdiğine",
+      "Tarımla uğraşan topluluklarda hayvancılığın görülmediğine",
+      "Kültürlerin adlarını temel geçim faaliyetlerinden aldığına"
+    ],
+    "answer": "A",
+    "explanation": "Yerleşik yaşam nerede ve nasıl ikamet edildiğini, avcılık ve balıkçılık ise geçimin nasıl sağlandığını anlatır. Kelteminar örneği, yerleşik yaşamın yalnız tarımla birlikte düşünülmemesi gerektiğini gösterir. Yerleşmek avcılığın sona erdiğini veya şehir devleti kurulduğunu tek başına kanıtlamaz.",
+    "sources": [
+      {
+        "title": "MEB – Türk Kültür Ocağı, kültür bölgeleri ve ekonomik faaliyetler",
+        "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/beceri_temelli/11/cografya/files/basic-html/page93.html"
+      },
+      {
+        "title": "MEB – Dünya Kültürlerine Giriş, Kelteminar",
+        "url": "https://kitap.eba.gov.tr/panel/dosyalar/upload/2910/0/U_0_15_12_2022_20_32_53_878.pdf"
+      }
+    ]
+  },
+  {
+    "id": "T01-058",
+    "topic": "Göçlerin nedenleri",
+    "skill": "Bilgi ve neden-sonuç",
+    "stem": "Hayvancılıkla geçinen bir boyda hayvan hastalıkları nedeniyle sürüler küçülmüş ve topluluk başka bölgelere yönelmiştir.\n\nBu göçün temel nedeni aşağıdakilerden hangisidir?",
+    "options": [
+      "Siyasi hâkimiyet alanını genişletme isteği",
+      "Boylar arası yönetim anlaşmazlığı",
+      "Yeni dinlerin etkisiyle yaşam alanı arayışı",
+      "Geçim imkânlarının daralması",
+      "Ticari pazarların ele geçirilmesi"
+    ],
+    "answer": "D",
+    "explanation": "Sürülerin hastalık nedeniyle küçülmesi, hayvancılıktan sağlanan besin ve gelir kaynaklarını azaltır. Göç bu örnekte geçim imkânlarının daralmasına verilen bir tepkidir. Kökte boylar arası mücadele veya hâkimiyet kurma hedefi bulunmadığından siyasi neden seçenekleri elenir.",
+    "sources": []
+  },
+  {
+    "id": "T01-059",
+    "topic": "İnanç ve anma gelenekleri",
+    "skill": "Bilgi",
+    "stem": "Göktürk anma alanlarında, insan biçimindeki heykelden ayrı olarak doğuya doğru bir sıra hâlinde uzanan dikili taşlar için kullanılan terim aşağıdakilerden hangisidir?",
+    "options": [
+      "Kurgan",
+      "Tamga",
+      "Balbal",
+      "Bark",
+      "Yuğ"
+    ],
+    "answer": "C",
+    "explanation": "Anma alanından doğuya uzanan taş sırasındaki dikili taşlara balbal denir. İnsan biçimindeki heykel ile balbal taş dizisi ayrı unsurlardır. Kurgan mezar yapısını, yuğ cenaze törenini, tamga ise ayırt edici işareti ifade eder; bunlar aynı nesnenin adları değildir.",
+    "sources": [
+      {
+        "title": "Cihannüma – Eski Türklerin balbal terimi üzerine açıklamalar",
+        "url": "https://dergipark.org.tr/tr/pub/cihannuma/article/441630"
+      }
+    ]
+  },
+  {
+    "id": "T01-060",
+    "topic": "Askerî kültür ve etkileşim",
+    "skill": "Bilgi",
+    "stem": "Üzengi teknolojisinin Avrupa'ya yayılması, tarih araştırmalarında aşağıdaki topluluklardan hangisiyle özellikle ilişkilendirilir?",
+    "options": [
+      "Peçenekler",
+      "Avarlar",
+      "Kıpçaklar",
+      "Avrupa Hunları",
+      "Macarlar"
+    ],
+    "answer": "B",
+    "explanation": "Üzenginin Avrupa’da yayılmasında Avarların rolü öne çıkar. Üzengi, binicinin at üzerinde daha dengeli durmasına yardımcı olan bir araçtır. Bir teknolojinin Avrupa’ya aktarılması ile dünyanın herhangi bir yerindeki ilk kullanımı farklı tarihsel sorulardır; burada aktarım sorulmaktadır.",
+    "sources": [
+      {
+        "title": "Kocaeli Üniversitesi – Üzengi Teknolojisinin Gelişimi ve Avrupa'ya İntikali",
+        "url": "https://avesis.kocaeli.edu.tr/yayin/f153785d-9bc2-4a15-88b7-7e1bb451bbaa/tarih-oncesinden-orta-caga-atlar-equi-per-saecula-currunt"
+      }
+    ]
+  },
+  {
+    "id": "T01-061",
+    "topic": "İskitler ve kadınların konumu",
+    "skill": "Bilgi",
+    "stem": "Antik Yunan anlatılarındaki Amazonlarla ilişkilendirilen kadın savaşçılar, aşağıdaki topluluklardan hangisinin kültür çevresinde görülmüştür?",
+    "options": [
+      "Asya Hunları",
+      "Göktürkler",
+      "Uygurlar",
+      "İskitler (Sakalar)",
+      "Karluklar"
+    ],
+    "answer": "D",
+    "explanation": "Amazon anlatıları, İskit-Saka ve yakın Avrasya bozkır çevrelerindeki savaşçı kadınlarla ilişkilendirilir. Bazı kadın mezarlarındaki silahlar ve savaş izleri bu ilişkiyi destekleyen buluntulardandır. Efsanevi anlatının bütün ayrıntılarının arkeolojiyle doğrulandığı sonucu ise çıkarılamaz.",
+    "sources": [
+      {
+        "title": "Encyclopaedia Iranica – Amazons in the Iranian World",
+        "url": "https://www.iranicaonline.org/articles/amazons/amazons-ii/"
+      }
+    ]
+  },
+  {
+    "id": "T01-062",
+    "topic": "İskitler ve Sakalar",
+    "skill": "Bilgi",
+    "stem": "Pers kaynaklarında Saka adıyla anılan, atlı yaşam biçimi ve hayvan tasvirli altın eserleriyle tanınan topluluk aşağıdakilerden hangisidir?",
+    "options": [
+      "Asya Hunları",
+      "Göktürkler",
+      "İskitler (Sakalar)",
+      "Uygurlar",
+      "Avarlar"
+    ],
+    "answer": "C",
+    "explanation": "Perslerde Saka adıyla anılan, altın işçiliği ve hayvan üslubuyla tanınan topluluk İskitlerdir. Adlandırma, sanat ve geçim biçimi birlikte değerlendirilmelidir. Atlı yaşam başka bozkır topluluklarında da görülebildiğinden tek başına ayırt edici değildir.",
+    "sources": [
+      {
+        "title": "Encyclopaedia Iranica – Scythians",
+        "url": "https://www.iranicaonline.org/articles/scythians/"
+      },
+      {
+        "title": "Encyclopaedia Iranica – Scythian Language",
+        "url": "https://www.iranicaonline.org/articles/scythian-language/"
+      }
+    ]
+  },
+  {
+    "id": "T01-063",
+    "topic": "İnanç ve anma gelenekleri",
+    "skill": "Bilgi",
+    "stem": "Herodotos’un aktardığına göre Pers hükümdarı I. Darius’un seferinde, doğrudan savaşa girmek yerine geri çekilerek Pers ordusunu yıpratan bozkır topluluğu aşağıdakilerden hangisidir?",
+    "options": [
+      "Göktürkler",
+      "İskitler (Sakalar)",
+      "Asya Hunları",
+      "Avarlar",
+      "Uygurlar"
+    ],
+    "answer": "B",
+    "explanation": "Cevap İskitlerdir. Herodotos’un aktardığı mücadelede İskitler, I. Darius’un ordusuyla doğrudan çarpışmaktan kaçınıp geri çekilerek Persleri yıpratmıştır. Hareketli bozkır yaşamı bu stratejiyi kolaylaştırır; savaştan kaçınmak her durumda teslim olmak anlamına gelmez.",
+    "sources": [
+      {
+        "title": "Encyclopaedia Iranica – Black Sea: Darius ve İskitler",
+        "url": "https://www.iranicaonline.org/articles/black-sea/"
+      }
+    ]
+  },
+  {
+    "id": "HUN-001",
+    "topic": "Asya Hun Devleti",
+    "skill": "Bilgi",
+    "stem": "Tarihte bilinen ilk Türk devleti aşağıdakilerden hangisidir?",
+    "options": [
+      "Avrupa Hun Devleti",
+      "I. Göktürk Devleti",
+      "Asya Hun Devleti",
+      "Uygur Devleti",
+      "Avar Devleti"
+    ],
+    "answer": "C",
+    "explanation": "Asya Hun Devleti, Türk siyasi tarihinin bilinen ilk devleti olarak kabul edilir. Türk adını devlet adı olarak kullanan ilk devlet ise Göktürk Devleti’dir. Kökte kuruluş bakımından öncelik sorulduğu için Türk adını kullanma özelliğiyle seçim yapılmamalıdır.",
+    "sources": [
+      {
+        "title": "MEB – Defterim Tarih 9, Asya Hun Devleti",
+        "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/defterim/9/tarih/files/basic-html/page119.html"
+      },
+      {
+        "title": "MEB – Tarih 9, Asya Hun Devleti ve Çi-çi",
+        "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/tarih/9/unite4/files/basic-html/page16.html"
+      }
+    ]
+  },
+  {
+    "id": "HUN-002",
+    "topic": "Asya Hun Devleti",
+    "skill": "Bilgi",
+    "stem": "Asya Hun Devleti’nin kurucusu olarak kabul edilen hükümdar ve devletin merkezi aşağıdakilerin hangisinde birlikte doğru verilmiştir?",
+    "options": [
+      "Teoman — Ötüken",
+      "Mete Han — Ötüken",
+      "Teoman — Karabalgasun",
+      "Bumin Kağan — Ötüken",
+      "Mete Han — Karakurum"
+    ],
+    "answer": "A",
+    "explanation": "Doğru eşleştirme Teoman–Ötüken’dir. Teoman, Asya Hunlarının bilinen ilk hükümdarı ve kurucusu olarak kabul edilir; Mete Han ondan sonra tahta çıkmıştır. Bumin Göktürklerin kuruluşuyla, Karabalgasun Uygurlarla ilişkilidir; bu adların aynı seçeneklerde bulunması eşleştirmeyi doğru yapmayı gerektirir.",
+    "sources": [
+      {
+        "title": "MEB – Defterim Tarih 9, Asya Hun Devleti",
+        "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/defterim/9/tarih/files/basic-html/page119.html"
+      },
+      {
+        "title": "MEB – Tarih 9, Asya Hun Devleti ve Çi-çi",
+        "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/tarih/9/unite4/files/basic-html/page16.html"
+      }
+    ]
+  },
+  {
+    "id": "HUN-003",
+    "topic": "Asya Hun Devleti",
+    "skill": "Bilgi",
+    "stem": "“Toprak Ana” olarak da anılan bölge aşağıdakilerden hangisidir?",
+    "options": [
+      "Talas",
+      "Turfan",
+      "Balasagun",
+      "Semerkant",
+      "Ötüken"
+    ],
+    "answer": "E",
+    "explanation": "Toprak Ana nitelemesiyle anılan bölge Ötüken’dir. Ötüken, eski Türk siyasi geleneğinde yönetim merkezi ve yurt anlayışı bakımından önem taşır. Talas, Turfan, Balasagun ve Semerkant da tarihî merkezlerdir; fakat burada sorulan nitelemenin karşılığı değildir.",
+    "sources": [
+      {
+        "title": "MEB – Nergiz, Ötüken için Toprak Ana nitelemesi",
+        "url": "https://izmir.meb.gov.tr/dosya/karsiyaka/files/basic-html/page22.html"
+      },
+      {
+        "title": "Adem Aydemir – Ötüken ve Ötüken Adı Üzerine",
+        "url": "https://turkoloji.cu.edu.tr/ESKI%20TURK%20DILI/adem_aydemir_otuken_adi_uzerine.pdf"
+      }
+    ]
+  },
+  {
+    "id": "HUN-004",
+    "topic": "Asya Hun Devleti",
+    "skill": "Bilgi",
+    "stem": "Ülke toprağını devletin temeli sayarak komşularının toprak talebini reddetmesiyle tanınan Türk hükümdarı aşağıdakilerden hangisidir?",
+    "options": [
+      "Teoman",
+      "Mete Han",
+      "Çiçi",
+      "Balamir",
+      "Attila"
+    ],
+    "answer": "B",
+    "explanation": "Cevap Mete Han’dır. Komşularının toprak isteğine karşı ülke toprağının devletin temeli olduğunu savunması, vatanın korunmasına verdiği önemi gösterir. Ayırt edici nokta toprağın verimli olması değil, siyasi varlığın bir parçası sayılmasıdır.",
+    "sources": [
+      {
+        "title": "MEB – Vatan sevgisi: Mete Han’a atfedilen sözler",
+        "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/fenlisesikimya/9/unite1/files/basic-html/page13.html"
+      }
+    ]
+  },
+  {
+    "id": "HUN-005",
+    "topic": "Asya Hun Devleti",
+    "skill": "Bilgi",
+    "stem": "Orta Asya’da Türk boylarını ilk kez tek bir siyasi yönetim altında birleştirdiği kabul edilen devlet aşağıdakilerden hangisidir?",
+    "options": [
+      "Uygur Devleti",
+      "II. Göktürk Devleti",
+      "Avrupa Hun Devleti",
+      "Asya Hun Devleti",
+      "I. Göktürk Devleti"
+    ],
+    "answer": "D",
+    "explanation": "Türk boylarını Orta Asya’da ilk kez tek siyasi yönetim altında toplama başarısı Mete Han dönemindeki Asya Hunlarıyla ilişkilidir. Siyasi birlik, farklı boyların ortak bir otoriteye bağlanmasıdır. Göktürk ve Uygur devletlerinin daha sonraki dönemlerde birlik kurması bu tarihsel önceliği değiştirmez.",
+    "sources": [
+      {
+        "title": "MEB – Asya Hunlarında siyasi birlik ve ordu teşkilatı",
+        "url": "https://ogmmateryal.eba.gov.tr/panel/panel/CozumluSoruOnizle.aspx?alistirmaId=58780"
+      }
+    ]
+  },
+  {
+    "id": "HUN-006",
+    "topic": "Asya Hun Devleti",
+    "skill": "Bilgi",
+    "stem": "“İstiklali feda etmeyi utanç ve gülünç bulurum.” sözü kendisine atfedilen Asya Hun hükümdarı aşağıdakilerden hangisidir?",
+    "options": [
+      "Mete Han",
+      "Teoman",
+      "Çiçi",
+      "Ki-ok",
+      "Hohanyeh"
+    ],
+    "answer": "C",
+    "explanation": "Söz Çiçi’ye atfedilir. Çin’e bağlılığı kabul eden Hohanyeh’in tutumuna karşı Çiçi bağımsızlığı savunmuştur. İstiklal kavramı, bir siyasi topluluğun başka bir devletin üstün otoritesi altında olmadan karar verebilmesini anlatır.",
+    "sources": [
+      {
+        "title": "MEB – Tarih 9, Asya Hun Devleti ve Çi-çi",
+        "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/tarih/9/unite4/files/basic-html/page16.html"
+      }
+    ]
+  },
+  {
+    "id": "HUN-007",
+    "topic": "Asya Hun Devleti",
+    "skill": "Yorum",
+    "stem": "Çiçi’nin, Çin’in koruyuculuğunu kabul ederek varlığını sürdürme önerisine karşı çıkması aşağıdaki anlayışlardan hangisine öncelik verdiğini gösterir?",
+    "options": [
+      "Siyasi bağımsızlığı koruma",
+      "Hanedan üyelerinin ayrı devletler kurması",
+      "Ticari ayrıcalıklar elde etme",
+      "Yerleşik üretimi yaygınlaştırma",
+      "Komşu ülkenin idari teşkilatını benimseme"
+    ],
+    "answer": "A",
+    "explanation": "Çiçi’nin karşı çıktığı husus, Hunların Çin’in koruyuculuğuna girerek bağımsız karar alma yetkisini kaybetmesidir. Bu nedenle öncelik siyasi bağımsızlığı korumaktır. Ticari ayrıcalık veya üretim biçimi değişikliği, verilen tutumun doğrudan konusu değildir.",
+    "sources": [
+      {
+        "title": "MEB – Tarih 9, Asya Hun Devleti ve Çi-çi",
+        "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/tarih/9/unite4/files/basic-html/page16.html"
+      }
+    ]
+  },
+  {
+    "id": "HUN-008",
+    "topic": "Asya Hun Devleti",
+    "skill": "Yorum",
+    "stem": "Mete Han’a ilişkin anlatıda, komşu topluluğun istediği verimsiz sınır toprağının verilmesi reddedilir; toprağın hükümdarın kişisel tasarrufundaki bir mal olmadığı vurgulanır.\n\nBu tutum aşağıdakilerden hangisini en doğrudan gösterir?",
+    "options": [
+      "Toprak değerinin tarımsal verimle belirlendiğini",
+      "Sınırların yalnız ticaret gelirine göre çizildiğini",
+      "Hükümdarın her toprağı istediği kişiye bırakabildiğini",
+      "Komşu topluluklarla bütün ilişkilerin kesildiğini",
+      "Ülke toprağının ortak siyasi varlığın temeli sayıldığını"
+    ],
+    "answer": "E",
+    "explanation": "Verimsiz sınır toprağının da korunması, ülke toprağının yalnız ekonomik kazançla değerlendirilmediğini gösterir. Hükümdarın kişisel malından farklı olarak toprak, ortak siyasi varlığın temelidir. Bu tutum komşularla bütün ilişkilerin kesildiği anlamına gelmez; belirli bir toprak talebine karşı çıkılmaktadır.",
+    "sources": [
+      {
+        "title": "MEB – Vatan sevgisi: Mete Han’a atfedilen sözler",
+        "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/fenlisesikimya/9/unite1/files/basic-html/page13.html"
+      }
+    ]
+  },
+  {
+    "id": "HUN-009",
+    "topic": "Asya Hun Devleti",
+    "skill": "Bilgi",
+    "stem": "Türk ordusunda onlu teşkilatın kurulması aşağıdaki hükümdarlardan hangisiyle ilişkilendirilir?",
+    "options": [
+      "Bumin Kağan",
+      "Mete Han",
+      "Teoman",
+      "Bilge Kağan",
+      "Attila"
+    ],
+    "answer": "B",
+    "explanation": "Onlu askerî teşkilat Mete Han’la ilişkilendirilir. Ordunun on, yüz, bin ve on bin gibi kademeli birliklere ayrılması komuta düzenini ve birliklerin birlikte hareket etmesini kolaylaştırır. Soruda devletin kurucusu değil, bu askerî örgütlenmeyle anılan hükümdar sorulduğundan Teoman seçilmemelidir.",
+    "sources": [
+      {
+        "title": "MEB – Asya Hunlarında siyasi birlik ve ordu teşkilatı",
+        "url": "https://ogmmateryal.eba.gov.tr/panel/panel/CozumluSoruOnizle.aspx?alistirmaId=58780"
+      }
+    ]
+  },
+  {
+    "id": "HUN-010",
+    "topic": "Asya Hun Devleti",
+    "skill": "Bilgi ve sınıflandırma",
+    "stem": "Hun topluluklarının batıya yönelmesinde etkili olan aşağıdaki unsurlardan hangisi dış siyasi baskı kapsamında değerlendirilir?",
+    "options": [
+      "Otlakların daralması",
+      "Nüfusun artması",
+      "Kuraklık yaşanması",
+      "Çin’in baskısı",
+      "Hayvan hastalıklarının yayılması"
+    ],
+    "answer": "D",
+    "explanation": "Çin’in baskısı başka bir siyasi güçten geldiği için dış siyasi etkendir. Nüfus artışı demografik, kuraklık doğal; otlak daralması ve hayvan hastalıkları geçimle ilgili unsurlardır. Bunlar birlikte etkili olabilse de kök özellikle dış siyasi baskıyı ayırt etmeyi istemektedir.",
+    "sources": [
+      {
+        "title": "MEB – Orta Çağ: göçün nedenleri ve feodalite",
+        "url": "https://ogmmateryal.eba.gov.tr/panel/panel/CozumluSoruOnizle.aspx?alistirmaId=29362"
+      }
+    ]
+  },
+  {
+    "id": "KG-001",
+    "topic": "Kavimler Göçü",
+    "skill": "Bilgi",
+    "stem": "IV. yüzyılda Hunların batıya ilerleyerek Kavimler Göçü’nü başlatması aşağıdaki liderlerden hangisiyle ilişkilendirilir?",
+    "options": [
+      "Uldız",
+      "Attila",
+      "Mete Han",
+      "Balamir",
+      "Çiçi"
+    ],
+    "answer": "D",
+    "explanation": "IV. yüzyılda batıya yönelen Hun hareketi Balamir’le ilişkilendirilir. Bu hareketin diğer toplulukları yer değiştirmeye zorlaması Kavimler Göçü’nün başlangıcında etkili olmuştur. Mete Han ve Çiçi daha eski Asya Hun tarihiyle; Attila ise Avrupa Hunlarının daha sonraki dönemiyle ilişkilidir.",
+    "sources": [
+      {
+        "title": "MEB – Defterim Tarih 9, Kavimler Göçü ve Avrupa Hunları",
+        "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/defterim/9/tarih/files/basic-html/page120.html"
+      },
+      {
+        "title": "MEB – Kavimler Göçü Ne Getirdi?",
+        "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/elazig-telafi/tarih/files/basic-html/page19.html"
+      }
+    ]
+  },
+  {
+    "id": "KG-002",
+    "topic": "Kavimler Göçü",
+    "skill": "Bilgi",
+    "stem": "Hunların batıya ilerleyişiyle bazı toplulukların yer değiştirmesi ve bu hareketin Roma sınırlarına doğru zincirleme yayılması hangi olayın başlangıcını açıklar?",
+    "options": [
+      "Kavimler Göçü",
+      "Haçlı Seferleri",
+      "Moğol İstilası",
+      "Coğrafi Keşifler",
+      "Otuz Yıl Savaşları"
+    ],
+    "answer": "A",
+    "explanation": "Hunların ilerleyişiyle başlayan ve farklı toplulukların birbirini yerinden etmesiyle genişleyen hareket Kavimler Göçü’dür. Etkisi yalnız ilk hareket eden toplulukla sınırlı kalmamış, Roma sınırlarına kadar ulaşmıştır. Diğer seçenekler farklı dönemlere ve tarihsel süreçlere aittir.",
+    "sources": [
+      {
+        "title": "MEB – Defterim Tarih 9, Kavimler Göçü ve Avrupa Hunları",
+        "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/defterim/9/tarih/files/basic-html/page120.html"
+      }
+    ]
+  },
+  {
+    "id": "KG-003",
+    "topic": "Kavimler Göçü",
+    "skill": "Bilgi",
+    "stem": "375 yılında başlayan ve İlk Çağ’ın sonu, Orta Çağ’ın başlangıcı kabul edilen olay aşağıdakilerden hangisidir?",
+    "options": [
+      "Roma İmparatorluğu’nun ikiye ayrılması",
+      "Batı Roma İmparatorluğu’nun yıkılması",
+      "Kavimler Göçü",
+      "İstanbul’un fethi",
+      "İslamiyet’in doğuşu"
+    ],
+    "answer": "C",
+    "explanation": "375 tarihiyle belirtilen olay Kavimler Göçü’dür ve bu dönemlendirmede İlk Çağ’dan Orta Çağ’a geçişi simgeler. Roma’nın ikiye ayrılması 395, Batı Roma’nın yıkılması 476’dır. 476 da başka dönemlendirmelerde başlangıç kabul edilebildiği için kökte verilen tarih ayırt edicidir.",
+    "sources": [
+      {
+        "title": "MEB – Defterim Tarih 9, Kavimler Göçü ve Avrupa Hunları",
+        "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/defterim/9/tarih/files/basic-html/page120.html"
+      }
+    ]
+  },
+  {
+    "id": "KG-004",
+    "topic": "Kavimler Göçü",
+    "skill": "Bilgi",
+    "stem": "Kavimler Göçü’nün ardından 395 yılında Doğu ve Batı olarak ikiye ayrılan devlet aşağıdakilerden hangisidir?",
+    "options": [
+      "Asya Hun Devleti",
+      "Sasani Devleti",
+      "Avrupa Hun Devleti",
+      "Frank Devleti",
+      "Roma İmparatorluğu"
+    ],
+    "answer": "E",
+    "explanation": "395 yılında Doğu ve Batı olarak ayrılan devlet Roma İmparatorluğu’dur. İkiye ayrılma, Batı Roma’nın 476’da yıkılmasıyla aynı olay değildir. Doğu Roma’nın varlığını sürdürmesi de imparatorluğun ikiye ayrılması ile tamamının ortadan kalkması arasındaki farkı gösterir.",
+    "sources": [
+      {
+        "title": "MEB – İlk Çağ ve Orta Çağ kronolojisi",
+        "url": "https://ogmmateryal.eba.gov.tr/panel/upload/files/5n2h43wvgeh.pdf"
+      },
+      {
+        "title": "MEB – Kavimler Göçü Ne Getirdi?",
+        "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/elazig-telafi/tarih/files/basic-html/page19.html"
+      }
+    ]
+  },
+  {
+    "id": "KG-005",
+    "topic": "Kavimler Göçü",
+    "skill": "Kronoloji",
+    "stem": "I. Roma İmparatorluğu’nun ikiye ayrılması\nII. Batı Roma İmparatorluğu’nun yıkılması\nIII. Kavimler Göçü’nün başlaması\n\nBu olayların eskiden yeniye doğru sıralaması aşağıdakilerden hangisidir?",
+    "options": [
+      "I — III — II",
+      "III — I — II",
+      "III — II — I",
+      "II — I — III",
+      "I — II — III"
+    ],
+    "answer": "B",
+    "explanation": "Kavimler Göçü’nün başlangıcı 375, Roma’nın ikiye ayrılması 395, Batı Roma’nın yıkılması 476 olarak sıralanır. Böylece III–I–II dizisi elde edilir. Roma’nın bölünmesini yıkılışla aynı tarihe koymak, olayların birbirini izleyen aşamalarını karıştırır.",
+    "sources": [
+      {
+        "title": "MEB – İlk Çağ ve Orta Çağ kronolojisi",
+        "url": "https://ogmmateryal.eba.gov.tr/panel/upload/files/5n2h43wvgeh.pdf"
+      },
+      {
+        "title": "MEB – Defterim Tarih 9, Kavimler Göçü ve Avrupa Hunları",
+        "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/defterim/9/tarih/files/basic-html/page120.html"
+      }
+    ]
+  },
+  {
+    "id": "KG-006",
+    "topic": "Kavimler Göçü",
+    "skill": "Bilgi",
+    "stem": "Kavimler Göçü sürecinde Avrupa’da kurulan Türk devleti aşağıdakilerden hangisidir?",
+    "options": [
+      "Asya Hun Devleti",
+      "Uygur Devleti",
+      "I. Göktürk Devleti",
+      "Avrupa Hun Devleti",
+      "Hazar Devleti"
+    ],
+    "answer": "D",
+    "explanation": "Göç sürecinde Avrupa’da kurulan devlet Avrupa Hun Devleti’dir. Asya Hunlarıyla ortak Hun adı taşımaları, iki siyasi yapının aynı coğrafyada veya aynı dönemde kurulmuş olduğu anlamına gelmez. Kökteki Avrupa coğrafyası doğru devleti belirleyen temel unsurdur.",
+    "sources": [
+      {
+        "title": "MEB – Kavimler Göçü Ne Getirdi?",
+        "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/elazig-telafi/tarih/files/basic-html/page19.html"
+      },
+      {
+        "title": "MEB – Tarih 9 Çalışma Defteri 6: göçün sonuçları",
+        "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/calisma_defteri/f6/9/tarih/tarih.pdf"
+      }
+    ]
+  },
+  {
+    "id": "KG-007",
+    "topic": "Kavimler Göçü",
+    "skill": "Bilgi",
+    "stem": "Kavimler Göçü sonrasında Avrupa’da güç kazanan, yerel toprak sahipleri ve bağlılık ilişkilerine dayanan siyasi ve toplumsal düzen aşağıdakilerden hangisidir?",
+    "options": [
+      "Feodalite",
+      "Mutlak monarşi",
+      "Meşruti monarşi",
+      "Cumhuriyet",
+      "Merkezî imparatorluk"
+    ],
+    "answer": "A",
+    "explanation": "Yerel toprak sahipleri, koruma ve bağlılık ilişkileriyle tanımlanan düzen feodalitedir. Merkezî yönetimin zayıfladığı koşullarda yerel güçler siyasi ve toplumsal ağırlık kazanır. Mutlak monarşi ise yetkinin hükümdarda yoğunlaşmasını anlatır; parçadaki yerelleşmenin karşılığı değildir.",
+    "sources": [
+      {
+        "title": "MEB – Orta Çağ: göçün nedenleri ve feodalite",
+        "url": "https://ogmmateryal.eba.gov.tr/panel/panel/CozumluSoruOnizle.aspx?alistirmaId=29362"
+      }
+    ]
+  },
+  {
+    "id": "KG-008",
+    "topic": "Kavimler Göçü",
+    "skill": "Yorum",
+    "stem": "Avrupa’da merkezî yönetimin güvenliği sağlamakta zorlandığı bir dönemde insanlar yerel güçlülerin korumasına girmiş, buna karşılık onlara bağlılık ve hizmet yükümlülüğü üstlenmiştir.\n\nBu gelişme aşağıdaki sonuçlardan hangisini destekler?",
+    "options": [
+      "Vergilerin yalnız merkezî idare tarafından toplanmasını",
+      "Yerel güç odaklarının ortadan kalkmasını",
+      "Siyasi otoritenin yerel birimler arasında parçalanmasını",
+      "Hükümdarın bütün topraklarda doğrudan denetim kurmasını",
+      "Soyluluk ayrıcalıklarının sona ermesini"
+    ],
+    "answer": "C",
+    "explanation": "Güvenliğin yerel beylerce sağlanması ve bağlılıkların onlara yönelmesi, siyasi otoritenin parçalandığını gösterir. Bu durum feodal ilişkilerin güçlenmesini açıklar. Merkezin tüm topraklarda doğrudan denetim kurması veya yerel güçlerin ortadan kalkması, verilen gelişmenin tersidir.",
+    "sources": [
+      {
+        "title": "MEB – Orta Çağ: göçün nedenleri ve feodalite",
+        "url": "https://ogmmateryal.eba.gov.tr/panel/panel/CozumluSoruOnizle.aspx?alistirmaId=29362"
+      }
+    ]
+  },
+  {
+    "id": "KG-009",
+    "topic": "Kavimler Göçü",
+    "skill": "Bilgi",
+    "stem": "Orta Çağ Avrupası’nda kilisenin eğitim ve düşünce üzerindeki etkisinin güçlenmesiyle ilişkilendirilen düşünce sistemi aşağıdakilerden hangisidir?",
+    "options": [
+      "Hümanizm",
+      "Pozitivizm",
+      "Rasyonalizm",
+      "Liberalizm",
+      "Skolastik düşünce"
+    ],
+    "answer": "E",
+    "explanation": "Skolastik düşünce, Orta Çağ’da Hristiyan inancının açıklanması ve temellendirilmesiyle ilişkili düşünce geleneğidir. Kilise ve dinî eğitim kurumlarının etkisi bu bağlamda önemlidir. Bu uzun dönemli gelişim, Kavimler Göçü’nün başladığı yıl bir anda ortaya çıkmış gibi değerlendirilmemelidir.",
+    "sources": [
+      {
+        "title": "MEB – Kavimler Göçü Ne Getirdi?",
+        "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/elazig-telafi/tarih/files/basic-html/page19.html"
+      },
+      {
+        "title": "MEB – Tarih 9 Çalışma Defteri 6: göçün sonuçları",
+        "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/calisma_defteri/f6/9/tarih/tarih.pdf"
+      }
+    ]
+  },
+  {
+    "id": "KG-010",
+    "topic": "Kavimler Göçü",
+    "skill": "Sınıflandırma",
+    "stem": "Aşağıdakilerden hangisi Kavimler Göçü’nün Avrupa’daki dinî sonuçları arasında gösterilir?",
+    "options": [
+      "Roma’nın iki siyasi yapıya ayrılması",
+      "Hristiyanlığın Germen toplulukları arasında yayılması",
+      "Yeni krallıkların ortaya çıkması",
+      "Yerel beylerin toprak üzerindeki gücünün artması",
+      "Avrupa’daki toplulukların yerleşim alanlarının değişmesi"
+    ],
+    "answer": "B",
+    "explanation": "Hristiyanlığın Germen toplulukları arasında yayılması doğrudan dinî bir sonuçtur. Roma’nın bölünmesi ve yeni krallıklar siyasi; yerleşim alanlarının değişmesi demografik-coğrafi boyutu öne çıkarır. Hristiyanlık göçlerden önce de var olduğundan yayılma ile dinin doğuşu birbirinden ayrılmalıdır.",
+    "sources": [
+      {
+        "title": "MEB – Tarih 9 Çalışma Defteri 6: göçün sonuçları",
+        "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/calisma_defteri/f6/9/tarih/tarih.pdf"
+      }
+    ]
+  },
+  {
+    "id": "KG-011",
+    "topic": "Kavimler Göçü",
+    "skill": "Yorum",
+    "stem": "Kavimler Göçü sürecinde Avrupa’ya gelen toplulukların yerel halklarla etkileşmesi ve yeni siyasi birlikler kurması aşağıdaki gelişmelerden hangisine zemin hazırlamıştır?",
+    "options": [
+      "Roma kültürünün yeni siyasi yapılarda değişmeden sürmesine",
+      "Siyasi merkezlerin yalnız Akdeniz kıyılarında toplanmasına",
+      "Avrupa ekonomisinin göçebe hayvancılık temelinde örgütlenmesine",
+      "Avrupa’da yeni millet ve devletlerin oluşum sürecine",
+      "Roma idari birliğinin göçmen topluluklarca yeniden kurulmasına"
+    ],
+    "answer": "D",
+    "explanation": "Göçmenlerle yerel halkların etkileşmesi ve yeni siyasi birlikler, Avrupa’daki millet ve devletlerin oluşumuna zemin hazırlamıştır. Bu, modern milletlerin 375’te bir anda ortaya çıktığı anlamına gelmez. Uzun süren toplumsal ve siyasi değişimin temelleri söz konusudur.",
+    "sources": [
+      {
+        "title": "MEB – Kavimler Göçü Ne Getirdi?",
+        "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/elazig-telafi/tarih/files/basic-html/page19.html"
+      },
+      {
+        "title": "MEB – Tarih 9 Çalışma Defteri 6: göçün sonuçları",
+        "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/calisma_defteri/f6/9/tarih/tarih.pdf"
+      }
+    ]
+  },
+  {
+    "id": "KG-012",
+    "topic": "Kavimler Göçü",
+    "skill": "Bilgi",
+    "stem": "Aşağıdakilerden hangisi Kavimler Göçü sonrasında Avrupa’da görülen gelişmelerden biri değildir?",
+    "options": [
+      "Siyasi gücün merkezî krallıklarda toplanması",
+      "Yerel beylerin nüfuzunun artması",
+      "Kilisenin toplumsal etkisinin güçlenmesi",
+      "Yeni siyasi oluşumların ortaya çıkması",
+      "Farklı topluluklar arasındaki kültürel etkileşimin artması"
+    ],
+    "answer": "A",
+    "explanation": "Bu süreçte merkezî otoritenin zayıflaması ve yerel beylerin güçlenmesi öne çıkar. Bu nedenle siyasi gücün merkezî krallıklarda toplanması verilen gelişmeler arasında yer almaz. Avrupa’nın sonraki yüzyıllarında görülen merkezîleşme, feodal parçalanmanın güçlendiği dönemle karıştırılmamalıdır.",
+    "sources": [
+      {
+        "title": "MEB – Kavimler Göçü Ne Getirdi?",
+        "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/elazig-telafi/tarih/files/basic-html/page19.html"
+      },
+      {
+        "title": "MEB – Orta Çağ: göçün nedenleri ve feodalite",
+        "url": "https://ogmmateryal.eba.gov.tr/panel/panel/CozumluSoruOnizle.aspx?alistirmaId=29362"
+      }
+    ]
+  },
+  {
+    "id": "KG-013",
+    "topic": "Kavimler Göçü",
+    "skill": "Öncüllü sınıflandırma",
+    "stem": "Kavimler Göçü’nün ardından görülen;\nI. Roma İmparatorluğu’nun ikiye ayrılması,\nII. Avrupa Hun Devleti’nin kurulması,\nIII. Hristiyanlığın yeni topluluklar arasında yayılması\ngelişmelerinden hangileri doğrudan siyasi haritanın değişmesiyle ilgilidir?",
+    "options": [
+      "Yalnız I",
+      "Yalnız III",
+      "I ve II",
+      "II ve III",
+      "I, II ve III"
+    ],
+    "answer": "C",
+    "explanation": "Bir devletin bölünmesi ve yeni bir devletin kurulması egemenlik alanlarını doğrudan değiştirir; I ve II siyasi haritayla ilgilidir. Hristiyanlığın yayılması ise öncelikle dinî değişimi anlatır. Dinî değişimin siyasi etkileri olabilmesi, III’ü doğrudan bir sınır veya devlet değişikliği yapmaz.",
+    "sources": [
+      {
+        "title": "MEB – Tarih 9 Çalışma Defteri 6: göçün sonuçları",
+        "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/calisma_defteri/f6/9/tarih/tarih.pdf"
+      }
+    ]
+  },
+  {
+    "id": "KG-014",
+    "topic": "Kavimler Göçü",
+    "skill": "Neden–sonuç",
+    "stem": "Bir tarihçi, Hunların batıya hareketinin komşu toplulukları yerlerinden ettiğini; onların da başka toplulukları Roma sınırlarına yönelttiğini belirtmiştir.\n\nBu açıklamadan aşağıdakilerden hangisine ulaşılabilir?",
+    "options": [
+      "Bütün göçmen toplulukların ortak bir yönetim altında olduğuna",
+      "Roma’nın tüm toplulukları önceden planlayarak çağırdığına",
+      "Her topluluğun Hunlarla doğrudan savaştığına",
+      "Hareketin yalnız ekonomik nedenlerden kaynaklandığına",
+      "Bir bölgedeki nüfus hareketinin başka bölgelerde yeni göçleri tetikleyebildiğine"
+    ],
+    "answer": "E",
+    "explanation": "Anlatımda bir topluluğun hareketi başkasını, onun hareketi de üçüncü bir topluluğu etkilemektedir. Bu nedenle bir bölgedeki nüfus hareketi başka bölgelerde yeni göçler başlatabilir. Zincirin her halkasının Hunlarla doğrudan savaşmış veya aynı yönetimde birleşmiş olması gerekmez.",
+    "sources": [
+      {
+        "title": "MEB – Defterim Tarih 9, Kavimler Göçü ve Avrupa Hunları",
+        "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/defterim/9/tarih/files/basic-html/page120.html"
+      }
+    ]
+  },
+  {
+    "id": "YOR-001",
+    "topic": "Türk adının kullanımı",
+    "skill": "Bilgi ve yorum",
+    "stem": "Asya Hunları, Göktürkler ve Türk adıyla ilgili aşağıdaki yargılardan hangisi yanlıştır?",
+    "options": [
+      "Asya Hunlarının siyasi varlığı Göktürklerden öncedir.",
+      "Türk adını ilk kez devlet adı olarak kullanan siyasi teşkilat Asya Hunlarıdır.",
+      "Bir topluluk adının kaynaklarda görülmesiyle devlet adı olarak kullanılması farklı olgulardır.",
+      "Göktürkler Türk adını siyasi bir adlandırma olarak kullanmıştır.",
+      "İlk Türk devleti ile Türk adını taşıyan ilk devlet ifadeleri farklı ölçütlere dayanır."
+    ],
+    "answer": "B",
+    "explanation": "Türk adını devlet adı olarak ilk kullanan Göktürklerdir; B bu özelliği Asya Hunlarına aktararak hata yapmaktadır. Asya Hunlarının daha eski olması, Türk adını devlet adı olarak ilk kullanan devlet olduğu anlamına gelmez. Kuruluş önceliğiyle adlandırma önceliği ayrı ölçütlerdir.",
+    "sources": [
+      {
+        "title": "MEB – Tarih 9, ikinci dönem hazırlık materyali",
+        "url": "https://ogmmateryal.eba.gov.tr/panel/upload/files/ktjwzblfjdt.pdf"
+      },
+      {
+        "title": "MEB – Defterim Tarih 9, Asya Hun Devleti",
+        "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/defterim/9/tarih/files/basic-html/page119.html"
+      }
+    ]
+  },
+  {
+    "id": "YOR-002",
+    "topic": "Türk adının anlamları",
+    "skill": "Bilgi ve yorum",
+    "stem": "Doerfer Türk adını devlete bağlı halk, Ziya Gökalp ise töre sahibi olma düşüncesiyle ilişkilendirir.\n\nBu iki yaklaşımın ortak yönü hakkında aşağıdaki çıkarımlardan hangisi yapılabilir?",
+    "options": [
+      "Kelimeyi bir coğrafi şeklin benzerliğiyle açıklamaları",
+      "Adlandırmayı bedensel güç üzerinden değerlendirmeleri",
+      "Sözcüğün edebî anlamını köken açıklamasına dönüştürmeleri",
+      "Adın açıklanmasında toplumsal ve siyasi düzenle bağlantı kurmaları",
+      "Türk adının ilk kez aynı yazılı belgede geçtiğini savunmaları"
+    ],
+    "answer": "D",
+    "explanation": "Devlete bağlılık siyasi örgütlenmeye, töre sahibi olmak toplumsal kurallar ve düzene işaret eder. Ortak yön, adın açıklanmasında toplumun örgütlenişine başvurulmasıdır. İki görüşün aynı belgeye dayandığı veya kelimenin aynı dilsel kökünü savunduğu bilgisi verilmemiştir.",
+    "sources": [
+      {
+        "title": "Pegem – Türk siyasi tarihi, Türk adının anlamlarına ilişkin açıklamalar",
+        "url": "https://depo.pegem.net/9780202200378.pdf"
+      },
+      {
+        "title": "MEB – Tarih 9, ikinci dönem hazırlık materyali",
+        "url": "https://ogmmateryal.eba.gov.tr/panel/upload/files/ktjwzblfjdt.pdf"
+      }
+    ]
+  },
+  {
+    "id": "YOR-003",
+    "topic": "Orta Asya kültür merkezleri",
+    "skill": "Bilgi ve yorum",
+    "stem": "Andronova kültüründe tunç ve altın eşyalara, Karasuk kültüründe ise demir işlemeciliğinin erken örneklerine rastlanır. Her iki kültür çevresinin değerlendirilmesinde metal buluntulardan yararlanılır.\n\nYalnız bu bilgilerden hareketle aşağıdakilerden hangisine ulaşılamaz?",
+    "options": [
+      "Andronova çevresinde birden fazla metalin kullanıldığına",
+      "Karasuk çevresinde demiri işleme bilgisinin bulunduğuna",
+      "Demir kullanılmaya başlanınca tunç eşyaların kullanımının sona erdiğine",
+      "Metal eserlerin kültürlerin tanınmasında veri sağladığına",
+      "Maden işleme faaliyetinin birden fazla kültür çevresinde görüldüğüne"
+    ],
+    "answer": "C",
+    "explanation": "Yeni bir metalin işlenmesi, daha önce kullanılan metallerin terk edildiğini göstermez. Bu nedenle C için farklı dönemlerdeki üretim ve kullanımın karşılaştırılması gerekir. Tunç ve altın A’yı, demir örnekleri B’yi, metal buluntuların değerlendirilmesi D’yi, iki kültürde de metal işlenmesi E’yi destekler.",
+    "sources": [
+      {
+        "title": "MEB – Ortaöğretim tarih materyali, kültür merkezleri ve göçler",
+        "url": "https://ogmmateryal.eba.gov.tr/panel/upload/pdf/wdbo0cludiq.pdf"
+      },
+      {
+        "title": "MEB – İlk Türklere Kültürel Açıdan Genel Bakış",
+        "url": "https://img.eba.gov.tr/974/672/7fe/8e6/af9/d14/467/8a9/073/b7c/7cb/c49/e6b/de2/001/9746727fe8e6af9d144678a9073b7c7cbc49e6bde2001.pdf"
+      },
+      {
+        "title": "MEB – Tarih 9 Çalışma Defteri 5, s.18: kültür merkezleri",
+        "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/calisma_defteri/f5/9/tarih/files/basic-html/page18.html"
+      }
+    ]
+  },
+  {
+    "id": "YOR-004",
+    "topic": "Orta Asya kültür merkezleri",
+    "skill": "Bilgi ve yorum",
+    "stem": "Bir Orta Asya yerleşmesinin aynı kültür tabakasında metal eritme ocağı kalıntıları, yarım kalmış süs eşyaları ve metal silahlar bulunmuştur.\n\nBu bulgulardan;\nI. yerleşmede metal üretimi yapıldığı,\nII. metalin farklı ihtiyaçlar için kullanıldığı,\nIII. silahların komşu devletlere satıldığı\nyargılarından hangilerine ulaşılabilir?",
+    "options": [
+      "I ve II",
+      "Yalnız I",
+      "Yalnız III",
+      "II ve III",
+      "I, II ve III"
+    ],
+    "answer": "A",
+    "explanation": "Ocak ve yarım kalmış eşyaların birlikte bulunması yerel üretimi; süs eşyalarıyla silahlar ise farklı kullanım amaçlarını destekler. İhracat için satış, alıcı veya ticaret güzergâhını gösteren ek kanıt gerekir. Bu yüzden I ve II çıkarılabilir, III çıkarılamaz.",
+    "sources": [
+      {
+        "title": "MEB – İlk Türklere Kültürel Açıdan Genel Bakış",
+        "url": "https://img.eba.gov.tr/974/672/7fe/8e6/af9/d14/467/8a9/073/b7c/7cb/c49/e6b/de2/001/9746727fe8e6af9d144678a9073b7c7cbc49e6bde2001.pdf"
+      }
+    ]
+  },
+  {
+    "id": "YOR-005",
+    "topic": "Göçlerin nedenleri",
+    "skill": "Bilgi ve yorum",
+    "stem": "Orta Asya’da bir boy otlaklarının yetersizliği nedeniyle yeni bir yurda yönelirken başka bir boy komşu devletin baskısı sonucunda bulunduğu bölgeden ayrılmıştır.\n\nBu örnekler birlikte değerlendirildiğinde aşağıdakilerden hangisi söylenebilir?",
+    "options": [
+      "Siyasi baskı göçün ardından ortaya çıkan bir sonuçtur.",
+      "Yeni yurt arayışı ekonomik ihtiyaçlardan bağımsızdır.",
+      "Otlak yetersizliği her iki hareketin ortak nedenidir.",
+      "Her iki boy aynı siyasi teşkilatın yönetimi altındadır.",
+      "Benzer nüfus hareketleri farklı türde etkenlerle başlayabilir."
+    ],
+    "answer": "E",
+    "explanation": "İlk göçte geçim kaynaklarının yetersizliği, ikincide dış siyasi baskı belirleyicidir. Aynı tür hareketin farklı nedenlerle başlaması E’yi destekler. İki boyun ortak yönetime bağlı olduğu veya aynı ekonomik sorunla karşılaştığı bilgisi bulunmamaktadır.",
+    "sources": [
+      {
+        "title": "MEB – Ortaöğretim tarih materyali, kültür merkezleri ve göçler",
+        "url": "https://ogmmateryal.eba.gov.tr/panel/upload/pdf/wdbo0cludiq.pdf"
+      },
+      {
+        "title": "MEB – Orta Çağ: göçün nedenleri ve feodalite",
+        "url": "https://ogmmateryal.eba.gov.tr/panel/panel/CozumluSoruOnizle.aspx?alistirmaId=29362"
+      }
+    ]
+  },
+  {
+    "id": "YOR-006",
+    "topic": "Göçlerin sonuçları",
+    "skill": "Bilgi ve yorum",
+    "stem": "Göç eden Türk toplulukları yeni yurtlarına geleneklerini taşımıştır. Bazıları çevrelerindeki toplumların dinlerini benimserken bazıları önceki inançlarını sürdürmüştür.\n\nBu bilgilere göre aşağıdakilerden hangisine ulaşılamaz?",
+    "options": [
+      "Göçlerle kültür unsurlarının yeni coğrafyalara taşındığına",
+      "Din değiştiren toplulukların dillerini de değiştirdiğine",
+      "Toplulukların yeni çevrelere aynı biçimde tepki vermediğine",
+      "Göç sonrasında kültürel devamlılığın da görülebildiğine",
+      "Yeni çevredeki dinlerin bazı topluluklar üzerinde etkili olduğuna"
+    ],
+    "answer": "B",
+    "explanation": "Metin dinî tercihlerden söz etmektedir; dil değişimi hakkında veri vermemektedir. Bir topluluğun din değiştirmesi, dilinin de değiştiğinin kanıtı değildir. Geleneklerin taşınması A’yı, farklı dinî tutumlar C’yi, inançların sürdürülmesi D’yi, yeni dinlerin benimsenmesi E’yi destekler.",
+    "sources": [
+      {
+        "title": "MEB – Ortaöğretim tarih materyali, kültür merkezleri ve göçler",
+        "url": "https://ogmmateryal.eba.gov.tr/panel/upload/pdf/wdbo0cludiq.pdf"
+      }
+    ]
+  },
+  {
+    "id": "YOR-007",
+    "topic": "Göçlerin nedenleri",
+    "skill": "Bilgi ve yorum",
+    "stem": "Bir tarihçi, farklı yüzyıllarda gerçekleşen Türk göçlerini açıklarken Çin, Kitan ve Moğol baskılarını ayrı dönem başlıkları altında incelemiştir.\n\nTarihçinin bu yöntemi kullanmasının temel gerekçesi aşağıdakilerden hangisidir?",
+    "options": [
+      "Göç hareketlerini yalnız dış kaynaklardan araştırmak istemesi",
+      "Doğal nedenleri siyasi nedenlerden daha önemsiz görmesi",
+      "Aynı yöndeki göçlerin aynı tarihte gerçekleştiğini kabul etmesi",
+      "Her hareketin nedenini kendi döneminin siyasi koşullarıyla ilişkilendirmesi",
+      "Göç eden toplulukların kültürlerinin değişmediğini kanıtlamaya çalışması"
+    ],
+    "answer": "D",
+    "explanation": "Farklı yüzyılların güçlerini tek bir göçün eş zamanlı nedenleri gibi göstermek tarihsel bağlamı bozar. Dönemlere ayırmak, hangi baskının hangi hareketle ilişkili olduğunu belirlemeyi sağlar. Bu yöntem doğal etkenleri dışlamaz ve göçlerin kültürel sonuçları hakkında tek başına hüküm vermez.",
+    "sources": [
+      {
+        "title": "MEB – Ortaöğretim tarih materyali, kültür merkezleri ve göçler",
+        "url": "https://ogmmateryal.eba.gov.tr/panel/upload/pdf/wdbo0cludiq.pdf"
+      }
+    ]
+  },
+  {
+    "id": "YOR-008",
+    "topic": "İskitler (Sakalar)",
+    "skill": "Bilgi ve yorum",
+    "stem": "Bir İskit eserinde altın ince biçimde işlenmiş, bir av hayvanı ile yırtıcı hayvanın mücadelesi betimlenmiştir. Eser kişisel süs eşyası olarak kullanılmıştır.\n\nBu buluntudan aşağıdakilerden hangisine ulaşılamaz?",
+    "options": [
+      "Altının İskitlerin dış ticaretindeki başlıca gelir kaynağı olduğuna",
+      "Hayvanların sanatsal betimlemeye konu edildiğine",
+      "Metal işlemede teknik beceri bulunduğuna",
+      "Süs eşyasında hayvan üslubundan yararlanıldığına",
+      "Metalin kişisel kullanım eşyasına dönüştürüldüğüne"
+    ],
+    "answer": "A",
+    "explanation": "Bir altın eşya, altının ticaretteki payını veya ihracat gelirini göstermez. A için ekonomik ve ticari veriler gerekir. Betimleme B ve D’yi, ince işçilik C’yi, eşyanın kullanımı E’yi destekler. Eserin malzemesiyle toplumun başlıca gelir kaynağı birbirine karıştırılmamalıdır.",
+    "sources": [
+      {
+        "title": "Encyclopaedia Iranica – Scythians",
+        "url": "https://www.iranicaonline.org/articles/scythians/"
+      },
+      {
+        "title": "International Journal of Social Sciences – İskit giyimi ve altın işlemeciliği",
+        "url": "https://dergipark.org.tr/en/download/article-file/1139872"
+      }
+    ]
+  },
+  {
+    "id": "YOR-009",
+    "topic": "İskitler (Sakalar)",
+    "skill": "Bilgi ve yorum",
+    "stem": "Bir araştırmacı İskit kadınlarından bazılarının savaşlara katıldığı görüşünü incelemektedir.\n\nAşağıdaki bulgulardan hangisi bu görüşü diğerlerine göre daha doğrudan destekler?",
+    "options": [
+      "Kadın mezarlarında değerli süs eşyalarına rastlanması",
+      "Kadın ve erkeklerin aynı mezarlık alanına gömülmesi",
+      "Bazı kadın iskeletlerinde silahlarla uyumlu savaş yaralarının bulunması",
+      "Mezar eşyalarında hayvan tasvirlerinin kullanılması",
+      "Kadın mezarlarının farklı büyüklüklerde yapılmış olması"
+    ],
+    "answer": "C",
+    "explanation": "Savaşla uyumlu yaralanmalar, savaş faaliyetleriyle diğer bulgulardan daha doğrudan ilişkilidir. Süs eşyaları ve mezar büyüklüğü statü hakkında, ortak mezarlık ise gömü uygulamaları hakkında ipucu verebilir. Tek bir bulgu tüm kadınların savaşçı olduğunu kanıtlamaz; soru bazı kadınların katılımına ilişkin en güçlü desteği aramaktadır.",
+    "sources": [
+      {
+        "title": "Encyclopaedia Iranica – Amazons in the Iranian World",
+        "url": "https://www.iranicaonline.org/articles/amazons/amazons-ii/"
+      }
+    ]
+  },
+  {
+    "id": "YOR-010",
+    "topic": "Asya Hun Devleti",
+    "skill": "Bilgi ve yorum",
+    "stem": "Mete Han’la ilişkilendirilen onlu askerî düzende ordu, küçük birliklerden daha büyük birliklere doğru kademelendirilmiş; birlikler farklı düzeylerdeki komutanlara bağlanmıştır.\n\nYalnız bu bilgilerden hareketle aşağıdakilerden hangisine ulaşılamaz?",
+    "options": [
+      "Ordunun alt birlikler hâlinde düzenlendiğine",
+      "Birlikler arasında kademeli bir örgütlenme bulunduğuna",
+      "Komuta görevinin farklı düzeylerde yürütüldüğüne",
+      "Askerî düzenin bir hiyerarşi içerdiğine",
+      "Komutanlık görevlerinin babadan oğula geçtiğine"
+    ],
+    "answer": "E",
+    "explanation": "Birliklerin kademelenmesi ve farklı komutanlara bağlanması askerî hiyerarşiyi gösterir. Ancak komutanların göreve nasıl getirildiği açıklanmamıştır. Bu nedenle E’deki kalıtsal atama sonucuna ulaşılamaz; A, B, C ve D verilen örgütlenmenin doğrudan özellikleridir.",
+    "sources": [
+      {
+        "title": "MEB – Asya Hunlarında siyasi birlik ve ordu teşkilatı",
+        "url": "https://ogmmateryal.eba.gov.tr/panel/panel/CozumluSoruOnizle.aspx?alistirmaId=58780"
+      }
+    ]
+  },
+  {
+    "id": "YOR-011",
+    "topic": "Asya Hun Devleti",
+    "skill": "Bilgi ve yorum",
+    "stem": "Mete Han döneminde farklı Türk boyları Asya Hun yönetiminde toplanmış ve aynı siyasi otoriteye bağlanmıştır.\n\nBu gelişme;\nI. boylar arasında siyasi birlik sağlanması,\nII. ortak bir yönetim çatısının oluşması,\nIII. boylar arasındaki bütün kültürel farklılıkların sona ermesi\ndurumlarından hangilerini gösterir?",
+    "options": [
+      "Yalnız I",
+      "Yalnız III",
+      "I ve III",
+      "I ve II",
+      "I, II ve III"
+    ],
+    "answer": "D",
+    "explanation": "Aynı siyasi otorite altında toplanmak I ve II’yi doğrudan destekler. Siyasi birlik, toplulukların bütün geleneklerinin ve yaşam biçimlerinin aynılaşması demek değildir. Bu nedenle yönetim alanındaki birleşmeden III’teki kültürel türdeşlik sonucuna geçilemez.",
+    "sources": [
+      {
+        "title": "MEB – Defterim Tarih 9, Asya Hun Devleti",
+        "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/defterim/9/tarih/files/basic-html/page119.html"
+      },
+      {
+        "title": "MEB – Asya Hunlarında siyasi birlik ve ordu teşkilatı",
+        "url": "https://ogmmateryal.eba.gov.tr/panel/panel/CozumluSoruOnizle.aspx?alistirmaId=58780"
+      }
+    ]
+  },
+  {
+    "id": "YOR-012",
+    "topic": "Asya Hun Devleti",
+    "skill": "Bilgi ve yorum",
+    "stem": "Hohanyeh, Hunların varlığını Çin’e bağlanarak sürdürmesini savunurken Çiçi bu seçeneğe karşı çıkmıştır.\n\nBu görüş ayrılığı aşağıdaki konulardan hangisi etrafında ortaya çıkmıştır?",
+    "options": [
+      "Bağımsız karar alma yetkisinin başka bir devletin üstün otoritesi altında sürdürülüp sürdürülemeyeceği",
+      "Ordu birliklerinin hangi sayısal düzene göre ayrılacağı",
+      "Hayvancılıktan tarıma geçişin nasıl gerçekleştirileceği",
+      "Başkentteki ticari vergilerin hangi oranlarda alınacağı",
+      "Boyların hangi alfabe üzerinde uzlaşacağı"
+    ],
+    "answer": "A",
+    "explanation": "Tartışma, Çin’e bağlılığı kabul etmenin Hunların siyasi bağımsızlığı üzerindeki etkisidir. Çiçi bağımsızlığı korumayı öne çıkarırken Hohanyeh dış otoriteye bağlanmayı kabul etmektedir. Kökte askerî sayı düzeni, ekonomi veya alfabe konusunda bir görüş ayrılığı verilmemiştir.",
+    "sources": [
+      {
+        "title": "MEB – Tarih 9, Asya Hun Devleti ve Çi-çi",
+        "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/tarih/9/unite4/files/basic-html/page16.html"
+      }
+    ]
+  },
+  {
+    "id": "YOR-013",
+    "topic": "Kavimler Göçü",
+    "skill": "Bilgi ve yorum",
+    "stem": "Kavimler Göçü sonrasında Avrupa’da yeni siyasi oluşumlar ortaya çıkmış, farklı toplulukların bir arada yaşadığı alanlar genişlemiş ve Hristiyanlık yeni topluluklar arasında yayılmıştır.\n\nBu bilgilerden aşağıdakilerden hangisine ulaşılamaz?",
+    "options": [
+      "Avrupa’nın siyasi yapısında değişimler yaşandığına",
+      "Topluluklar arası kültürel temas imkânlarının arttığına",
+      "Göçlerin dinî hayatla ilgili sonuçlarının da bulunduğuna",
+      "Sürecin birden fazla alanda etkili olduğuna",
+      "Avrupa’daki dinî farklılıkların ortadan kalktığına"
+    ],
+    "answer": "E",
+    "explanation": "Hristiyanlığın yeni topluluklara yayılması, bütün insanların aynı inancı benimsediğini göstermez. Bu nedenle E desteklenmez. Yeni siyasi oluşumlar A’yı, bir arada yaşam B’yi, dinin yayılması C’yi; bu değişimlerin birlikte verilmesi D’yi destekler.",
+    "sources": [
+      {
+        "title": "MEB – Kavimler Göçü Ne Getirdi?",
+        "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/elazig-telafi/tarih/files/basic-html/page19.html"
+      },
+      {
+        "title": "MEB – Tarih 9 Çalışma Defteri 6: göçün sonuçları",
+        "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/calisma_defteri/f6/9/tarih/tarih.pdf"
+      }
+    ]
+  },
+  {
+    "id": "YOR-014",
+    "topic": "Kavimler Göçü",
+    "skill": "Bilgi ve yorum",
+    "stem": "Kavimler Göçü’nün başlangıcı 375, Roma İmparatorluğu’nun ikiye ayrılması 395, Batı Roma’nın yıkılması ise 476 yılıyla tarihlendirilir.\n\nBu kronolojiyle ilgili aşağıdaki değerlendirmelerden hangisi yanlıştır?",
+    "options": [
+      "Göçlerin başlangıcıyla Roma’nın bölünmesi aynı yüzyıldadır.",
+      "Roma’nın siyasi olarak bölünmesi Batı Roma’nın yıkılışından öncedir.",
+      "Roma İmparatorluğu, Kavimler Göçü başladığında Doğu ve Batı olarak ayrılmış durumdadır.",
+      "Batı Roma’nın yıkılışı göçlerin başlangıcından sonraki yüzyıldadır.",
+      "Göçlerin başlangıcı ile Batı Roma’nın yıkılışı arasında bir yüzyıldan fazla zaman vardır."
+    ],
+    "answer": "C",
+    "explanation": "Roma’nın bölünmesi 395’te, Kavimler Göçü’nün başlangıcından 20 yıl sonra gerçekleşmiştir; bu nedenle C yanlıştır. 375 ve 395 IV. yüzyıla, 476 V. yüzyıla aittir. İlk ve son tarih arasındaki 101 yıllık fark E’yi doğrular.",
+    "sources": [
+      {
+        "title": "MEB – Defterim Tarih 9, Kavimler Göçü ve Avrupa Hunları",
+        "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/defterim/9/tarih/files/basic-html/page120.html"
+      },
+      {
+        "title": "MEB – İlk Çağ ve Orta Çağ kronolojisi",
+        "url": "https://ogmmateryal.eba.gov.tr/panel/upload/files/5n2h43wvgeh.pdf"
+      }
+    ]
+  },
+  {
+    "id": "YOR-015",
+    "topic": "Kavimler Göçü",
+    "skill": "Bilgi ve yorum",
+    "stem": "Kavimler Göçü sonrasında Avrupa’da feodal ilişkilerin güçlendiği görüşünü aşağıdaki gelişmelerden hangisi desteklemez?",
+    "options": [
+      "İnsanların güvenlik için yerel beylerin korumasına girmesi",
+      "Askerî kuvvetlerin ülke genelinde doğrudan merkezî hükümdara bağlanması",
+      "Yerel toprak sahiplerinin siyasi nüfuz kazanması",
+      "Koruma karşılığında bağlılık ve hizmet yükümlülüklerinin artması",
+      "Merkezî yönetimin farklı bölgelerde denetim kurmakta zorlanması"
+    ],
+    "answer": "B",
+    "explanation": "Feodal ilişkilerde yerel güç ve bağlılık ağları belirgindir. Askerî kuvvetlerin doğrudan merkezî hükümdara bağlanması ise merkezî denetimin güçlenmesine işaret eder; bu yüzden B desteklemez. Diğer seçenekler yerel otoriteyi, koruma ilişkilerini veya merkezî denetimin zayıflığını gösterir.",
+    "sources": [
+      {
+        "title": "MEB – Orta Çağ: göçün nedenleri ve feodalite",
+        "url": "https://ogmmateryal.eba.gov.tr/panel/panel/CozumluSoruOnizle.aspx?alistirmaId=29362"
+      }
+    ]
+  },
+  {
+    "id": "YOR-016",
+    "topic": "Kavimler Göçü",
+    "skill": "Bilgi ve yorum",
+    "stem": "Kavimler Göçü, Avrupa’da siyasi parçalanma ve toplumsal değişimlere zemin hazırlamıştır. Feodal ilişkilerin yerleşmesi ve yeni toplumsal kimliklerin oluşması ise sonraki yüzyıllara yayılan süreçlerdir.\n\nBuna göre;\nI. bir olayın etkileri başlangıç tarihinden sonra da gelişebilir,\nII. tarihsel bir sonucun oluşması belirli bir süre gerektirebilir,\nIII. göçün siyasi ve toplumsal sonuçları aynı yıl tamamlanmıştır\nyargılarından hangilerine ulaşılabilir?",
+    "options": [
+      "Yalnız I",
+      "Yalnız II",
+      "I ve III",
+      "II ve III",
+      "I ve II"
+    ],
+    "answer": "E",
+    "explanation": "Sonuçların sonraki yüzyıllara yayılması, etkinin devam edebildiğini ve oluşumun zaman alabildiğini gösterir; I ve II doğrudur. III ise uzun süreçleri tek bir yılda tamamlanmış saydığı için metne aykırıdır. Bir olayın başlangıç tarihini bilmek, bütün sonuçlarını aynı tarihe yerleştirmeyi haklı kılmaz.",
+    "sources": [
+      {
+        "title": "MEB – Kavimler Göçü Ne Getirdi?",
+        "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/elazig-telafi/tarih/files/basic-html/page19.html"
+      },
+      {
+        "title": "MEB – Orta Çağ: göçün nedenleri ve feodalite",
+        "url": "https://ogmmateryal.eba.gov.tr/panel/panel/CozumluSoruOnizle.aspx?alistirmaId=29362"
+      }
+    ]
+  },
+  {
+    "id": "EHUN-001",
+    "topic": "Avrupa Hun Devleti",
+    "skill": "Bilgi",
+    "stem": "Avrupa Hun Devleti’nin kurucusu olarak kabul edilen hükümdar aşağıdakilerden hangisidir?",
+    "difficulty": "Kolay",
+    "options": [
+      "Uldız",
+      "Rua",
+      "Balamir",
+      "Attila",
+      "Mete Han"
+    ],
+    "answer": "C",
+    "explanation": "Balamir, Hunların batıya ilerleyişi ve Avrupa Hun Devleti’nin kuruluşuyla ilişkilendirilir. Attila ise devletin en parlak döneminin hükümdarıdır. Kuruluş ile siyasi gücün doruğa ulaşması aynı dönemi ifade etmez.",
+    "sources": [
+      {
+        "title": "MEB – Avrupa Hunlarının kuruluşu, merkezi ve hükümdarları",
+        "url": "https://ogmmateryal.eba.gov.tr/panel/upload/files/ktjwzblfjdt.pdf"
+      }
+    ]
+  },
+  {
+    "id": "EHUN-002",
+    "topic": "Avrupa Hun Devleti",
+    "skill": "Bilgi",
+    "stem": "Avrupa Hun Devleti’nin Orta Avrupa’daki merkez sahası, günümüzde ağırlıklı olarak aşağıdaki ülkelerden hangisinin topraklarıyla ilişkilendirilir?",
+    "difficulty": "Kolay",
+    "options": [
+      "Macaristan",
+      "Polonya",
+      "Yunanistan",
+      "İtalya",
+      "Fransa"
+    ],
+    "answer": "A",
+    "explanation": "Merkez sahası bugünkü Macaristan coğrafyasıyla ilişkilidir. Bu ifade modern Macaristan devletinin o dönemde var olduğu veya Hun sınırlarının bugünkü ülke sınırlarıyla aynı olduğu anlamına gelmez. İtalya ve Galya ise Attila’nın sefer düzenlediği alanlardır.",
+    "sources": [
+      {
+        "title": "MEB – Avrupa Hunlarının kuruluşu, merkezi ve hükümdarları",
+        "url": "https://ogmmateryal.eba.gov.tr/panel/upload/files/ktjwzblfjdt.pdf"
+      }
+    ]
+  },
+  {
+    "id": "EHUN-003",
+    "topic": "Avrupa Hun Devleti",
+    "skill": "Bilgi",
+    "stem": "Süryani yazar Efraim’e atfedilen anlatılarda Yecüc ve Mecüc benzetmesiyle tasvir edilen atlı topluluk aşağıdakilerden hangisidir?",
+    "difficulty": "Kolay",
+    "options": [
+      "Avarlar",
+      "Peçenekler",
+      "Macarlar",
+      "Kıpçaklar",
+      "Hunlar"
+    ],
+    "answer": "E",
+    "explanation": "Bu benzetme Hun atlıları için kullanılır. Dinsel bir imgeyle yapılan tasvir, anlatıcının Hunlara yönelik algısını yansıtır. Topluluğun gerçek kökeninin dinî anlatılardaki varlıklara dayandığını gösteren bir kanıt değildir.",
+    "sources": [
+      {
+        "title": "Türk Dünyası Araştırmaları – Kafkasya Hunları ve Efraim anlatısı",
+        "url": "https://makale.isam.org.tr/server/api/core/bitstreams/befd8d89-d2fb-4a68-a11f-1e318aafbab6/content"
+      }
+    ]
+  },
+  {
+    "id": "EHUN-004",
+    "topic": "Avrupa Hun Devleti",
+    "skill": "Bilgi",
+    "stem": "Bizans elçisine “Güneşin battığı yere kadar her yeri zapt edebilirim.” dediği aktarılan Hun hükümdarı aşağıdakilerden hangisidir?",
+    "difficulty": "Kolay",
+    "options": [
+      "Balamir",
+      "Uldız",
+      "Rua",
+      "Attila",
+      "Çiçi"
+    ],
+    "answer": "B",
+    "explanation": "Söz Uldız’a atfedilir. Geniş alanlarda hâkimiyet kurma iddiasını ve karşısındaki güce meydan okuyan tutumunu yansıtır. Attila’nın Avrupa’daki ünüyle, Çiçi’nin siyasi bağımsızlığı savunan sözleriyle karıştırılmamalıdır.",
+    "sources": [
+      {
+        "title": "Ahmet Taşağıl – Huing-nu, Hun ilişkisi; Uldız anlatısı",
+        "url": "https://ahmettasagil.wordpress.com/wp-content/uploads/2010/10/huing-nuhuniliskisi.pdf"
+      }
+    ]
+  },
+  {
+    "id": "EHUN-005",
+    "topic": "Avrupa Hun Devleti",
+    "skill": "Bilgi",
+    "stem": "Avrupa Hun Devleti en parlak dönemini aşağıdaki hükümdarlardan hangisinin yönetiminde yaşamıştır?",
+    "difficulty": "Kolay",
+    "options": [
+      "Balamir",
+      "Uldız",
+      "Rua",
+      "Attila",
+      "İrnek"
+    ],
+    "answer": "D",
+    "explanation": "En parlak dönem Attila’nın hükümdarlığıdır. Doğu Roma’yla yapılan antlaşmalar ve Batı Roma’ya yönelen seferler bu dönemin siyasi ve askerî ağırlığını gösterir. Balamir’in kurucu olarak bilinmesi, en parlak dönemi de onun yaşattığı anlamına gelmez.",
+    "sources": [
+      {
+        "title": "MEB – Avrupa Hunlarının kuruluşu, merkezi ve hükümdarları",
+        "url": "https://ogmmateryal.eba.gov.tr/panel/upload/files/ktjwzblfjdt.pdf"
+      }
+    ]
+  },
+  {
+    "id": "EHUN-006",
+    "topic": "Avrupa Hun Devleti",
+    "skill": "Bilgi",
+    "stem": "Margos (Margus) ve Anatolyos (Anatolios) antlaşmaları, Avrupa Hun Devleti ile aşağıdaki devletlerden hangisi arasında yapılmıştır?",
+    "difficulty": "Kolay",
+    "options": [
+      "Batı Roma İmparatorluğu",
+      "Doğu Roma İmparatorluğu",
+      "Sasani Devleti",
+      "Vizigot Krallığı",
+      "Vandal Krallığı"
+    ],
+    "answer": "B",
+    "explanation": "Her iki antlaşmanın karşı tarafı Doğu Roma, yani Bizans’tır. Papa I. Leo’nun Attila’ya gönderildiği görüşme ise Batı Roma ve İtalya Seferi bağlamındadır. Aynı hükümdarın farklı Roma devletleriyle ilişkileri ayrı değerlendirilmelidir.",
+    "sources": [
+      {
+        "title": "MEB – Uldız dönemi ve Margus Antlaşması",
+        "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/tarih/9/unite4/files/basic-html/page29.html"
+      },
+      {
+        "title": "MEB – Anatolios Antlaşması ve Papa I. Leo heyeti",
+        "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/tarih/9/unite4/files/basic-html/page30.html"
+      }
+    ]
+  },
+  {
+    "id": "EHUN-007",
+    "topic": "Avrupa Hun Devleti",
+    "skill": "Bilgi",
+    "stem": "Attila’nın Etzel adıyla yer aldığı destan aşağıdakilerden hangisidir?",
+    "difficulty": "Kolay",
+    "options": [
+      "Şehnâme",
+      "Oğuz Kağan Destanı",
+      "Manas Destanı",
+      "Nibelungen Destanı",
+      "Dede Korkut Hikâyeleri"
+    ],
+    "answer": "D",
+    "explanation": "Etzel, Alman destan geleneğindeki Nibelungen’de Attila’yla ilişkilendirilen addır. Şehnâme’de ise İran-Turan mücadeleleri ve Efrâsiyâb anlatıları öne çıkar. Edebî eserde kullanılan ad ile hükümdarın tarihsel adı farklı olabilir.",
+    "sources": [
+      {
+        "title": "Aile ve Sosyal Hizmetler Bakanlığı – Ahi Çocuk, Attila ve Etzel",
+        "url": "https://aile.gov.tr/media/193678/ahicocuk.pdf"
+      },
+      {
+        "title": "MEB – İslamiyet Öncesi Türk Devletleri: Nibelungen ve Attila",
+        "url": "https://img.eba.gov.tr/754/3cf/305/20a/91b/564/094/84c/07a/7ed/15d/6b2/83b/07a/003/7543cf30520a91b56409484c07a7ed15d6b283b07a003.pdf"
+      }
+    ]
+  },
+  {
+    "id": "EHUN-008",
+    "topic": "Avrupa Hun Devleti",
+    "skill": "Bilgi",
+    "stem": "452 yılındaki İtalya Seferi sırasında Attila’dan Roma’yı esirgemesini isteyen heyette yer alan dinî lider aşağıdakilerden hangisidir?",
+    "difficulty": "Kolay",
+    "options": [
+      "Papa I. Leo",
+      "Efraim",
+      "Priskos",
+      "Jordanes",
+      "Anatolios"
+    ],
+    "answer": "A",
+    "explanation": "Papa I. Leo, Attila’yla görüşen Roma heyetinde yer almıştır. Görüşme 452’deki İtalya Seferi sırasında gerçekleşmiştir. Anatolios adı ise daha önce Doğu Roma’yla yapılan antlaşmayla ilişkilidir; iki olay aynı değildir.",
+    "sources": [
+      {
+        "title": "MEB – Anatolios Antlaşması ve Papa I. Leo heyeti",
+        "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/tarih/9/unite4/files/basic-html/page30.html"
+      },
+      {
+        "title": "MEB – Attila ve Papa I. Leo, 452 İtalya Seferi",
+        "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/beceri_temelli/9/tarih/files/basic-html/page171.html"
+      }
+    ]
+  },
+  {
+    "id": "EHUN-009",
+    "topic": "Avrupa Hun Devleti",
+    "skill": "Bilgi ve yorum",
+    "stem": "Attila’nın adlandırılması ve kültürel etkileri hakkında aşağıdaki yargılardan hangisi yanlıştır?",
+    "difficulty": "Orta",
+    "options": [
+      "Tanrı’nın Kırbacı nitelemesi Attila’yla ilişkilendirilir.",
+      "Cesur Kavimlerin Efendisi nitelemesi Attila için kullanılır.",
+      "Etzel, Avrupa Hunlarının bütün hükümdarları için kullandığı resmî makam adıdır.",
+      "Nibelungen’deki Etzel adı Attila’yla ilişkilendirilir.",
+      "Tarihsel bir hükümdar, farklı kültürlerin edebî anlatılarına konu olabilir."
+    ],
+    "answer": "C",
+    "explanation": "Etzel bir hükümdarlık makamının genel unvanı değil, Nibelungen’de Attila’yla ilişkilendirilen addır. Tanrı’nın Kırbacı ve Cesur Kavimlerin Efendisi ise onun için kullanılan nitelemelerdir. Edebî ad, niteleme ve resmî yönetim unvanı birbirinden ayrılmalıdır.",
+    "sources": [
+      {
+        "title": "Aile ve Sosyal Hizmetler Bakanlığı – Ahi Çocuk, Attila ve Etzel",
+        "url": "https://aile.gov.tr/media/193678/ahicocuk.pdf"
+      },
+      {
+        "title": "MEB – İslamiyet Öncesi Türk Devletleri: Nibelungen ve Attila",
+        "url": "https://img.eba.gov.tr/754/3cf/305/20a/91b/564/094/84c/07a/7ed/15d/6b2/83b/07a/003/7543cf30520a91b56409484c07a7ed15d6b283b07a003.pdf"
+      }
+    ]
+  },
+  {
+    "id": "EHUN-010",
+    "topic": "Avrupa Hun Devleti",
+    "skill": "Yorum",
+    "stem": "Efraim’e atfedilen Hun tasvirinde atlı savaşçılar, Yecüc ve Mecüc gibi dinî imgelerle anlatılmaktadır.\n\nBu anlatım öncelikle aşağıdakilerden hangisi hakkında bilgi verir?",
+    "difficulty": "Orta",
+    "options": [
+      "Hun yönetiminde din adamlarının yetkileri",
+      "Hun ordusunun resmî birlik adları",
+      "Hunların benimsediği kutsal metinler",
+      "Hunların kendi kökenleri hakkındaki ortak görüşü",
+      "Anlatıcının Hunları algılama ve anlamlandırma biçimi"
+    ],
+    "answer": "E",
+    "explanation": "Bir topluluğu dışarıdan gözleyen yazarın benzetmesi, öncelikle onun bakış açısını gösterir. Bu ifadeden Hunların aynı dinî inancı paylaştığı veya kendilerini böyle tanımladığı sonucu çıkarılamaz. Kaynağı kullanırken gözlemle yorumun ayrılması gerekir.",
+    "sources": [
+      {
+        "title": "Türk Dünyası Araştırmaları – Kafkasya Hunları ve Efraim anlatısı",
+        "url": "https://makale.isam.org.tr/server/api/core/bitstreams/befd8d89-d2fb-4a68-a11f-1e318aafbab6/content"
+      }
+    ]
+  },
+  {
+    "id": "EHUN-011",
+    "topic": "Avrupa Hun Devleti",
+    "skill": "Bilgi ve yorum",
+    "stem": "Uldız’ın güneşin battığı yere kadar uzanan alanları ele geçirebileceğini belirtmesi, aşağıdaki düşüncelerden hangisiyle en doğrudan ilişkilendirilebilir?",
+    "difficulty": "Orta",
+    "options": [
+      "Cihan hâkimiyeti anlayışı",
+      "Veraset düzenini sınırlandırma",
+      "Yerel beylerin bağımsızlığı",
+      "Ticari ayrıcalıklardan vazgeçme",
+      "Yerleşik tarımı yaygınlaştırma"
+    ],
+    "answer": "A",
+    "explanation": "Geniş coğrafyalarda egemenlik kurma iddiası cihan hâkimiyeti anlayışını yansıtır. Burada bir siyasi hedef ve güç iddiası dile getirilmektedir. Sözün söylenmiş olması, hedeflenen bütün toprakların gerçekten ele geçirildiğini kanıtlamaz.",
+    "sources": [
+      {
+        "title": "Ahmet Taşağıl – Huing-nu, Hun ilişkisi; Uldız anlatısı",
+        "url": "https://ahmettasagil.wordpress.com/wp-content/uploads/2010/10/huing-nuhuniliskisi.pdf"
+      }
+    ]
+  },
+  {
+    "id": "EHUN-012",
+    "topic": "Avrupa Hun Devleti",
+    "skill": "Yorum",
+    "stem": "Attila’nın, hükümdarlığından yüzyıllar sonra oluşan Alman destan geleneğinde Etzel adıyla yer alması aşağıdakilerden hangisini destekler?",
+    "difficulty": "Orta",
+    "options": [
+      "Destanların bütün olayları yaşandığı sırada kayda geçirdiğini",
+      "Alman siyasi kurumlarının Hun kurumlarıyla aynı olduğunu",
+      "Edebî adların hükümdarlarca resmen belirlendiğini",
+      "Siyasi kişiliklerin farklı toplumların kültürel belleğinde yaşayabildiğini",
+      "Hunların kullandığı dilin destanın yazıldığı dille aynı olduğunu"
+    ],
+    "answer": "D",
+    "explanation": "Tarihsel bir kişinin farklı bir toplumun destanında yer alması, kültürel bellekte bıraktığı izi gösterir. Destanların olayları aynen ve yaşandıkları anda kaydettiği anlamına gelmez. Dil veya kurumların aynı olduğu sonucuna varmak için başka kanıtlar gerekir.",
+    "sources": [
+      {
+        "title": "MEB – İslamiyet Öncesi Türk Devletleri: Nibelungen ve Attila",
+        "url": "https://img.eba.gov.tr/754/3cf/305/20a/91b/564/094/84c/07a/7ed/15d/6b2/83b/07a/003/7543cf30520a91b56409484c07a7ed15d6b283b07a003.pdf"
+      }
+    ]
+  },
+  {
+    "id": "EHUN-013",
+    "topic": "Avrupa Hun Devleti",
+    "skill": "Bilgi ve yorum",
+    "stem": "Margos Antlaşması’nda Doğu Roma’nın Hunlara bağlı topluluklarla ayrı antlaşmalar yapmaması istenmiştir.\n\nBu hükümle Hunların öncelikle aşağıdakilerden hangisini amaçladığı söylenebilir?",
+    "difficulty": "Orta",
+    "options": [
+      "Doğu Roma’da dinî birliği sağlamayı",
+      "Bağlı topluluklar üzerindeki siyasi otoritesini korumayı",
+      "Roma’nın ticari gelirlerini artırmayı",
+      "Bağlı topluluklara bağımsız dış politika hakkı vermeyi",
+      "Hun ordusunun komutasını Roma’ya bırakmayı"
+    ],
+    "answer": "B",
+    "explanation": "Bağlı toplulukların dış güçle ayrı antlaşmalar yapması, Hun merkezî otoritesinin etkisini azaltabilir. Bu hüküm o ilişkiyi sınırlayarak siyasi bağlılığı korumayı hedefler. Bağımsız dış politika hakkı tanımak ise hükmün tersine bir sonuçtur.",
+    "sources": [
+      {
+        "title": "MEB – Uldız dönemi ve Margus Antlaşması",
+        "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/tarih/9/unite4/files/basic-html/page29.html"
+      }
+    ]
+  },
+  {
+    "id": "EHUN-014",
+    "topic": "Avrupa Hun Devleti",
+    "skill": "Bilgi ve yorum",
+    "stem": "Anatolyos Antlaşması’nda Doğu Roma’nın savaş tazminatı ödemesi ve sınır çevresinde asker bulundurabileceği alanların sınırlandırılması öngörülmüştür.\n\nBu hükümler Doğu Roma’nın;\nI. mali yükümlülükleri,\nII. askerî hareket alanı,\nIII. resmî dini\nkonularından hangileri üzerinde doğrudan etkilidir?",
+    "difficulty": "Orta",
+    "options": [
+      "Yalnız I",
+      "Yalnız II",
+      "I ve II",
+      "I ve III",
+      "I, II ve III"
+    ],
+    "answer": "C",
+    "explanation": "Tazminat mali yükümlülük, asker bulundurulabilecek alanların sınırlandırılması askerî hareket alanıyla ilgilidir. Dolayısıyla I ve II doğrudan etkilenir. Bu hükümler resmî dinin değiştirilmesini öngörmez; III’e ilişkin bilgi verilmemiştir.",
+    "sources": [
+      {
+        "title": "MEB – Avrupa Hunlarının antlaşma hükümleri",
+        "url": "https://orgm.meb.gov.tr/ekpssmebozel/content/magazines/pdf/tarih2.pdf"
+      }
+    ]
+  },
+  {
+    "id": "EHUN-015",
+    "topic": "Avrupa Hun Devleti",
+    "skill": "Yorum",
+    "stem": "Attila’nın İtalya’ya ilerlemesi üzerine Roma yönetimi, Papa I. Leo’nun da yer aldığı bir heyeti görüşmeye göndermiştir.\n\nBu gelişme aşağıdakilerden hangisinin örneğidir?",
+    "difficulty": "Orta",
+    "options": [
+      "Dinî liderin Roma ordusunun başkomutanlığına getirilmesinin",
+      "Doğu Roma’nın Hun yönetimine katılmasının",
+      "Hunların Hristiyanlığı devlet dini olarak kabul etmesinin",
+      "Roma’nın Hunlara karşı bir deniz ittifakı kurmasının",
+      "Askerî bir tehdide diplomatik girişimle karşılık verilmesinin"
+    ],
+    "answer": "E",
+    "explanation": "Heyet gönderilmesi, askerî ilerleyiş karşısında görüşme yoluyla çözüm arandığını gösterir. Heyette dinî bir lider bulunması, onun ordunun komutasını aldığı veya Hunların din değiştirdiği anlamına gelmez. Olay Batı Roma’yla ilişkilidir.",
+    "sources": [
+      {
+        "title": "MEB – Attila ve Papa I. Leo, 452 İtalya Seferi",
+        "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/beceri_temelli/9/tarih/files/basic-html/page171.html"
+      }
+    ]
+  },
+  {
+    "id": "EHUN-016",
+    "topic": "Avrupa Hun Devleti",
+    "skill": "Bilgi ve yorum",
+    "stem": "Uldız döneminde Doğu Roma baskı altında tutulurken Batı Roma ile iyi ilişkiler kurulmuştur.\n\nBu yaklaşım aşağıdakilerden hangisini gösterir?",
+    "difficulty": "Orta",
+    "options": [
+      "Roma’nın iki kanadının Hun yönetiminde birleştiğini",
+      "Aynı dönemde farklı devletlere karşı farklı politikalar izlenebildiğini",
+      "Hunların askerî faaliyetlerini sona erdirdiğini",
+      "Batı Roma’nın Hunların iç yönetimini belirlediğini",
+      "Doğu Roma ile ticaretin kalıcı olarak kaldırıldığını"
+    ],
+    "answer": "B",
+    "explanation": "Doğu Roma’ya baskı ile Batı Roma’yla iş birliğinin birlikte yürütülmesi, dış politikanın karşıdaki güce göre farklılaşabildiğini gösterir. İyi ilişkiler bağımsızlığın devri demek değildir. Doğu Roma’ya baskı kurulması da ticaretin bütünüyle sona erdiğini kanıtlamaz.",
+    "sources": [
+      {
+        "title": "MEB – Uldız dönemi ve Margus Antlaşması",
+        "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/tarih/9/unite4/files/basic-html/page29.html"
+      }
+    ]
+  },
+  {
+    "id": "EHUN-017",
+    "topic": "Avrupa Hun Devleti",
+    "skill": "Bilgi",
+    "stem": "I. Papa I. Leo’nun Attila’yla görüşmesi\nII. Margos Antlaşması\nIII. Anatolyos Antlaşması\n\nBu gelişmelerin eskiden yeniye doğru sıralanışı aşağıdakilerden hangisidir?",
+    "difficulty": "Orta",
+    "options": [
+      "I – II – III",
+      "II – I – III",
+      "III – II – I",
+      "II – III – I",
+      "III – I – II"
+    ],
+    "answer": "D",
+    "explanation": "Önce Margos, ardından 447’de Anatolyos Antlaşması yapılmıştır. Papa I. Leo’nun görüşmesi 452’deki İtalya Seferi sırasında gerçekleşir. Böylece sıra II–III–I olur; Papa görüşmesi Anatolyos Antlaşması’nın bir parçası değildir.",
+    "sources": [
+      {
+        "title": "MEB – Uldız dönemi ve Margus Antlaşması",
+        "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/tarih/9/unite4/files/basic-html/page29.html"
+      },
+      {
+        "title": "MEB – Anatolios Antlaşması ve Papa I. Leo heyeti",
+        "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/tarih/9/unite4/files/basic-html/page30.html"
+      }
+    ]
+  },
+  {
+    "id": "EHUN-018",
+    "topic": "Avrupa Hun Devleti",
+    "skill": "Bilgi ve yorum",
+    "stem": "Avrupa Hun Devleti’nin Roma dünyasıyla ilişkileri hakkında aşağıdakilerden hangisi yanlıştır?",
+    "difficulty": "Orta",
+    "options": [
+      "Papa I. Leo, Anatolyos Antlaşması’nı Doğu Roma adına imzalamıştır.",
+      "Margos Antlaşması’nın taraflarından biri Doğu Roma’dır.",
+      "Anatolyos Antlaşması Balkan seferleriyle ilişkilidir.",
+      "Papa I. Leo’nun Attila’yla görüşmesi İtalya Seferi sırasında gerçekleşmiştir.",
+      "Attila hem Doğu hem Batı Roma’yla siyasi ilişkiler kurmuştur."
+    ],
+    "answer": "A",
+    "explanation": "Papa I. Leo’nun 452’deki görüşmesi ile 447’deki Anatolyos Antlaşması ayrı olaylardır. Anatolyos Doğu Roma’yla, Papa heyeti ise Batı Roma’nın İtalya’daki durumu ile ilişkilidir. Aynı kişiyle barış görüşmesi yapılmış olması bütün görüşmeleri tek antlaşma hâline getirmez.",
+    "sources": [
+      {
+        "title": "MEB – Anatolios Antlaşması ve Papa I. Leo heyeti",
+        "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/tarih/9/unite4/files/basic-html/page30.html"
+      },
+      {
+        "title": "MEB – Attila ve Papa I. Leo, 452 İtalya Seferi",
+        "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/beceri_temelli/9/tarih/files/basic-html/page171.html"
+      }
+    ]
+  },
+  {
+    "id": "EHUN-019",
+    "topic": "Avrupa Hun Devleti",
+    "skill": "Bilgi ve yorum",
+    "stem": "Margos Antlaşması’ndaki;\nI. Hunlara bağlı kavimlerle ayrı antlaşma yapılmaması,\nII. Hunlardan kaçanların geri verilmesi,\nIII. ticaretin belirli sınır kasabalarında sürdürülmesi\nhükümlerinden hangileri, Hun yönetiminin insan toplulukları üzerindeki siyasi denetimini korumasıyla daha doğrudan ilişkilidir?",
+    "difficulty": "Zor",
+    "options": [
+      "Yalnız I",
+      "Yalnız III",
+      "II ve III",
+      "I, II ve III",
+      "I ve II"
+    ],
+    "answer": "E",
+    "explanation": "I, bağlı kavimlerin dış güçle ayrı siyasi ilişkiler kurmasını; II, kaçanların dışarıda korunmasını sınırlar. İkisi de yönetimin topluluklar ve kişiler üzerindeki denetimini destekler. III ise doğrudan ticaretin yürütüleceği yerleri düzenler; öncelikli işlevi ekonomik ilişkidir.",
+    "sources": [
+      {
+        "title": "MEB – Uldız dönemi ve Margus Antlaşması",
+        "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/tarih/9/unite4/files/basic-html/page29.html"
+      }
+    ]
+  },
+  {
+    "id": "EHUN-020",
+    "topic": "Avrupa Hun Devleti",
+    "skill": "Yorum",
+    "stem": "Bir barış düzenlemesinde Doğu Roma’nın Hunlara ödeme yapması, sınırdaki askerî faaliyetlerine sınırlama getirilmesi ve ticaretin belirlenen merkezlerde sürdürülmesi kararlaştırılmıştır.\n\nYalnız bu hükümlerden hareketle aşağıdakilerden hangisine ulaşılamaz?",
+    "difficulty": "Zor",
+    "options": [
+      "Barışın mali bir yükümlülük içerdiğine",
+      "Askerî faaliyetin antlaşma konusu olduğuna",
+      "Doğu Roma’nın iç yönetiminin Hun memurlarına devredildiğine",
+      "Taraflar arasındaki ekonomik ilişkinin sürdürülmesinin öngörüldüğüne",
+      "Doğu Roma’nın sınırdaki hareket serbestisinin sınırlandığına"
+    ],
+    "answer": "C",
+    "explanation": "Mali ödeme ve askerî kısıtlama, Doğu Roma’nın iç yönetiminin devredildiğini göstermez. Bu sonuç için yöneticilerin atanması ve idarenin devri hakkında hüküm gerekir. Diğer dört seçenek ödeme, askerî sınırlandırma ve ticaret maddelerinde doğrudan karşılık bulur.",
+    "sources": [
+      {
+        "title": "MEB – Avrupa Hunlarının antlaşma hükümleri",
+        "url": "https://orgm.meb.gov.tr/ekpssmebozel/content/magazines/pdf/tarih2.pdf"
+      }
+    ]
+  },
+  {
+    "id": "EHUN-021",
+    "topic": "Avrupa Hun Devleti",
+    "skill": "Yorum",
+    "stem": "Uldız, Batı Roma’yla iyi ilişkiler kurarken Doğu Roma’yı baskı altında tutmuştur. Attila ise Doğu Roma’yla yapılan antlaşmaların ardından Batı Roma’ya yönelik seferlere girişmiştir.\n\nBu bilgiler birlikte değerlendirildiğinde aşağıdaki yargılardan hangisine ulaşılabilir?",
+    "difficulty": "Zor",
+    "options": [
+      "Dış ilişkilerdeki dostluk ve mücadele tercihleri zaman içinde değişebilir.",
+      "Batı Roma, Hunların kuruluşundan itibaren değişmeyen tek rakibidir.",
+      "Hunların Batı Roma politikasını Doğu Roma yönetimi belirlemiştir.",
+      "Uldız ile Attila aynı anda farklı bölgelerde hüküm sürmüştür.",
+      "Doğu Roma’yla antlaşma yapılması Batı Roma’yla savaşı zorunlu kılmıştır."
+    ],
+    "answer": "A",
+    "explanation": "Batı Roma’yla önce iyi ilişkiler kurulması, daha sonra askerî mücadeleye girilmesi dış politikada değişimi gösterir. Ancak olayların ardışıklığı, antlaşmanın Batı Roma seferlerini zorunlu olarak doğurduğunu kanıtlamaz. Aynı politika veya aynı hükümdarlık dönemi varsayılmamalıdır.",
+    "sources": [
+      {
+        "title": "MEB – Uldız dönemi ve Margus Antlaşması",
+        "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/tarih/9/unite4/files/basic-html/page29.html"
+      },
+      {
+        "title": "MEB – Anatolios Antlaşması ve Papa I. Leo heyeti",
+        "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/tarih/9/unite4/files/basic-html/page30.html"
+      }
+    ]
+  },
+  {
+    "id": "EHUN-022",
+    "topic": "Avrupa Hun Devleti",
+    "skill": "Yorum",
+    "stem": "Attila bir anlatı geleneğinde korku uyandıran Tanrı’nın Kırbacı nitelemesiyle, başka bir anlatı geleneğinde Nibelungen’in Etzel karakteriyle hatırlanmaktadır.\n\nBu durumdan;\nI. tarihsel kişilerin farklı kültürlerde farklı biçimlerde temsil edilebildiği,\nII. anlatıların toplumların algılarına ilişkin veri sağlayabildiği,\nIII. farklı adlarla anılan kişinin mutlaka iki ayrı hükümdar olduğu\nyargılarından hangilerine ulaşılabilir?",
+    "difficulty": "Zor",
+    "options": [
+      "Yalnız I",
+      "Yalnız II",
+      "I ve III",
+      "I ve II",
+      "I, II ve III"
+    ],
+    "answer": "D",
+    "explanation": "Aynı hükümdarın farklı anlatılarda farklı ad ve nitelemelerle yer alması I’i; bu temsillerin farklı algılar taşıması II’yi destekler. Adların farklı olması tek başına kişilerin farklı olduğunu göstermez. Edebî temsil ile tarihsel kimlik ayrı değerlendirilmelidir.",
+    "sources": [
+      {
+        "title": "Aile ve Sosyal Hizmetler Bakanlığı – Ahi Çocuk, Attila ve Etzel",
+        "url": "https://aile.gov.tr/media/193678/ahicocuk.pdf"
+      },
+      {
+        "title": "MEB – İslamiyet Öncesi Türk Devletleri: Nibelungen ve Attila",
+        "url": "https://img.eba.gov.tr/754/3cf/305/20a/91b/564/094/84c/07a/7ed/15d/6b2/83b/07a/003/7543cf30520a91b56409484c07a7ed15d6b283b07a003.pdf"
+      }
+    ]
+  },
+  {
+    "id": "EHUN-023",
+    "topic": "Avrupa Hun Devleti",
+    "skill": "Yorum",
+    "stem": "452’de Attila’nın İtalya’ya ilerlemesi sırasında Roma yönetimi görüşme için Papa I. Leo’nun da bulunduğu bir heyet göndermiştir. Görüşmenin ardından Hun ordusu İtalya’dan çekilmiştir.\n\nYalnız bu bilgilerden hareketle aşağıdakilerden hangisine ulaşılamaz?",
+    "difficulty": "Zor",
+    "options": [
+      "Roma yönetiminin müzakere yoluna başvurduğuna",
+      "Geri çekilme kararının tek nedeninin Papa’nın kişisel etkisi olduğuna",
+      "Heyette dinî bir temsilcinin bulunduğuna",
+      "Diplomatik girişimin askerî bir sefer sırasında gerçekleştiğine",
+      "Görüşmenin geri çekilmeden önce yapıldığına"
+    ],
+    "answer": "B",
+    "explanation": "Görüşmeden sonra çekilme olması, kararın tek nedeninin Papa’nın kişisel etkisi olduğunu kanıtlamaz. Başka askerî, iktisadi veya siyasi etkenleri değerlendirmek için ek bilgi gerekir. Diğer dört seçenek olayın verilen kişi, yöntem ve zaman bilgilerine dayanır.",
+    "sources": [
+      {
+        "title": "MEB – Attila ve Papa I. Leo, 452 İtalya Seferi",
+        "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/beceri_temelli/9/tarih/files/basic-html/page171.html"
+      }
+    ]
+  },
+  {
+    "id": "EHUN-024",
+    "topic": "Avrupa Hun Devleti",
+    "skill": "Bilgi ve yorum",
+    "stem": "Bir araştırmacı, Avrupa Hunlarının Roma’yla ilişkilerinde askerî gücün yanında diplomasi ve siyasi denetim araçlarından da yararlandığını savunmaktadır.\n\nAşağıdakilerden hangisi bu görüşü doğrudan destekleyen bir kanıt değildir?",
+    "difficulty": "Zor",
+    "options": [
+      "Barış hükümlerinde ödeme yükümlülüklerinin düzenlenmesi",
+      "Hunlara bağlı kavimlerle ayrı antlaşma yapılmasının yasaklanması",
+      "Attila’nın Nibelungen Destanı’nda Etzel adıyla yer alması",
+      "Roma’dan gelen barış heyetiyle görüşülmesi",
+      "Sınır çevresindeki askerî faaliyetlerin antlaşmayla sınırlandırılması"
+    ],
+    "answer": "C",
+    "explanation": "Etzel adı kültürel ve edebî etki hakkında bilgi verir; bir diplomatik uygulamanın veya siyasi denetim aracının doğrudan kanıtı değildir. Diğer seçenekler antlaşma hükümleri veya resmî görüşme yoluyla ilişkilerin düzenlenmesini gösterir. Tarihsel önem ile belirli bir iddiayı destekleme gücü aynı ölçüt değildir.",
+    "sources": [
+      {
+        "title": "MEB – Uldız dönemi ve Margus Antlaşması",
+        "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/tarih/9/unite4/files/basic-html/page29.html"
+      },
+      {
+        "title": "MEB – Attila ve Papa I. Leo, 452 İtalya Seferi",
+        "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/beceri_temelli/9/tarih/files/basic-html/page171.html"
+      },
+      {
+        "title": "MEB – İslamiyet Öncesi Türk Devletleri: Nibelungen ve Attila",
+        "url": "https://img.eba.gov.tr/754/3cf/305/20a/91b/564/094/84c/07a/7ed/15d/6b2/83b/07a/003/7543cf30520a91b56409484c07a7ed15d6b283b07a003.pdf"
+      },
+      {
+        "title": "MEB – Avrupa Hunlarının antlaşma hükümleri",
+        "url": "https://orgm.meb.gov.tr/ekpssmebozel/content/magazines/pdf/tarih2.pdf"
+      }
+    ]
+  }
+]
+

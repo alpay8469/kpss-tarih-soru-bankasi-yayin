@@ -1,0 +1,566 @@
+{
+  "title": "KPSS Tarih — Avrupa Hun Devleti",
+  "unit": null,
+  "date": "2026-10-10",
+  "question_count": 24,
+  "sources": {
+    "EH1": {
+      "title": "MEB – Avrupa Hunlarının kuruluşu, merkezi ve hükümdarları",
+      "url": "https://ogmmateryal.eba.gov.tr/panel/upload/files/ktjwzblfjdt.pdf"
+    },
+    "EH2": {
+      "title": "MEB – Uldız dönemi ve Margus Antlaşması",
+      "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/tarih/9/unite4/files/basic-html/page29.html"
+    },
+    "EH3": {
+      "title": "MEB – Anatolios Antlaşması ve Papa I. Leo heyeti",
+      "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/tarih/9/unite4/files/basic-html/page30.html"
+    },
+    "EH4": {
+      "title": "MEB – Attila ve Papa I. Leo, 452 İtalya Seferi",
+      "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/beceri_temelli/9/tarih/files/basic-html/page171.html"
+    },
+    "EH5": {
+      "title": "Yusuf Gedikli – IV.–V. yüzyıllarda Kafkasya Hunları; Efraim anlatısı, Türk Dünyası Araştırmaları 215, s.170",
+      "url": "https://www.tdadergi.com/arsiv/215_Arastirma.pdf#page=171"
+    },
+    "EH6": {
+      "title": "Ahmet Taşağıl – Huing-nu, Hun ilişkisi; Uldız anlatısı",
+      "url": "https://ahmettasagil.wordpress.com/wp-content/uploads/2010/10/huing-nuhuniliskisi.pdf"
+    },
+    "EH7": {
+      "title": "Aile ve Sosyal Hizmetler Bakanlığı – Ahi Çocuk, Attila ve Etzel",
+      "url": "https://aile.gov.tr/media/193678/ahicocuk.pdf"
+    },
+    "EH8": {
+      "title": "MEB – İslamiyet Öncesi Türk Devletleri: Nibelungen ve Attila",
+      "url": "https://img.eba.gov.tr/754/3cf/305/20a/91b/564/094/84c/07a/7ed/15d/6b2/83b/07a/003/7543cf30520a91b56409484c07a7ed15d6b283b07a003.pdf"
+    },
+    "EH9": {
+      "title": "MEB – Avrupa Hunlarının antlaşma hükümleri",
+      "url": "https://orgm.meb.gov.tr/ekpssmebozel/content/magazines/pdf/tarih2.pdf"
+    },
+    "K1": {
+      "title": "MEB – Defterim Tarih 9, Kavimler Göçü ve Avrupa Hunları, s.124",
+      "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/defterim/9/tarih/files/basic-html/page124.html"
+    }
+  },
+  "questions": [
+    {
+      "id": "EHUN-001",
+      "revision": 1,
+      "topic": "Avrupa Hun Devleti",
+      "subtopic": "Kuruluş ve merkez",
+      "skill": "Bilgi",
+      "stem": "Avrupa Hun Devleti’nin kurucusu olarak kabul edilen hükümdar aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Uldız",
+        "Rua",
+        "Balamir",
+        "Attila",
+        "Mete Han"
+      ],
+      "answer": "C",
+      "explanation": "Balamir, Hunların batıya ilerleyişi ve Avrupa Hun Devleti’nin kuruluşuyla ilişkilendirilir. Attila ise devletin en parlak döneminin hükümdarıdır. Kuruluş ile siyasi gücün doruğa ulaşması aynı dönemi ifade etmez.",
+      "sources": [
+        "EH1"
+      ]
+    },
+    {
+      "id": "EHUN-002",
+      "revision": 1,
+      "topic": "Avrupa Hun Devleti",
+      "subtopic": "Kuruluş ve merkez",
+      "skill": "Bilgi",
+      "stem": "Avrupa Hun Devleti’nin Orta Avrupa’daki merkez sahası, günümüzde ağırlıklı olarak aşağıdaki ülkelerden hangisinin topraklarıyla ilişkilendirilir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Macaristan",
+        "Polonya",
+        "Yunanistan",
+        "İtalya",
+        "Fransa"
+      ],
+      "answer": "A",
+      "explanation": "Merkez sahası bugünkü Macaristan coğrafyasıyla ilişkilidir. Bu ifade modern Macaristan devletinin o dönemde var olduğu veya Hun sınırlarının bugünkü ülke sınırlarıyla aynı olduğu anlamına gelmez. İtalya ve Galya ise Attila’nın sefer düzenlediği alanlardır.",
+      "sources": [
+        "EH1"
+      ]
+    },
+    {
+      "id": "EHUN-003",
+      "revision": 1,
+      "topic": "Avrupa Hun Devleti",
+      "subtopic": "Efraim ve Hun algısı",
+      "skill": "Bilgi",
+      "stem": "Süryani yazar Efraim’e atfedilen anlatılarda Yecüc ve Mecüc benzetmesiyle tasvir edilen atlı topluluk aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Avarlar",
+        "Peçenekler",
+        "Macarlar",
+        "Kıpçaklar",
+        "Hunlar"
+      ],
+      "answer": "E",
+      "explanation": "Bu benzetme Hun atlıları için kullanılır. Dinsel bir imgeyle yapılan tasvir, anlatıcının Hunlara yönelik algısını yansıtır. Topluluğun gerçek kökeninin dinî anlatılardaki varlıklara dayandığını gösteren bir kanıt değildir.",
+      "sources": [
+        "EH5"
+      ]
+    },
+    {
+      "id": "EHUN-004",
+      "revision": 1,
+      "topic": "Avrupa Hun Devleti",
+      "subtopic": "Uldız ve hâkimiyet anlayışı",
+      "skill": "Bilgi",
+      "stem": "Bizans elçisine “Güneşin battığı yere kadar her yeri zapt edebilirim.” dediği aktarılan Hun hükümdarı aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Balamir",
+        "Uldız",
+        "Rua",
+        "Attila",
+        "Çiçi"
+      ],
+      "answer": "B",
+      "explanation": "Söz Uldız’a atfedilir. Geniş alanlarda hâkimiyet kurma iddiasını ve karşısındaki güce meydan okuyan tutumunu yansıtır. Attila’nın Avrupa’daki ünüyle, Çiçi’nin siyasi bağımsızlığı savunan sözleriyle karıştırılmamalıdır.",
+      "sources": [
+        "EH6"
+      ]
+    },
+    {
+      "id": "EHUN-005",
+      "revision": 1,
+      "topic": "Avrupa Hun Devleti",
+      "subtopic": "Attila dönemi",
+      "skill": "Bilgi",
+      "stem": "Avrupa Hun Devleti en parlak dönemini aşağıdaki hükümdarlardan hangisinin yönetiminde yaşamıştır?",
+      "difficulty": "Kolay",
+      "options": [
+        "Balamir",
+        "Uldız",
+        "Rua",
+        "Attila",
+        "İrnek"
+      ],
+      "answer": "D",
+      "explanation": "En parlak dönem Attila’nın hükümdarlığıdır. Doğu Roma’yla yapılan antlaşmalar ve Batı Roma’ya yönelen seferler bu dönemin siyasi ve askerî ağırlığını gösterir. Balamir’in kurucu olarak bilinmesi, en parlak dönemi de onun yaşattığı anlamına gelmez.",
+      "sources": [
+        "EH1"
+      ]
+    },
+    {
+      "id": "EHUN-006",
+      "revision": 1,
+      "topic": "Avrupa Hun Devleti",
+      "subtopic": "Bizans antlaşmaları",
+      "skill": "Bilgi",
+      "stem": "Margos (Margus) ve Anatolyos (Anatolios) antlaşmaları, Avrupa Hun Devleti ile aşağıdaki devletlerden hangisi arasında yapılmıştır?",
+      "difficulty": "Kolay",
+      "options": [
+        "Batı Roma İmparatorluğu",
+        "Doğu Roma İmparatorluğu",
+        "Sasani Devleti",
+        "Vizigot Krallığı",
+        "Vandal Krallığı"
+      ],
+      "answer": "B",
+      "explanation": "Her iki antlaşmanın karşı tarafı Doğu Roma, yani Bizans’tır. Papa I. Leo’nun Attila’ya gönderildiği görüşme ise Batı Roma ve İtalya Seferi bağlamındadır. Aynı hükümdarın farklı Roma devletleriyle ilişkileri ayrı değerlendirilmelidir.",
+      "sources": [
+        "EH2",
+        "EH3"
+      ]
+    },
+    {
+      "id": "EHUN-007",
+      "revision": 1,
+      "topic": "Avrupa Hun Devleti",
+      "subtopic": "Attila’nın unvanları ve kültürel mirası",
+      "skill": "Bilgi",
+      "stem": "Attila’nın Etzel adıyla yer aldığı destan aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Şehnâme",
+        "Oğuz Kağan Destanı",
+        "Manas Destanı",
+        "Nibelungen Destanı",
+        "Dede Korkut Hikâyeleri"
+      ],
+      "answer": "D",
+      "explanation": "Etzel, Alman destan geleneğindeki Nibelungen’de Attila’yla ilişkilendirilen addır. Şehnâme’de ise İran-Turan mücadeleleri ve Efrâsiyâb anlatıları öne çıkar. Edebî eserde kullanılan ad ile hükümdarın tarihsel adı farklı olabilir.",
+      "sources": [
+        "EH3"
+      ]
+    },
+    {
+      "id": "EHUN-008",
+      "revision": 1,
+      "topic": "Avrupa Hun Devleti",
+      "subtopic": "İtalya Seferi ve Papa I. Leo",
+      "skill": "Bilgi",
+      "stem": "452 yılındaki İtalya Seferi sırasında Attila’dan Roma’yı esirgemesini isteyen heyette aşağıdaki kişilerden hangisi yer almıştır?",
+      "difficulty": "Orta",
+      "options": [
+        "Papa I. Leo",
+        "Efraim",
+        "Priskos",
+        "Jordanes",
+        "Anatolios"
+      ],
+      "answer": "A",
+      "explanation": "Papa I. Leo, Attila’yla görüşen Roma heyetinde yer almıştır. Görüşme 452’deki İtalya Seferi sırasında gerçekleşmiştir. Anatolios adı ise daha önce Doğu Roma’yla yapılan antlaşmayla ilişkilidir; iki olay aynı değildir.",
+      "sources": [
+        "EH3",
+        "EH4"
+      ]
+    },
+    {
+      "id": "EHUN-009",
+      "revision": 1,
+      "topic": "Avrupa Hun Devleti",
+      "subtopic": "Attila’nın unvanları ve kültürel mirası",
+      "skill": "Bilgi ve yorum",
+      "stem": "Attila’nın adlandırılması ve kültürel etkileri hakkında aşağıdaki yargılardan hangisi yanlıştır?",
+      "difficulty": "Orta",
+      "options": [
+        "Tanrı’nın Kırbacı nitelemesi Attila’yla ilişkilendirilir.",
+        "Cesur Kavimlerin Efendisi nitelemesi Attila için kullanılır.",
+        "Etzel, Avrupa Hunlarının bütün hükümdarları için kullandığı resmî makam adıdır.",
+        "Nibelungen’deki Etzel adı Attila’yla ilişkilendirilir.",
+        "Tarihsel bir hükümdar, farklı kültürlerin edebî anlatılarına konu olabilir."
+      ],
+      "answer": "C",
+      "explanation": "Etzel bir hükümdarlık makamının genel unvanı değil, Nibelungen’de Attila’yla ilişkilendirilen addır. Tanrı’nın Kırbacı ve Cesur Kavimlerin Efendisi ise onun için kullanılan nitelemelerdir. Edebî ad, niteleme ve resmî yönetim unvanı birbirinden ayrılmalıdır.",
+      "sources": [
+        "K1",
+        "EH8",
+        "EH3"
+      ]
+    },
+    {
+      "id": "EHUN-010",
+      "revision": 1,
+      "topic": "Avrupa Hun Devleti",
+      "subtopic": "Efraim ve Hun algısı",
+      "skill": "Yorum",
+      "stem": "Efraim’e atfedilen Hun tasvirinde atlı savaşçılar, Yecüc ve Mecüc gibi dinî imgelerle anlatılmaktadır.\n\nBu anlatım öncelikle aşağıdakilerden hangisi hakkında bilgi verir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Hun yöneticilerinin kendi iktidarlarını açıklama biçimini",
+        "Hun askerlerinin kendi görevlerini dinî terimlerle adlandırmasını",
+        "Hun toplumunda benimsenen dinî öğretinin içeriğini",
+        "Hunların Roma ile yaptıkları antlaşmaların dinî gerekçesini",
+        "Anlatıcının askerî tehdidi kendi dinî kavramlarıyla yorumlamasını"
+      ],
+      "answer": "E",
+      "explanation": "Efraim’e atfedilen benzetme, Hunları dışarıdan anlatan kişinin dinî kavramlarla kurduğu tasvirdir. Bu nedenle öncelikle anlatıcının algısını gösterir. Hunların inancı, kendi kullandıkları askerî adlar veya antlaşma hükümleri bu benzetmeden belirlenemez.",
+      "sources": [
+        "EH5"
+      ]
+    },
+    {
+      "id": "EHUN-011",
+      "revision": 1,
+      "topic": "Avrupa Hun Devleti",
+      "subtopic": "Uldız ve hâkimiyet anlayışı",
+      "skill": "Bilgi ve yorum",
+      "stem": "Uldız’ın güneşin battığı yere kadar uzanan alanları ele geçirebileceğini belirtmesi, aşağıdaki düşüncelerden hangisiyle en doğrudan ilişkilendirilebilir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Cihan hâkimiyeti anlayışı",
+        "Hanedan hâkimiyetinin sürekliliği",
+        "Bağlı boylara yönetim yetkisi tanınması",
+        "Devletlerin egemenlik alanlarının karşılıklı tanınması",
+        "Mevcut sınırların korunmasına dayalı savunma siyaseti"
+      ],
+      "answer": "A",
+      "explanation": "Geniş coğrafyalarda egemenlik kurma iddiası cihan hâkimiyeti anlayışını yansıtır. Burada bir siyasi hedef ve güç iddiası dile getirilmektedir. Sözün söylenmiş olması, hedeflenen bütün toprakların gerçekten ele geçirildiğini kanıtlamaz.",
+      "sources": [
+        "EH6"
+      ]
+    },
+    {
+      "id": "EHUN-012",
+      "revision": 1,
+      "topic": "Avrupa Hun Devleti",
+      "subtopic": "Attila’nın unvanları ve kültürel mirası",
+      "skill": "Yorum",
+      "stem": "Attila’nın, hükümdarlığından yüzyıllar sonra oluşan Alman destan geleneğinde Etzel adıyla yer alması aşağıdakilerden hangisini destekler?",
+      "difficulty": "Kolay",
+      "options": [
+        "Destanın Attila dönemindeki olayları aynı döneme ait tanıklıkla kaydettiğini",
+        "Destandaki adın Hunların kendi siyasi belgelerinde de kullanıldığını",
+        "Edebî anlatının Attila’nın diplomatik unvanlarını esas aldığını",
+        "Attila’nın farklı bir toplumun tarihî hafızasında iz bıraktığını",
+        "Destandaki Hun tasvirinin Hun toplumunun öz anlatısı olduğunu"
+      ],
+      "answer": "D",
+      "explanation": "Attila’nın sonraki Alman destan geleneğinde Etzel adıyla yaşaması kültürel hafızaya etkisini gösterir. Sonradan oluşan bir destan çağdaş tanıklık veya resmî diplomatik belge değildir. Edebî adlandırmayı Hunların öz anlatısı olarak değerlendirmek de ayrıca kanıt gerektirir.",
+      "sources": [
+        "EH3"
+      ]
+    },
+    {
+      "id": "EHUN-013",
+      "revision": 1,
+      "topic": "Avrupa Hun Devleti",
+      "subtopic": "Bizans antlaşmaları",
+      "skill": "Bilgi ve yorum",
+      "stem": "Margos Antlaşması’nda Doğu Roma’nın Hunlara bağlı topluluklarla ayrı antlaşmalar yapmaması istenmiştir.\n\nBu hükümle Hunların öncelikle aşağıdakilerden hangisini amaçladığı söylenebilir?",
+      "difficulty": "Orta",
+      "options": [
+        "Bağlı toplulukların diplomasi yetkisini Doğu Roma’ya devretmeyi",
+        "Bağlı topluluklar üzerindeki siyasi otoritesini korumayı",
+        "Doğu Roma’nın hükümdar seçimine müdahale etmeyi",
+        "Bağlı topluluklara bağımsız dış politika hakkı vermeyi",
+        "Bağlı toplulukları Doğu Roma ile savaşa mecbur etmeyi"
+      ],
+      "answer": "B",
+      "explanation": "Bağlı toplulukların Doğu Roma’yla ayrı antlaşmalar yapmasının engellenmesi, Hun merkezî otoritesini korumaya yöneliktir. Madde bu topluluklara bağımsız dış politika hakkı vermez ve onların diplomasi yetkisini Roma’ya devretmez. Roma hükümdarının seçimi ya da her topluluğun savaşa katılma yükümlülüğü bu hükümde düzenlenmemiştir.",
+      "sources": [
+        "EH2"
+      ]
+    },
+    {
+      "id": "EHUN-014",
+      "revision": 1,
+      "topic": "Avrupa Hun Devleti",
+      "subtopic": "Bizans antlaşmaları",
+      "skill": "Bilgi ve yorum",
+      "stem": "Anatolyos Antlaşması’nda Doğu Roma’nın savaş tazminatı ödemesi ve sınır çevresinde asker bulundurabileceği alanların sınırlandırılması öngörülmüştür.\n\nBu hükümler Doğu Roma’nın;\nI. mali yükümlülükleri,\nII. askerî hareket alanı,\nIII. eyalet yöneticilerini atama yetkisinin Hunlara devri\nkonularından hangileriyle doğrudan ilişkilidir?",
+      "difficulty": "Orta",
+      "options": [
+        "Yalnız I",
+        "Yalnız II",
+        "I ve II",
+        "I ve III",
+        "I, II ve III"
+      ],
+      "answer": "C",
+      "explanation": "Tazminat bir mali yükümlülük, sınırda asker bulundurmaya getirilen kısıtlama ise askerî hareket alanıyla ilgilidir; I ve II desteklenir. Bu sınırlamalar, Doğu Roma eyaletlerine yöneticileri artık Hunların atayacağını göstermez. III için idari yetkinin devrini açıkça düzenleyen ayrı bir hüküm gerekir.",
+      "sources": [
+        "EH9"
+      ]
+    },
+    {
+      "id": "EHUN-015",
+      "revision": 1,
+      "topic": "Avrupa Hun Devleti",
+      "subtopic": "İtalya Seferi ve Papa I. Leo",
+      "skill": "Yorum",
+      "stem": "Attila’nın İtalya’ya ilerlemesi üzerine Roma yönetimi, Papa I. Leo’nun da yer aldığı bir heyeti görüşmeye göndermiştir.\n\nBu gelişme aşağıdakilerden hangisinin örneğidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Roma ordusunun Hun hükümdarının komutasına verilmesinin",
+        "Roma ile Hunlar arasında askerî ittifak kurulmasının",
+        "Roma heyetinin Hunların iç yönetimine katılmasının",
+        "Roma’nın Hunlar ile Doğu Roma arasında arabulucu olmasının",
+        "Askerî bir tehdide diplomatik girişimle karşılık verilmesinin"
+      ],
+      "answer": "E",
+      "explanation": "Roma yönetiminin heyet göndermesi, askerî ilerleyiş karşısında görüşme yoluyla çözüm aradığını gösterir. Bu girişim tek başına askerî ittifak kurulduğunu veya Roma ordusunun Hun komutasına verildiğini kanıtlamaz. Roma kendi karşılaştığı tehdide çözüm aramaktadır; başka iki taraf arasında arabuluculuk yaptığı anlatılmamıştır.",
+      "sources": [
+        "EH4"
+      ]
+    },
+    {
+      "id": "EHUN-016",
+      "revision": 1,
+      "topic": "Avrupa Hun Devleti",
+      "subtopic": "Roma ilişkileri ve dış politika",
+      "skill": "Bilgi ve yorum",
+      "stem": "Uldız döneminde Doğu Roma baskı altında tutulurken Batı Roma ile iyi ilişkiler kurulmuştur.\n\nBu yaklaşım aşağıdakilerden hangisini gösterir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Roma’nın iki kanadına aynı idari düzenin uygulandığını",
+        "Aynı dönemde farklı devletlere karşı farklı politikalar izlenebildiğini",
+        "Batı Roma’nın iç yönetimini Hun hükümdarına bıraktığını",
+        "İyi ilişkilerin kalıcı bir egemenlik devrine dayandığını",
+        "Doğu Roma ile karşılıklı askerî ittifak kurulduğunu"
+      ],
+      "answer": "B",
+      "explanation": "Bir devlete baskı uygulanırken diğeriyle iyi ilişki kurulması, dış politikanın muhataba göre farklılaşabildiğini gösterir. Dostluk, iç yönetim yetkisinin devri anlamına gelmez. Doğu Roma üzerindeki baskıyı da karşılıklı askerî ittifak olarak nitelemek için yeterli bilgi yoktur.",
+      "sources": [
+        "EH2"
+      ]
+    },
+    {
+      "id": "EHUN-017",
+      "revision": 1,
+      "topic": "Avrupa Hun Devleti",
+      "subtopic": "Sefer ve antlaşmaların kronolojisi",
+      "skill": "Bilgi",
+      "stem": "I. Papa I. Leo’nun Attila’yla görüşmesi\nII. Margos Antlaşması\nIII. Anatolyos Antlaşması\n\nBu gelişmelerin eskiden yeniye doğru sıralanışı aşağıdakilerden hangisidir?",
+      "difficulty": "Orta",
+      "options": [
+        "I – II – III",
+        "II – I – III",
+        "III – II – I",
+        "II – III – I",
+        "III – I – II"
+      ],
+      "answer": "D",
+      "explanation": "Önce Margos, ardından 447’de Anatolyos Antlaşması yapılmıştır. Papa I. Leo’nun görüşmesi 452’deki İtalya Seferi sırasında gerçekleşir. Böylece sıra II–III–I olur; Papa görüşmesi Anatolyos Antlaşması’nın bir parçası değildir.",
+      "sources": [
+        "EH2",
+        "EH3"
+      ]
+    },
+    {
+      "id": "EHUN-018",
+      "revision": 1,
+      "topic": "Avrupa Hun Devleti",
+      "subtopic": "Roma ilişkileri ve dış politika",
+      "skill": "Bilgi ve yorum",
+      "stem": "Avrupa Hun Devleti’nin Roma dünyasıyla ilişkileri hakkında aşağıdakilerden hangisi yanlıştır?",
+      "difficulty": "Orta",
+      "options": [
+        "Papa I. Leo, Anatolyos Antlaşması’nı Doğu Roma adına imzalamıştır.",
+        "Margos Antlaşması’nın taraflarından biri Doğu Roma’dır.",
+        "Anatolyos Antlaşması Balkan seferleriyle ilişkilidir.",
+        "Papa I. Leo’nun Attila’yla görüşmesi İtalya Seferi sırasında gerçekleşmiştir.",
+        "Attila hem Doğu hem Batı Roma’yla siyasi ilişkiler kurmuştur."
+      ],
+      "answer": "A",
+      "explanation": "Papa I. Leo’nun 452’deki görüşmesi ile 447’deki Anatolyos Antlaşması ayrı olaylardır. Anatolyos Doğu Roma’yla, Papa heyeti ise Batı Roma’nın İtalya’daki durumu ile ilişkilidir. Aynı kişiyle barış görüşmesi yapılmış olması bütün görüşmeleri tek antlaşma hâline getirmez.",
+      "sources": [
+        "EH3",
+        "EH4"
+      ]
+    },
+    {
+      "id": "EHUN-019",
+      "revision": 1,
+      "topic": "Avrupa Hun Devleti",
+      "subtopic": "Bizans antlaşmaları",
+      "skill": "Bilgi ve yorum",
+      "stem": "Margos Antlaşması’ndaki;\nI. Hunlara bağlı kavimlerle ayrı antlaşma yapılmaması,\nII. Hunlardan kaçanların geri verilmesi,\nIII. ticaretin belirli sınır kasabalarında sürdürülmesi\nhükümlerinden hangileri, Hun yönetiminin insan toplulukları üzerindeki siyasi denetimini korumasıyla daha doğrudan ilişkilidir?",
+      "difficulty": "Orta",
+      "options": [
+        "Yalnız I",
+        "Yalnız III",
+        "II ve III",
+        "I, II ve III",
+        "I ve II"
+      ],
+      "answer": "E",
+      "explanation": "I, bağlı kavimlerin dış güçle ayrı siyasi ilişkiler kurmasını; II, kaçanların dışarıda korunmasını sınırlar. İkisi de yönetimin topluluklar ve kişiler üzerindeki denetimini destekler. III ise doğrudan ticaretin yürütüleceği yerleri düzenler; öncelikli işlevi ekonomik ilişkidir.",
+      "sources": [
+        "EH2"
+      ]
+    },
+    {
+      "id": "EHUN-020",
+      "revision": 1,
+      "topic": "Avrupa Hun Devleti",
+      "subtopic": "Bizans antlaşmaları",
+      "skill": "Bilgi ve yorum",
+      "stem": "Hun–Doğu Roma antlaşmalarında yıllık ödemenin artırılması ile kaçakların geri verilmesi hükümleri yer almıştır.\n\nBu iki hükmün Hunlar açısından sırasıyla en doğrudan karşılıkları aşağıdakilerin hangisinde verilmiştir?",
+      "difficulty": "Orta",
+      "options": [
+        "Sınır ticaretinin düzenlenmesi – hanedan verasetinin belirlenmesi",
+        "Bağlı kavimlerin diplomasi yetkisi – sınır pazarlarının güvenliği",
+        "Düzenli gelir yükümlülüğünün artırılması – bağlı kişiler üzerindeki denetimin korunması",
+        "Ortak gümrük yönetimi kurulması – iki ordunun aynı komutana bağlanması",
+        "Sınır pazarlarının genişletilmesi – hükümdarların karşılıklı tanınması"
+      ],
+      "answer": "C",
+      "explanation": "Yıllık ödeme hükmü Doğu Roma için mali bir yükümlülük, Hunlar için gelir kaynağıdır. Kaçakların iadesi ise bağlı kişiler üzerindeki siyasi denetimle ilgilidir. İkisi de barış şartı olsa da ödeme hükmü doğrudan pazar düzeni veya veraset kuralı oluşturmaz.",
+      "sources": [
+        "EH9"
+      ]
+    },
+    {
+      "id": "EHUN-021",
+      "revision": 1,
+      "topic": "Avrupa Hun Devleti",
+      "subtopic": "Roma ilişkileri ve dış politika",
+      "skill": "Yorum",
+      "stem": "Uldız, Batı Roma’yla iyi ilişkiler kurarken Attila daha sonra bu devlete sefer düzenlemiştir. Attila dönemindeki Margos Antlaşması ise Doğu Roma’nın Hunlara bağlı kavimlerle ayrı antlaşmalar yapmasını engellemiş, sınır merkezlerinde ticaretin sürmesini öngörmüştür.\n\nBu bilgilerden;\nI. Hunların Batı Roma’ya yönelik siyasi tercihinin hükümdarlar değişse de aynı kaldığı,\nII. bağlı kavimlerin dış ilişkilerinin Hun merkezî otoritesinin denetiminde tutulmak istendiği,\nIII. bir devlete siyasi baskı uygulanırken onunla ekonomik ilişkilerin sürdürülebildiği\nyargılarından hangilerine ulaşılabilir?",
+      "difficulty": "Orta",
+      "options": [
+        "II ve III",
+        "Yalnız I",
+        "I ve II",
+        "Yalnız III",
+        "I, II ve III"
+      ],
+      "answer": "A",
+      "explanation": "Batı Roma’yla dostluktan askerî mücadeleye geçilmesi, I’deki değişmeyen politika yargısını geçersiz kılar. Bağlı kavimlerin ayrı antlaşma yapmasının engellenmesi merkezî denetimi korur; II desteklenir. Siyasi sınırlamalarla ticaretin devamının aynı düzenlemede bulunması III’ü destekler. Dolayısıyla siyasi baskı, ekonomik ilişkinin zorunlu olarak kesilmesi anlamına gelmez.",
+      "sources": [
+        "EH2",
+        "EH3"
+      ]
+    },
+    {
+      "id": "EHUN-022",
+      "revision": 1,
+      "topic": "Avrupa Hun Devleti",
+      "subtopic": "Attila’nın unvanları ve kültürel mirası",
+      "skill": "Yorum",
+      "stem": "Attila, bir anlatı geleneğinde Tanrı’nın Kırbacı nitelemesiyle, Nibelungen Destanı’nda ise Etzel adıyla yer alır. Attila’nın antlaşmalarını inceleyen bir araştırmacının;\nI. bu anlatıları toplumların Attila algısı için değerlendirmesi,\nII. antlaşma hükümleri için bu anlatıları diplomatik kayıtlarla karşılaştırması,\nIII. Etzel adını resmî yazışma unvanının doğrudan kanıtı sayması\nyaklaşımlarından hangileri uygundur?",
+      "difficulty": "Orta",
+      "options": [
+        "Yalnız I",
+        "Yalnız II",
+        "I ve III",
+        "I ve II",
+        "I, II ve III"
+      ],
+      "answer": "D",
+      "explanation": "Tanrı’nın Kırbacı nitelemesi ve Etzel karakteri farklı anlatı çevrelerinin Attila’yı nasıl temsil ettiğine veri sağlar. Attila’nın antlaşmalarını incelemek için bu anlatılar diplomatik kayıtlarla karşılaştırılmalıdır. Destandaki adın resmî yazışmalarda kullanıldığı, yalnız destandaki varlığından kanıtlanamaz.",
+      "sources": [
+        "K1",
+        "EH3",
+        "EH8"
+      ]
+    },
+    {
+      "id": "EHUN-023",
+      "revision": 1,
+      "topic": "Avrupa Hun Devleti",
+      "subtopic": "İtalya Seferi ve Papa I. Leo",
+      "skill": "Yorum",
+      "stem": "452’de Attila’nın İtalya’ya ilerlemesi sırasında Roma yönetimi görüşme için Papa I. Leo’nun da bulunduğu bir heyet göndermiştir. Görüşmenin ardından Hun ordusu İtalya’dan çekilmiştir.\n\nYalnız bu bilgilerden hareketle aşağıdakilerden hangisine ulaşılamaz?",
+      "difficulty": "Orta",
+      "options": [
+        "Roma yönetiminin müzakere yoluna başvurduğuna",
+        "Geri çekilme kararının tek nedeninin Papa’nın kişisel etkisi olduğuna",
+        "Heyette dinî bir temsilcinin bulunduğuna",
+        "Diplomatik girişimin askerî bir sefer sırasında gerçekleştiğine",
+        "Görüşmenin geri çekilmeden önce yapıldığına"
+      ],
+      "answer": "B",
+      "explanation": "Görüşmeden sonra çekilme olması, kararın tek nedeninin Papa’nın kişisel etkisi olduğunu kanıtlamaz. Başka askerî, iktisadi veya siyasi etkenleri değerlendirmek için ek bilgi gerekir. Diğer dört seçenek olayın verilen kişi, yöntem ve zaman bilgilerine dayanır.",
+      "sources": [
+        "EH4"
+      ]
+    },
+    {
+      "id": "EHUN-024",
+      "revision": 1,
+      "topic": "Avrupa Hun Devleti",
+      "subtopic": "Roma ilişkileri ve dış politika",
+      "skill": "Bilgi ve yorum",
+      "stem": "Bir araştırmacı, Avrupa Hunlarının Roma’yla ilişkilerinde askerî gücün yanında diplomasi ve siyasi denetim araçlarından da yararlandığını savunmaktadır.\n\nAşağıdakilerden hangisi bu görüşü doğrudan destekleyen bir kanıt değildir?",
+      "difficulty": "Orta",
+      "options": [
+        "Barış hükümlerinde ödeme yükümlülüklerinin düzenlenmesi",
+        "Hunlara bağlı kavimlerle ayrı antlaşma yapılmasının yasaklanması",
+        "Attila’nın Nibelungen Destanı’nda Etzel adıyla yer alması",
+        "Roma’dan gelen barış heyetiyle görüşülmesi",
+        "Sınır çevresindeki askerî faaliyetlerin antlaşmayla sınırlandırılması"
+      ],
+      "answer": "C",
+      "explanation": "Etzel adı kültürel ve edebî etki hakkında bilgi verir; bir diplomatik uygulamanın veya siyasi denetim aracının doğrudan kanıtı değildir. Diğer seçenekler antlaşma hükümleri veya resmî görüşme yoluyla ilişkilerin düzenlenmesini gösterir. Tarihsel önem ile belirli bir iddiayı destekleme gücü aynı ölçüt değildir.",
+      "sources": [
+        "EH2",
+        "EH3",
+        "EH4",
+        "EH9"
+      ]
+    }
+  ]
+}

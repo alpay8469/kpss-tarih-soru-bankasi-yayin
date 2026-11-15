@@ -1,0 +1,576 @@
+{
+  "title": "KPSS Tarih — Asya Hun Devleti ve Kavimler Göçü",
+  "unit": null,
+  "date": "2026-10-10",
+  "question_count": 24,
+  "sources": {
+    "H1": {
+      "title": "MEB – Defterim Tarih 9, Asya Hun Devleti",
+      "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/defterim/9/tarih/files/basic-html/page119.html"
+    },
+    "H2": {
+      "title": "MEB – Tarih 9, Asya Hun Devleti ve Çi-çi",
+      "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/tarih/9/unite4/files/basic-html/page16.html"
+    },
+    "H3": {
+      "title": "MEB – Vatan sevgisi: Mete Han’a atfedilen sözler",
+      "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/fenlisesikimya/9/unite1/files/basic-html/page13.html"
+    },
+    "H4": {
+      "title": "MEB – Asya Hunlarında siyasi birlik ve ordu teşkilatı",
+      "url": "https://ogmmateryal.eba.gov.tr/panel/panel/CozumluSoruOnizle.aspx?alistirmaId=58780"
+    },
+    "H5": {
+      "title": "MEB – Nergiz, Ötüken için Toprak Ana nitelemesi",
+      "url": "https://izmir.meb.gov.tr/dosya/karsiyaka/files/basic-html/page22.html"
+    },
+    "H6": {
+      "title": "Adem Aydemir – Ötüken ve Ötüken Adı Üzerine",
+      "url": "https://turkoloji.cu.edu.tr/ESKI%20TURK%20DILI/adem_aydemir_otuken_adi_uzerine.pdf"
+    },
+    "K1": {
+      "title": "MEB – Defterim Tarih 9, Kavimler Göçü ve Avrupa Hunları, s.124",
+      "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/defterim/9/tarih/files/basic-html/page124.html"
+    },
+    "K2": {
+      "title": "MEB – Kavimler Göçü Ne Getirdi?",
+      "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/elazig-telafi/tarih/files/basic-html/page19.html"
+    },
+    "K3": {
+      "title": "MEB – Tarih 9 Beceri Temelli Etkinlikler, göçün sonuçları, s.294",
+      "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/beceri_temelli/9/tarih/files/basic-html/page294.html"
+    },
+    "K4": {
+      "title": "MEB – Orta Çağ: göçün nedenleri ve feodalite",
+      "url": "https://ogmmateryal.eba.gov.tr/panel/panel/CozumluSoruOnizle.aspx?alistirmaId=29362"
+    },
+    "K5": {
+      "title": "MEB – Tarih 9, 375–395–476 kronolojisi",
+      "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/tarih/9/unite2/files/basic-html/page16.html"
+    },
+    "EH6": {
+      "title": "Ahmet Taşağıl – Huing-nu, Hun ilişkisi; Uldız anlatısı",
+      "url": "https://ahmettasagil.wordpress.com/wp-content/uploads/2010/10/huing-nuhuniliskisi.pdf"
+    }
+  },
+  "questions": [
+    {
+      "id": "HUN-001",
+      "revision": 1,
+      "topic": "Asya Hun Devleti",
+      "subtopic": "Kuruluş ve merkez",
+      "skill": "Bilgi",
+      "stem": "Tarihte bilinen ilk Türk devleti aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Avrupa Hun Devleti",
+        "I. Göktürk Devleti",
+        "Asya Hun Devleti",
+        "Uygur Devleti",
+        "Avar Devleti"
+      ],
+      "answer": "C",
+      "explanation": "Asya Hun Devleti, Türk siyasi tarihinin bilinen ilk devleti olarak kabul edilir. Türk adını devlet adı olarak kullanan ilk devlet ise Göktürk Devleti’dir. Kökte kuruluş bakımından öncelik sorulduğu için Türk adını kullanma özelliğiyle seçim yapılmamalıdır.",
+      "sources": [
+        "H1",
+        "H2"
+      ]
+    },
+    {
+      "id": "HUN-002",
+      "revision": 1,
+      "topic": "Asya Hun Devleti",
+      "subtopic": "Kuruluş ve merkez",
+      "skill": "Bilgi",
+      "stem": "Asya Hun Devleti’nin kurucusu olarak kabul edilen hükümdar ve devletin merkezi aşağıdakilerin hangisinde birlikte doğru verilmiştir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Teoman — Ötüken",
+        "Mete Han — Ötüken",
+        "Teoman — Karabalgasun",
+        "Bumin Kağan — Ötüken",
+        "Mete Han — Karakurum"
+      ],
+      "answer": "A",
+      "explanation": "Doğru eşleştirme Teoman–Ötüken’dir. Teoman, Asya Hunlarının bilinen ilk hükümdarı ve kurucusu olarak kabul edilir; Mete Han ondan sonra tahta çıkmıştır. Bumin Göktürklerin kuruluşuyla, Karabalgasun Uygurlarla ilişkilidir; bu adların aynı seçeneklerde bulunması eşleştirmeyi doğru yapmayı gerektirir.",
+      "sources": [
+        "H1",
+        "H2"
+      ]
+    },
+    {
+      "id": "HUN-003",
+      "revision": 1,
+      "topic": "Asya Hun Devleti",
+      "subtopic": "Kuruluş ve merkez",
+      "skill": "Bilgi",
+      "stem": "“Toprak Ana” olarak da anılan bölge aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Talas",
+        "Turfan",
+        "Balasagun",
+        "Semerkant",
+        "Ötüken"
+      ],
+      "answer": "E",
+      "explanation": "Toprak Ana nitelemesiyle anılan bölge Ötüken’dir. Ötüken, eski Türk siyasi geleneğinde yönetim merkezi ve yurt anlayışı bakımından önem taşır. Talas, Turfan, Balasagun ve Semerkant da tarihî merkezlerdir; fakat burada sorulan nitelemenin karşılığı değildir.",
+      "sources": [
+        "H5"
+      ]
+    },
+    {
+      "id": "HUN-004",
+      "revision": 1,
+      "topic": "Asya Hun Devleti",
+      "subtopic": "Mete Han ve ülke toprağı",
+      "skill": "Bilgi",
+      "stem": "Ülke toprağını devletin temeli sayarak komşularının toprak talebini reddetmesiyle tanınan Türk hükümdarı aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Teoman",
+        "Mete Han",
+        "Çiçi",
+        "Balamir",
+        "Attila"
+      ],
+      "answer": "B",
+      "explanation": "Cevap Mete Han’dır. Komşularının toprak isteğine karşı ülke toprağının devletin temeli olduğunu savunması, vatanın korunmasına verdiği önemi gösterir. Ayırt edici nokta toprağın verimli olması değil, siyasi varlığın bir parçası sayılmasıdır.",
+      "sources": [
+        "H3"
+      ]
+    },
+    {
+      "id": "HUN-005",
+      "revision": 1,
+      "topic": "Asya Hun Devleti",
+      "subtopic": "Orta Asya’da siyasi birlik",
+      "skill": "Bilgi",
+      "stem": "Orta Asya’da Türk boylarını ilk kez tek bir siyasi yönetim altında birleştirdiği kabul edilen devlet aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Uygur Devleti",
+        "II. Göktürk Devleti",
+        "Avrupa Hun Devleti",
+        "Asya Hun Devleti",
+        "I. Göktürk Devleti"
+      ],
+      "answer": "D",
+      "explanation": "Türk boylarını Orta Asya’da ilk kez tek siyasi yönetim altında toplama başarısı Mete Han dönemindeki Asya Hunlarıyla ilişkilidir. Siyasi birlik, farklı boyların ortak bir otoriteye bağlanmasıdır. Göktürk ve Uygur devletlerinin daha sonraki dönemlerde birlik kurması bu tarihsel önceliği değiştirmez.",
+      "sources": [
+        "H4"
+      ]
+    },
+    {
+      "id": "HUN-006",
+      "revision": 1,
+      "topic": "Asya Hun Devleti",
+      "subtopic": "Çiçi ve bağımsızlık",
+      "skill": "Bilgi",
+      "stem": "Hohanyeh’in Çin hâkimiyetine girme önerisini reddederek siyasi bağımsızlığın korunmasını savunan Asya Hun hükümdarı aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Mete Han",
+        "Teoman",
+        "Çiçi",
+        "Ki-ok",
+        "Hohanyeh"
+      ],
+      "answer": "C",
+      "explanation": "Çiçi, Hohanyeh’in Çin hâkimiyetine girerek devletin varlığını sürdürme önerisine karşı çıkmıştır. Buradaki ayrım, dış destekten yararlanmak ile başka bir devletin üstün otoritesini kabul etmek arasındadır. Mete Han’ın ülke toprağına yaklaşımı da bağımsızlıkla ilişkilidir; ancak Hohanyeh ile bu tartışmayı yaşayan hükümdar Çiçi’dir.",
+      "sources": [
+        "H2"
+      ]
+    },
+    {
+      "id": "HUN-007",
+      "revision": 1,
+      "topic": "Asya Hun Devleti",
+      "subtopic": "Çiçi ve bağımsızlık",
+      "skill": "Yorum",
+      "stem": "Çiçi’nin, Çin’in koruyuculuğunu kabul ederek varlığını sürdürme önerisine karşı çıkması aşağıdaki anlayışlardan hangisine öncelik verdiğini gösterir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Siyasi karar yetkisini bağımsız biçimde korumaya",
+        "Dış destek sağlayarak hanedanın iktidarını sürdürmeye",
+        "İç anlaşmazlıkları komşu devletin hakemliğiyle çözmeye",
+        "Hanedanın çıkarlarını egemenlik yetkisinden üstün tutmaya",
+        "Güvenlik karşılığında egemenlik yetkisini sınırlandırmaya"
+      ],
+      "answer": "A",
+      "explanation": "Çiçi’nin itiraz ettiği durum, Hunların karar yetkisinin Çin’in üstün otoritesine bırakılmasıdır. Hanedanın dış destekle iktidarda kalması veya güvenlik karşılığında egemenliğin sınırlandırılması, onun savunduğu bağımsızlıkla aynı hedef değildir. Verilen tutumun önceliği bağımsız siyasi varlığı korumaktır.",
+      "sources": [
+        "H2"
+      ]
+    },
+    {
+      "id": "HUN-008",
+      "revision": 1,
+      "topic": "Asya Hun Devleti",
+      "subtopic": "Mete Han ve ülke toprağı",
+      "skill": "Yorum",
+      "stem": "Mete Han’a ilişkin anlatıda hükümdar kişisel varlığıyla ülke toprağını ayrı değerlendirmiş; ülke toprağının başkasına bırakılmasını devletin varlığıyla bağdaşmaz görmüştür.\n\nBu tutum aşağıdakilerden hangisini en doğrudan gösterir?",
+      "difficulty": "Orta",
+      "options": [
+        "Toprak üzerindeki tasarrufun hükümdarın kişisel mal varlığına bağlı olduğunu",
+        "Ülke sınırlarının korunmasının hükümdarın kişisel servetini artırmaya bağlı olduğunu",
+        "Ülke toprağının hanedan üyeleri arasında paylaşılabilecek bir miras olduğunu",
+        "Toprak üzerindeki yetkinin hükümdarın şahsi fedakârlığıyla başka devlete aktarılabildiğini",
+        "Ülke toprağının hükümdarın kişisel malından farklı bir siyasi değer taşıdığını"
+      ],
+      "answer": "E",
+      "explanation": "Mete Han’ın tutumunda kişisel mal üzerindeki fedakârlık ülke toprağına uygulanmamaktadır. Ülke toprağı ortak siyasi varlığın temeli olarak değerlendirilir. Bu nedenle kişisel miras veya hanedan servetiyle aynı tasarruf alanı sayılması doğru değildir.",
+      "sources": [
+        "H3"
+      ]
+    },
+    {
+      "id": "HUN-009",
+      "revision": 1,
+      "topic": "Asya Hun Devleti",
+      "subtopic": "Onlu askerî teşkilat",
+      "skill": "Bilgi",
+      "stem": "Türk ordusunda onlu teşkilatın kurulması aşağıdaki hükümdarlardan hangisiyle ilişkilendirilir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Bumin Kağan",
+        "Mete Han",
+        "Teoman",
+        "Bilge Kağan",
+        "Attila"
+      ],
+      "answer": "B",
+      "explanation": "Onlu askerî teşkilat Mete Han’la ilişkilendirilir. Ordunun on, yüz, bin ve on bin gibi kademeli birliklere ayrılması komuta düzenini ve birliklerin birlikte hareket etmesini kolaylaştırır. Soruda devletin kurucusu değil, bu askerî örgütlenmeyle anılan hükümdar sorulduğundan Teoman seçilmemelidir.",
+      "sources": [
+        "H4"
+      ]
+    },
+    {
+      "id": "HUN-010",
+      "revision": 1,
+      "topic": "Asya Hun Devleti",
+      "subtopic": "Çin baskısı ve batıya yönelme",
+      "skill": "Bilgi ve sınıflandırma",
+      "stem": "Hunların batıya yönelmesini açıklarken dış siyasi baskı örneği olarak aşağıdakilerden hangisi gösterilebilir?",
+      "difficulty": "Orta",
+      "options": [
+        "Hun hanedan üyelerinin Çin ile ilişkiler konusunda görüş ayrılığına düşmesi",
+        "Hun boylarının merkezî yönetimden bağımsız hareket etmek istemesi",
+        "Hun hanedanında tahta kimin geçeceği konusunda mücadele yaşanması",
+        "Çin yönetiminin Hun toplulukları üzerindeki baskısını artırması",
+        "Hun yönetiminin Çin ile yapılan bir antlaşmayı sona erdirmesi"
+      ],
+      "answer": "D",
+      "explanation": "Çin yönetiminin Hun toplulukları üzerinde baskı kurması, başka bir devletin müdahalesi olduğu için dış siyasi etkendir. Hanedan içindeki görüş ayrılıkları, taht mücadeleleri ve boyların merkezden ayrılma isteği ise iç siyasi sorunlardır; tartışmanın Çin ile ilgili olması onu kendiliğinden dış baskıya dönüştürmez. Hun yönetiminin bir antlaşmayı sona erdirmesi dış politikaya ilişkin bir karardır, fakat tek başına başka bir devletin baskısını göstermez.",
+      "sources": [
+        "K4",
+        "H2"
+      ]
+    },
+    {
+      "id": "KG-001",
+      "revision": 1,
+      "topic": "Kavimler Göçü",
+      "subtopic": "Başlangıç ve zincirleme göç",
+      "skill": "Bilgi",
+      "stem": "IV. yüzyılda Hunların batıya ilerleyerek Kavimler Göçü’nü başlatması aşağıdaki liderlerden hangisiyle ilişkilendirilir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Uldız",
+        "Attila",
+        "Mete Han",
+        "Balamir",
+        "Çiçi"
+      ],
+      "answer": "D",
+      "explanation": "IV. yüzyılda batıya yönelen Hun hareketi Balamir’le ilişkilendirilir. Bu hareketin diğer toplulukları yer değiştirmeye zorlaması Kavimler Göçü’nün başlangıcında etkili olmuştur. Mete Han ve Çiçi daha eski Asya Hun tarihiyle; Attila ise Avrupa Hunlarının daha sonraki dönemiyle ilişkilidir.",
+      "sources": [
+        "K2",
+        "EH6"
+      ]
+    },
+    {
+      "id": "KG-002",
+      "revision": 1,
+      "topic": "Kavimler Göçü",
+      "subtopic": "Başlangıç ve zincirleme göç",
+      "skill": "Bilgi",
+      "stem": "Hunların batıya ilerleyişiyle bazı toplulukların yer değiştirmesi ve bu hareketin Roma sınırlarına doğru zincirleme yayılması hangi olayın başlangıcını açıklar?",
+      "difficulty": "Kolay",
+      "options": [
+        "Kavimler Göçü",
+        "Roma İmparatorluğu’nun ikiye ayrılması",
+        "Batı Roma İmparatorluğu’nun yıkılması",
+        "Avrupa Hun Devleti’nin kurulması",
+        "Feodal ilişkilerin yerleşmesi"
+      ],
+      "answer": "A",
+      "explanation": "Toplulukların birbirini yerinden ederek Roma sınırlarına yönelmesi Kavimler Göçü’nü tanımlar. Roma’nın ikiye ayrılması ve Batı Roma’nın yıkılması siyasi yapıyla ilgili ayrı gelişmelerdir. Avrupa Hunlarının kuruluşu ile feodal ilişkilerin yerleşmesi de hareketin adı değil, dönemin siyasi ve toplumsal değişimleridir.",
+      "sources": [
+        "K1"
+      ]
+    },
+    {
+      "id": "KG-003",
+      "revision": 1,
+      "topic": "Kavimler Göçü",
+      "subtopic": "Çağlar ve kronoloji",
+      "skill": "Bilgi",
+      "stem": "375 yılında başlayan ve İlk Çağ’ın sonu, Orta Çağ’ın başlangıcı kabul edilen olay aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Roma İmparatorluğu’nun ikiye ayrılması",
+        "Batı Roma İmparatorluğu’nun yıkılması",
+        "Kavimler Göçü",
+        "İstanbul’un fethi",
+        "İslamiyet’in doğuşu"
+      ],
+      "answer": "C",
+      "explanation": "375 tarihiyle belirtilen olay Kavimler Göçü’dür ve bu dönemlendirmede İlk Çağ’dan Orta Çağ’a geçişi simgeler. Roma’nın ikiye ayrılması 395, Batı Roma’nın yıkılması 476’dır. 476 da başka dönemlendirmelerde başlangıç kabul edilebildiği için kökte verilen tarih ayırt edicidir.",
+      "sources": [
+        "K1",
+        "K5"
+      ]
+    },
+    {
+      "id": "KG-004",
+      "revision": 1,
+      "topic": "Kavimler Göçü",
+      "subtopic": "Avrupa’nın siyasi haritası",
+      "skill": "Bilgi",
+      "stem": "Kavimler Göçü’nün ardından 395 yılında Doğu ve Batı olarak ikiye ayrılan devlet aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Asya Hun Devleti",
+        "Sasani Devleti",
+        "Avrupa Hun Devleti",
+        "Frank Devleti",
+        "Roma İmparatorluğu"
+      ],
+      "answer": "E",
+      "explanation": "395 yılında Doğu ve Batı olarak ayrılan devlet Roma İmparatorluğu’dur. İkiye ayrılma, Batı Roma’nın 476’da yıkılmasıyla aynı olay değildir. Doğu Roma’nın varlığını sürdürmesi de imparatorluğun ikiye ayrılması ile tamamının ortadan kalkması arasındaki farkı gösterir.",
+      "sources": [
+        "K5",
+        "K2"
+      ]
+    },
+    {
+      "id": "KG-005",
+      "revision": 1,
+      "topic": "Kavimler Göçü",
+      "subtopic": "Çağlar ve kronoloji",
+      "skill": "Kronoloji",
+      "stem": "I. Roma İmparatorluğu’nun ikiye ayrılması\nII. Batı Roma İmparatorluğu’nun yıkılması\nIII. Kavimler Göçü’nün başlaması\n\nBu olayların eskiden yeniye doğru sıralaması aşağıdakilerden hangisidir?",
+      "difficulty": "Orta",
+      "options": [
+        "I — III — II",
+        "III — I — II",
+        "III — II — I",
+        "II — I — III",
+        "I — II — III"
+      ],
+      "answer": "B",
+      "explanation": "Kavimler Göçü’nün başlangıcı 375, Roma’nın ikiye ayrılması 395, Batı Roma’nın yıkılması 476 olarak sıralanır. Böylece III–I–II dizisi elde edilir. Roma’nın bölünmesini yıkılışla aynı tarihe koymak, olayların birbirini izleyen aşamalarını karıştırır.",
+      "sources": [
+        "K5",
+        "K1"
+      ]
+    },
+    {
+      "id": "KG-006",
+      "revision": 1,
+      "topic": "Kavimler Göçü",
+      "subtopic": "Avrupa’nın siyasi haritası",
+      "skill": "Bilgi",
+      "stem": "IV. yüzyılda başlayan Kavimler Göçü sürecinde Orta Avrupa’da ortaya çıkan Türk devleti aşağıdakilerden hangisidir?",
+      "difficulty": "Orta",
+      "options": [
+        "Asya Hun Devleti",
+        "Avar Devleti",
+        "Hazar Devleti",
+        "Avrupa Hun Devleti",
+        "Büyük Bulgar Devleti"
+      ],
+      "answer": "D",
+      "explanation": "Kavimler Göçü sürecinde Avrupa’da güçlenen Türk siyasi oluşumu Avrupa Hun Devleti’dir. Avar, Hazar ve Büyük Bulgar devletleri Avrupa ve çevresiyle ilişkili olsa da daha sonraki dönemlerde ortaya çıkmıştır. Ortak coğrafyada bulunmak aynı tarihsel sürecin ürünü olmak anlamına gelmez.",
+      "sources": [
+        "K1",
+        "K2"
+      ]
+    },
+    {
+      "id": "KG-007",
+      "revision": 1,
+      "topic": "Kavimler Göçü",
+      "subtopic": "Feodalite ve yerel güçler",
+      "skill": "Bilgi",
+      "stem": "Kavimler Göçü sonrasında Avrupa’da güç kazanan, yerel toprak sahipleri ve bağlılık ilişkilerine dayanan siyasi ve toplumsal düzen aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Feodalite",
+        "Mutlak monarşi",
+        "Meşruti monarşi",
+        "Cumhuriyet",
+        "Merkezî imparatorluk"
+      ],
+      "answer": "A",
+      "explanation": "Yerel toprak sahipleri, koruma ve bağlılık ilişkileriyle tanımlanan düzen feodalitedir. Merkezî yönetimin zayıfladığı koşullarda yerel güçler siyasi ve toplumsal ağırlık kazanır. Mutlak monarşi ise yetkinin hükümdarda yoğunlaşmasını anlatır; parçadaki yerelleşmenin karşılığı değildir.",
+      "sources": [
+        "K4"
+      ]
+    },
+    {
+      "id": "KG-008",
+      "revision": 1,
+      "topic": "Kavimler Göçü",
+      "subtopic": "Feodalite ve yerel güçler",
+      "skill": "Yorum",
+      "stem": "Avrupa’da merkezî yönetimin güvenliği sağlamakta zorlandığı bir dönemde insanlar yerel güçlülerin korumasına girmiş, buna karşılık onlara bağlılık ve hizmet yükümlülüğü üstlenmiştir.\n\nBu gelişme aşağıdaki sonuçlardan hangisini destekler?",
+      "difficulty": "Orta",
+      "options": [
+        "Yerel vergilerin doğrudan merkez hazinesine aktarılmasını",
+        "Yerel askerî güçlerin merkezî yönetimin memurlarına dönüşmesini",
+        "Siyasi otoritenin yerel birimler arasında parçalanmasını",
+        "Yerel yöneticilerin kral tarafından atanmasının yaygınlaşmasını",
+        "Siyasi bağlılıkların toprak sahipliğinden bağımsızlaşmasını"
+      ],
+      "answer": "C",
+      "explanation": "Koruma ve hizmet ilişkisinin yerel güçlüler etrafında kurulması, siyasi otoritenin yerel birimlerde yoğunlaşmasını destekler. Vergilerin merkeze aktarılması, yerel yöneticilerin kral tarafından atanması veya askerlerin merkezî memurlara dönüşmesi ise farklı bir merkezîleşme sürecini gerektirir. Parça bu gelişmeler hakkında kanıt vermez.",
+      "sources": [
+        "K4"
+      ]
+    },
+    {
+      "id": "KG-009",
+      "revision": 1,
+      "topic": "Kavimler Göçü",
+      "subtopic": "Kilise, din ve düşünce",
+      "skill": "Bilgi",
+      "stem": "Orta Çağ Avrupası’nda kilisenin eğitim ve düşünce üzerindeki etkisinin güçlenmesiyle ilişkilendirilen düşünce sistemi aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Hümanizm",
+        "Pozitivizm",
+        "Rasyonalizm",
+        "Liberalizm",
+        "Skolastik düşünce"
+      ],
+      "answer": "E",
+      "explanation": "Skolastik düşünce, Orta Çağ’da Hristiyan inancının açıklanması ve temellendirilmesiyle ilişkili düşünce geleneğidir. Kilise ve dinî eğitim kurumlarının etkisi bu bağlamda önemlidir. Bu uzun dönemli gelişim, Kavimler Göçü’nün başladığı yıl bir anda ortaya çıkmış gibi değerlendirilmemelidir.",
+      "sources": [
+        "K1",
+        "K2"
+      ]
+    },
+    {
+      "id": "KG-010",
+      "revision": 1,
+      "topic": "Kavimler Göçü",
+      "subtopic": "Kilise, din ve düşünce",
+      "skill": "Sınıflandırma",
+      "stem": "Kavimler Göçü’nün Avrupa’daki dinî etkisi aşağıdakilerden hangisiyle doğru ifade edilmiştir?",
+      "difficulty": "Orta",
+      "options": [
+        "Hristiyanlığın ilk kez ortaya çıkmasıyla",
+        "Hristiyanlığın Avrupa’da daha geniş topluluklara yayılmasıyla",
+        "Hristiyanlığın Roma’da ilk kez tanınmasıyla",
+        "Hristiyan toplulukların tek siyasi yönetimde birleşmesiyle",
+        "Roma Kilisesi’nin Hun hükümdarına bağlanmasıyla"
+      ],
+      "answer": "B",
+      "explanation": "Göçlerle birlikte değişen Avrupa toplumlarında Hristiyanlığın etki alanı genişlemiştir. Hristiyanlığın doğuşu ve Roma dünyasında tanınması ise Kavimler Göçü’nden önceye aittir. Dinin yayılması, Hristiyan toplumların tek devlette birleştiğini veya kilisenin Hun yönetimine bağlandığını göstermez.",
+      "sources": [
+        "K1",
+        "K3"
+      ]
+    },
+    {
+      "id": "KG-011",
+      "revision": 1,
+      "topic": "Kavimler Göçü",
+      "subtopic": "Avrupa milletlerinin oluşumu",
+      "skill": "Yorum",
+      "stem": "Kavimler Göçü sürecinde Avrupa’ya gelen toplulukların yerel halklarla etkileşmesi ve yeni siyasi birlikler kurması aşağıdaki gelişmelerden hangisine zemin hazırlamıştır?",
+      "difficulty": "Kolay",
+      "options": [
+        "Roma idari yapısının göçmen krallıkların ortak yönetim organına dönüşmesine",
+        "Göçmen grupların Roma sınırları dışında ayrı toplumsal çevreler oluşturmasına",
+        "Yeni siyasi birliklerin aynı hanedanın farklı kollarınca yönetilmesine",
+        "Yeni siyasi ve toplumsal kimliklerin oluşmasına zemin hazırlanmasına",
+        "Roma vatandaşlığının yeni devletlerde aynı hukuki esaslarla devamına"
+      ],
+      "answer": "D",
+      "explanation": "Göçmen grupların yerel halkla etkileşmesi ve yeni siyasi birliklerin oluşması, Avrupa’daki yeni devlet ve toplumsal kimliklerin gelişmesine zemin hazırlamıştır. Burada modern milletlerin tek bir yılda ortaya çıktığı ileri sürülmez. Ortak hanedan veya değişmeden süren Roma vatandaşlık düzeni ise verilen bilgilerle gösterilemez.",
+      "sources": [
+        "K1",
+        "K2"
+      ]
+    },
+    {
+      "id": "KG-012",
+      "revision": 1,
+      "topic": "Kavimler Göçü",
+      "subtopic": "Avrupa’nın siyasi haritası",
+      "skill": "Bilgi",
+      "stem": "Kavimler Göçü süreciyle ilişkilendirilen aşağıdaki gelişmelerden hangisi Roma İmparatorluğu’nun merkezî idari örgütlenmesinde doğrudan bir değişimdir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Roma İmparatorluğu’nun doğu ve batı olarak ikiye ayrılması",
+        "Yerel koruma ve hizmet ilişkilerinin yaygınlaşması",
+        "Kilisenin toplumsal nüfuzunun artması",
+        "Hristiyanlığın yeni topluluklara yayılması",
+        "Göçmenlerle yerel halkların kültürel etkileşiminin artması"
+      ],
+      "answer": "A",
+      "explanation": "Roma İmparatorluğu’nun 395’te doğu ve batı olarak ayrılması, imparatorluğun merkezî idari örgütlenmesinde doğrudan bir değişimdir. Yerel koruma ilişkileri, dinin yayılması ve kültürel etkileşim aynı sürecin farklı sonuç alanlarıdır. Bunları tek bir idari karar veya aynı tarihte tamamlanmış değişim olarak değerlendirmemek gerekir.",
+      "sources": [
+        "K1",
+        "K2",
+        "K4"
+      ]
+    },
+    {
+      "id": "KG-013",
+      "revision": 1,
+      "topic": "Kavimler Göçü",
+      "subtopic": "Avrupa’nın siyasi haritası",
+      "skill": "Öncüllü sınıflandırma",
+      "stem": "Kavimler Göçü’nün ardından görülen;\nI. Roma İmparatorluğu’nun ikiye ayrılması,\nII. Avrupa Hun Devleti’nin kurulması,\nIII. Hristiyanlığın yeni topluluklar arasında yayılması\ngelişmelerinden hangileri doğrudan siyasi haritanın değişmesiyle ilgilidir?",
+      "difficulty": "Orta",
+      "options": [
+        "Yalnız I",
+        "Yalnız III",
+        "I ve II",
+        "II ve III",
+        "I, II ve III"
+      ],
+      "answer": "C",
+      "explanation": "Bir devletin bölünmesi ve yeni bir devletin kurulması egemenlik alanlarını doğrudan değiştirir; I ve II siyasi haritayla ilgilidir. Hristiyanlığın yayılması ise öncelikle dinî değişimi anlatır. Dinî değişimin siyasi etkileri olabilmesi, III’ü doğrudan bir sınır veya devlet değişikliği yapmaz.",
+      "sources": [
+        "K1",
+        "K3"
+      ]
+    },
+    {
+      "id": "KG-014",
+      "revision": 1,
+      "topic": "Kavimler Göçü",
+      "subtopic": "Başlangıç ve zincirleme göç",
+      "skill": "Neden–sonuç",
+      "stem": "Kavimler Göçü’nün başlangıcında Hunların batıya ilerlemesi bazı toplulukları yerlerinden etmiş, bu toplulukların hareketi de başka grupları Roma sınırına yöneltmiştir. Bir araştırmacı son gruplar için Hunlarla doğrudan karşılaşma kaydı bulamamıştır.\n\nBu durum aşağıdaki değerlendirmelerden hangisine uygundur?",
+      "difficulty": "Orta",
+      "options": [
+        "Doğrudan karşılaşma kaydı olmayan grupların göçe katılmadığına",
+        "Roma sınırına yönelen grupların Hun yönetimine bağlı olduğuna",
+        "Roma sınırına yönelişin başlangıç baskısını ortadan kaldırdığına",
+        "Göçlerin başlamasında tek bir topluluğun askerî kararının yeterli olduğuna",
+        "Bir grubun Hunlarla karşılaşmadan dolaylı göç baskısı yaşayabileceğine"
+      ],
+      "answer": "E",
+      "explanation": "Zincirleme hareketlerde ilk baskı başka toplulukların yer değiştirmesi yoluyla uzak gruplara ulaşabilir. Bu nedenle göçe katılan her grubun Hun ordusuyla doğrudan karşılaşması şart değildir. Göç yönü de tek başına Hun yönetimine bağlılığı göstermez.",
+      "sources": [
+        "K1"
+      ]
+    }
+  ]
+}

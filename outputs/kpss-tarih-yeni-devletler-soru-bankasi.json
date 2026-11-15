@@ -1,0 +1,1806 @@
+{
+  "title": "Mısır, Anadolu beylikleri ve diğer devletler — görsel ek soru bankası",
+  "unit": "U02",
+  "date": "2026-10-11",
+  "question_count": 72,
+  "sources": {
+    "YD-NOT": {
+      "title": "Ramazan Yetgin tahta notları — kullanıcının üç görseli",
+      "type": "Kullanıcı tarafından sağlanan kapsam notu",
+      "date": "2026-10-11"
+    },
+    "YD-TOL": {
+      "title": "TDV İslâm Ansiklopedisi — tolunogullari",
+      "type": "Akademik başvuru kaynağı",
+      "url": "https://islamansiklopedisi.org.tr/tolunogullari",
+      "accessed": "2026-10-11"
+    },
+    "YD-IHS": {
+      "title": "TDV İslâm Ansiklopedisi — ihsidiler",
+      "type": "Akademik başvuru kaynağı",
+      "url": "https://islamansiklopedisi.org.tr/ihsidiler",
+      "accessed": "2026-10-11"
+    },
+    "YD-EYY": {
+      "title": "TDV İslâm Ansiklopedisi — eyyubiler",
+      "type": "Akademik başvuru kaynağı",
+      "url": "https://islamansiklopedisi.org.tr/eyyubiler",
+      "accessed": "2026-10-11"
+    },
+    "YD-MEM": {
+      "title": "TDV İslâm Ansiklopedisi — memlukler",
+      "type": "Akademik başvuru kaynağı",
+      "url": "https://islamansiklopedisi.org.tr/memlukler",
+      "accessed": "2026-10-11"
+    },
+    "YD-DAN": {
+      "title": "TDV İslâm Ansiklopedisi — danismendliler",
+      "type": "Akademik başvuru kaynağı",
+      "url": "https://islamansiklopedisi.org.tr/danismendliler",
+      "accessed": "2026-10-11"
+    },
+    "YD-SAL": {
+      "title": "TDV İslâm Ansiklopedisi — saltuklular",
+      "type": "Akademik başvuru kaynağı",
+      "url": "https://islamansiklopedisi.org.tr/saltuklular",
+      "accessed": "2026-10-11"
+    },
+    "YD-ART": {
+      "title": "TDV İslâm Ansiklopedisi — artuklular",
+      "type": "Akademik başvuru kaynağı",
+      "url": "https://islamansiklopedisi.org.tr/artuklular",
+      "accessed": "2026-10-11"
+    },
+    "YD-CAK": {
+      "title": "TDV İslâm Ansiklopedisi — caka-bey",
+      "type": "Akademik başvuru kaynağı",
+      "url": "https://islamansiklopedisi.org.tr/caka-bey",
+      "accessed": "2026-10-11"
+    },
+    "YD-AKK": {
+      "title": "TDV İslâm Ansiklopedisi — akkoyunlular",
+      "type": "Akademik başvuru kaynağı",
+      "url": "https://islamansiklopedisi.org.tr/akkoyunlular",
+      "accessed": "2026-10-11"
+    },
+    "YD-KAR": {
+      "title": "TDV İslâm Ansiklopedisi — karakoyunlular",
+      "type": "Akademik başvuru kaynağı",
+      "url": "https://islamansiklopedisi.org.tr/karakoyunlular",
+      "accessed": "2026-10-11"
+    },
+    "YD-SAF": {
+      "title": "TDV İslâm Ansiklopedisi — safeviler",
+      "type": "Akademik başvuru kaynağı",
+      "url": "https://islamansiklopedisi.org.tr/safeviler",
+      "accessed": "2026-10-11"
+    },
+    "YD-BAB": {
+      "title": "TDV İslâm Ansiklopedisi — baburluler",
+      "type": "Akademik başvuru kaynağı",
+      "url": "https://cdn2.islamansiklopedisi.org.tr/dosya/4/C04001647.pdf",
+      "accessed": "2026-10-11"
+    },
+    "YD-TAC": {
+      "title": "TDV İslâm Ansiklopedisi — tac-mahal",
+      "type": "Akademik başvuru kaynağı",
+      "url": "https://islamansiklopedisi.org.tr/tac-mahal",
+      "accessed": "2026-10-11"
+    },
+    "YD-HRZ": {
+      "title": "TDV İslâm Ansiklopedisi — harizmsahlar",
+      "type": "Akademik başvuru kaynağı",
+      "url": "https://islamansiklopedisi.org.tr/harizmsahlar",
+      "accessed": "2026-10-11"
+    },
+    "YD-TIM": {
+      "title": "TDV İslâm Ansiklopedisi — timurlular",
+      "type": "Akademik başvuru kaynağı",
+      "url": "https://islamansiklopedisi.org.tr/timurlular",
+      "accessed": "2026-10-11"
+    },
+    "YD-ALT": {
+      "title": "TDV İslâm Ansiklopedisi — altin-orda-hanligi",
+      "type": "Akademik başvuru kaynağı",
+      "url": "https://islamansiklopedisi.org.tr/altin-orda-hanligi",
+      "accessed": "2026-10-11"
+    },
+    "YD-CAG": {
+      "title": "TDV İslâm Ansiklopedisi — cagatay-hanligi",
+      "type": "Akademik başvuru kaynağı",
+      "url": "https://islamansiklopedisi.org.tr/cagatay-hanligi",
+      "accessed": "2026-10-11"
+    },
+    "YD-ILH": {
+      "title": "TDV İslâm Ansiklopedisi — ilhanlilar",
+      "type": "Akademik başvuru kaynağı",
+      "url": "https://islamansiklopedisi.org.tr/ilhanlilar",
+      "accessed": "2026-10-11"
+    },
+    "YD-MEB": {
+      "title": "MEB — Türkistan’dan Türkiye’ye (1040–1299)",
+      "url": "https://ogmmateryal.eba.gov.tr/panel/upload/files/aryovff3umv.pdf",
+      "type": "Resmî eğitim materyali",
+      "accessed": "2026-10-11"
+    },
+    "YD-MIS": {
+      "title": "MEB Defterim Tarih 9 — Mısır devletleri",
+      "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/defterim/9/tarih/files/basic-html/page158.html",
+      "type": "Resmî eğitim materyali",
+      "accessed": "2026-10-11"
+    },
+    "YD-UNESCO": {
+      "title": "UNESCO — Divriği Ulu Cami ve Darüşşifası",
+      "url": "https://whc.unesco.org/en/list/358/",
+      "type": "Resmî miras kaydı",
+      "accessed": "2026-10-11"
+    },
+    "YD-BAY": {
+      "title": "Türk Dünyası Ansiklopedisi — Baybars",
+      "url": "https://turkdunyasiansiklopedisi.gov.tr/detay/8446/BAYBARS-",
+      "type": "Akademik başvuru kaynağı",
+      "accessed": "2026-10-11"
+    },
+    "YD-CEZ": {
+      "title": "Türk Maarif Ansiklopedisi — Cezerî",
+      "url": "https://turkmaarifansiklopedisi.org.tr/cezeri",
+      "type": "Akademik başvuru kaynağı",
+      "accessed": "2026-10-11"
+    },
+    "YD-HRZ2": {
+      "title": "Türk Maarif Ansiklopedisi — Hârizmşahlar",
+      "url": "https://turkmaarifansiklopedisi.org.tr/harizmsahlar",
+      "type": "Akademik başvuru kaynağı",
+      "accessed": "2026-10-11"
+    },
+    "YD-MEN": {
+      "title": "TDV İslâm Ansiklopedisi — mengucukluler",
+      "url": "https://islamansiklopedisi.org.tr/mengucukluler",
+      "type": "Akademik başvuru kaynağı",
+      "accessed": "2026-10-11"
+    },
+    "YD-BAG": {
+      "title": "TDV İslâm Ansiklopedisi — abdullatif-el-bagdadi",
+      "url": "https://islamansiklopedisi.org.tr/abdullatif-el-bagdadi",
+      "type": "Akademik başvuru kaynağı",
+      "accessed": "2026-10-11"
+    },
+    "YD-CEN": {
+      "title": "TDV İslâm Ansiklopedisi — cengiz-han",
+      "url": "https://islamansiklopedisi.org.tr/cengiz-han",
+      "type": "Akademik başvuru kaynağı",
+      "accessed": "2026-10-11"
+    },
+    "YD-MOG": {
+      "title": "TDV İslâm Ansiklopedisi — mogollar",
+      "url": "https://islamansiklopedisi.org.tr/mogollar",
+      "type": "Akademik başvuru kaynağı",
+      "accessed": "2026-10-11"
+    },
+    "YD-NEV": {
+      "title": "TDV İslâm Ansiklopedisi — ali-sir-nevai",
+      "url": "https://islamansiklopedisi.org.tr/ali-sir-nevai",
+      "type": "Akademik başvuru kaynağı",
+      "accessed": "2026-10-11"
+    },
+    "YD-ULU": {
+      "title": "TDV İslâm Ansiklopedisi — ulug-bey",
+      "url": "https://islamansiklopedisi.org.tr/ulug-bey",
+      "type": "Akademik başvuru kaynağı",
+      "accessed": "2026-10-11"
+    }
+  },
+  "questions": [
+    {
+      "id": "MIS-001",
+      "revision": 1,
+      "topic": "Mısır’da Kurulan Devletler",
+      "subtopic": "Tolunoğulları — kuruluş",
+      "skill": "Bilgi",
+      "stem": "Mısır’da kurulan ilk Türk-İslam devletinin kurucusu aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Muhammed bin Tuğç",
+        "Selahaddin Eyyubi",
+        "Tolunoğlu Ahmet",
+        "Aybek",
+        "Humareveyh"
+      ],
+      "answer": "C",
+      "explanation": "Tolunoğlu Ahmet, Mısır’da Tolunoğulları Devleti’ni kurmuştur. Muhammed bin Tuğç ise aynı coğrafyada daha sonra kurulan İhşidilerin başındaki kişidir. Kurucu ile sonraki hükümdar Humareveyh birbirinden ayrılmalıdır.",
+      "sources": [
+        "YD-NOT",
+        "YD-TOL",
+        "YD-MIS"
+      ]
+    },
+    {
+      "id": "MIS-002",
+      "revision": 1,
+      "topic": "Mısır’da Kurulan Devletler",
+      "subtopic": "Tolunoğulları — hükümdarlar",
+      "skill": "Bilgi",
+      "stem": "Tolunoğulları Devleti’nin en parlak dönemiyle ilişkilendirilen hükümdar aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Kafur",
+        "Muhammed bin Tuğç",
+        "Baybars",
+        "Selahaddin Eyyubi",
+        "Humareveyh"
+      ],
+      "answer": "E",
+      "explanation": "Humareveyh, Tolunoğlu Ahmet’in ardından tahta çıkmış ve Tolunoğullarının siyasi gücünü artırmıştır. Mısır’daki farklı hanedanların hükümdarlarını aynı devletin yöneticileri gibi değerlendirmemek gerekir.",
+      "sources": [
+        "YD-NOT",
+        "YD-TOL"
+      ]
+    },
+    {
+      "id": "MIS-003",
+      "revision": 1,
+      "topic": "Mısır’da Kurulan Devletler",
+      "subtopic": "Tolunoğulları — sosyal hizmet",
+      "skill": "Bilgi ve yorum",
+      "stem": "Tolunoğlu Ahmet’in ücretsiz tedavi sunan bir bimaristan yaptırması aşağıdaki yargılardan hangisini en doğrudan destekler?",
+      "difficulty": "Orta",
+      "options": [
+        "Tıp eğitiminin askerî teşkilata bağlandığını",
+        "Sağlık hizmetlerinin kamu yararına örgütlendiğini",
+        "Sağlık harcamalarının ticaret vergileriyle karşılandığını",
+        "Hekimlerin hükümdarın siyasi yetkilerini paylaştığını",
+        "Tedavinin yalnız saray görevlilerine sunulduğunu"
+      ],
+      "answer": "B",
+      "explanation": "Bimaristan, hastaların tedavisine yönelik bir kurumdur; ücretsiz hizmet toplum yararını gösterir. Bu bilgi tek başına hekimlerin yönetimdeki yerini veya kurumun gelir kaynağını açıklamaz.",
+      "sources": [
+        "YD-NOT",
+        "YD-TOL"
+      ]
+    },
+    {
+      "id": "MIS-004",
+      "revision": 1,
+      "topic": "Mısır’da Kurulan Devletler",
+      "subtopic": "Tolunoğulları — Abbasi ilişkileri",
+      "skill": "Bilgi",
+      "stem": "Tolunoğullarına 905 yılında son vererek Mısır’da yeniden doğrudan hâkimiyet kuran güç aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Fatımiler",
+        "Memlükler",
+        "Osmanlılar",
+        "Abbasiler",
+        "Eyyubiler"
+      ],
+      "answer": "D",
+      "explanation": "Tolunoğulları Devleti’ne Abbasiler son vermiştir. Fatımilerin Mısır’ı ele geçirmesi ise İhşidilerin sonuyla ilişkilidir; aynı coğrafyadaki bu iki yıkılış karıştırılmamalıdır.",
+      "sources": [
+        "YD-NOT",
+        "YD-MIS"
+      ]
+    },
+    {
+      "id": "MIS-005",
+      "revision": 1,
+      "topic": "Mısır’da Kurulan Devletler",
+      "subtopic": "İhşidiler — kuruluş ve unvan",
+      "skill": "Bilgi",
+      "stem": "Muhammed bin Tuğç’un kurduğu, adı hükümdara verilen İhşid unvanıyla bağlantılı olan devlet aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Akşitler",
+        "Tolunoğulları",
+        "Eyyubiler",
+        "Memlükler",
+        "Fatımiler"
+      ],
+      "answer": "A",
+      "explanation": "İhşidiler, Akşitler adıyla da anılır; kurucuları Muhammed bin Tuğç’tur. İhşid adının bir hükümdarlık unvanıyla ilişkisi, devletin kurucu ailesi ile siyasi adlandırmasını birlikte anlamayı sağlar.",
+      "sources": [
+        "YD-NOT",
+        "YD-IHS"
+      ]
+    },
+    {
+      "id": "MIS-006",
+      "revision": 1,
+      "topic": "Mısır’da Kurulan Devletler",
+      "subtopic": "İhşidiler — Hicaz hâkimiyeti",
+      "skill": "Bilgi ve yorum",
+      "stem": "Mısır’da kurulan ikinci Türk devleti olup Hicaz bölgesinde de hâkimiyet kuran İhşidiler için aşağıdaki çıkarımlardan hangisi yapılabilir?",
+      "difficulty": "Orta",
+      "options": [
+        "Halifelik makamını Mısır’a taşımışlardır.",
+        "Anadolu’daki beylikleri tek merkezde toplamışlardır.",
+        "Siyasi etkileri Mısır’ın coğrafi sınırlarını aşmıştır.",
+        "Abbasi devlet teşkilatını ortadan kaldırmışlardır.",
+        "Kudüs’ü Haçlılardan geri almışlardır."
+      ],
+      "answer": "C",
+      "explanation": "Hicaz, Mısır’ın dışında yer aldığı için bu bölgenin yönetimi devletin daha geniş bir sahada etkili olduğunu gösterir. Bundan halifelik kurumunun kaldırıldığı veya Anadolu’daki siyasi birliğin sağlandığı sonucu çıkarılamaz.",
+      "sources": [
+        "YD-NOT",
+        "YD-IHS",
+        "YD-MIS"
+      ]
+    },
+    {
+      "id": "MIS-007",
+      "revision": 1,
+      "topic": "Mısır’da Kurulan Devletler",
+      "subtopic": "İhşidiler — sona eriş",
+      "skill": "Bilgi",
+      "stem": "Tolunoğulları–Abbasiler eşleştirmesinde olduğu gibi, İhşidiler–? eşleştirmesinde devletin Mısır’daki yönetimine son veren güç hangi seçenekte doğru verilmiştir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Eyyubiler",
+        "Memlükler",
+        "Gazneliler",
+        "Büyük Selçuklular",
+        "Fatımiler"
+      ],
+      "answer": "E",
+      "explanation": "İhşidilerin Mısır’daki hâkimiyetine Fatımiler son vermiştir. Eyyubiler ve Memlükler aynı bölgenin daha sonraki siyasi tarihine aittir; devletlerin birbirini izlemesi ile her birini sona erdiren güç ayrılmalıdır.",
+      "sources": [
+        "YD-NOT",
+        "YD-IHS"
+      ]
+    },
+    {
+      "id": "MIS-008",
+      "revision": 1,
+      "topic": "Mısır’da Kurulan Devletler",
+      "subtopic": "Eyyubiler — Hıttin",
+      "skill": "Bilgi",
+      "stem": "Hıttin’de Haçlı kuvvetlerini yenerek Kudüs’ü geri alan hükümdar aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Nureddin Mahmut",
+        "Selahaddin Eyyubi",
+        "Baybars",
+        "Kutuz",
+        "Aybek"
+      ],
+      "answer": "B",
+      "explanation": "Selahaddin Eyyubi’nin 1187 Hıttin zaferi Kudüs’ün geri alınmasını mümkün kılmıştır. Baybars’ın Haçlılarla mücadelesi aynı geniş çatışma ortamına ait olsa da farklı bir dönemdedir.",
+      "sources": [
+        "YD-NOT",
+        "YD-EYY",
+        "YD-MIS"
+      ]
+    },
+    {
+      "id": "MIS-009",
+      "revision": 1,
+      "topic": "Mısır’da Kurulan Devletler",
+      "subtopic": "Eyyubiler — siyasi ve dinî sonuç",
+      "skill": "Bilgi ve yorum",
+      "stem": "Hıttin zaferinden sonra Kudüs’ün Eyyubi hâkimiyetine geçmesi aşağıdaki yargılardan hangisini destekler?",
+      "difficulty": "Orta",
+      "options": [
+        "Zaferin Mısır’da Fatımi Devleti’ni kurduğunu",
+        "Haçlı seferlerinin başlamasına Kudüs’ün geri alınmasının yol açtığını",
+        "Eyyubi yönetiminin yerini Memlük yönetimine bıraktığını",
+        "Askerî başarının kutsal bir merkez üzerindeki siyasi denetimi değiştirdiğini",
+        "Anadolu’daki Türk beyliklerinin birleştiğini"
+      ],
+      "answer": "D",
+      "explanation": "Hıttin askerî zaferi ile Kudüs’ün yönetiminin değişmesi arasında somut bir bağ vardır. Haçlı seferleri ise bu olaydan önce başlamıştır; bir mücadelenin sonraki safhası onun ilk nedeni gibi gösterilemez.",
+      "sources": [
+        "YD-NOT",
+        "YD-EYY"
+      ]
+    },
+    {
+      "id": "MIS-010",
+      "revision": 1,
+      "topic": "Mısır’da Kurulan Devletler",
+      "subtopic": "Eyyubiler — coğrafya",
+      "skill": "Bilgi ve yorum",
+      "stem": "Eyyubilerin Mısır’dan Suriye, Hicaz ve Yemen’e uzanan bir alanda hüküm sürmesi öncelikle aşağıdakilerden hangisini gösterir?",
+      "difficulty": "Orta",
+      "options": [
+        "Birden fazla bölgeyi kapsayan siyasi hâkimiyet kurduklarını",
+        "Bütün bağlı bölgelerde aynı nüfus yapısının oluştuğunu",
+        "Yerel yönetimlerin idari ayrıcalıklarını bütünüyle koruduğunu",
+        "Ticaret yollarının her kolunu tek başına yönettiklerini",
+        "Devlet merkezinin Yemen’e taşındığını"
+      ],
+      "answer": "A",
+      "explanation": "Mısır, Suriye, Hicaz ve Yemen farklı bölgeler olduğu için verilen bilgi çok bölgeli egemenliği gösterir. Nüfusun yapısı ve yerel yöneticilerin yetkileri ayrıca kanıt gerektirir.",
+      "sources": [
+        "YD-NOT",
+        "YD-EYY"
+      ]
+    },
+    {
+      "id": "MIS-011",
+      "revision": 1,
+      "topic": "Mısır’da Kurulan Devletler",
+      "subtopic": "Memlükler — askerî köken",
+      "skill": "Bilgi ve yorum",
+      "stem": "Memlük sultanlarının önemli bir kısmının askerî eğitimden geçmiş emirler arasından yükselmesi, yönetim için hangi özelliğin önemini gösterir?",
+      "difficulty": "Orta",
+      "options": [
+        "Hanedanın en büyük oğluna tanınan değişmez hakkı",
+        "Halifenin doğrudan orduyu yönetmesini",
+        "Askerî güç ve komuta çevresinin desteğini",
+        "Şehir esnafının hükümdarı seçimle belirlemesini",
+        "Toprak sahipliğinin askerî eğitim yerine geçmesini"
+      ],
+      "answer": "C",
+      "explanation": "Memlük düzeninde güçlü emirlerin askerî çevre içinden yükselmesi siyasi otorite için önemlidir. Tahtın her zaman babadan en büyük oğula geçmesini sağlayan değişmez bir kural bulunduğu sonucu çıkarılamaz.",
+      "sources": [
+        "YD-NOT",
+        "YD-MEM"
+      ]
+    },
+    {
+      "id": "MIS-012",
+      "revision": 1,
+      "topic": "Mısır’da Kurulan Devletler",
+      "subtopic": "Memlükler — veraset",
+      "skill": "Bilgi ve yorum",
+      "stem": "Memlük sultanlarının bazen oğullarını veliaht göstermesine rağmen tahtın hanedan içi verasetle geçmesinin yerleşmiş bir kural olmaması aşağıdakilerden hangisiyle açıklanabilir?",
+      "difficulty": "Orta",
+      "options": [
+        "Sultanlık makamının tamamen sembolik olmasıyla",
+        "Oğulların hiçbir dönemde tahta çıkmamış olmasıyla",
+        "Hükümdarlığın Abbasi halifeleri tarafından üstlenilmesiyle",
+        "Sultanların yerel yöneticilerce yıllık seçilmesiyle",
+        "Emirlerin güç mücadelesinin tahta geçişte etkili olmasıyla"
+      ],
+      "answer": "E",
+      "explanation": "Memlüklerde askerî emirlerin desteği ve rekabeti tahta çıkışta belirleyici olabilmiştir. Bazen bir sultanın oğlunun başa geçmesi, verasetin değişmez kural olduğunu göstermez; tersine hiçbir oğlun sultan olmadığı da söylenemez.",
+      "sources": [
+        "YD-NOT",
+        "YD-MEM"
+      ]
+    },
+    {
+      "id": "MIS-013",
+      "revision": 1,
+      "topic": "Mısır’da Kurulan Devletler",
+      "subtopic": "Memlükler — Ayn Calut",
+      "skill": "Bilgi",
+      "stem": "1260 Ayn Calut Savaşı’nın Türk-İslam tarihi bakımından öne çıkan sonucu aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Haçlıların Kudüs’ü ilk kez ele geçirmesi",
+        "Moğol kuvvetlerinin Memlükler karşısında yenilmesi",
+        "Osmanlıların Mısır’ı fethetmesi",
+        "Anadolu Selçuklularının Moğol üstünlüğünü kabul etmesi",
+        "Eyyubilerin Fatımi yönetimine son vermesi"
+      ],
+      "answer": "B",
+      "explanation": "Ayn Calut’ta Memlük ordusu Moğol kuvvetlerini yenmiştir. Bu başarı Moğol ilerleyişinin karşısında önemli bir engel oluşturur; Kösedağ’da Anadolu Selçuklularının uğradığı yenilgiyle ters yönde bir sonuç taşır.",
+      "sources": [
+        "YD-NOT",
+        "YD-MEM",
+        "YD-MIS"
+      ]
+    },
+    {
+      "id": "MIS-014",
+      "revision": 1,
+      "topic": "Mısır’da Kurulan Devletler",
+      "subtopic": "Memlükler — Elbistan",
+      "skill": "Bilgi ve yorum",
+      "stem": "Baybars’ın 1277’de Elbistan’da İlhanlı kuvvetlerini yenmesi hangi yargıyı destekler?",
+      "difficulty": "Orta",
+      "options": [
+        "Moğol siyasi varlığının bütün bölgelerde sona erdiğini",
+        "Memlüklerin Anadolu Selçuklu kuruluşunu sağladığını",
+        "Anadolu’da doğrudan ve kalıcı Memlük yönetimi kurulduğunu",
+        "Memlüklerin Moğol mücadelesinin Anadolu’ya da uzandığını",
+        "Osmanlıların Memlüklerle ittifak ederek savaşı kazandığını"
+      ],
+      "answer": "D",
+      "explanation": "Elbistan seferi Memlük-Moğol mücadelesinin Anadolu sahasında da yürütüldüğünü gösterir. Baybars’ın zaferi, bütün Anadolu’nun kalıcı biçimde Memlük ülkesine katıldığı anlamına gelmez.",
+      "sources": [
+        "YD-NOT",
+        "YD-BAY"
+      ]
+    },
+    {
+      "id": "MIS-015",
+      "revision": 1,
+      "topic": "Mısır’da Kurulan Devletler",
+      "subtopic": "Memlükler — halifelik ve sultanlık",
+      "skill": "Bilgi ve yorum",
+      "stem": "Bağdat’ın Moğollar tarafından alınmasından sonra Abbasi halifeliğinin Kahire’de Memlük koruması altında sürdürülmesi için hangi çıkarım yapılabilir?",
+      "difficulty": "Orta",
+      "options": [
+        "Dinî meşruiyet kurumu ile fiilî siyasi otorite farklı ellerde bulunabilmiştir.",
+        "Memlük sultanlarının bütün siyasi yetkileri halifeye devredilmiştir.",
+        "Kahire’deki halifelik Moğol hükümdarlarınca yönetilmiştir.",
+        "Memlüklerin Abbasilerle hiçbir kurumsal bağı kalmamıştır.",
+        "Sultanlık makamı halifelik unvanıyla aynı hâle gelmiştir."
+      ],
+      "answer": "A",
+      "explanation": "Kahire’de Abbasi halifeleri bulunurken fiilî siyasi ve askerî güç Memlük sultanlarındaydı. Bu düzen, dinî meşruiyet ile yönetim yetkisinin her zaman tek kişide birleşmediğini gösterir.",
+      "sources": [
+        "YD-NOT",
+        "YD-MEM"
+      ]
+    },
+    {
+      "id": "MIS-016",
+      "revision": 1,
+      "topic": "Mısır’da Kurulan Devletler",
+      "subtopic": "Memlükler — Osmanlı ilişkileri",
+      "skill": "Bilgi",
+      "stem": "Memlük yönetiminin Osmanlılar tarafından sona erdirilmesiyle ilişkili savaşlar hangi seçenekte birlikte verilmiştir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Otlukbeli – Çaldıran",
+        "Hıttin – Ayn Calut",
+        "Mercidabık – Ridaniye",
+        "Ankara – Yassıçemen",
+        "Kösedağ – Elbistan"
+      ],
+      "answer": "C",
+      "explanation": "1516 Mercidabık ve 1517 Ridaniye zaferleri Memlük ülkesinin Osmanlı hâkimiyetine geçmesiyle ilişkilidir. Çaldıran da Yavuz Sultan Selim dönemindedir fakat rakip devlet Safevilerdir.",
+      "sources": [
+        "YD-NOT",
+        "YD-MEM"
+      ]
+    },
+    {
+      "id": "MIS-017",
+      "revision": 1,
+      "topic": "Mısır’da Kurulan Devletler",
+      "subtopic": "Mısır devletleri — karşılaştırma",
+      "skill": "Bilgi ve yorum",
+      "stem": "I. İhşidilerin yönetimine Fatımiler son vermiştir.\nII. Hıttin zaferi Selahaddin Eyyubi’nin Kudüs’ü geri almasını sağlamıştır.\nIII. Ayn Calut’ta Memlükler Haçlı ordusunu yenmiştir.\n\nYukarıdaki yargılardan hangileri doğrudur?",
+      "difficulty": "Orta",
+      "options": [
+        "Yalnız I",
+        "Yalnız II",
+        "II ve III",
+        "I, II ve III",
+        "I ve II"
+      ],
+      "answer": "E",
+      "explanation": "İhşidilerin sonu Fatımi hâkimiyetiyle, Hıttin ise Eyyubilerin Kudüs’ü geri almasıyla ilişkilidir. Ayn Calut’ta Memlükler Haçlıları değil Moğol kuvvetlerini yenmiştir; ilk iki öncül doğrudur.",
+      "sources": [
+        "YD-NOT",
+        "YD-MIS"
+      ]
+    },
+    {
+      "id": "MIS-018",
+      "revision": 1,
+      "topic": "Mısır’da Kurulan Devletler",
+      "subtopic": "Mısır devletleri — kanıt sınırı",
+      "skill": "Bilgi ve yorum",
+      "stem": "Tolunoğullarının Mısır’da cami ve hastane inşa etmesi, İhşidilerin Hicaz’da egemenlik kurması ve Memlüklerin Moğollarla mücadele etmesi birlikte düşünüldüğünde hangisine ulaşılamaz?",
+      "difficulty": "Orta",
+      "options": [
+        "Mısır’ın farklı devletler için bir siyasi merkez olduğuna",
+        "Bu devletlerin aynı veraset sistemini uyguladığına",
+        "Mimari faaliyetlerin sosyal hizmetlerle ilişkili olduğuna",
+        "Egemenlik faaliyetlerinin Mısır dışına taşabildiğine",
+        "Askerî mücadelenin devlet faaliyetleri arasında bulunduğuna"
+      ],
+      "answer": "B",
+      "explanation": "Verilenler Mısır’ın siyasi rolü, mimari hizmetler ve sınır ötesi faaliyetler hakkında sonuç çıkarmaya yeterlidir. Tahta geçiş kuralları açıklanmadığı için üç devletin aynı veraset sistemini kullandığına ulaşılamaz.",
+      "sources": [
+        "YD-NOT",
+        "YD-TOL",
+        "YD-IHS",
+        "YD-MEM"
+      ]
+    },
+    {
+      "id": "BEY-001",
+      "revision": 1,
+      "topic": "Anadolu’da İlk Türk Beylikleri",
+      "subtopic": "Saltuklular — kuruluş",
+      "skill": "Bilgi",
+      "stem": "Malazgirt sonrasında Erzurum ve çevresinde kurulan Anadolu Türk beyliği aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Danişmentliler",
+        "Mengücekliler",
+        "Saltuklular",
+        "Artuklular",
+        "Çaka Beyliği"
+      ],
+      "answer": "C",
+      "explanation": "Saltuklular Erzurum çevresinde kurulmuştur. Mengücekliler de Doğu Anadolu’da bulunur ancak başlıca merkezleri Erzincan ve Divriği’dir; genel bölge benzerliği merkezleri eşitlemez.",
+      "sources": [
+        "YD-NOT",
+        "YD-MEB"
+      ]
+    },
+    {
+      "id": "BEY-002",
+      "revision": 1,
+      "topic": "Anadolu’da İlk Türk Beylikleri",
+      "subtopic": "Saltuklular — mimari",
+      "skill": "Bilgi ve yorum",
+      "stem": "Erzurum çevresinin siyasi tarihi ile Tercan’daki Mama Hatun Külliyesi birlikte araştırılırken hangi beylik öne çıkar?",
+      "difficulty": "Orta",
+      "options": [
+        "Mengücekliler",
+        "Danişmentliler",
+        "Artuklular",
+        "Çaka Beyliği",
+        "Saltuklular"
+      ],
+      "answer": "E",
+      "explanation": "Mama Hatun Külliyesi Saltuklu dönemine aittir ve Tercan’da bulunur. Bir beyliğin siyasi merkezinin Erzurum olması, eserlerinin yalnız bu şehirde bulunmasını gerektirmez.",
+      "sources": [
+        "YD-NOT",
+        "YD-SAL",
+        "YD-MEB"
+      ]
+    },
+    {
+      "id": "BEY-003",
+      "revision": 1,
+      "topic": "Anadolu’da İlk Türk Beylikleri",
+      "subtopic": "Saltuklular — sınır ilişkileri",
+      "skill": "Bilgi ve yorum",
+      "stem": "Saltukluların Erzurum ve çevresindeki faaliyetleri ile Gürcülerle mücadeleleri birlikte ele alındığında hangi yorum yapılabilir?",
+      "difficulty": "Orta",
+      "options": [
+        "Deniz ticareti beyliğin askerî stratejisinin temelini oluşturmuştur.",
+        "Beyliğin dış ilişkilerinde bulunduğu sınır coğrafyası etkili olmuştur.",
+        "Mısır’daki siyasi değişimler kuruluşun doğrudan nedeni olmuştur.",
+        "Gürcü mücadeleleri Anadolu’daki tüm beylikleri birleştirmiştir.",
+        "Sınır savunması mimari faaliyetleri durdurmuştur."
+      ],
+      "answer": "B",
+      "explanation": "Erzurum’un Kafkasya’ya yakınlığı Gürcü kuvvetleriyle ilişkileri anlamlandırır. Coğrafyanın dış ilişkilere etkisi çıkarılabilir; bu mücadelelerden Anadolu’da bütün siyasi birliğin sağlandığı söylenemez.",
+      "sources": [
+        "YD-NOT",
+        "YD-SAL"
+      ]
+    },
+    {
+      "id": "BEY-004",
+      "revision": 1,
+      "topic": "Anadolu’da İlk Türk Beylikleri",
+      "subtopic": "Danişmentliler — kuruluş",
+      "skill": "Bilgi",
+      "stem": "Sivas, Tokat ve Malatya çevresinde hâkimiyet kuran Danişmentlilerin kurucusu aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Mengücek Gazi",
+        "Ebulkasım Saltuk",
+        "Artuk Bey",
+        "Danişment Ahmet Gazi",
+        "Çaka Bey"
+      ],
+      "answer": "D",
+      "explanation": "Danişment Ahmet Gazi, Sivas ve çevresinde Danişmentli hâkimiyetinin kurucusudur. Mengücek Gazi ise Erzincan ve çevresindeki farklı beyliğin kuruluşuyla ilişkilidir.",
+      "sources": [
+        "YD-NOT",
+        "YD-DAN",
+        "YD-MEB"
+      ]
+    },
+    {
+      "id": "BEY-005",
+      "revision": 1,
+      "topic": "Anadolu’da İlk Türk Beylikleri",
+      "subtopic": "Danişmentliler — eğitim",
+      "skill": "Bilgi",
+      "stem": "Tokat ve Niksar’daki Yağıbasan medreseleri aşağıdaki beyliklerden hangisinin Anadolu’daki eğitim faaliyetleriyle ilişkilidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Danişmentliler",
+        "Saltuklular",
+        "Mengücekliler",
+        "Artuklular",
+        "Çaka Beyliği"
+      ],
+      "answer": "A",
+      "explanation": "Yağıbasan medreseleri Danişmentli dönemine ait eğitim yapılarıdır. Beylikleri yalnız savaşlarıyla değil, yerleştikleri bölgelerdeki kurumlarıyla da tanımak gerekir.",
+      "sources": [
+        "YD-NOT",
+        "YD-DAN",
+        "YD-MEB"
+      ]
+    },
+    {
+      "id": "BEY-006",
+      "revision": 1,
+      "topic": "Anadolu’da İlk Türk Beylikleri",
+      "subtopic": "Danişmentliler — siyasi ilişkiler",
+      "skill": "Bilgi ve yorum",
+      "stem": "Danişmentliler ile Türkiye Selçuklularının bazı dönemlerde rekabet etmelerine rağmen Haçlılara karşı birlikte hareket etmeleri hangi yargıyı destekler?",
+      "difficulty": "Orta",
+      "options": [
+        "Ortak mücadele Danişmentlilerin kuruluş bağımsızlığını ortadan kaldırmıştır.",
+        "İki devlet aynı hükümdar tarafından yönetilmiştir.",
+        "Ortak dış tehdit, siyasi rakipler arasında iş birliğine yol açabilmiştir.",
+        "Haçlılarla mücadele yalnız Danişmentlilerin sorumluluğundaydı.",
+        "Anadolu’daki rekabetin temel nedeni din farklılığı olmuştur."
+      ],
+      "answer": "C",
+      "explanation": "Birbirleriyle rekabet eden siyasi güçler ortak düşmana karşı iş birliği yapabilir. Bu durum bağımsızlıkların veya bütün çıkar farklılıklarının sona erdiği anlamına gelmez.",
+      "sources": [
+        "YD-NOT",
+        "YD-DAN"
+      ]
+    },
+    {
+      "id": "BEY-007",
+      "revision": 1,
+      "topic": "Anadolu’da İlk Türk Beylikleri",
+      "subtopic": "Mengücekliler — coğrafya",
+      "skill": "Bilgi",
+      "stem": "Erzincan ve Divriği çevresindeki Türk beyliği ile kurucusu hangi seçenekte doğru eşleştirilmiştir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Danişmentliler – Ebulkasım Saltuk",
+        "Saltuklular – Danişment Ahmet Gazi",
+        "Artuklular – Çaka Bey",
+        "Çaka Beyliği – Artuk Bey",
+        "Mengücekliler – Mengücek Gazi"
+      ],
+      "answer": "E",
+      "explanation": "Mengücek Gazi’nin kurduğu beylik Erzincan ve Divriği çevresinde faaliyet göstermiştir. Beylik adının kurucuyla ilişkisi kadar coğrafi merkez de doğru eşleşmelidir.",
+      "sources": [
+        "YD-NOT",
+        "YD-MEB"
+      ]
+    },
+    {
+      "id": "BEY-008",
+      "revision": 1,
+      "topic": "Anadolu’da İlk Türk Beylikleri",
+      "subtopic": "Mengücekliler — kültürel miras",
+      "skill": "Bilgi",
+      "stem": "1985’te UNESCO Dünya Mirası Listesi’ne alınan Divriği Ulu Cami ve Darüşşifası hangi beyliğin mirasıdır?",
+      "difficulty": "Kolay",
+      "options": [
+        "Artuklular",
+        "Mengücekliler",
+        "Danişmentliler",
+        "Saltuklular",
+        "Çaka Beyliği"
+      ],
+      "answer": "B",
+      "explanation": "Divriği’deki cami ve darüşşifa Mengücekli döneminin eseridir. UNESCO kaydı yapının çağdaş koruma statüsünü belirtir; 1985 tarihi inşa tarihi değildir.",
+      "sources": [
+        "YD-NOT",
+        "YD-UNESCO"
+      ]
+    },
+    {
+      "id": "BEY-009",
+      "revision": 1,
+      "topic": "Anadolu’da İlk Türk Beylikleri",
+      "subtopic": "Mengücekliler — kurum işlevi",
+      "skill": "Bilgi ve yorum",
+      "stem": "Divriği’de cami ile darüşşifanın aynı mimari bütün içinde yer alması hangi çıkarımı destekler?",
+      "difficulty": "Orta",
+      "options": [
+        "Hastanelerin yalnız askerî yaralılar için yapıldığını",
+        "Tedavinin cami imamlarının siyasi görevlerinden olduğunu",
+        "Darüşşifanın bir vergi toplama merkezi olduğunu",
+        "Dinî hizmet ile sağlık hizmetinin bir arada sunulabildiğini",
+        "Beyliğin bütün eğitim kurumlarının burada toplandığını"
+      ],
+      "answer": "D",
+      "explanation": "Cami ibadet, darüşşifa ise tedavi işlevi taşır. Aynı külliyede bulunmaları farklı toplumsal ihtiyaçların birlikte karşılanabildiğini gösterir; kurumların görevlerini birbirine dönüştürmez.",
+      "sources": [
+        "YD-NOT",
+        "YD-UNESCO"
+      ]
+    },
+    {
+      "id": "BEY-010",
+      "revision": 1,
+      "topic": "Anadolu’da İlk Türk Beylikleri",
+      "subtopic": "Artuklular — kollar",
+      "skill": "Bilgi",
+      "stem": "Artukluların başlıca üç kolunun merkezleri hangi seçenekte birlikte verilmiştir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Hasankeyf – Harput – Mardin",
+        "Erzurum – Tercan – Bayburt",
+        "Sivas – Tokat – Malatya",
+        "Erzincan – Kemah – Divriği",
+        "İzmir – Sakız – Midilli"
+      ],
+      "answer": "A",
+      "explanation": "Artuklular Hasankeyf, Harput ve Mardin merkezli kollara ayrılmıştır. Bu kolların siyasi ömürleri aynı değildir; hanedanın tek bir sona eriş tarihi bütün kollara uygulanamaz.",
+      "sources": [
+        "YD-NOT",
+        "YD-ART",
+        "YD-MEB"
+      ]
+    },
+    {
+      "id": "BEY-011",
+      "revision": 1,
+      "topic": "Anadolu’da İlk Türk Beylikleri",
+      "subtopic": "Artuklular — ulaşım eserleri",
+      "skill": "Bilgi",
+      "stem": "Diyarbakır çevresindeki Malabadi Köprüsü aşağıdaki beyliklerden hangisinin mimari faaliyetleriyle ilişkilidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Danişmentliler",
+        "Saltuklular",
+        "Artuklular",
+        "Mengücekliler",
+        "Çaka Beyliği"
+      ],
+      "answer": "C",
+      "explanation": "Malabadi Köprüsü Artuklu mirası içindedir. Köprü bir ulaşım yapısıdır; medrese ve darüşşifadan farklı bir toplumsal ihtiyaca hizmet eder.",
+      "sources": [
+        "YD-NOT",
+        "YD-ART",
+        "YD-MEB"
+      ]
+    },
+    {
+      "id": "BEY-012",
+      "revision": 1,
+      "topic": "Anadolu’da İlk Türk Beylikleri",
+      "subtopic": "Artuklular — bilim",
+      "skill": "Bilgi",
+      "stem": "Artuklu sarayında su makineleri ve otomatik düzenekler üzerinde çalışan bilgin aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Uluğ Bey",
+        "Ömer Hayyam",
+        "Ali Kuşçu",
+        "Abdüllatif el-Bağdadi",
+        "Cezerî"
+      ],
+      "answer": "E",
+      "explanation": "Cezerî, Artuklu himayesinde mekanik düzenekler ve su makineleri tasarlamıştır. Bu çalışmaların otomasyon tarihindeki önemi, bütün modern teknolojileri tek başına icat ettiği biçiminde genişletilmemelidir.",
+      "sources": [
+        "YD-NOT",
+        "YD-CEZ"
+      ]
+    },
+    {
+      "id": "BEY-013",
+      "revision": 1,
+      "topic": "Anadolu’da İlk Türk Beylikleri",
+      "subtopic": "Artuklular — siyasi yapı",
+      "skill": "Bilgi ve yorum",
+      "stem": "Artukluların farklı şehirlerde hüküm süren kollara ayrılması hangi inceleme yaklaşımını gerekli kılar?",
+      "difficulty": "Orta",
+      "options": [
+        "Bütün kolların aynı hükümdara bağlı kaldığını varsaymayı",
+        "Her kolun ilişkilerini ve sona erişini ayrı değerlendirmeyi",
+        "Hanedanın şehirler üzerindeki hâkimiyetini reddetmeyi",
+        "Kollardan birinin sonunu bütün hanedanın sonu saymayı",
+        "Artuklu eserlerinin tamamını aynı şehirde aramayı"
+      ],
+      "answer": "B",
+      "explanation": "Şehir merkezli kollar, hanedanın tek biçimli bir siyasi bütün gibi ele alınmasını güçleştirir. Bir kolun ortadan kalkması diğerlerinin de aynı anda sona erdiğini göstermez; tarihler ve ilişkiler ayrı incelenmelidir.",
+      "sources": [
+        "YD-NOT",
+        "YD-ART"
+      ]
+    },
+    {
+      "id": "BEY-014",
+      "revision": 1,
+      "topic": "Anadolu’da İlk Türk Beylikleri",
+      "subtopic": "Çaka Beyliği — denizcilik",
+      "skill": "Bilgi",
+      "stem": "İzmir merkezli bir beylik kurarak Ege’de donanma faaliyetleri yürüten Türk beyi aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Artuk Bey",
+        "Mengücek Gazi",
+        "Danişment Ahmet Gazi",
+        "Çaka Bey",
+        "Ebulkasım Saltuk"
+      ],
+      "answer": "D",
+      "explanation": "Çaka Bey İzmir çevresinde kurduğu beylikte donanma oluşturmuş ve Ege’de Bizans’a karşı faaliyet yürütmüştür. Diğer beylerin Anadolu’daki askerî rolleri, onları aynı denizcilik girişiminin kurucusu yapmaz.",
+      "sources": [
+        "YD-NOT",
+        "YD-CAK",
+        "YD-MEB"
+      ]
+    },
+    {
+      "id": "BEY-015",
+      "revision": 1,
+      "topic": "Anadolu’da İlk Türk Beylikleri",
+      "subtopic": "Çaka Beyliği — diplomasi",
+      "skill": "Bilgi ve yorum",
+      "stem": "Bizans İmparatoru I. Aleksios’un Çaka Bey ile I. Kılıç Arslan arasındaki çıkar çatışmasını artırmaya çalışması hangi amacıyla ilişkilendirilebilir?",
+      "difficulty": "Orta",
+      "options": [
+        "Karşısındaki güçlerin ortak hareket etmesini engellemekle",
+        "Selçuklu donanmasının komutasını Çaka Bey’e vermekle",
+        "Türk beyliklerinin siyasi birliğini desteklemekle",
+        "İzmir’in yönetimini Selçuklulara gönüllü devretmekle",
+        "Haçlı kuvvetlerini Çaka Bey’in donanmasına katmakla"
+      ],
+      "answer": "A",
+      "explanation": "Bizans’ın rakip Türk güçleri arasındaki rekabeti kullanması, birlikte hareket etmelerini zorlaştırmaya yönelikti. Bu örnek askerî mücadele yanında diplomasinin de güç dengesini değiştirebildiğini gösterir.",
+      "sources": [
+        "YD-NOT",
+        "YD-CAK"
+      ]
+    },
+    {
+      "id": "BEY-016",
+      "revision": 1,
+      "topic": "Anadolu’da İlk Türk Beylikleri",
+      "subtopic": "Beylikler — işlev ve eser",
+      "skill": "Bilgi ve yorum",
+      "stem": "I. Yağıbasan Medresesi — Danişmentliler — eğitim\nII. Divriği Darüşşifası — Mengücekliler — sağlık\nIII. Malabadi Köprüsü — Artuklular — ulaşım\n\nYukarıdaki eser, beylik ve temel işlev eşleştirmelerinden hangileri doğrudur?",
+      "difficulty": "Orta",
+      "options": [
+        "Yalnız I",
+        "I ve II",
+        "I, II ve III",
+        "I ve III",
+        "II ve III"
+      ],
+      "answer": "C",
+      "explanation": "Yağıbasan medreseleri eğitim, Divriği Darüşşifası tedavi, Malabadi Köprüsü ulaşım hizmetiyle ilişkilidir. Üçü farklı beyliklerin farklı ihtiyaçlara yönelik eserleri olduğu için tüm eşleştirmeler doğrudur.",
+      "sources": [
+        "YD-NOT",
+        "YD-MEB",
+        "YD-UNESCO"
+      ]
+    },
+    {
+      "id": "BEY-017",
+      "revision": 1,
+      "topic": "Anadolu’da İlk Türk Beylikleri",
+      "subtopic": "Beylikler — siyasi ve kültürel sonuç",
+      "skill": "Bilgi ve yorum",
+      "stem": "Anadolu’daki ilk Türk beylikleri bölgesel hâkimiyetler kurmuş, Haçlılar ve Bizans’la mücadele etmiş, cami, medrese, hastane ve köprüler inşa etmiştir.\n\nBu bilgilerden hangisine ulaşılamaz?",
+      "difficulty": "Orta",
+      "options": [
+        "Türk yerleşiminin kurumsal yapılarla desteklendiğine",
+        "Askerî ve kültürel faaliyetlerin birlikte yürütüldüğüne",
+        "Toplumun farklı ihtiyaçlarına yönelik yatırımlar yapıldığına",
+        "Birden fazla bölgesel siyasi gücün var olduğuna",
+        "Anadolu’da tek merkezden yönetilen siyasi birliğin kurulduğuna"
+      ],
+      "answer": "E",
+      "explanation": "Farklı beyliklerin varlığı siyasi çoğulluğu, eserler ise yerleşim ve kurumlaşmayı gösterir. Birlikte faaliyet göstermeleri veya benzer eserler yaptırmaları, Anadolu’nun tek merkezden yönetildiğini kanıtlamaz.",
+      "sources": [
+        "YD-NOT",
+        "YD-MEB"
+      ]
+    },
+    {
+      "id": "BEY-018",
+      "revision": 1,
+      "topic": "Anadolu’da İlk Türk Beylikleri",
+      "subtopic": "Beylikler — çoklu coğrafya",
+      "skill": "Bilgi ve yorum",
+      "stem": "Bir araştırmada Erzurum, Divriği ve İzmir’deki ilk Türk beyliklerinin mirası sırasıyla ele alınmaktadır. Araştırmanın siyasi çerçevesi hangi seçenekte doğru sıralanmıştır?",
+      "difficulty": "Orta",
+      "options": [
+        "Mengücekliler – Saltuklular – Çaka Beyliği",
+        "Saltuklular – Mengücekliler – Çaka Beyliği",
+        "Saltuklular – Danişmentliler – Artuklular",
+        "Danişmentliler – Mengücekliler – Artuklular",
+        "Artuklular – Danişmentliler – Çaka Beyliği"
+      ],
+      "answer": "B",
+      "explanation": "Erzurum Saltuklu, Divriği Mengücekli, İzmir ise Çaka Beyliği sahasıyla ilişkilidir. Bu soru devletleri genel Anadolu konumundan daha dar yerel merkezlere göre ayırmayı gerektirir.",
+      "sources": [
+        "YD-NOT",
+        "YD-MEB"
+      ]
+    },
+    {
+      "id": "TKM-001",
+      "revision": 1,
+      "topic": "Akkoyunlular ve Karakoyunlular",
+      "subtopic": "Karakoyunlular — kuruluş",
+      "skill": "Bilgi",
+      "stem": "Karakoyunluların ilk beylerinden olup Van-Erciş çevresindeki siyasi teşekkülle ilişkilendirilen kişi aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Karayülük Osman",
+        "Uzun Hasan",
+        "Bayram Hoca",
+        "Şah İsmail",
+        "Timur"
+      ],
+      "answer": "C",
+      "explanation": "Bayram Hoca Karakoyunlu beyliğinin ilk siyasi örgütlenmesinde yer alır. Van-Erciş çevresiyle ilişkisi onu Akkoyunlu hükümdarları Karayülük Osman ve Uzun Hasan’dan ayırır.",
+      "sources": [
+        "YD-NOT",
+        "YD-KAR"
+      ]
+    },
+    {
+      "id": "TKM-002",
+      "revision": 1,
+      "topic": "Akkoyunlular ve Karakoyunlular",
+      "subtopic": "Akkoyunlular — hükümdar ve savaş",
+      "skill": "Bilgi",
+      "stem": "1473 Otlukbeli Savaşı’nda Fatih Sultan Mehmet’in karşısında bulunan Akkoyunlu hükümdarı kimdir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Cihan Şah",
+        "Şah İsmail",
+        "Bayram Hoca",
+        "Timur",
+        "Uzun Hasan"
+      ],
+      "answer": "E",
+      "explanation": "Otlukbeli’de Osmanlıların rakibi Uzun Hasan yönetimindeki Akkoyunlulardı. Çaldıran ve Ankara da doğudaki güçlerle yapılan savaşlardır; fakat hükümdarları ve dönemleri farklıdır.",
+      "sources": [
+        "YD-NOT",
+        "YD-AKK"
+      ]
+    },
+    {
+      "id": "TKM-003",
+      "revision": 1,
+      "topic": "Akkoyunlular ve Karakoyunlular",
+      "subtopic": "Akkoyunlular — Türkçe ve kültür",
+      "skill": "Bilgi ve yorum",
+      "stem": "Uzun Hasan’ın Kur’an’ı Türkçeye çevirtip huzurunda okutması hangi yargıyı en doğrudan destekler?",
+      "difficulty": "Orta",
+      "options": [
+        "Devletin bütün yazışmalarının Türkçe yapılmasının zorunlu olduğunu",
+        "Türkçenin dinî metinlerin anlaşılmasında kullanıldığını",
+        "Arapçanın toplumdaki kullanımının sona erdiğini",
+        "Hükümdarın dinî kurumları yönetimden çıkardığını",
+        "Kur’an’ın ilk Türkçe tercümesinin bu dönemde yapıldığını"
+      ],
+      "answer": "B",
+      "explanation": "Türkçe tercüme, dinî metni Türkçe üzerinden anlama ve okuma imkânını gösterir. Bu faaliyet tek başına resmî dilin her alanda değiştiğini veya tarihte ilk Türkçe tercümenin yapıldığını kanıtlamaz.",
+      "sources": [
+        "YD-NOT",
+        "YD-AKK"
+      ]
+    },
+    {
+      "id": "TKM-004",
+      "revision": 1,
+      "topic": "Akkoyunlular ve Karakoyunlular",
+      "subtopic": "Türkmen devletleri — siyasi geçiş",
+      "skill": "Bilgi ve yorum",
+      "stem": "Karakoyunlu gücünü yenerek üstünlük sağlayan Akkoyunluların daha sonra Safevi baskısı karşısında gerilemesi hangi çıkarımı destekler?",
+      "difficulty": "Orta",
+      "options": [
+        "Üç hanedanın aynı hükümdar ailesinin kolları olduğunu",
+        "Bölgedeki kültürel kurumların her geçişte tamamen yok edildiğini",
+        "Osmanlıların bütün bu değişimlerden önce İran’ı ilhak ettiğini",
+        "Aynı bölgedeki siyasi üstünlüğün farklı hanedanlar arasında el değiştirdiğini",
+        "Yeni yönetimlerin öncekilerle hiçbir ilişkisi olmadığını"
+      ],
+      "answer": "D",
+      "explanation": "Doğu Anadolu ve İran çevresinde Karakoyunlu, Akkoyunlu ve Safevi güçleri farklı dönemlerde üstünlük kurmuştur. Devletler arasındaki siyasi rekabet, kültürel mirasın her defasında tamamen ortadan kalktığını göstermez.",
+      "sources": [
+        "YD-NOT",
+        "YD-KAR",
+        "YD-AKK"
+      ]
+    },
+    {
+      "id": "TKM-005",
+      "revision": 1,
+      "topic": "Akkoyunlular ve Karakoyunlular",
+      "subtopic": "Akkoyunlular — yenilgi ve sona eriş",
+      "skill": "Bilgi ve yorum",
+      "stem": "Uzun Hasan’ın Otlukbeli’de yenilmesinden sonra Akkoyunlu yönetiminin sürmesi aşağıdaki ayrımlardan hangisini gerekli kılar?",
+      "difficulty": "Orta",
+      "options": [
+        "Bir savaşta yenilmek ile devletin sona ermesini ayırmayı",
+        "Askerî yenilginin siyasi sonuç doğurmadığını kabul etmeyi",
+        "Yenilginin hükümdarın adını değiştirdiğini kabul etmeyi",
+        "Osmanlı zaferinin Safevi kuruluşu anlamına geldiğini düşünmeyi",
+        "Savaşın Akkoyunlu kuruluşundan önce olduğunu varsaymayı"
+      ],
+      "answer": "A",
+      "explanation": "Otlukbeli Akkoyunlu gücüne darbe vurmuş fakat devleti o anda ortadan kaldırmamıştır. Savaşın etkisi ile nihai yıkılış aynılaştırılmadan değerlendirilmelidir.",
+      "sources": [
+        "YD-NOT",
+        "YD-AKK"
+      ]
+    },
+    {
+      "id": "TKM-006",
+      "revision": 1,
+      "topic": "Akkoyunlular ve Karakoyunlular",
+      "subtopic": "Türkmen devletleri — karşılaştırma",
+      "skill": "Bilgi ve yorum",
+      "stem": "I. Uzun Hasan, Akkoyunlu hükümdarıdır.\nII. Cihan Şah, Karakoyunlu hükümdarıdır.\nIII. Otlukbeli’de Osmanlıların rakibi Safevilerdir.\n\nYargılardan hangileri doğrudur?",
+      "difficulty": "Orta",
+      "options": [
+        "Yalnız I",
+        "Yalnız II",
+        "I ve II",
+        "I ve III",
+        "I, II ve III"
+      ],
+      "answer": "C",
+      "explanation": "Uzun Hasan Akkoyunluları, Cihan Şah Karakoyunluları yönetmiştir. Osmanlıların Otlukbeli’deki rakibi Akkoyunlular, Çaldıran’daki rakibi Safevilerdir; üçüncü öncül yanlıştır.",
+      "sources": [
+        "YD-NOT",
+        "YD-AKK",
+        "YD-KAR"
+      ]
+    },
+    {
+      "id": "SFV-001",
+      "revision": 1,
+      "topic": "Safeviler",
+      "subtopic": "Safeviler — kuruluş",
+      "skill": "Bilgi",
+      "stem": "XVI. yüzyılın başında İran merkezli Safevi Devleti’ni kuran hükümdar aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Uzun Hasan",
+        "Cihan Şah",
+        "Şah İsmail",
+        "Babür Şah",
+        "Şah Cihan"
+      ],
+      "answer": "C",
+      "explanation": "Şah İsmail 1501’de Safevi Devleti’nin kuruluşunu gerçekleştirmiştir. Akkoyunlu ve Karakoyunlu hükümdarları benzer coğrafyalarda faaliyet göstermiş olsa da Safevi kurucusu değildir.",
+      "sources": [
+        "YD-NOT",
+        "YD-SAF"
+      ]
+    },
+    {
+      "id": "SFV-002",
+      "revision": 1,
+      "topic": "Safeviler",
+      "subtopic": "Safeviler — Çaldıran",
+      "skill": "Bilgi",
+      "stem": "Yavuz Sultan Selim’in Şah İsmail karşısında kazandığı 1514 zaferi aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Otlukbeli",
+        "Mercidabık",
+        "Ridaniye",
+        "Ankara",
+        "Çaldıran"
+      ],
+      "answer": "E",
+      "explanation": "Çaldıran Savaşı Osmanlılar ile Safeviler arasında yapılmıştır. Mercidabık ve Ridaniye de Yavuz döneminde olsa da rakip devlet Memlüklerdir.",
+      "sources": [
+        "YD-NOT",
+        "YD-SAF"
+      ]
+    },
+    {
+      "id": "SFV-003",
+      "revision": 1,
+      "topic": "Safeviler",
+      "subtopic": "Safeviler — sonuç sınırı",
+      "skill": "Bilgi ve yorum",
+      "stem": "Çaldıran’da yenilen Şah İsmail’in daha sonraki yıllarda Safevi hükümdarı olarak faaliyet sürdürmesi aşağıdaki yargılardan hangisini geçersiz kılar?",
+      "difficulty": "Orta",
+      "options": [
+        "Osmanlı-Safevi rekabetinin askerî boyut taşıdığı yargısını",
+        "Çaldıran’ın Safevi Devleti’ni hemen ortadan kaldırdığı yargısını",
+        "Safevi yönetiminin yenilgiye rağmen sürdüğü yargısını",
+        "Osmanlı ordusunun bu savaşta üstün geldiği yargısını",
+        "Savaşın Şah İsmail’in siyasi itibarını etkilediği yargısını"
+      ],
+      "answer": "B",
+      "explanation": "Çaldıran Safevilere önemli bir darbe vurmuş fakat devletin sonu olmamıştır. Şah İsmail’in yönetimi sürdürmesi, savaş yenilgisi ile devletin ortadan kalkmasını ayırmayı gerektirir.",
+      "sources": [
+        "YD-NOT",
+        "YD-SAF"
+      ]
+    },
+    {
+      "id": "BAB-001",
+      "revision": 1,
+      "topic": "Babürler",
+      "subtopic": "Babürler — kuruluş",
+      "skill": "Bilgi",
+      "stem": "1526’da Hindistan’da Babür Devleti’ni kuran hükümdar aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Ekber Şah",
+        "Şah Cihan",
+        "Babür Şah",
+        "Cihangir",
+        "Evrengzib"
+      ],
+      "answer": "C",
+      "explanation": "Babür Şah, Hindistan’daki devletin kurucusudur. Ekber Şah ve Şah Cihan aynı hanedanın sonraki hükümdarlarıdır; kurucu ile devleti geliştiren kişiler ayrılmalıdır.",
+      "sources": [
+        "YD-NOT",
+        "YD-BAB"
+      ]
+    },
+    {
+      "id": "BAB-002",
+      "revision": 1,
+      "topic": "Babürler",
+      "subtopic": "Babürler — hükümdarlar",
+      "skill": "Bilgi",
+      "stem": "Babür Devleti’nin Hindistan’daki siyasi gücünü genişleten ve yönetimini sağlamlaştıran Ekber Şah ile ilgili hangi eşleştirme doğrudur?",
+      "difficulty": "Kolay",
+      "options": [
+        "Ekber Şah – Safeviler",
+        "Ekber Şah – Harzemşahlar",
+        "Ekber Şah – Akkoyunlular",
+        "Ekber Şah – Memlükler",
+        "Ekber Şah – Babürler"
+      ],
+      "answer": "E",
+      "explanation": "Ekber Şah Babürlü hükümdarıdır ve Hindistan’daki hâkimiyetin güçlenmesinde önemli rol oynamıştır. İran ve Orta Asya devletlerinin hükümdarlarıyla aynı siyasi çevrede değerlendirilmemelidir.",
+      "sources": [
+        "YD-NOT",
+        "YD-BAB"
+      ]
+    },
+    {
+      "id": "BAB-003",
+      "revision": 1,
+      "topic": "Babürler",
+      "subtopic": "Babürler — Tac Mahal",
+      "skill": "Bilgi",
+      "stem": "Şah Cihan’ın eşi Mümtaz Mahal için yaptırdığı Tac Mahal’in temel işlevi aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Hükümdarlık sarayı",
+        "Anıt mezar",
+        "Askerî kale",
+        "Tıp medresesi",
+        "Rasathane"
+      ],
+      "answer": "B",
+      "explanation": "Tac Mahal, Şah Cihan’ın Mümtaz Mahal için yaptırdığı anıt mezardır. Yapı çevresinde başka mimari unsurlar bulunması temel mezar işlevini değiştirmez.",
+      "sources": [
+        "YD-NOT",
+        "YD-TAC"
+      ]
+    },
+    {
+      "id": "BAB-004",
+      "revision": 1,
+      "topic": "Babürler",
+      "subtopic": "Babürler — kültürel coğrafya",
+      "skill": "Bilgi ve yorum",
+      "stem": "Hindistan’daki Babürlü siyasi hâkimiyeti ile Tac Mahal gibi eserler birlikte değerlendirildiğinde hangi çıkarım yapılabilir?",
+      "difficulty": "Orta",
+      "options": [
+        "Türk-İslam mimarisinin Hindistan’da başka kültürlerle ilişki kurmadığı",
+        "Tac Mahal’in Orta Asya’da inşa edildiği",
+        "Babürlü hükümdarlarının Mısır’da aynı dönemde hüküm sürdüğü",
+        "Türk-İslam hanedanlarının kültürel etkilerinin Hindistan’a da uzandığı",
+        "Hindistan’daki siyasi egemenliğin yalnız mimari yatırımlara dayandığı"
+      ],
+      "answer": "D",
+      "explanation": "Babürlülerin Hindistan’daki varlığı ve mimari mirası, Türk-İslam siyasi ve kültürel çevresinin bu bölgeye uzandığını gösterir. Bunun tek başına kültürel etkileşimsizlik veya egemenliğin bütün nedenleri gibi yorumlara dönüştürülmesi doğru değildir.",
+      "sources": [
+        "YD-NOT",
+        "YD-BAB",
+        "YD-TAC"
+      ]
+    },
+    {
+      "id": "HRZ-001",
+      "revision": 1,
+      "topic": "Harzemşahlar",
+      "subtopic": "Harzemşahlar — Selçuklu mirası",
+      "skill": "Bilgi ve yorum",
+      "stem": "Başlangıçta Büyük Selçuklu siyasi çevresinde bulunan Harzem yöneticilerinin daha sonra bağımsız bir güç hâline gelmesi hangi sürece örnektir?",
+      "difficulty": "Orta",
+      "options": [
+        "Halifeliğin askerî komutanlıklara bölünmesine",
+        "Moğol uluslarının ilk kez kurulmasına",
+        "Merkezî otoritenin zayıflamasıyla bağlı yöneticilerin bağımsızlaşmasına",
+        "Haçlı kontluklarının Müslüman hanedanlara dönüşmesine",
+        "Babürlülerin Hindistan’da hâkimiyet kurmasına"
+      ],
+      "answer": "C",
+      "explanation": "Harzem yöneticilerinin Selçuklu çevresinden bağımsız devlet gücüne dönüşmesi bağlılık-bağımsızlık ilişkisini gösterir. Benzer siyasi gelişmelerin varlığı, Harzemşahları Moğol ardıl devletlerinden biri yapmaz.",
+      "sources": [
+        "YD-NOT",
+        "YD-HRZ"
+      ]
+    },
+    {
+      "id": "HRZ-002",
+      "revision": 1,
+      "topic": "Harzemşahlar",
+      "subtopic": "Harzemşahlar — Otrar",
+      "skill": "Bilgi",
+      "stem": "Moğol ticaret kervanının Otrar’da öldürülmesi ve ardından diplomatik girişimlerin başarısız olması, Cengiz Han’ın hangi devlet üzerine seferiyle ilişkilidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Karahanlılar",
+        "Gazneliler",
+        "Büyük Selçuklular",
+        "Babürler",
+        "Harzemşahlar"
+      ],
+      "answer": "E",
+      "explanation": "Otrar krizi Cengiz Han ile Harzemşah yönetimi arasındaki ilişkilerin savaşa dönüşmesinde etkili olmuştur. Ticari bir olayın diplomatik krize dönüşmesi, savaşın yakın nedenini açıklar; devletlerin adları ve dönemleri birbirine aktarılmamalıdır.",
+      "sources": [
+        "YD-NOT",
+        "YD-HRZ2"
+      ]
+    },
+    {
+      "id": "HRZ-003",
+      "revision": 1,
+      "topic": "Harzemşahlar",
+      "subtopic": "Harzemşahlar — diplomatik kriz",
+      "skill": "Bilgi ve yorum",
+      "stem": "Otrar’da ticaret kervanının öldürülmesinin ardından tazminat ve sorumluların teslimi talepleri karşılanmamış, ilişkiler askerî çatışmaya dönüşmüştür. Bu süreç hangi yorumu destekler?",
+      "difficulty": "Orta",
+      "options": [
+        "Askerî çatışmaların ticari ilişkilerden bağımsız olduğunu",
+        "Ticari güvenlik sorununun çözülemeyen bir diplomatik krize dönüşebildiğini",
+        "Moğolların ticaret yapmayı tamamen bıraktığını",
+        "Harzemşahların Moğol egemenliğini gönüllü kabul ettiğini",
+        "Otrar olayının Selçuklu kuruluşuna neden olduğunu"
+      ],
+      "answer": "B",
+      "explanation": "Kervanın güvenliğiyle başlayan sorun, diplomatik çözüm girişimlerinin sonuçsuz kalması üzerine savaşa dönüşmüştür. Bu örnek ekonomik ilişkiler, diplomasi ve askerî gelişmelerin birbirinden kopuk olmadığını gösterir.",
+      "sources": [
+        "YD-NOT",
+        "YD-HRZ2"
+      ]
+    },
+    {
+      "id": "HRZ-004",
+      "revision": 1,
+      "topic": "Harzemşahlar",
+      "subtopic": "Harzemşahlar — Yassıçemen",
+      "skill": "Bilgi",
+      "stem": "1230 Yassıçemen Savaşı’nda Celaleddin Harzemşah’ın karşısında yer alan Türkiye Selçuklu hükümdarı kimdir?",
+      "difficulty": "Kolay",
+      "options": [
+        "I. Kılıç Arslan",
+        "II. Kılıç Arslan",
+        "II. Gıyaseddin Keyhüsrev",
+        "I. Alaeddin Keykubat",
+        "Sultan Sencer"
+      ],
+      "answer": "D",
+      "explanation": "Yassıçemen’de Celaleddin Harzemşah, I. Alaeddin Keykubat yönetimindeki Türkiye Selçuklu gücü karşısında yenilmiştir. II. Gıyaseddin Keyhüsrev’in Kösedağ yenilgisi farklı rakip ve döneme aittir.",
+      "sources": [
+        "YD-NOT",
+        "YD-HRZ"
+      ]
+    },
+    {
+      "id": "TMG-001",
+      "revision": 1,
+      "topic": "Timur ve Moğol Siyasi Mirası",
+      "subtopic": "Timurlular — Ankara",
+      "skill": "Bilgi ve yorum",
+      "stem": "Ankara Savaşı’ndan sonra Osmanlı şehzadeleri arasında taht mücadeleleri başlamış; Fetret Devri’nde farklı bölgelerde rakip yönetimler oluşmuştur. Bu durum hangi yargıyı en doğrudan destekler?",
+      "difficulty": "Orta",
+      "options": [
+        "Hükümdarlığın seçimle belirlenmesine geçildiğini",
+        "Osmanlıların Anadolu’daki varlığının sona erdiğini",
+        "Merkezî siyasi otoritenin parçalandığını",
+        "Timur’un Osmanlı şehzadelerini tek yönetimde birleştirdiğini",
+        "Tahta geçiş kurallarının rekabeti ortadan kaldırdığını"
+      ],
+      "answer": "C",
+      "explanation": "Şehzadelerin farklı bölgelerde rakip yönetimler oluşturması merkezî otoritenin parçalandığını gösterir. Bu süreç Osmanlı Devleti’nin bütünüyle ortadan kalkması veya seçimli hükümdarlığa geçilmesi anlamına gelmez.",
+      "sources": [
+        "YD-NOT",
+        "YD-TIM"
+      ]
+    },
+    {
+      "id": "TMG-002",
+      "revision": 1,
+      "topic": "Timur ve Moğol Siyasi Mirası",
+      "subtopic": "Timurlular — Altın Orda",
+      "skill": "Bilgi ve yorum",
+      "stem": "Timur’un Altın Orda’ya ağır darbeler vurması Rus prensliklerinin güçlenmesi bakımından nasıl yorumlanabilir?",
+      "difficulty": "Orta",
+      "options": [
+        "Rus prenslikleri Timur tarafından doğrudan kurulmuştur.",
+        "Altın Orda’nın bütün kurumları Ruslara aynen devredilmiştir.",
+        "Rusya’nın yükselişi tek bir savaşla tamamlanmıştır.",
+        "Timurlular Rus prenslikleriyle aynı hanedandan gelmiştir.",
+        "Bölgedeki üstün gücün zayıflaması diğer siyasi güçlere hareket alanı açmıştır."
+      ],
+      "answer": "E",
+      "explanation": "Altın Orda’nın zayıflaması Rus prenslikleri üzerindeki baskının azalmasına elverişli bir ortam oluşturmuştur. Bu etki, Rus devletinin Timur tarafından kurulduğu veya yükselişinin bir anda tamamlandığı anlamına gelmez.",
+      "sources": [
+        "YD-NOT",
+        "YD-TIM",
+        "YD-ALT"
+      ]
+    },
+    {
+      "id": "TMG-003",
+      "revision": 1,
+      "topic": "Timur ve Moğol Siyasi Mirası",
+      "subtopic": "Timurlular — bilim ve kültür",
+      "skill": "Bilgi ve yorum",
+      "stem": "Semerkant ve Herat’ın bilim ve sanat faaliyetleriyle öne çıkması; Uluğ Bey, Ali Kuşçu, Hüseyin Baykara ve Ali Şir Nevaî’nin bu çevreyle ilişkisi hangi yargıyı destekler?",
+      "difficulty": "Orta",
+      "options": [
+        "Bu kişilerin tamamının aynı tarihte hükümdarlık yaptığını",
+        "Timurlu mirasının siyasi fetihlerle sınırlı kalmadığını",
+        "Bilim faaliyetlerinin askerî harekâtın yerini bütünüyle aldığını",
+        "Türkçenin bütün bölge dillerinin kullanımını sona erdirdiğini",
+        "Timurlu kültürünün yalnız Anadolu’da geliştiğini"
+      ],
+      "answer": "B",
+      "explanation": "Timurlu çevresindeki bilgin, şair ve sanat hamileri devletin kültürel mirasını gösterir. Siyasi fetihlerin yanında bilim ve edebiyat faaliyetleri bulunması, bunların birbirini tamamen dışladığı anlamına gelmez.",
+      "sources": [
+        "YD-NOT",
+        "YD-TIM"
+      ]
+    },
+    {
+      "id": "TMG-004",
+      "revision": 1,
+      "topic": "Timur ve Moğol Siyasi Mirası",
+      "subtopic": "Moğollar — siyasi kuruluş",
+      "skill": "Bilgi",
+      "stem": "1206 kurultayında Temuçin’in Cengiz Han unvanıyla yükselmesi hangi gelişmeyle ilişkilidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "İlhanlıların Bağdat’ı ele geçirmesi",
+        "Timur’un Semerkant’ta hâkimiyet kurması",
+        "Babürlerin Hindistan’da kurulması",
+        "Moğol boylarının bir siyasi otorite altında birleşmesi",
+        "Altın Orda’nın Osmanlı yönetimine geçmesi"
+      ],
+      "answer": "D",
+      "explanation": "1206 kurultayı Cengiz Han’ın liderliğinde Moğol siyasi birliğinin kuruluşuyla ilişkilidir. Moğol İmparatorluğu ile sonradan farklı bölgelerde oluşan ardıl devletler aynı kuruluş olayı gibi değerlendirilmemelidir.",
+      "sources": [
+        "YD-NOT",
+        "YD-CEN"
+      ]
+    },
+    {
+      "id": "TMG-005",
+      "revision": 1,
+      "topic": "Timur ve Moğol Siyasi Mirası",
+      "subtopic": "Moğol ardılları — coğrafya",
+      "skill": "Bilgi",
+      "stem": "Moğol siyasi mirasından doğan devletlerden hangisi İran merkezli olup Hülagu ile ilişkilidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "İlhanlılar",
+        "Altın Orda",
+        "Çağatay Hanlığı",
+        "Kubilay Hanlığı",
+        "Timurlular"
+      ],
+      "answer": "A",
+      "explanation": "Hülagu’nun kurduğu İlhanlı Devleti İran merkezlidir. Altın Orda ve Çağatay gibi diğer siyasi teşekküller aynı geniş Moğol mirası içinde olsa da farklı coğrafyalarda hüküm sürmüştür.",
+      "sources": [
+        "YD-NOT",
+        "YD-ILH"
+      ]
+    },
+    {
+      "id": "TMG-006",
+      "revision": 1,
+      "topic": "Timur ve Moğol Siyasi Mirası",
+      "subtopic": "İlhanlılar — Bağdat",
+      "skill": "Bilgi ve yorum",
+      "stem": "1258’de Hülagu kuvvetlerinin Bağdat’ı ele geçirmesi hangi siyasi sonuca yol açmıştır?",
+      "difficulty": "Orta",
+      "options": [
+        "Kahire’de Memlük sultanlığının ortadan kalkmasına",
+        "Anadolu Selçuklu Devleti’nin ilk kez kurulmasına",
+        "Bağdat merkezli Abbasi yönetiminin sona ermesine",
+        "Safevilerin İran’da kurulmasına",
+        "Büyük Selçukluların Gaznelileri yenmesine"
+      ],
+      "answer": "C",
+      "explanation": "Bağdat’ın alınması şehirdeki Abbasi siyasi yönetimini sona erdirmiştir. Bunun ardından Kahire’de Abbasi halifeliğinin temsil edilmesi, Bağdat’taki yönetimle aynı siyasi yapının kesintisiz sürdüğü anlamına gelmez.",
+      "sources": [
+        "YD-NOT",
+        "YD-ILH",
+        "YD-MEM"
+      ]
+    },
+    {
+      "id": "TMG-007",
+      "revision": 1,
+      "topic": "Timur ve Moğol Siyasi Mirası",
+      "subtopic": "Moğol ardılları — karşılaştırma",
+      "skill": "Bilgi ve yorum",
+      "stem": "I. Altın Orda — Karadeniz’in kuzeyi ve İdil çevresi\nII. Çağatay Hanlığı — Orta Asya\nIII. İlhanlılar — İran\n\nCoğrafi eşleştirmelerden hangileri doğrudur?",
+      "difficulty": "Orta",
+      "options": [
+        "Yalnız I",
+        "I ve II",
+        "I ve III",
+        "II ve III",
+        "I, II ve III"
+      ],
+      "answer": "E",
+      "explanation": "Altın Orda kuzey Karadeniz ve İdil, Çağatay Hanlığı Orta Asya, İlhanlılar İran sahasında öne çıkar. Bu eşleştirmeler devletlerin zaman içinde değişen bütün sınırlarını değil temel siyasi coğrafyalarını belirtir.",
+      "sources": [
+        "YD-NOT",
+        "YD-ALT",
+        "YD-CAG",
+        "YD-ILH"
+      ]
+    },
+    {
+      "id": "TMG-008",
+      "revision": 1,
+      "topic": "Timur ve Moğol Siyasi Mirası",
+      "subtopic": "Timur ve Moğol mirası — çoklu sonuç",
+      "skill": "Bilgi ve yorum",
+      "stem": "I. Ankara Savaşı — Osmanlılarda Fetret Devri\nII. Bağdat’ın 1258’de alınması — Bağdat merkezli Abbasi yönetiminin sonu\nIII. Timur’un Altın Orda’ya darbeleri — Rus prensliklerine genişleyen hareket alanı\n\nBu eşleştirmeler hangi ortak yargıyı destekler?",
+      "difficulty": "Orta",
+      "options": [
+        "Moğol ve Timurlu müdahaleleri aynı devletin aynı dönemdeki seferleridir.",
+        "Askerî müdahaleler farklı bölgelerde siyasi güç dengelerini değiştirebilir.",
+        "Yenilen siyasi yapıların tamamı aynı anda tarih sahnesinden silinmiştir.",
+        "Askerî yenilgi her durumda kültürel hayatı sona erdirir.",
+        "Bütün sonuçlar ancak yenilen devletlerin yönetim sistemleri aynıysa doğar."
+      ],
+      "answer": "B",
+      "explanation": "Örnekler Osmanlı, Abbasi ve Altın Orda çevrelerinde farklı siyasi sonuçlar göstermektedir. Ortak nokta güç dengelerinin değişmesidir; her yenilginin aynı sonucu doğurduğu veya bütün devletleri ortadan kaldırdığı çıkarılamaz.",
+      "sources": [
+        "YD-NOT",
+        "YD-TIM",
+        "YD-ALT",
+        "YD-ILH"
+      ]
+    },
+    {
+      "id": "BEY-019",
+      "revision": 1,
+      "topic": "Anadolu’da İlk Türk Beylikleri",
+      "subtopic": "Danişmentliler — şehir imarı",
+      "skill": "Bilgi ve yorum",
+      "stem": "Kayseri Ulu Cami’nin Danişmentli hükümdarı Melik Muhammed tarafından yaptırılması ve şehrin imar edilmesi hangi çıkarımı destekler?",
+      "difficulty": "Orta",
+      "options": [
+        "Kayseri’nin yalnız bir askerî kamp olarak kullanıldığını",
+        "Kayseri’deki bütün eserlerin aynı hükümdara ait olduğunu",
+        "Şehirdeki eğitim kurumlarının kapatıldığını",
+        "Beyliğin Bizans yönetimini sürdürdüğünü",
+        "Beyliğin şehirleşme ve dinî hizmetlere katkıda bulunduğunu"
+      ],
+      "answer": "E",
+      "explanation": "Kayseri Ulu Cami ve imar faaliyeti Danişmentlilerin şehir hayatını geliştirdiğini gösterir. Tek bir eser bilgisi bütün şehir eserlerini aynı döneme bağlamaya yeterli değildir.",
+      "sources": [
+        "YD-NOT",
+        "YD-DAN"
+      ]
+    },
+    {
+      "id": "BEY-020",
+      "revision": 1,
+      "topic": "Anadolu’da İlk Türk Beylikleri",
+      "subtopic": "Mengücekliler — bilim himayesi",
+      "skill": "Bilgi ve yorum",
+      "stem": "Abdüllatif el-Bağdadi gibi bir tıp bilgininin Erzincan’daki Mengücekli sarayında destek görmesi hangi görüş için kanıttır?",
+      "difficulty": "Orta",
+      "options": [
+        "Anadolu beyliklerinde bilim insanlarının himaye edilebildiği",
+        "Tıp biliminin yalnız hükümdar ailesince icra edildiği",
+        "Tüm Anadolu beyliklerinin aynı bilim merkezince yönetildiği",
+        "Mengücekli sarayının askerî görevleri bıraktığı",
+        "Bilim faaliyetlerinin ancak siyasi birlik tamamlanınca başladığı"
+      ],
+      "answer": "A",
+      "explanation": "Abdüllatif el-Bağdadi’nin Erzincan’daki himayesi, bölgesel Türk beyliklerinde de bilimsel faaliyete destek verildiğini gösterir. Bilim hayatının başlaması için bütün Anadolu’nun tek siyasi merkezde birleşmesi gerektiği söylenemez.",
+      "sources": [
+        "YD-NOT",
+        "YD-MEN",
+        "YD-BAG"
+      ]
+    },
+    {
+      "id": "BEY-021",
+      "revision": 1,
+      "topic": "Anadolu’da İlk Türk Beylikleri",
+      "subtopic": "Artuklular — eğitim eserleri",
+      "skill": "Bilgi ve yorum",
+      "stem": "Mardin’deki Hatuniye Medresesi ile Malabadi Köprüsü birlikte ele alındığında Artuklu mirası için hangi yargı desteklenir?",
+      "difficulty": "Orta",
+      "options": [
+        "Bütün eserlerin yalnız askerî savunma amacı taşıdığı",
+        "Eğitim ve ulaşım gibi farklı alanlara yönelik eserler bulunduğu",
+        "Medreselerin ulaşım vergilerini topladığı",
+        "Hanedanın bütün mimari faaliyetlerini Mardin’de topladığı",
+        "Mimari yatırımların siyasi kolların birleşmesini sağladığı"
+      ],
+      "answer": "B",
+      "explanation": "Hatuniye bir eğitim yapısı, Malabadi ise bir ulaşım yapısıdır. Artuklu mimari faaliyetleri aynı toplumsal işleve veya yalnız bir şehirdeki yatırıma indirgenemez.",
+      "sources": [
+        "YD-NOT",
+        "YD-ART"
+      ]
+    },
+    {
+      "id": "BAB-005",
+      "revision": 1,
+      "topic": "Babürler",
+      "subtopic": "Babürler — sona eriş",
+      "skill": "Bilgi ve yorum",
+      "stem": "Hindistan’da Babürlü hanedanının 1858’de siyasi varlığının sona ermesi hangi güçle ilişkilidir?",
+      "difficulty": "Orta",
+      "options": [
+        "İngilizler",
+        "Portekizliler",
+        "Hollandalılar",
+        "Fransızlar",
+        "Safeviler"
+      ],
+      "answer": "A",
+      "explanation": "Babürlü hanedanının sonu İngiliz hâkimiyetiyle ilişkilidir. Hindistan’da başka Avrupa güçlerinin de faaliyet göstermesi hepsini aynı siyasi sonucun aktörü yapmaz.",
+      "sources": [
+        "YD-NOT",
+        "YD-BAB"
+      ]
+    },
+    {
+      "id": "HRZ-005",
+      "revision": 1,
+      "topic": "Harzemşahlar",
+      "subtopic": "Harzemşahlar — yenilgi ve yıkılış",
+      "skill": "Bilgi ve yorum",
+      "stem": "Celaleddin Harzemşah’ın 1230 Yassıçemen’de yenilmesi ile 1231’de ölmesi ve devletin çözülmesi birlikte ele alındığında hangi yaklaşım doğrudur?",
+      "difficulty": "Orta",
+      "options": [
+        "Yenilgi ile nihai sona erişi birbirine bağlı fakat ayrı gelişmeler saymak",
+        "Yassıçemen’de doğrudan Moğol ordusuna yenildiğini kabul etmek",
+        "Harzemşahların Selçuklu zaferi üzerine kurulduğunu söylemek",
+        "Yassıçemen zaferinin Harzemşahlar tarafından kazanıldığını söylemek",
+        "1231’deki çözülmeyi Büyük Selçuklu kuruluşu saymak"
+      ],
+      "answer": "A",
+      "explanation": "Yassıçemen Harzemşah gücünü zayıflatmış, Celaleddin’in ertesi yıl ölmesiyle siyasi çözülme ilerlemiştir. Sürecin aşamaları aynılaştırılmamalı; savaşın rakibi olan Türkiye Selçukluları Moğollarla karıştırılmamalıdır.",
+      "sources": [
+        "YD-NOT",
+        "YD-HRZ"
+      ]
+    },
+    {
+      "id": "TMG-009",
+      "revision": 1,
+      "topic": "Timur ve Moğol Siyasi Mirası",
+      "subtopic": "Timurlular — astronomi",
+      "skill": "Bilgi ve yorum",
+      "stem": "Semerkant’ta astronomi faaliyetleriyle öne çıkan ve aynı zamanda Timurlu hükümdarı olan kişi kimdir?",
+      "difficulty": "Orta",
+      "options": [
+        "Ali Kuşçu",
+        "Ali Şir Nevaî",
+        "Hüseyin Baykara",
+        "Şahruh",
+        "Uluğ Bey"
+      ],
+      "answer": "E",
+      "explanation": "Uluğ Bey hem Timurlu hükümdarı hem matematik ve astronomi bilginidir. Ali Kuşçu aynı bilim çevresiyle ilişkili olduğu için yakın çeldiricidir fakat hükümdarlık özelliğini taşımaz.",
+      "sources": [
+        "YD-NOT",
+        "YD-ULU"
+      ]
+    },
+    {
+      "id": "TMG-010",
+      "revision": 1,
+      "topic": "Timur ve Moğol Siyasi Mirası",
+      "subtopic": "Timurlular — Türkçe edebiyat",
+      "skill": "Bilgi ve yorum",
+      "stem": "Hüseyin Baykara’nın Herat çevresinde faaliyet gösteren Ali Şir Nevaî’nin Türkçe eserler vermesi hangi yargıyı destekler?",
+      "difficulty": "Orta",
+      "options": [
+        "Timurlu kültür çevresinde Türkçenin edebî üretimde kullanıldığını",
+        "Herat’taki bütün edebiyatın tek dilde yazıldığını",
+        "Türkçenin bu dönemde ilk kez konuşulmaya başladığını",
+        "Ali Şir Nevaî’nin Timurlu Devleti’ni kurduğunu",
+        "Edebî faaliyetlerin hükümdar desteğinden bağımsız yürüdüğünü"
+      ],
+      "answer": "A",
+      "explanation": "Ali Şir Nevaî’nin Türkçe eserleri, Timurlu kültür hayatındaki Türkçe edebiyatın gücünü gösterir. Bu durum başka dillerin kullanılmadığını veya Türkçenin ilk kez bu dönemde ortaya çıktığını kanıtlamaz.",
+      "sources": [
+        "YD-NOT",
+        "YD-NEV"
+      ]
+    },
+    {
+      "id": "TMG-011",
+      "revision": 1,
+      "topic": "Timur ve Moğol Siyasi Mirası",
+      "subtopic": "Moğollar — hukuk",
+      "skill": "Bilgi ve yorum",
+      "stem": "Cengiz Han’la ilişkilendirilen Yasa kurallarının devlet düzeni bakımından temel işlevi hangi seçenekte verilmiştir?",
+      "difficulty": "Orta",
+      "options": [
+        "Yalnız astronomik gözlemleri kaydetmek",
+        "İdari ve toplumsal davranışları kurallara bağlamak",
+        "Sadece hükümdarın soy ağacını belirlemek",
+        "Ticaret kervanlarının mallarını listelemek",
+        "Hükümdarın bütün yetkilerini din adamlarına devretmek"
+      ],
+      "answer": "B",
+      "explanation": "Yasa adıyla anılan kurallar idari ve toplumsal düzenle ilişkilidir. Bu işlevden, günümüze tek ve eksiksiz bir kanun kitabı ulaştığı sonucu çıkarılamaz.",
+      "sources": [
+        "YD-NOT",
+        "YD-CEN"
+      ]
+    },
+    {
+      "id": "TMG-012",
+      "revision": 1,
+      "topic": "Timur ve Moğol Siyasi Mirası",
+      "subtopic": "Moğol ardılları — Çin",
+      "skill": "Bilgi ve yorum",
+      "stem": "Moğol siyasi mirası içinde Çin’de Yuan hanedanı yönetimiyle ilişkilendirilen hükümdar kimdir?",
+      "difficulty": "Orta",
+      "options": [
+        "Hülagu",
+        "Batu",
+        "Kubilay",
+        "Çağatay",
+        "Berke"
+      ],
+      "answer": "C",
+      "explanation": "Kubilay, Çin’de Yuan hanedanı hâkimiyetiyle ilişkilidir. Moğol siyasi mirasının ortak kökeni, Hülagu, Batu ve Çağatay’ın farklı bölgelerdeki devletlerini Çin merkezli aynı oluşum yapmaz.",
+      "sources": [
+        "YD-NOT",
+        "YD-MOG"
+      ]
+    },
+    {
+      "id": "MIS-019",
+      "revision": 1,
+      "topic": "Mısır’da Kurulan Devletler",
+      "subtopic": "Mısır ve Anadolu — çoklu savaş ilişkileri",
+      "skill": "Bilgi ve yorum",
+      "stem": "Aşağıdaki seçeneklerde sırasıyla Hıttin, Ayn Calut ve Elbistan savaşlarında karşı karşıya gelen güçler verilmiştir.\n\nÜç eşleştirmenin de doğru olduğu seçenek hangisidir?",
+      "difficulty": "Zor",
+      "options": [
+        "Eyyubi–Haçlı / Memlük–Moğol / Selçuklu–İlhanlı",
+        "Memlük–Haçlı / Eyyubi–Moğol / Memlük–İlhanlı",
+        "Eyyubi–Haçlı / Selçuklu–Moğol / Memlük–İlhanlı",
+        "Eyyubi–Haçlı / Memlük–Moğol / Memlük–İlhanlı",
+        "Memlük–Haçlı / Memlük–Moğol / Selçuklu–İlhanlı"
+      ],
+      "answer": "D",
+      "explanation": "Hıttin Eyyubiler ile Haçlıları, Ayn Calut Memlükler ile Moğol kuvvetlerini karşı karşıya getirmiştir. Elbistan’da ise Baybars’ın Memlük ordusu İlhanlı kuvvetlerini yenmiştir. Elbistan’ın Anadolu’da gerçekleşmesi, savaşı kazanan gücün Türkiye Selçukluları olduğu anlamına gelmez.",
+      "sources": [
+        "YD-NOT",
+        "YD-EYY",
+        "YD-MEM",
+        "YD-BAY"
+      ]
+    },
+    {
+      "id": "TMG-013",
+      "revision": 1,
+      "topic": "Timur ve Moğol Siyasi Mirası",
+      "subtopic": "Yakın Doğu — hükümdar ve savaş ayrımı",
+      "skill": "Bilgi ve yorum",
+      "stem": "Aşağıdaki seçeneklerde sırasıyla Ankara, Otlukbeli ve Çaldıran savaşlarında Osmanlı hükümdarının karşısındaki hükümdarlar verilmiştir.\n\nÜç karşılığın da doğru olduğu seçenek hangisidir?",
+      "difficulty": "Zor",
+      "options": [
+        "Timur / Uzun Hasan / Şah İsmail",
+        "Timur / Cihan Şah / Şah İsmail",
+        "Hülagu / Uzun Hasan / Şah İsmail",
+        "Timur / Şah İsmail / Uzun Hasan",
+        "Babür Şah / Cihan Şah / Uzun Hasan"
+      ],
+      "answer": "A",
+      "explanation": "Ankara’da Yıldırım Bayezit’in rakibi Timur, Otlukbeli’de Fatih’in rakibi Uzun Hasan, Çaldıran’da Yavuz’un rakibi Şah İsmail’dir. Doğu sahasında faaliyet gösteren bu hükümdarlar ayrı hanedan ve dönemlere aittir. Cihan Şah’ın Karakoyunlu hükümdarı olması onu Otlukbeli’deki Akkoyunlu ordusunun başındaki kişi yapmaz.",
+      "sources": [
+        "YD-NOT",
+        "YD-TIM",
+        "YD-AKK",
+        "YD-SAF"
+      ]
+    }
+  ]
+}

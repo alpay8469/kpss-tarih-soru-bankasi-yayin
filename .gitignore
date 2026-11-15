@@ -1,0 +1,10 @@
+**/node_modules/
+outputs/tarih-soru-bankasi/.local/
+outputs/tarih-soru-bankasi/worker/
+outputs/tarih-soru-bankasi/dist/
+**/.env
+**/.env.*
+!**/.env.example
+**/.dev.vars
+**/backups/
+

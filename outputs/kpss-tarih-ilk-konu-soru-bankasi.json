@@ -1,0 +1,1221 @@
+{
+  "title": "KPSS Tarih — İlk konu",
+  "unit": null,
+  "date": "2026-10-10",
+  "question_count": 50,
+  "sources": {
+    "S1": {
+      "title": "MEB – Türklerin Tarih Sahnesine Çıkışı",
+      "url": "https://img.eba.gov.tr/491/79a/4c1/731/384/3a4/a5e/af7/aab/392/28e/3ae/72b/d1e/001/49179a4c17313843a4a5eaf7aab39228e3ae72bd1e001.pdf"
+    },
+    "S2": {
+      "title": "MEB – Tarih 9, ikinci dönem hazırlık materyali",
+      "url": "https://ogmmateryal.eba.gov.tr/panel/upload/files/ktjwzblfjdt.pdf"
+    },
+    "S3": {
+      "title": "TDV İslâm Ansiklopedisi – Miğfer",
+      "url": "https://islamansiklopedisi.org.tr/migfer"
+    },
+    "S4": {
+      "title": "Pegem – Türk siyasi tarihi, Türk adının anlamlarına ilişkin açıklamalar",
+      "url": "https://depo.pegem.net/9780202200378.pdf"
+    },
+    "S5": {
+      "title": "MEB – Tarih 10 çalışma defteri, Türkiye adı",
+      "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/calisma_defteri/f1/10/tarih/files/basic-html/page4.html"
+    },
+    "S6": {
+      "title": "MEB – Ortaöğretim tarih materyali, kültür merkezleri ve göçler",
+      "url": "https://ogmmateryal.eba.gov.tr/panel/upload/pdf/wdbo0cludiq.pdf"
+    },
+    "S7": {
+      "title": "MEB – Türk Kültür Ocağı, kültür bölgeleri ve ekonomik faaliyetler",
+      "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/beceri_temelli/11/cografya/files/basic-html/page93.html"
+    },
+    "S8": {
+      "title": "MEB – İlk Türklere Kültürel Açıdan Genel Bakış",
+      "url": "https://img.eba.gov.tr/974/672/7fe/8e6/af9/d14/467/8a9/073/b7c/7cb/c49/e6b/de2/001/9746727fe8e6af9d144678a9073b7c7cbc49e6bde2001.pdf"
+    },
+    "S9": {
+      "title": "Encyclopaedia Iranica – Scythians",
+      "url": "https://www.iranicaonline.org/articles/scythians/"
+    },
+    "S10": {
+      "title": "Encyclopaedia Iranica – Scythian Language",
+      "url": "https://www.iranicaonline.org/articles/scythian-language/"
+    },
+    "S11": {
+      "title": "TDV İslâm Ansiklopedisi – Efrâsiyâb",
+      "url": "https://islamansiklopedisi.org.tr/efrasiyab"
+    },
+    "S12": {
+      "title": "Encyclopaedia Iranica – Massagetae",
+      "url": "https://www.iranicaonline.org/articles/massagetae-2/"
+    },
+    "S13": {
+      "title": "Encyclopaedia Iranica – Amazons in the Iranian World",
+      "url": "https://www.iranicaonline.org/articles/amazons/amazons-ii/"
+    },
+    "S14": {
+      "title": "Encyclopaedia Iranica – Clothing of the Iranian tribes on the Pontic steppes",
+      "url": "https://www.iranicaonline.org/articles/clothing-vii/"
+    },
+    "S15": {
+      "title": "Royal Ontario Museum – Horse and stirrup",
+      "url": "https://www.rom.on.ca/blogs/weapon-wednesday-horse"
+    },
+    "S16": {
+      "title": "Pegem – Türk adının anlamı ve Uygur metinleri",
+      "url": "https://depo.pegem.net/9780202310367.pdf"
+    },
+    "S17": {
+      "title": "ÖSYM – 2024 KPSS Lisans, kamuya açık yüzde 10 kitapçık",
+      "url": "https://dokuman.osym.gov.tr/pdfdokuman/2024/KPSS/LISANS/GYGK14072024.pdf"
+    },
+    "S18": {
+      "title": "ÖSYM – 2024 KPSS Ön Lisans, kamuya açık yüzde 10 kitapçık",
+      "url": "https://dokuman.osym.gov.tr/pdfdokuman/2024/KPSS/ONL/kitapcik01092024.pdf"
+    },
+    "S20": {
+      "title": "İskitler ve Madencilik Sanatı – araştırma makalesi",
+      "url": "https://dergipark.org.tr/en/download/article-file/1139872"
+    },
+    "S21": {
+      "title": "Klasik Şiirde Türk Güzeli – araştırma makalesi",
+      "url": "https://dergipark.org.tr/tr/download/article-file/621044"
+    },
+    "S22": {
+      "title": "MEB – Dünya Kültürlerine Giriş, Kelteminar",
+      "url": "https://kitap.eba.gov.tr/panel/dosyalar/upload/2910/0/U_0_15_12_2022_20_32_53_878.pdf"
+    },
+    "S23": {
+      "title": "Cihannüma – Eski Türklerin balbal terimi üzerine açıklamalar",
+      "url": "https://dergipark.org.tr/tr/pub/cihannuma/article/441630"
+    },
+    "S24": {
+      "title": "Kocaeli Üniversitesi – Üzengi Teknolojisinin Gelişimi ve Avrupa'ya İntikali",
+      "url": "https://avesis.kocaeli.edu.tr/yayin/f153785d-9bc2-4a15-88b7-7e1bb451bbaa/tarih-oncesinden-orta-caga-atlar-equi-per-saecula-currunt"
+    },
+    "S25": {
+      "title": "MEB – Tarih 9 Çalışma Defteri 5, s.18: kültür merkezleri",
+      "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/calisma_defteri/f5/9/tarih/files/basic-html/page18.html"
+    },
+    "S26": {
+      "title": "MEB – Konaklama ve Seyahat: Orta Asya kültür merkezlerinin ders sınıflandırması",
+      "url": "https://kitap.eba.gov.tr/panel/dosyalar/upload/2910/0/U_0_16_04_2024_10_01_43_703.pdf"
+    },
+    "S27": {
+      "title": "M. Bülbül – Yıldız Sosyal Bilimler Enstitüsü Dergisi (2017), s.98: İskit ve balbal yorumu",
+      "url": "https://dergipark.org.tr/tr/download/article-file/303661"
+    },
+    "S28": {
+      "title": "Encyclopaedia Iranica – Black Sea: Darius ve İskitler",
+      "url": "https://www.iranicaonline.org/articles/black-sea/"
+    },
+    "R01": {
+      "title": "MEB – Tarih 9, Türk adı, Türkiye ve ana yurt",
+      "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/tarih/9/unite4/files/basic-html/page5.html"
+    },
+    "H1": {
+      "title": "MEB – Defterim Tarih 9, Asya Hun Devleti",
+      "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/defterim/9/tarih/files/basic-html/page119.html"
+    },
+    "R02": {
+      "title": "MEB – Tarih 9, Orta Asya kültür merkezleri",
+      "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/tarih/9/unite4/files/basic-html/page6.html"
+    },
+    "R03": {
+      "title": "MEB – Tarih 9, göçlerin nedenleri",
+      "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/tarih/9/unite4/files/basic-html/page22.html"
+    },
+    "R04": {
+      "title": "MEB – Tarih 9, farklı dönemlerde göç yönleri ve topluluklar",
+      "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/tarih/9/unite4/files/basic-html/page23.html"
+    },
+    "K3": {
+      "title": "MEB – Tarih 9 Beceri Temelli Etkinlikler, göçün sonuçları, s.294",
+      "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/beceri_temelli/9/tarih/files/basic-html/page294.html"
+    },
+    "R07": {
+      "title": "Elena Fialko – Scythian female warriors in the south of Eastern Europe, Folia Praehistorica Posnaniensia 22",
+      "url": "https://pressto.amu.edu.pl/index.php/fpp/article/view/13588"
+    }
+  },
+  "questions": [
+    {
+      "id": "T01-001",
+      "revision": 1,
+      "topic": "Ana yurt",
+      "subtopic": "Ana yurt coğrafyası",
+      "skill": "Bilgi",
+      "stem": "Türklerin ana yurdu Orta Asya’nın genel coğrafi çerçevesinde batıda ve güneyde yer alan unsurlar aşağıdakilerin hangisinde sırasıyla doğru verilmiştir?",
+      "difficulty": "Orta",
+      "options": [
+        "Hazar Denizi — Hindukuş Dağları",
+        "Hindukuş Dağları — Hazar Denizi",
+        "Aral Gölü — Altay Dağları",
+        "Hazar Denizi — Altay Dağları",
+        "Aral Gölü — Hazar Denizi"
+      ],
+      "answer": "A",
+      "explanation": "Orta Asya’nın genel coğrafi çerçevesinde Hazar Denizi batıda, Hindukuş Dağları güneyde yer alır. Aral Gölü bölgenin iç kesimlerindeki bir su kütlesidir; Altaylar ise güney sınırı olarak kullanılmaz. Bu çerçeve belirli bir devletin siyasi sınırıyla aynı şey değildir.",
+      "sources": [
+        "R01"
+      ]
+    },
+    {
+      "id": "T01-005",
+      "revision": 1,
+      "topic": "Türk adının anlamları",
+      "subtopic": "Türk adının anlamları",
+      "skill": "Bilgi",
+      "stem": "Türk adını 'olgunluk çağı' ve 'töre sahibi' açıklamalarıyla ilişkilendiren kişiler aşağıdakilerin hangisinde sırasıyla doğru verilmiştir?",
+      "difficulty": "Orta",
+      "options": [
+        "Vámbéry — Ziya Gökalp",
+        "Kaşgarlı Mahmud — Vámbéry",
+        "Gerhard Doerfer — Kaşgarlı Mahmud",
+        "Kaşgarlı Mahmud — Ziya Gökalp",
+        "Ziya Gökalp — Gerhard Doerfer"
+      ],
+      "answer": "D",
+      "explanation": "Olgunluk çağı açıklaması Kaşgarlı Mahmud’la, töre sahibi açıklaması Ziya Gökalp’le ilişkilidir. Soruda iki eşleştirmenin de istenen sıraya uygun olması gerekir. Vámbéry’nin türemek görüşü ile Doerfer’in devlete bağlı halk yaklaşımı bu iki açıklamadan ayrılır.",
+      "sources": [
+        "R01",
+        "S1"
+      ]
+    },
+    {
+      "id": "T01-006",
+      "revision": 1,
+      "topic": "Türk adının anlamları",
+      "subtopic": "Türk adının anlamları",
+      "skill": "Bilgi",
+      "stem": "Türk adının kökenini bir türeme fiiliyle açıklayan görüş ile adı devlet-halk ilişkisi çerçevesinde değerlendiren görüş aşağıdakilerin hangisinde doğru kişilerle eşleştirilmiştir?",
+      "difficulty": "Orta",
+      "options": [
+        "Ziya Gökalp — Kaşgarlı Mahmud",
+        "Gerhard Doerfer — Vámbéry",
+        "Vámbéry — Gerhard Doerfer",
+        "Kaşgarlı Mahmud — Ziya Gökalp",
+        "Vámbéry — Kaşgarlı Mahmud"
+      ],
+      "answer": "C",
+      "explanation": "Vámbéry, Türk adını türemek fiiliyle ilişkilendirir; Doerfer ise devlete bağlı halk anlamını öne çıkarır. İlk açıklama kelimenin kökenine, ikincisi siyasi bir topluluğa bağlılığa odaklanır. Kişilerin doğru bilinmesi kadar kökte istenen sıranın korunması da önemlidir.",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "T01-007",
+      "revision": 1,
+      "topic": "Türk adının anlamları",
+      "subtopic": "Türk adının anlamları",
+      "skill": "Bilgi",
+      "stem": "Türk adının anlamına ilişkin aşağıdaki eşleştirmelerden hangisi yanlıştır?",
+      "difficulty": "Orta",
+      "options": [
+        "Vámbéry — Türemek",
+        "Kaşgarlı Mahmud — Olgunluk çağı",
+        "Ziya Gökalp — Töre sahibi",
+        "Çin kaynakları — Miğfer",
+        "Gerhard Doerfer — Güç ve kuvvet"
+      ],
+      "answer": "E",
+      "explanation": "Yanlış eşleştirme Doerfer–güç ve kuvvettir. Doerfer’in açıklaması devlete bağlı halktır; güç ve kuvvet anlamı Eski Uygur metinleriyle ilişkilendirilir. Diğer dört seçenekte araştırmacı veya kaynak ile ona bağlanan anlam doğru eşleştirilmiştir.",
+      "sources": [
+        "S1",
+        "R01"
+      ]
+    },
+    {
+      "id": "T01-008",
+      "revision": 1,
+      "topic": "Türk adının anlamları",
+      "subtopic": "Türk adının anlamları",
+      "skill": "Bilgi ve kavram",
+      "stem": "Türk adını “devlete bağlı halk” biçiminde açıklayan yaklaşım esas alındığında, adlandırmanın hangi ölçütü öne çıkardığı söylenebilir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Bireylerin bedensel kuvvetini",
+        "Topluluğun ulaştığı yaş dönemini",
+        "Topluluktaki herkesin aynı dili konuşmasını",
+        "Bir siyasi otoriteye bağlılığı",
+        "Topluluktaki herkesin aynı soydan gelmesini"
+      ],
+      "answer": "D",
+      "explanation": "Bu yaklaşımda ölçüt bir siyasi otoriteye bağlılıktır. Aynı devlete bağlı olmak, herkesin aynı dili konuştuğunu veya aynı soydan geldiğini tek başına göstermez. Güç ve olgunluk açıklamaları ise başka anlamlandırmalardır.",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "T01-009",
+      "revision": 1,
+      "topic": "Türk adının anlamları",
+      "subtopic": "Türk adının anlamları",
+      "skill": "Bilgi ve kavram",
+      "stem": "Ziya Gökalp’in Türk adını açıklama yaklaşımını diğer yorumlardan ayıran vurgu aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Toplumsal kurallara ve töreye sahip olma",
+        "Bir türeme fiilinden ortaya çıkma",
+        "Olgunluk dönemine ulaşmış olma",
+        "Bir devletin otoritesine bağlı bulunma",
+        "Bedensel güç ve kuvvet taşıma"
+      ],
+      "answer": "A",
+      "explanation": "Ziya Gökalp’in açıklamasında töre, kanun ve düzen vurgusu vardır. Doerfer’in devlete bağlı halk yaklaşımı da siyasi bir bağ kurar; ancak bağlılık ile töre sahibi olmak aynı ölçüt değildir. Türeme Vámbéry, olgunluk ise Kaşgarlı Mahmud ile ilişkilidir.",
+      "sources": [
+        "R01"
+      ]
+    },
+    {
+      "id": "T01-010",
+      "revision": 1,
+      "topic": "Türk adının anlamları",
+      "subtopic": "Türk adının anlamları",
+      "skill": "Bilgi",
+      "stem": "Aşağıdaki kaynak-anlam eşleştirmelerinden hangisi doğrudur?",
+      "difficulty": "Orta",
+      "options": [
+        "Çin kaynakları — Olgunluk çağı",
+        "Eski Uygur metinleri — Güç ve kuvvet",
+        "Dîvânu Lugâti't-Türk — Miğfer",
+        "Çin kaynakları — Devlete bağlı halk",
+        "Eski Uygur metinleri — Töre sahibi"
+      ],
+      "answer": "B",
+      "explanation": "Doğru eşleştirme Eski Uygur metinleri–güç ve kuvvettir. Olgunluk çağı Kaşgarlı Mahmud’un açıklamasıyla, miğfer Çin kaynaklarındaki anlatımla ilişkilendirilir. Devlete bağlı halk Doerfer’e, töre sahibi ise Ziya Gökalp’e ait yaklaşımlardır.",
+      "sources": [
+        "S1",
+        "R01"
+      ]
+    },
+    {
+      "id": "T01-012",
+      "revision": 1,
+      "topic": "Türk ve Türkiye adları",
+      "subtopic": "Türk ve Türkiye adlarının kullanımı",
+      "skill": "Bilgi",
+      "stem": "Türk adının erken kayıtları, Türk adını devlet adı olarak kullanan ilk siyasi teşkilat ve Türkiye adının görüldüğü kaynak geleneği birlikte düşünüldüğünde aşağıdaki eşleştirmelerden hangisi doğrudur?",
+      "difficulty": "Orta",
+      "options": [
+        "Çin kaynakları — Asya Hunları — Bizans kaynakları",
+        "Bizans kaynakları — Göktürkler — Çin kaynakları",
+        "Çin kaynakları — Göktürkler — Bizans kaynakları",
+        "Orhun Yazıtları — Uygurlar — İran kaynakları",
+        "İran kaynakları — Göktürkler — Çin kaynakları"
+      ],
+      "answer": "C",
+      "explanation": "Doğru üçlü Çin kaynakları, Göktürkler ve Bizans kaynaklarıdır. Bir adın yazılı kayıtlarda görülmesi, devlet adı olması ve coğrafi ad olarak kullanılması farklı olgulardır. Asya Hunları ilk Türk devleti olarak anılırken Türk adını devlet adı yapan ilk siyasi teşkilat Göktürklerdir.",
+      "sources": [
+        "S1",
+        "R01",
+        "H1"
+      ]
+    },
+    {
+      "id": "T01-013",
+      "revision": 1,
+      "topic": "Türk ve Türkiye adları",
+      "subtopic": "Türk ve Türkiye adlarının kullanımı",
+      "skill": "Bilgi",
+      "stem": "Türk adını devlet adı olarak kullanan ilk Türk devleti aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Asya Hun Devleti",
+        "Uygur Devleti",
+        "Avrupa Hun Devleti",
+        "Avar Devleti",
+        "Göktürk Devleti"
+      ],
+      "answer": "E",
+      "explanation": "Türk adını devlet adı olarak kullanan ilk devlet Göktürk Devleti’dir. Asya Hun Devleti daha önce kurulmuştur; ancak kök, en eski Türk devletini değil Türk adını taşıyan ilk devleti sormaktadır. Bu iki ölçütü ayırmak Asya Hunları çeldiricisini elemenin temelidir.",
+      "sources": [
+        "H1",
+        "R01"
+      ]
+    },
+    {
+      "id": "T01-014",
+      "revision": 1,
+      "topic": "Türk ve Türkiye adları",
+      "subtopic": "Türk ve Türkiye adlarının kullanımı",
+      "skill": "Bilgi ve ilişkilendirme",
+      "stem": "Türkiye adının erken dönem coğrafi kullanımını inceleyen bir araştırmacı, aşağıdaki kaynak gruplarından hangisine öncelik vermelidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Bizans kaynaklarına",
+        "Orhun Yazıtlarına",
+        "Çin hanedan yıllıklarına",
+        "Uygur hukuk belgelerine",
+        "İran destanlarına"
+      ],
+      "answer": "A",
+      "explanation": "Türkiye adının erken coğrafi kullanımları için Bizans kaynakları önem taşır. Bu kullanım bir bölgenin adlandırılmasıyla ilgilidir. Çin kaynaklarında Türk adının kaydedilmesi veya Göktürklerin Türk adını devlet adı olarak kullanması farklı araştırma konularıdır.",
+      "sources": [
+        "R01"
+      ]
+    },
+    {
+      "id": "T01-016",
+      "revision": 1,
+      "topic": "Orta Asya kültür merkezleri",
+      "subtopic": "Anav kültürü",
+      "skill": "Bilgi",
+      "stem": "Aşkabat’ın güneydoğusunda bulunan ve Orta Asya’nın en eski kültür merkezleri arasında yer alan kültür aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Tagar",
+        "Karasuk",
+        "Andronova",
+        "Afanesyevo",
+        "Anav"
+      ],
+      "answer": "E",
+      "explanation": "Anav, günümüzde Aşkabat’ın güneydoğusunda yer alan erken kültür merkezidir. Tarım, kerpiç evler ve çeşitli el sanatlarına ilişkin buluntularıyla tanınır. Afanesyevo ise Altay-Sayan çevresinde yer alır; iki kültürün konumları ve özellikleri birbirine karıştırılmamalıdır.",
+      "sources": [
+        "R02",
+        "S25"
+      ]
+    },
+    {
+      "id": "T01-017",
+      "revision": 1,
+      "topic": "Orta Asya kültür merkezleri",
+      "subtopic": "Afanesyevo kültürü",
+      "skill": "Bilgi",
+      "stem": "En eski Türk kültür merkezi olarak kabul edilen kültür aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Anav",
+        "Afanesyevo",
+        "Tagar",
+        "Karasuk",
+        "Kelteminar"
+      ],
+      "answer": "B",
+      "explanation": "Afanesyevo, erken Türk kültür çevreleri sınıflandırmasında en eski merkez olarak kabul edilir. Altay-Sayan çevresindeki buluntularıyla tanınır; Anav ise Aşkabat çevresindedir. Arkeolojik kültür, ortak buluntu özelliklerine verilen addır; bu adlandırma tek başına o kültürdeki herkesin dilini veya etnik kimliğini kesin olarak belirlemez.",
+      "sources": [
+        "R02",
+        "S25"
+      ]
+    },
+    {
+      "id": "T01-018",
+      "revision": 1,
+      "topic": "Orta Asya kültür merkezleri",
+      "subtopic": "Tagar kültürü",
+      "skill": "Bilgi",
+      "stem": "Karasuk kültürünün ardından gelişen; tunçtan bıçaklar, ok uçları ve küçük hayvan heykelleriyle tanınan Orta Asya kültürü aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Anav",
+        "Kelteminar",
+        "Afanesyevo",
+        "Tagar",
+        "Andronova"
+      ],
+      "answer": "D",
+      "explanation": "Tagar, Karasuk sonrasında gelişen ve önceki kültürlerin birikimini sürdüren merkezdir. Tunç eserler ve hayvan tasvirleri bu kültürü tanımada kullanılan ipuçlarıdır. Soruda kültürleri mutlak bir gelişmişlik sırasına koymak değil, belirtilen özelliklerin hangi kültüre ait olduğunu bulmak gerekir.",
+      "sources": [
+        "R02",
+        "S25"
+      ]
+    },
+    {
+      "id": "T01-019",
+      "revision": 1,
+      "topic": "Orta Asya kültür merkezleri",
+      "subtopic": "Andronova kültürü",
+      "skill": "Bilgi",
+      "stem": "Afanesyevo kültürünün yayılma alanını genişleten devamı olarak anlatılan, tunç ve altın eşyalarıyla tanınan kültür aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Andronova",
+        "Karasuk",
+        "Anav",
+        "Kelteminar",
+        "Tagar"
+      ],
+      "answer": "A",
+      "explanation": "Cevap Andronova’dır. Afanesyevo ile kültürel devamlılık ilişkisi ve tunç-altın eşyalar birlikte ayırt edici ipuçlarıdır. Karasuk demir işlemeciliğiyle, Kelteminar Aral çevresindeki avcılık ve balıkçılıkla öne çıktığından bu tanıma uymaz.",
+      "sources": [
+        "R02",
+        "S25"
+      ]
+    },
+    {
+      "id": "T01-020",
+      "revision": 1,
+      "topic": "Orta Asya kültür merkezleri",
+      "subtopic": "Karasuk kültürü",
+      "skill": "Bilgi",
+      "stem": "Yenisey havzasında demir işlemeciliğinin erken örnekleriyle öne çıkan Orta Asya kültürü aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Anav",
+        "Afanesyevo",
+        "Karasuk",
+        "Kelteminar",
+        "Andronova"
+      ],
+      "answer": "C",
+      "explanation": "Karasuk kültürü, Yenisey havzasında demirin erken işlendiği kültür çevrelerinden biridir. Andronova’nın tunç ve altın eşyalarıyla karıştırılmamalıdır. Bu eşleştirme, demirin dünyada ilk kez bu bölgede işlendiğini kanıtlayan bir iddia değildir.",
+      "sources": [
+        "R02",
+        "S25"
+      ]
+    },
+    {
+      "id": "T01-021",
+      "revision": 1,
+      "topic": "Orta Asya kültür merkezleri",
+      "subtopic": "Kelteminar kültürü",
+      "skill": "Bilgi",
+      "stem": "Aral Gölü çevresinde yerleşik yaşamın görüldüğü kültür merkezi aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Afanesyevo",
+        "Tagar",
+        "Kelteminar",
+        "Andronova",
+        "Karasuk"
+      ],
+      "answer": "C",
+      "explanation": "Aral Gölü çevresi, yerleşik yaşam ve balıkçılık-avcılık ipuçları Kelteminar kültürünü gösterir. Anav’da da yerleşik yaşamın izleri vardır; fakat kökte Aral çevresi özellikle belirtilmiştir. Bu nedenle yalnız yerleşik yaşam ifadesine bakmak yerine yer ve geçim biçimini birlikte değerlendirmek gerekir.",
+      "sources": [
+        "S7",
+        "S22"
+      ]
+    },
+    {
+      "id": "T01-022",
+      "revision": 1,
+      "topic": "Orta Asya kültür merkezleri",
+      "subtopic": "Anav kültürü",
+      "skill": "Yorum",
+      "stem": "Anav kültürü çevresinde yaşayan insanların kerpiç evlerde oturduğu; tarım, hayvancılık ve dokumacılıkla uğraştığı bilinmektedir.\n\nBuna göre;\nI. yerleşik yaşamın izlerine rastlandığı,\nII. ekonomik faaliyetlerin çeşitlilik gösterdiği,\nIII. dokumacılık ürünlerinin dış ticaretin temelini oluşturduğu\nyargılarından hangilerine ulaşılabilir?",
+      "difficulty": "Orta",
+      "options": [
+        "Yalnız I",
+        "Yalnız II",
+        "I ve II",
+        "II ve III",
+        "I, II ve III"
+      ],
+      "answer": "C",
+      "explanation": "Kerpiç evler yerleşik yaşamı, tarım-hayvancılık-dokumacılık ise ekonomik çeşitliliği destekler; I ve II’ye ulaşılır. Dokuma yapılması, ürünlerin ihraç edildiğini veya dış ticaretin temelini oluşturduğunu göstermez. III için üretimin ötesinde ticaretin yönü ve hacmi hakkında kanıt gerekir.",
+      "sources": [
+        "S25",
+        "S7"
+      ]
+    },
+    {
+      "id": "T01-023",
+      "revision": 1,
+      "topic": "Orta Asya kültür merkezleri",
+      "subtopic": "Kültür merkezlerinin karşılaştırılması",
+      "skill": "Bilgi",
+      "stem": "Aşağıdaki kültür merkezi-özellik eşleştirmelerinden hangisi yanlıştır?",
+      "difficulty": "Orta",
+      "options": [
+        "Anav — Tarımsal faaliyetler",
+        "Kelteminar — Avcılık ve balıkçılık",
+        "Tagar — Hayvan tasvirli metal eserler",
+        "Afanesyevo — Aral Gölü çevresinde balıkçılık",
+        "Karasuk — Demir işlemeciliğinin erken örnekleri"
+      ],
+      "answer": "D",
+      "explanation": "Yanlış eşleştirme Afanesyevo–Aral Gölü çevresinde balıkçılıktır. Bu coğrafya ve geçim biçimi Kelteminar’la ilişkilidir. Anav’da tarım, Tagar’da hayvan tasvirli metal eserler ve Karasuk’ta erken demir işlemeciliği diğer seçeneklerde doğru verilmiştir.",
+      "sources": [
+        "S7",
+        "S25",
+        "R02"
+      ]
+    },
+    {
+      "id": "T01-025",
+      "revision": 1,
+      "topic": "Orta Asya kültür merkezleri",
+      "subtopic": "Coğrafya ve ekonomik yaşam",
+      "skill": "Bilgi ve yorum",
+      "stem": "Orta Asya kültür bölgeleriyle ilgili aşağıdaki ilişkilerden hangisi, coğrafi çevrenin ekonomik faaliyetlere etkisini en doğrudan örneklendirir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Metal süs eşyalarının mezarlara bırakılması",
+        "Aral Gölü çevresindeki Kelteminar'da balıkçılığın öne çıkması",
+        "Bir kültürün adını kazı yapılan yerden alması",
+        "Farklı merkezlerde benzer bezemelerin görülmesi",
+        "Bir kültürün önceki kültürün devamı sayılması"
+      ],
+      "answer": "B",
+      "explanation": "Aral Gölü’nün su kaynakları, çevresindeki topluluklara balıkçılık yapma imkânı sağlar. Böylece coğrafi ortam ile geçim faaliyeti arasında doğrudan ilişki kurulur. Mezara eşya bırakmak inançla, benzer bezemeler sanat ve etkileşimle ilgilidir; aynı ilişkiyi doğrudan göstermez.",
+      "sources": [
+        "S7"
+      ]
+    },
+    {
+      "id": "T01-026",
+      "revision": 1,
+      "topic": "Göçlerin nedenleri",
+      "subtopic": "Siyasi göç nedenleri",
+      "skill": "Bilgi",
+      "stem": "Türk topluluklarının ana yurtlarından göç etmesinde etkili olan aşağıdaki nedenlerden hangisi diğerlerinden farklı olarak siyasi niteliktedir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Uzun süren kuraklık",
+        "Sürülerin beslenebileceği alanların daralması",
+        "Sert kışların hayvan kayıplarını artırması",
+        "Nüfusun geçim kaynakları üzerindeki baskısı",
+        "Boylar arasında üstünlük mücadelesi yaşanması"
+      ],
+      "answer": "E",
+      "explanation": "Boylar arasındaki üstünlük mücadelesi, yönetim ve hâkimiyetle ilgili olduğu için siyasi nedendir. Kuraklık ve ağır kış doğal koşulları; otlakların yetersizliği ve nüfus baskısı geçim sorunlarını öne çıkarır. Ekonomik sonuç doğurmaları, bu etkenlerin hepsini siyasi neden yapmaz.",
+      "sources": [
+        "R03"
+      ]
+    },
+    {
+      "id": "T01-027",
+      "revision": 1,
+      "topic": "Göçlerin nedenleri",
+      "subtopic": "Doğal ve ekonomik göç nedenleri",
+      "skill": "Bilgi ve neden-sonuç",
+      "stem": "Bozkırda kar fırtınaları ve ağır kış koşulları nedeniyle hayvanların otlara ulaşamaması ve sürü kayıpları yaşanmasıyla başlayan göçlerde aşağıdaki etkenlerden hangisi doğrudan öne çıkar?",
+      "difficulty": "Kolay",
+      "options": [
+        "Hayvancılığa dayalı geçim imkânlarının daralması",
+        "Boylar arasındaki yönetim anlaşmazlıklarının büyümesi",
+        "Dış bir gücün otlaklar üzerinde hâkimiyet kurması",
+        "Ticaret güzergâhlarının başka bölgelere kayması",
+        "Yeni bir siyasi merkez kurma hedefinin benimsenmesi"
+      ],
+      "answer": "A",
+      "explanation": "Sürü kayıpları hayvancılıkla geçinen topluluğun besin ve gelir kaynaklarını azaltır. Doğal etkenin göçe etkisi burada ekonomik zorlanma üzerinden gerçekleşir. Boy mücadelesi ve dış baskı da göç nedeni olabilir; ancak bu örnekte onları gösteren bir bilgi yoktur.",
+      "sources": [
+        "R03"
+      ]
+    },
+    {
+      "id": "T01-028",
+      "revision": 1,
+      "topic": "Göçlerin nedenleri",
+      "subtopic": "Doğal ve ekonomik göç nedenleri",
+      "skill": "Yorum",
+      "stem": "Bir bölgede nüfus ve hayvan sürüleri artarken kullanılabilir otlakların genişlememesi üzerine bazı topluluklar yeni alanlara yönelmiştir.\n\nBu göçü açıklayan temel ilişki aşağıdakilerden hangisidir?",
+      "difficulty": "Orta",
+      "options": [
+        "Pazar talebi — İhracat gelirleri",
+        "Vergi yükü — Üreticinin geliri",
+        "Nüfus ve ihtiyaçlar — Kaynakların taşıma kapasitesi",
+        "Toprak mülkiyeti — Servetin dağılımı",
+        "Üretim tekniği — İş gücü verimliliği"
+      ],
+      "answer": "C",
+      "explanation": "Nüfus ve sürüler büyürken otlak aynı kalıyorsa kaynakların topluluğu geçindirme kapasitesi yetersizleşebilir. Burada ölçülen ilişki artan ihtiyaç ile sınırlı kaynaktır. Pazar talebi, vergi, mülkiyet veya üretim tekniği değişikliği hakkında bilgi verilmemiştir.",
+      "sources": [
+        "R03"
+      ]
+    },
+    {
+      "id": "T01-029",
+      "revision": 1,
+      "topic": "Göçlerin nedenleri",
+      "subtopic": "Siyasi göç nedenleri",
+      "skill": "Bilgi ve sınıflandırma",
+      "stem": "Türk göçlerini etkileyen aşağıdaki etken–neden türü eşleştirmeleri verilmiştir:\nI. Boylar arası hâkimiyet mücadelesi — İç siyasi neden\nII. Komşu devletin baskısı — Dış siyasi neden\nIII. Kuraklık — Doğal neden\n\nBu eşleştirmelerden hangileri doğrudur?",
+      "difficulty": "Orta",
+      "options": [
+        "Yalnız I",
+        "I ve II",
+        "I ve III",
+        "II ve III",
+        "I, II ve III"
+      ],
+      "answer": "E",
+      "explanation": "Boylar arası mücadele topluluğun içindeki siyasi rekabeti, komşu devletlerin baskısı dış siyasi etkiyi, kuraklık ise doğal koşulları anlatır. Bu nedenle üç sınıflandırma da doğrudur. Kuraklığın ekonomiyi etkilemesi, onun doğal bir etken olma niteliğini değiştirmez.",
+      "sources": [
+        "R03"
+      ]
+    },
+    {
+      "id": "T01-031",
+      "revision": 1,
+      "topic": "Göçlerin nedenleri",
+      "subtopic": "Göç nedenlerinin çeşitliliği",
+      "skill": "Yorum",
+      "stem": "Bir Türk topluluğu ağır kışın yol açtığı sürü kaybından sonra göç etmiş; geçim sıkıntısı yaşamayan başka bir topluluk ise elverişli yeni sahalar edinmek üzere hareket etmiştir.\n\nBu iki örnek birlikte değerlendirildiğinde aşağıdakilerden hangisine ulaşılır?",
+      "difficulty": "Kolay",
+      "options": [
+        "İki hareketin de komşu toplulukların baskısıyla başladığına",
+        "İki hareketin de mevcut otlakların yetersizliğiyle açıklanabildiğine",
+        "İki topluluğun aynı siyasi birliğe katılmak üzere hareket ettiğine",
+        "Göçe yönelmede geçim zorlaması ile yeni imkân arayışının ayrılabildiğine",
+        "İkinci topluluğun ilk topluluğun boşalttığı sahaya yerleştiğine"
+      ],
+      "answer": "D",
+      "explanation": "Ağır kışın yol açtığı sürü kaybı ilk topluluğu geçim bakımından zorlamıştır. İkinci topluluğun hareketi ise mevcut bir kıtlığın sonucu olarak verilmemiş, yeni imkân arayışıyla açıklanmıştır. Bu iki nedeni ayırmak mümkündür; göçlerin aynı yöne veya aynı siyasi hedefe yöneldiği söylenemez.",
+      "sources": [
+        "R03"
+      ]
+    },
+    {
+      "id": "T01-032",
+      "revision": 1,
+      "topic": "Göçlerin nedenleri",
+      "subtopic": "Yayılma ve yeni yurt arayışı",
+      "skill": "Bilgi",
+      "stem": "Türk cihan hâkimiyeti düşüncesinin göçler ve yayılma hareketleriyle ilişkilendirilmesi, aşağıdakilerden hangisine vurgu yapar?",
+      "difficulty": "Kolay",
+      "options": [
+        "Tahtın aktarılma usulünü belirleme amacına",
+        "Boyların iç işlerinde serbestliğini artırma isteğine",
+        "Hâkimiyet alanını genişletme idealine",
+        "Mevcut sınırları koruma amacına",
+        "Hanedan üyeleri arasında uzlaşma sağlama isteğine"
+      ],
+      "answer": "C",
+      "explanation": "Cihan hâkimiyeti düşüncesi siyasi egemenliği daha geniş alanlara yayma idealidir. Mevcut sınırların korunmasıyla sınırlı bir savunma hedefinden bu yönüyle ayrılır. Tahtın aktarımı, boyların özerkliği ve hanedan içi uzlaşma ise devletin iç düzeniyle ilgili hedeflerdir; kavramın geniş coğrafyalarda hâkimiyet kurma vurgusunu karşılamaz.",
+      "sources": [
+        "R03"
+      ]
+    },
+    {
+      "id": "T01-033",
+      "revision": 1,
+      "topic": "Göçlerin nedenleri",
+      "subtopic": "Yayılma ve yeni yurt arayışı",
+      "skill": "Bilgi ve yorum",
+      "stem": "Bir Türk topluluğunun aynı yıl göç etmesine ilişkin iki kayıt vardır: İlkinde otlakların daraldığı, ikincisinde komşu bir gücün saldırıya geçtiği belirtilmiştir.\n\nBu kayıtlar birlikte değerlendirildiğinde göçün nedenleri için aşağıdakilerden hangisi söylenebilir?",
+      "difficulty": "Orta",
+      "options": [
+        "Otlak kaydı, saldırı kaydının yanlış olduğunu gösterir.",
+        "Saldırı kaydı, otlakların daralmasının sonucudur.",
+        "Aynı göçte ekonomik ve siyasi baskı birlikte etkili olmuş olabilir.",
+        "Saldırının başlaması, göç kararının daha önce alınmasını gerektirir.",
+        "Otlakların daralması, komşu gücün saldırı amacını açıklar."
+      ],
+      "answer": "C",
+      "explanation": "Otlak kaybı geçim koşullarıyla, saldırı ise dış siyasi baskıyla ilişkilidir. İki kayıt aynı göç için farklı etkenler bildirdiğinden bunlar birbirini dışlamak zorunda değildir. Verilen bilgiler etkenlerden birinin diğerini doğurduğunu veya olayların ayrıntılı sırasını belirlemez.",
+      "sources": [
+        "R03"
+      ]
+    },
+    {
+      "id": "T01-034",
+      "revision": 1,
+      "topic": "Göçlerin nedenleri",
+      "subtopic": "Doğal ve ekonomik göç nedenleri",
+      "skill": "Bilgi",
+      "stem": "İlk Türk topluluklarının göç nedenleri arasında;\nI. nüfus artışı karşısında kaynakların yetersiz kalması,\nII. iklimin tarım ve hayvancılığı güçleştirmesi,\nIII. yeni Türk devletlerinin kurulması\nunsurlarından hangileri ekonomik neden kapsamında değerlendirilebilir?",
+      "difficulty": "Orta",
+      "options": [
+        "I ve II",
+        "Yalnız I",
+        "Yalnız III",
+        "II ve III",
+        "I, II ve III"
+      ],
+      "answer": "A",
+      "explanation": "Nüfus artışı karşısında kaynakların yetmemesi ve iklimin üretimi güçleştirmesi, geçim imkânlarını daraltır. Bu yüzden I ve II ekonomik nedenler kapsamında ele alınabilir. Yeni Türk devletlerinin kurulması ise burada göçü başlatan ekonomik koşul değil, göç sonrasında ortaya çıkabilen siyasi sonuçtur.",
+      "sources": [
+        "R03",
+        "R04"
+      ]
+    },
+    {
+      "id": "T01-035",
+      "revision": 1,
+      "topic": "Göçlerin nedenleri ve sonuçları",
+      "subtopic": "Göçlerde neden–sonuç ilişkisi",
+      "skill": "Bilgi",
+      "stem": "Aşağıdakilerden hangisi Türk göçlerinin nedenleri arasında değil, sonuçları arasında değerlendirilir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Boylar arasındaki hâkimiyet mücadeleleri",
+        "Türk kültürünün farklı coğrafyalara taşınması",
+        "Otlakların yetersiz kalması",
+        "Dış siyasi baskıların artması",
+        "Yeni yurtlar edinme isteği"
+      ],
+      "answer": "B",
+      "explanation": "Bir topluluğun dili, gelenekleri ve üretim alışkanlıkları göçle yeni bölgelere taşınır; bu kültürel bir sonuçtur. Boy mücadeleleri, otlak yetersizliği, dış baskı ve yeni yurt isteği ise hareketi başlatabilen etkenlerdir. Soruda göçten önceki itici nedenlerle göçün doğurduğu değişim ayrılmalıdır.",
+      "sources": [
+        "R03",
+        "K3"
+      ]
+    },
+    {
+      "id": "T01-036",
+      "revision": 1,
+      "topic": "Göçlerin sonuçları",
+      "subtopic": "Göç ve kültürel etkileşim",
+      "skill": "Yorum",
+      "stem": "Göç eden topluluklar gittikleri bölgelere dil, gelenek ve üretim alışkanlıklarını taşımış; aynı zamanda karşılaştıkları toplumlardan etkilenmiştir.\n\nBu durum aşağıdakilerden hangisiyle en iyi açıklanır?",
+      "difficulty": "Kolay",
+      "options": [
+        "Siyasi merkezîleşme",
+        "Coğrafi yalıtılmışlık",
+        "Ekonomik otarşi",
+        "Kültürel etkileşim",
+        "Veraset birliği"
+      ],
+      "answer": "D",
+      "explanation": "Topluluk hem kendi kültürünü taşımakta hem de yeni çevresinden etkilenmektedir. Bu karşılıklı değişim kültürel etkileşimdir. Coğrafi yalıtılmışlık temasın sınırlılığını, otarşi ise ekonomik bakımdan kendi kendine yeterli olmayı anlatır; parçanın vurgusunu karşılamaz.",
+      "sources": [
+        "K3",
+        "R04"
+      ]
+    },
+    {
+      "id": "T01-037",
+      "revision": 1,
+      "topic": "Göçlerin sonuçları",
+      "subtopic": "Göç ve kültürel etkileşim",
+      "skill": "Yorum",
+      "stem": "Göçlerden sonra bazı Türk topluluklarının farklı dinleri benimsemesi ve zamanla dillerinin değişmesi aşağıdakilerden hangisiyle daha doğrudan ilişkilendirilebilir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Yönetici hanedanın kullandığı siyasi unvanların değişmesiyle",
+        "Yeni çevredeki toplumlarla sürekli kültürel temas kurulmasıyla",
+        "Yeni yurdun eski yurda göre daha geniş bir alana yayılmasıyla",
+        "Boyların tek bir askerî komuta altında toplanmasıyla",
+        "Eski geçim faaliyetlerinin yeni yurtta da sürdürülmesiyle"
+      ],
+      "answer": "B",
+      "explanation": "Dil ve din değişimi, göç edilen çevrede başka toplumlarla sürekli temasın sonuçları arasında bulunabilir. Askerî birleşme veya yönetici unvanının değişmesi aynı değişimin doğrudan kanıtı değildir. Etkileşimin bazı topluluklarda görülmesi, göç eden her topluluğun dilini ve dinini değiştirdiği anlamına gelmez.",
+      "sources": [
+        "R04"
+      ]
+    },
+    {
+      "id": "T01-039",
+      "revision": 1,
+      "topic": "Göçlerin sonuçları",
+      "subtopic": "Göçlerin tarih araştırmasına etkisi",
+      "skill": "Yorum",
+      "stem": "Türk tarihini inceleyen bir araştırmacı, aynı dönemde farklı bölgelerde yaşayan topluluklar için Çin, Bizans ve başka kaynak geleneklerinden birlikte yararlanmaktadır.\n\nBu araştırma ihtiyacının oluşmasında aşağıdakilerden hangisi daha etkilidir?",
+      "difficulty": "Orta",
+      "options": [
+        "Sözlü kültürün toplumsal hafızada önemli yer tutması",
+        "Devletlerin benzer yönetim kurumlarına sahip olması",
+        "Türk topluluklarının geniş bir coğrafyaya yayılması",
+        "Dönemin tarihçilerinin tarafsız anlatımı tercih etmesi",
+        "Toplulukların aynı siyasi merkezden yönetilmesi"
+      ],
+      "answer": "C",
+      "explanation": "Farklı bölgelere yayılan topluluklar farklı devletlerle ilişki kurmuş, onlara ilişkin kayıtlar da çeşitli kaynak geleneklerinde oluşmuştur. Bu nedenle coğrafi yayılma kaynakların birlikte incelenmesini gerektirir. Kurum benzerliği veya sözlü kültürün varlığı bu çeşitliliği tek başına açıklamaz; farklı kaynak kullanmak kaynakların tarafsız olduğunu varsaymayı da gerektirmez.",
+      "sources": [
+        "R04"
+      ]
+    },
+    {
+      "id": "T01-040",
+      "revision": 1,
+      "topic": "Göçlerin nedenleri ve sonuçları",
+      "subtopic": "Göçlerde neden–sonuç ilişkisi",
+      "skill": "Yorum",
+      "stem": "Bir göç örneğinde, bir boy otlak yetersizliği nedeniyle başka bölgeye yönelmiş, oradaki topluluklarla üretim alışkanlıklarını karşılıklı paylaşmış ve zamanla yeni bir siyasi teşkilat oluşturmuştur.\n\nBu anlatımda aşağıdaki ilişki dizilerinden hangisi vardır?",
+      "difficulty": "Orta",
+      "options": [
+        "Ekonomik neden — Kültürel temas — Siyasi sonuç",
+        "Siyasi neden — Kültürel temas — Ekonomik sonuç",
+        "Ekonomik neden — Siyasi temas — Kültürel sonuç",
+        "Kültürel neden — Ekonomik temas — Siyasi sonuç",
+        "Ekonomik neden — Ekonomik temas — Kültürel sonuç"
+      ],
+      "answer": "A",
+      "explanation": "Otlak yetersizliği hayvancılığı ve geçimi etkilediği için ekonomik nedendir. Farklı topluluklarla ilişki kurulması kültürel teması, yeni bir siyasi teşkilat oluşturulması siyasi sonucu gösterir. Olayların sırası neden–temas–sonuç ilişkisini kurmayı sağlar.",
+      "sources": [
+        "R03",
+        "K3"
+      ]
+    },
+    {
+      "id": "T01-041",
+      "revision": 1,
+      "topic": "İskitler ve Sakalar",
+      "subtopic": "İskit ve Saka adlandırmaları",
+      "skill": "Bilgi",
+      "stem": "Pers kaynaklarında İskit toplulukları için kullanılan ad aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Sabar",
+        "Saka",
+        "Avar",
+        "Ogur",
+        "Oğuz"
+      ],
+      "answer": "B",
+      "explanation": "Pers kaynaklarında İskit toplulukları için Saka adı kullanılır. Saka ve İskit adları farklı kaynak geleneklerindeki adlandırmalardır; modern araştırmalarda kapsadıkları coğrafya her zaman birebir aynı olmayabilir. Sabar, Avar, Ogur ve Oğuz başka topluluk adlarıdır.",
+      "sources": [
+        "S28"
+      ]
+    },
+    {
+      "id": "T01-043",
+      "revision": 1,
+      "topic": "İskitler ve destan geleneği",
+      "subtopic": "Destanlar ve edebî miras",
+      "skill": "Bilgi",
+      "stem": "Türk destan geleneğindeki Alp Er Tunga, İran destan geleneğindeki hangi adla ilişkilendirilir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Rüstem",
+        "Zal",
+        "Cemşid",
+        "Feridun",
+        "Efrâsiyâb"
+      ],
+      "answer": "E",
+      "explanation": "Alp Er Tunga, İran destan geleneğinde Efrâsiyâb adıyla ilişkilendirilir. Şehnâme’deki İran-Turan mücadeleleri bu bağlantının önemli bağlamıdır. Rüstem ve diğer seçenekler aynı destan dünyasında karşılaşılabilecek adlardır; ancak sorulan kahramanın karşılığı değildir.",
+      "sources": [
+        "S11"
+      ]
+    },
+    {
+      "id": "T01-044",
+      "revision": 1,
+      "topic": "İskitler ve destan geleneği",
+      "subtopic": "Destanlar ve edebî miras",
+      "skill": "Bilgi",
+      "stem": "İran-Turan mücadelelerinin ve Efrâsiyâb anlatılarının yer aldığı, Firdevsî'nin eseri aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Şehnâme",
+        "Kutadgu Bilig",
+        "Dîvânu Lugâti't-Türk",
+        "Oğuz Kağan Destanı",
+        "Dede Korkut Hikâyeleri"
+      ],
+      "answer": "A",
+      "explanation": "Firdevsî’nin eseri Şehnâme’dir; İran-Turan mücadeleleri ve Efrâsiyâb anlatıları eserde yer alır. Kutadgu Bilig Yusuf Has Hacib’e, Dîvânu Lugâti’t-Türk Kaşgarlı Mahmud’a aittir. Eserin konusu kadar yazarının da bilinmesi seçenekleri ayırmayı sağlar.",
+      "sources": [
+        "S11"
+      ]
+    },
+    {
+      "id": "T01-046",
+      "revision": 1,
+      "topic": "İskitler ve kadınların konumu",
+      "subtopic": "Kadın hükümdarlar ve savaşçılar",
+      "skill": "Bilgi",
+      "stem": "İskit-Saka dünyasıyla ilişkilendirilen ve Herodotos’un anlatısında Pers hükümdarı Kyros’la mücadelesiyle tanınan kadın hükümdar aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "İlbilge Hatun",
+        "Terken Hatun",
+        "Süyümbike",
+        "Tomris",
+        "Börte"
+      ],
+      "answer": "D",
+      "explanation": "Cevap Tomris’tir. Herodotos’un anlatısında Pers hükümdarı Kyros’a karşı mücadele eden Tomris, geniş İskit-Saka dünyasıyla ilişkilendirilen Massagetlerin hükümdarıdır. Bu ilişki Tomris’in bütün İskit topluluklarını yönettiği anlamına gelmez.",
+      "sources": [
+        "S12"
+      ]
+    },
+    {
+      "id": "T01-047",
+      "revision": 1,
+      "topic": "İskitler ve kadınların konumu",
+      "subtopic": "Kadın hükümdarlar ve savaşçılar",
+      "skill": "Yorum",
+      "stem": "Bir arkeolojik araştırma örneğinde, bazı kadın mezarlarında silahlarla birlikte savaşla uyumlu yaralanma izlerinin saptandığı varsayılsın.\n\nBu bulgular aşağıdaki yargılardan hangisini daha doğrudan destekler?",
+      "difficulty": "Orta",
+      "options": [
+        "Yönetim yetkisinin kadınlar aracılığıyla miras bırakıldığını",
+        "Bazı kadınların savaş faaliyetlerine katılmış olabileceğini",
+        "Kadın ve erkeklerin hukuki haklarının eşit olduğunu",
+        "Kadınlar için zorunlu askerlik uygulandığını",
+        "Kadın ve erkeklere ortak bir askerî eğitim programı uygulandığını"
+      ],
+      "answer": "B",
+      "explanation": "Silahların savaş yarası izleriyle birlikte bulunması, bazı kadınların savaş faaliyetlerine katılmış olabileceğini destekler. Ancak bu kanıt bütün kadınların asker olduğunu veya kadınlarla erkeklerin tüm hukuki haklarının eşit bulunduğunu göstermez. Çıkarımın kapsamı buluntuların gösterebildiği ölçüde tutulmalıdır.",
+      "sources": [
+        "R07"
+      ]
+    },
+    {
+      "id": "T01-049",
+      "revision": 1,
+      "topic": "İskit sanatı",
+      "subtopic": "Sanat ve maden işçiliği",
+      "skill": "Bilgi",
+      "stem": "İskit sanatında geyik, yırtıcı kuş ve hayvan mücadelelerinin süs eşyalarında işlenmesi hangi kavramla karşılanır?",
+      "difficulty": "Kolay",
+      "options": [
+        "Bitkisel bezeme",
+        "Geometrik üslup",
+        "Portre geleneği",
+        "Hayvan üslubu",
+        "Yazı bezemesi"
+      ],
+      "answer": "D",
+      "explanation": "Hayvanların ve hayvan mücadelelerinin bezemede öne çıkması hayvan üslubudur. Bitkisel bezemede bitki biçimleri, geometrik üslupta çizgi ve şekil düzenleri ayırt edicidir. Eserin metalden yapılması üretim tekniğini, üzerindeki hayvan tasvirleri ise sanatın konusunu gösterir.",
+      "sources": [
+        "S14",
+        "S20"
+      ]
+    },
+    {
+      "id": "T01-050",
+      "revision": 1,
+      "topic": "İskit sanatı",
+      "subtopic": "Sanat ve maden işçiliği",
+      "skill": "Bilgi ve ilişkilendirme",
+      "stem": "İskitler için kullanılan “bozkırın kuyumcuları” nitelemesini aşağıdaki bulgulardan hangisi en doğrudan destekler?",
+      "difficulty": "Kolay",
+      "options": [
+        "Döküm tekniğiyle üretilmiş tunç ok uçları",
+        "Pişmiş topraktan yapılmış bezemeli kaplar",
+        "İnce işçilikle hazırlanmış altın takılar",
+        "Hayvan motifleriyle süslenmiş keçe parçaları",
+        "Oyma tekniğiyle yapılmış ahşap kaplar"
+      ],
+      "answer": "C",
+      "explanation": "Kuyumculuk, değerli metallerin özellikle takı ve süs eşyasına dönüştürülmesinde ince teknik ve estetik beceri gerektirir. Bu yüzden altın takılar nitelemeyi en doğrudan destekler. Tunç ok uçları metal işlemeyi gösterir; ancak silah dökümü ile kuyumculuk aynı üretim alanı değildir. Keçe, seramik ve ahşap buluntular ise başka zanaatların kanıtıdır.",
+      "sources": [
+        "S20"
+      ]
+    },
+    {
+      "id": "T01-051",
+      "revision": 1,
+      "topic": "İskitler ve askerî yaşam",
+      "subtopic": "Askerî yaşam ve savaş yöntemleri",
+      "skill": "Bilgi ve yorum",
+      "stem": "İskitlerin atı savaşta etkin biçimde kullanmaları, askerî güçlerine öncelikle hangi özelliği kazandırmıştır?",
+      "difficulty": "Kolay",
+      "options": [
+        "Kuşatma yapıları inşa etme yeteneğini",
+        "Uzun seferlerde ikmalden bağımsızlığı",
+        "Yaya birliklerle sık düzen savaşma zorunluluğunu",
+        "Sabit savunma mevzilerine bağımlılığı",
+        "Hızlı hareket ve manevra imkânını"
+      ],
+      "answer": "E",
+      "explanation": "Atlı birlikler hızlı yer değiştirebilir; ani hücum ve geri çekilmeler yapabilir. Atın savaşta kullanılması öncelikle hareket ve manevra imkânını artırır. Bununla birlikte atlı ordunun da besin ve yem ihtiyacı vardır; at kullanımı ikmalden bağımsızlık veya kuşatma yapısı kurma becerisi anlamına gelmez.",
+      "sources": [
+        "S9",
+        "S28"
+      ]
+    },
+    {
+      "id": "T01-052",
+      "revision": 1,
+      "topic": "İskitler ve günlük yaşam",
+      "subtopic": "Binicilik ve günlük yaşam",
+      "skill": "Bilgi ve yorum",
+      "stem": "İskit giyiminde pantolon gibi biniciliğe uygun kıyafetlerin kullanılması aşağıdaki yargılardan hangisini destekler?",
+      "difficulty": "Kolay",
+      "options": [
+        "Biniciliğe uygun kıyafetin yaygınlaşmasının siyasi unvanları belirlemesi",
+        "Giyim tercihlerinde hareket ve korunma ihtiyaçlarının etkili olması",
+        "Kıyafet benzerliğinin topluluklar arasındaki soy bağını belirlemesi",
+        "Giyimdeki değişimin dokumacılığın yerini hayvancılığın aldığını göstermesi",
+        "Kıyafet biçiminin savaşçıların toplumdaki hukuki statüsünü belirlemesi"
+      ],
+      "answer": "B",
+      "explanation": "Pantolon gibi biniciliğe uygun kıyafetler hareket kolaylığı sağlayarak gündelik ve askerî ihtiyaçlara cevap verir. Buradan giyimle yaşam biçimi arasında ilişki kurulabilir. Benzer kıyafetler ortak soyun, siyasi unvanın veya hukuki statünün tek başına kanıtı değildir.",
+      "sources": [
+        "S14"
+      ]
+    },
+    {
+      "id": "T01-053",
+      "revision": 1,
+      "topic": "İskit sanatı",
+      "subtopic": "Sanat ve maden işçiliği",
+      "skill": "Yorum",
+      "stem": "Bir İskit buluntusunda hem ince altın işçiliği hem de hayvan mücadelelerini gösteren tasvirler bulunmaktadır.\n\nBu buluntu aşağıdaki alanlardan hangileri hakkında birlikte bilgi verir?",
+      "difficulty": "Orta",
+      "options": [
+        "Maden işleme becerisi ve dış ticaretin hacmi",
+        "Ham maddenin çıkarıldığı bölge ve sanat üslubu",
+        "Zanaatkârların hukuki statüsü ve üretim tekniği",
+        "Maden işleme becerisi ve sanat üslubu",
+        "Atölyelerin mülkiyeti ve bezemenin konusu"
+      ],
+      "answer": "D",
+      "explanation": "İnce altın işçiliği teknik beceriye, hayvan mücadeleleri ise sanat üslubuna ilişkin bilgi sağlar. Altının varlığı, nereden çıkarıldığını veya ticaret hacmini tek başına göstermez. Eserin üreticisinin hukuki statüsü ve atölyenin mülkiyeti için de ayrı belgeler gerekir. Dış ticaret ile malzeme kullanımı aynı kanıt düzeyinde değildir.",
+      "sources": [
+        "S14",
+        "S20"
+      ]
+    },
+    {
+      "id": "T01-056",
+      "revision": 1,
+      "topic": "Türk adının anlamları",
+      "subtopic": "Türk adının anlamları",
+      "skill": "Bilgi ve bağlam",
+      "stem": "Türk adının İran ve klasik şiir geleneğindeki bazı örneklerde “güzel” ve “sevgili” anlamında kullanılması, aşağıdakilerden hangisini örneklendirir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Türk adının siyasi aidiyet bildiren kullanımını",
+        "Türk adının yer şekilleriyle ilişkilendirilen açıklamasını",
+        "Türk adının edebî tasvirlerdeki mecazlı kullanımını",
+        "Türk adının toplulukların türeyişiyle ilgili açıklamasını",
+        "Türk adının güç ve kuvvetle ilişkilendirilen açıklamasını"
+      ],
+      "answer": "C",
+      "explanation": "Şiir içindeki güzel ve sevgili anlamları edebî ve mecazlı kullanımlardır. Siyasi aidiyet, güç veya coğrafi köken açıklamaları farklı anlam bağlamlarıdır. Bir sözcüğün şiirdeki kullanımı onun tarihî kökenini tek başına belirlemez.",
+      "sources": [
+        "S21"
+      ]
+    },
+    {
+      "id": "T01-057",
+      "revision": 1,
+      "topic": "Orta Asya kültür merkezleri",
+      "subtopic": "Kelteminar kültürü",
+      "skill": "Bilgi ve yorum",
+      "stem": "Kelteminar kültüründe yerleşik yaşamın izlerine rastlanırken geçim faaliyetleri arasında avcılık ve balıkçılık da bulunmaktadır.\n\nBu iki bilgi birlikte değerlendirildiğinde aşağıdakilerden hangisine ulaşılır?",
+      "difficulty": "Orta",
+      "options": [
+        "Yerleşik yaşamın yalnız tarımsal üretimle birlikte düşünülmemesi gerektiğine",
+        "Avcılık ve balıkçılığın merkezî bir otorite tarafından örgütlendiğine",
+        "Yerleşik nüfusun ihtiyacının dış ticaretle karşılandığına",
+        "Yerleşik yaşama geçişin temel nedeninin maden üretimi olduğuna",
+        "Yerleşmedeki üretim fazlasının uzak pazarlara satıldığına"
+      ],
+      "answer": "A",
+      "explanation": "Yerleşiklik ikamet biçimini, avcılık ve balıkçılık ise geçim faaliyetlerini anlatır. Bu faaliyetler birlikte görülebildiğine göre yerleşik yaşam yalnız tarımla özdeşleştirilemez. Parçada üretimin kim tarafından örgütlendiği, dış ticaret, maden üretimi veya üretim fazlasının satışı hakkında bilgi bulunmamaktadır.",
+      "sources": [
+        "S7",
+        "S22"
+      ]
+    },
+    {
+      "id": "T01-058",
+      "revision": 1,
+      "topic": "Göçlerin nedenleri",
+      "subtopic": "Doğal ve ekonomik göç nedenleri",
+      "skill": "Bilgi ve neden-sonuç",
+      "stem": "Bir göç örneğinde hayvan hastalıkları nedeniyle sürüleri küçülen bir Türk boyu başka bir bölgeye yerleşmiş ve oradaki topluluklarla kültürel ilişki kurmuştur.\n\nBu olay dizisi için aşağıdaki değerlendirmelerden hangisi doğrudur?",
+      "difficulty": "Orta",
+      "options": [
+        "Göçün doğrudan nedeni, komşu devletin askerî baskısıdır.",
+        "Göç güzergâhı, yeni bir devlet kurma amacını kanıtlar.",
+        "Yeni yurt arayışı, topluluğun dinini değiştirdiğini gösterir.",
+        "Göç sonrası ortaya çıkan kültürel temas, göçün başlangıç nedeninden ayrılmalıdır.",
+        "Yeni toplumlarla temas, sürü kaybının göçten sonra yaşandığını gösterir."
+      ],
+      "answer": "D",
+      "explanation": "Sürülerin hastalıkla küçülmesi göçü başlatan geçim sorunudur. Yeni yurttaki toplumlarla temas ise göç gerçekleştikten sonra doğan kültürel sonuçtur. Bu ayrım, aynı olay dizisinde başlangıç nedeni ile sonraki etkinin birbirinin yerine kullanılmasını önler.",
+      "sources": [
+        "R03"
+      ]
+    },
+    {
+      "id": "T01-059",
+      "revision": 1,
+      "topic": "İnanç ve anma gelenekleri",
+      "subtopic": "Balbal ve anma gelenekleri",
+      "skill": "Bilgi",
+      "stem": "Göktürk anma alanlarında, insan biçimindeki heykelden ayrı olarak doğuya doğru bir sıra hâlinde uzanan dikili taşlar için kullanılan terim aşağıdakilerden hangisidir?",
+      "difficulty": "Orta",
+      "options": [
+        "Kurgan",
+        "Tamga",
+        "Balbal",
+        "Bark",
+        "Yuğ"
+      ],
+      "answer": "C",
+      "explanation": "Anma alanından doğuya uzanan taş sırasındaki dikili taşlara balbal denir. İnsan biçimindeki heykel ile balbal taş dizisi ayrı unsurlardır. Kurgan mezar yapısını, yuğ cenaze törenini, tamga ise ayırt edici işareti ifade eder; bunlar aynı nesnenin adları değildir.",
+      "sources": [
+        "S23"
+      ]
+    },
+    {
+      "id": "T01-060",
+      "revision": 1,
+      "topic": "Askerî kültür ve etkileşim",
+      "subtopic": "Üzengi ve kültürel etkileşim",
+      "skill": "Bilgi",
+      "stem": "Üzengi teknolojisinin Avrupa'ya yayılması, tarih araştırmalarında aşağıdaki topluluklardan hangisiyle özellikle ilişkilendirilir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Peçenekler",
+        "Avarlar",
+        "Kıpçaklar",
+        "Avrupa Hunları",
+        "Macarlar"
+      ],
+      "answer": "B",
+      "explanation": "Üzenginin Avrupa’da yayılmasında Avarların rolü öne çıkar. Üzengi, binicinin at üzerinde daha dengeli durmasına yardımcı olan bir araçtır. Bir teknolojinin Avrupa’ya aktarılması ile dünyanın herhangi bir yerindeki ilk kullanımı farklı tarihsel sorulardır; burada aktarım sorulmaktadır.",
+      "sources": [
+        "S24"
+      ]
+    },
+    {
+      "id": "T01-061",
+      "revision": 1,
+      "topic": "İskitler ve kadınların konumu",
+      "subtopic": "Kadın hükümdarlar ve savaşçılar",
+      "skill": "Bilgi",
+      "stem": "Antik Yunan anlatılarındaki Amazonlarla ilişkilendirilen kadın savaşçılar, aşağıdaki topluluklardan hangisinin kültür çevresinde görülmüştür?",
+      "difficulty": "Kolay",
+      "options": [
+        "Asya Hunları",
+        "Göktürkler",
+        "Uygurlar",
+        "İskitler (Sakalar)",
+        "Karluklar"
+      ],
+      "answer": "D",
+      "explanation": "Antik Amazon anlatıları İskit-Saka ve yakın Avrasya bozkır çevrelerindeki savaşçı kadınlarla ilişkilendirilir. Kadın savaşçılara ait olduğu değerlendirilen mezarların incelenmesi bu ilişki için arkeolojik veri sağlar. Bununla birlikte efsanenin bütün ayrıntılarının tarihsel gerçek olduğu veya bu çevredeki bütün kadınların savaşçı olduğu sonucu çıkarılamaz.",
+      "sources": [
+        "S13",
+        "R07"
+      ]
+    },
+    {
+      "id": "T01-062",
+      "revision": 1,
+      "topic": "İskitler ve Sakalar",
+      "subtopic": "İskit ve Saka adlandırmaları",
+      "skill": "Bilgi ve yorum",
+      "stem": "Pers kaynaklarında Saka, Yunan kaynaklarında İskit adlandırmalarıyla karşılaşılan bozkır topluluklarını inceleyen bir araştırmacı, bu adların kapsadığı coğrafyayı ve dönemi de karşılaştırmaktadır.\n\nBu yaklaşımın dayandığı düşünce aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Farklı adlarla anılan topluluklar siyasi bakımdan düşmandır.",
+        "Farklı adlandırmalar tek merkezli yönetimi gösterir.",
+        "İlişkili topluluklar farklı kaynak geleneklerinde farklı adlarla anılabilir.",
+        "İki adın coğrafi kapsamı her durumda bütünüyle aynıdır.",
+        "Adlandırma farkı toplulukların ayrı yüzyıllarda yaşadığını kanıtlar."
+      ],
+      "answer": "C",
+      "explanation": "Saka ve İskit, farklı kaynak geleneklerinde kullanılan adlandırmalardır. Birbiriyle ilişkili toplulukların farklı adlarla anılması mümkündür; adların hangi coğrafya ve dönem için kullanıldığı ayrıca incelenmelidir. Yalnız ad farkından düşmanlık, siyasi birlik veya ayrı yüzyıllarda yaşama sonucu çıkarılamaz. İki terimin kapsamının her kaynakta birebir aynı olduğu da varsayılamaz.",
+      "sources": [
+        "S9",
+        "S28"
+      ]
+    },
+    {
+      "id": "T01-063",
+      "revision": 1,
+      "topic": "İskitler ve askerî yaşam",
+      "subtopic": "Askerî yaşam ve savaş yöntemleri",
+      "skill": "Bilgi",
+      "stem": "Herodotos’un aktardığına göre Pers hükümdarı I. Darius’un seferinde, doğrudan savaşa girmek yerine geri çekilerek Pers ordusunu yıpratan bozkır topluluğu aşağıdakilerden hangisidir?",
+      "difficulty": "Orta",
+      "options": [
+        "Kimmerler",
+        "İskitler (Sakalar)",
+        "Sarmatlar",
+        "Massagetler",
+        "Alanlar"
+      ],
+      "answer": "B",
+      "explanation": "Cevap İskitlerdir. Herodotos’un aktardığı mücadelede İskitler, I. Darius’un ordusuyla doğrudan çarpışmaktan kaçınıp geri çekilerek Persleri yıpratmıştır. Hareketli bozkır yaşamı bu stratejiyi kolaylaştırır; savaştan kaçınmak her durumda teslim olmak anlamına gelmez.",
+      "sources": [
+        "S28"
+      ]
+    }
+  ]
+}

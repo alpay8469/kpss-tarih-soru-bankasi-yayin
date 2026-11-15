@@ -1,0 +1,869 @@
+{
+  "title": "KPSS Tarih — İslamiyet Öncesi Türklerde Kültür ve Uygarlık",
+  "unit": null,
+  "date": "2026-10-10",
+  "question_count": 34,
+  "sources": {
+    "KU01": {
+      "title": "MEB Türk Kültür ve Medeniyet Tarihi 11 — Devleti oluşturan unsurlar (s.13)",
+      "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/turkkulturvemedeniyettarihi/sec/unite1/files/basic-html/page3.html",
+      "type": "Resmî ders kitabı",
+      "accessed": "2026-10-10"
+    },
+    "KU02": {
+      "title": "MEB Türk Kültür ve Medeniyet Tarihi 11 — Kut ve hanedan (s.14)",
+      "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/turkkulturvemedeniyettarihi/sec/unite1/files/basic-html/page4.html",
+      "type": "Resmî ders kitabı",
+      "accessed": "2026-10-10"
+    },
+    "KU03": {
+      "title": "MEB Türk Kültür ve Medeniyet Tarihi 11 — Cihan hâkimiyeti düşüncesi (s.16)",
+      "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/turkkulturvemedeniyettarihi/sec/unite1/files/basic-html/page6.html",
+      "type": "Resmî ders kitabı",
+      "accessed": "2026-10-10"
+    },
+    "KU04": {
+      "title": "MEB Türk Kültür ve Medeniyet Tarihi 11 — Yönetim unvanları ve egemenlik sembolleri (s.17)",
+      "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/turkkulturvemedeniyettarihi/sec/unite1/files/basic-html/page7.html",
+      "type": "Resmî ders kitabı",
+      "accessed": "2026-10-10"
+    },
+    "KU05": {
+      "title": "MEB Türk Kültür ve Medeniyet Tarihi 11 — Orun, ülüş ve askerî eğitim (s.19)",
+      "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/turkkulturvemedeniyettarihi/sec/unite1/files/basic-html/page9.html",
+      "type": "Resmî ders kitabı",
+      "accessed": "2026-10-10"
+    },
+    "KU06": {
+      "title": "MEB Türk Kültür ve Medeniyet Tarihi 11 — Ordu teşkilatı (s.20)",
+      "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/turkkulturvemedeniyettarihi/sec/unite1/files/basic-html/page10.html",
+      "type": "Resmî ders kitabı",
+      "accessed": "2026-10-10"
+    },
+    "KU07": {
+      "title": "MEB Türk Kültür ve Medeniyet Tarihi 11 — Yönler ve renkler (s.21)",
+      "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/turkkulturvemedeniyettarihi/sec/unite1/files/basic-html/page11.html",
+      "type": "Resmî ders kitabı",
+      "accessed": "2026-10-10"
+    },
+    "KU08": {
+      "title": "MEB Türk Kültür ve Medeniyet Tarihi 11 — Töre ve hukukun bağlayıcılığı (s.102)",
+      "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/turkkulturvemedeniyettarihi/sec/unite3/files/basic-html/page2.html",
+      "type": "Resmî ders kitabı",
+      "accessed": "2026-10-10"
+    },
+    "KU09": {
+      "title": "MEB Türk Kültür ve Medeniyet Tarihi 11 — Törenin kaynakları ve temel ilkeler (s.103)",
+      "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/turkkulturvemedeniyettarihi/sec/unite3/files/basic-html/page3.html",
+      "type": "Resmî ders kitabı",
+      "accessed": "2026-10-10"
+    },
+    "KU10": {
+      "title": "MEB Türk Kültür ve Medeniyet Tarihi 11 — Yargı ve ceza (s.104)",
+      "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/turkkulturvemedeniyettarihi/sec/unite3/files/basic-html/page4.html",
+      "type": "Resmî ders kitabı",
+      "accessed": "2026-10-10"
+    },
+    "KU11": {
+      "title": "MEB Türk Kültür ve Medeniyet Tarihi 11 — Gök Tanrı ve tabiatla ilgili inanışlar (s.69)",
+      "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/turkkulturvemedeniyettarihi/sec/unite2/files/basic-html/page5.html",
+      "type": "Resmî ders kitabı",
+      "accessed": "2026-10-10"
+    },
+    "KU12": {
+      "title": "MEB Türk Kültür ve Medeniyet Tarihi 11 — İnanç terimleri ve toplumsal birimler (s.70)",
+      "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/turkkulturvemedeniyettarihi/sec/unite2/files/basic-html/page6.html",
+      "type": "Resmî ders kitabı",
+      "accessed": "2026-10-10"
+    },
+    "KU13": {
+      "title": "MEB Türk Kültür ve Medeniyet Tarihi 11 — Ailede eğitim (s.71)",
+      "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/turkkulturvemedeniyettarihi/sec/unite2/files/basic-html/page7.html",
+      "type": "Resmî ders kitabı",
+      "accessed": "2026-10-10"
+    },
+    "KU14": {
+      "title": "MEB Türk Kültür ve Medeniyet Tarihi 11 — Üretim, hayvancılık ve ticaret (s.130)",
+      "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/turkkulturvemedeniyettarihi/sec/unite4/files/basic-html/page2.html",
+      "type": "Resmî ders kitabı",
+      "accessed": "2026-10-10"
+    },
+    "KU15": {
+      "title": "MEB Türk Kültür ve Medeniyet Tarihi 11 — Tarımın maddi kanıtları (s.131)",
+      "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/turkkulturvemedeniyettarihi/sec/unite4/files/basic-html/page3.html",
+      "type": "Resmî ders kitabı",
+      "accessed": "2026-10-10"
+    },
+    "KU16": {
+      "title": "MEB Türk Kültür ve Medeniyet Tarihi 11 — Toplumun askerî yaşamla ilişkisi (s.67)",
+      "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/turkkulturvemedeniyettarihi/sec/unite2/files/basic-html/page3.html",
+      "type": "Resmî ders kitabı",
+      "accessed": "2026-10-10"
+    },
+    "KU17": {
+      "title": "MEB Tarih 9 Beceri Temelli Etkinlik — Kurultay (s.152)",
+      "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/beceri_temelli/9/tarih/files/basic-html/page154.html",
+      "type": "Resmî eğitim materyali",
+      "accessed": "2026-10-10"
+    },
+    "KU18": {
+      "title": "MEB Tarih 9 Beceri Temelli Etkinlik — On İki Hayvanlı Türk Takvimi",
+      "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/beceri_temelli/9/tarih/files/basic-html/page40.html",
+      "type": "Resmî eğitim materyali",
+      "accessed": "2026-10-10"
+    },
+    "KU19": {
+      "title": "Kültür ve Turizm Bakanlığı — Türk Kültürü: görevliler ve sözlü edebiyat",
+      "url": "https://www.ktb.gov.tr/TR-96255/turk-kulturu.html",
+      "type": "Resmî kültür kaynağı",
+      "accessed": "2026-10-10"
+    },
+    "KU20": {
+      "title": "MEB Türk Kültür ve Medeniyet Tarihi 11 — Yönetim anlayışı (s.15)",
+      "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/turkkulturvemedeniyettarihi/sec/unite1/files/basic-html/page5.html",
+      "type": "Resmî ders kitabı",
+      "accessed": "2026-10-10"
+    },
+    "KU21": {
+      "title": "MEB Türk Dili ve Edebiyatı 10 Kavram Öğretimi — Sözlü edebiyat (s.7)",
+      "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/kavram_calismalari/10/edebiyat/tek/files/basic-html/page10.html",
+      "type": "Resmî eğitim materyali",
+      "accessed": "2026-10-10"
+    },
+    "KU22": {
+      "title": "MEB Türk Kültür ve Medeniyet Tarihi 11 — Boy teşkilatı (s.18)",
+      "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/turkkulturvemedeniyettarihi/sec/unite1/files/basic-html/page8.html",
+      "type": "Resmî ders kitabı",
+      "accessed": "2026-10-10"
+    }
+  },
+  "questions": [
+    {
+      "id": "KU-001",
+      "revision": 1,
+      "topic": "İslamiyet Öncesi Türklerde Kültür ve Uygarlık",
+      "subtopic": "Devlet ve bağımsızlık",
+      "skill": "Bilgi–Yorum",
+      "stem": "Bir Türk kağanı, yabancı bir devletin üstünlüğünü tanıyarak kendi ülkesindeki yönetimini sürdürmüştür. Halkın töreye bağlılığı ve kağan ailesinin kut sahibi olduğuna ilişkin inanış devam etmiştir.\n\nBu durumda zedelenen devlet unsuru ile varlığını sürdüren hükümdarlık anlayışı aşağıdakilerin hangisinde sırasıyla doğru verilmiştir?",
+      "difficulty": "Orta",
+      "options": [
+        "Kut – oksızlık",
+        "Oksızlık – kut",
+        "Töre – kut",
+        "Oksızlık – ülüş",
+        "Kut – orun"
+      ],
+      "answer": "B",
+      "explanation": "Yabancı devletin üstünlüğünü tanımak oksızlığı, yani bağımsızlığı zedeler. Kağan ailesinin kut sahibi kabul edilmesi ise hükümdarlığın meşruiyetine ilişkin inanışın sürdüğünü gösterir. Siyasi bağımlılık, bu inanışın ve törenin kendiliğinden yok olmasıyla aynı şey değildir.",
+      "sources": [
+        "KU01",
+        "KU02"
+      ]
+    },
+    {
+      "id": "KU-002",
+      "revision": 1,
+      "topic": "İslamiyet Öncesi Türklerde Kültür ve Uygarlık",
+      "subtopic": "Kut anlayışı",
+      "skill": "Bilgi–Yorum",
+      "stem": "İlk Türk siyasi düşüncesinde aşağıdaki ilişkilerden hangisi kut anlayışını doğru açıklar?",
+      "difficulty": "Orta",
+      "options": [
+        "Boy beyinin toyda oturduğu yer – yönetme yetkisinin kaynağı",
+        "Hükümdarın otağ ve örgin kullanması – hanedanın veraset sırası",
+        "Hanedanın Tanrı tarafından yönetmeye yetkili sayılması – hükümdarlığın meşruiyeti",
+        "Kağanın kabul ettiği örf ve âdetler – hükümdarlık yetkisinin ilahî kaynağı",
+        "Boylara ayrılan tören payı – hanedanın yönetme hakkı"
+      ],
+      "answer": "C",
+      "explanation": "Kut, hanedanın yönetme yetkisinin Tanrı tarafından verildiğine inanılmasıyla hükümdarlığı meşrulaştırır. Otağ ve örgin bu egemenliğin sembolleridir; meşruiyetin kaynağıyla aynı şey değildir. Örf ve âdetlerin kabulü törenin oluşumuna, toyda yer ve pay ayrılması ise orun ve ülüşe ilişkindir.",
+      "sources": [
+        "KU02",
+        "KU04",
+        "KU05",
+        "KU09"
+      ]
+    },
+    {
+      "id": "KU-003",
+      "revision": 1,
+      "topic": "İslamiyet Öncesi Türklerde Kültür ve Uygarlık",
+      "subtopic": "Veraset ve hanedan",
+      "skill": "Bilgi–Yorum",
+      "stem": "Kutun hükümdar ailesiyle ilişkilendirildiği ve tahta geçişte kesin bir sıra bulunmadığı bir Türk devletinde hanedan üyeleri arasında hükümdarlık mücadelesi yaşanmıştır. Bu durumun temel siyasi gerekçesi aşağıdakilerden hangisidir?",
+      "difficulty": "Orta",
+      "options": [
+        "Birden fazla hanedan üyesinin yönetme hakkı ileri sürebilmesi",
+        "Kurultay üyeliğinin hükümdarlık hakkını ortadan kaldırması",
+        "Askerî görevlilerin hanedan mensuplarını yönetimden uzak tutması",
+        "Törenin hükümdarlığı aile dışındaki görevlilere bırakması",
+        "İktidarın en büyük oğula geçmesinin kesin kurala bağlanması"
+      ],
+      "answer": "A",
+      "explanation": "Kutun hükümdar ailesine ait kabul edilmesi, farklı aile üyelerinin tahta hak iddia etmesine zemin hazırlayabilir. Kesin bir veraset sırası bulunmaması da bu iddiaların çatışmasına yol açar. En büyük oğlun tartışmasız varis sayılması, soruda verilen düzeni açıklamaz.",
+      "sources": [
+        "KU02"
+      ]
+    },
+    {
+      "id": "KU-004",
+      "revision": 1,
+      "topic": "İslamiyet Öncesi Türklerde Kültür ve Uygarlık",
+      "subtopic": "Cihan hâkimiyeti düşüncesi",
+      "skill": "Bilgi–Yorum",
+      "stem": "Bir Türk kağanı, farklı toplulukları ortak bir siyasi düzen altında toplama hedefini benimserken ülkesinin doğu ve batı bölgelerini farklı yöneticilere bırakmıştır.\n\nBu iki uygulamanın sırasıyla ilişkilendirileceği anlayışlar aşağıdakilerin hangisinde doğru verilmiştir?",
+      "difficulty": "Orta",
+      "options": [
+        "İkili teşkilat – cihan hâkimiyeti",
+        "Kut – veraset",
+        "Cihan hâkimiyeti – veraset",
+        "Cihan hâkimiyeti – ikili teşkilat",
+        "Kut – ikili teşkilat"
+      ],
+      "answer": "D",
+      "explanation": "Farklı toplulukları ortak bir düzen altında toplama hedefi cihan hâkimiyeti düşüncesiyle ilişkilidir. Ülkenin doğu ve batı bölgelerinin ayrı yöneticilere bırakılması ikili teşkilatla ilgilidir. Bu düzenleme, hanedanın tahta geçiş sırasını belirleyen veraset kuralıyla aynı değildir.",
+      "sources": [
+        "KU03",
+        "KU20"
+      ]
+    },
+    {
+      "id": "KU-005",
+      "revision": 1,
+      "topic": "İslamiyet Öncesi Türklerde Kültür ve Uygarlık",
+      "subtopic": "Kurultay",
+      "skill": "Bilgi–Yorum",
+      "stem": "İlk Türk devletlerinde boy beylerinin kurultaya katılmasıyla ilgili,\nI. Boyların görüşlerinin devlet işlerinin tartışıldığı meclise yansımasına imkân sağlar.\nII. Kurultay, devlet işlerini yürüten ayukı ile aynı kurumun farklı adıdır.\nIII. Boy beylerinin katılımı, meclis üyelerinin genel halk oylamasıyla belirlendiğini gösterir.\nyargılarından hangileri doğrudur?",
+      "difficulty": "Orta",
+      "options": [
+        "Yalnız I",
+        "Yalnız II",
+        "I ve II",
+        "I ve III",
+        "II ve III"
+      ],
+      "answer": "A",
+      "explanation": "I doğrudur: boy beylerinin katılımı boyların görüş ve ihtiyaçlarının meclise taşınmasını sağlar. II yanlıştır: kurultay meclis, ayukı ise hükûmet teşkilatıdır. III yanlıştır: boy beylerinin katılması tek başına genel halk oylamasıyla seçildiklerini göstermez; tarihsel katılım biçimi günümüz seçim sistemiyle özdeşleştirilemez.",
+      "sources": [
+        "KU17",
+        "KU04"
+      ]
+    },
+    {
+      "id": "KU-006",
+      "revision": 1,
+      "topic": "İslamiyet Öncesi Türklerde Kültür ve Uygarlık",
+      "subtopic": "Hatunun siyasi rolü",
+      "skill": "Bilgi–Yorum",
+      "stem": "İlk Türk devletlerinde hatunun kurultaya katılabilmesi ve hükümdarın yokluğunda yönetimde görev üstlenebilmesi aşağıdaki yargılardan hangisini destekler?",
+      "difficulty": "Orta",
+      "options": [
+        "Tahta geçişte anne soyunun belirleyici olduğunu",
+        "Hanedan kadınlarının siyasi karar süreçlerinde rol alabildiğini",
+        "Hükümdarlık yetkisinin evlilik yoluyla kazanıldığını",
+        "Boy beylerinin kurultaydaki etkisinin sona erdiğini",
+        "Hükûmet başkanlığının hatuna bırakıldığını"
+      ],
+      "answer": "B",
+      "explanation": "Hatunun meclise katılması ve gerektiğinde yönetimde görev üstlenmesi, hanedan kadınlarının siyasi rolünü gösterir. Bu bilgilerden anne soyuna dayanan bir veraset düzeni ya da aygucı makamının hatuna ait olduğu sonucu çıkmaz. Bir görevlinin varlığı, diğer meclis üyelerinin etkisini kendiliğinden ortadan kaldırmaz.",
+      "sources": [
+        "KU17",
+        "KU04"
+      ]
+    },
+    {
+      "id": "KU-007",
+      "revision": 1,
+      "topic": "İslamiyet Öncesi Türklerde Kültür ve Uygarlık",
+      "subtopic": "Hükûmet teşkilatı",
+      "skill": "Bilgi–Yorum",
+      "stem": "İlk Türk devletlerinde bir kurumun üyeleri buyruk unvanıyla görev yapmakta, bu kurumun başında aygucı bulunmaktadır.\n\nBu teşkilat ve işlevi aşağıdakilerin hangisinde doğru eşleştirilmiştir?",
+      "difficulty": "Orta",
+      "options": [
+        "Kurultay – boyların ülke meselelerini görüşmesi",
+        "Yargu – uyuşmazlıkların töreye göre çözülmesi",
+        "Ayukı – hanedan üyeleri arasında tahta geçiş sırasının belirlenmesi",
+        "Kurultay – kararların hükûmet görevlilerince yürütülmesi",
+        "Ayukı – devlet işlerinin hükûmet görevlilerince yürütülmesi"
+      ],
+      "answer": "E",
+      "explanation": "Aygucı hükûmetin başında bulunur, buyruklar hükûmette görev alır; bu teşkilat ayukıdır. Bu nedenle hem adın hem devlet işlerini yürütme işlevinin doğru verilmesi gerekir. Kurultayda ülke meselelerinin görüşülmesi veya yarguda uyuşmazlıkların çözülmesi, sorudaki görevli bileşimini açıklamaz.",
+      "sources": [
+        "KU04"
+      ]
+    },
+    {
+      "id": "KU-008",
+      "revision": 1,
+      "topic": "İslamiyet Öncesi Türklerde Kültür ve Uygarlık",
+      "subtopic": "Hanedan unvanları",
+      "skill": "Bilgi",
+      "stem": "Göktürk siyasi teşkilatında hükümdar oğulları için kullanılan unvan ile hanedan mensubu askerî yöneticinin unvanı aşağıdakilerin hangisinde sırasıyla verilmiştir?",
+      "difficulty": "Orta",
+      "options": [
+        "Tigin – şad",
+        "Şad – tigin",
+        "Buyruk – tudun",
+        "Tigin – bitikçi",
+        "Yabgu – aygucı"
+      ],
+      "answer": "A",
+      "explanation": "Tigin hükümdar oğullarının unvanıdır. Şad ise hanedan mensubu askerî yöneticiler için kullanılır. Tiginler de idari görev alabilse de sorudaki oğulluk unvanı tigin, komutanlık bağlamındaki unvan şaddır.",
+      "sources": [
+        "KU04"
+      ]
+    },
+    {
+      "id": "KU-009",
+      "revision": 1,
+      "topic": "İslamiyet Öncesi Türklerde Kültür ve Uygarlık",
+      "subtopic": "Yazışma görevlileri",
+      "skill": "Bilgi–Yorum",
+      "stem": "Bir Türk devletinin bitikçiler tarafından hazırlanan yazışmalarının bulunmasıyla ilgili,\nI. Devlet işlerinde yazılı iletişimden yararlanılmıştır.\nII. Yazışma işlerinde görev ayrımı görülmektedir.\nIII. Töreyi oluşturan kuralların bütünü bitikçiler tarafından belirlenmiştir.\nyargılarından hangilerine ulaşılabilir?",
+      "difficulty": "Orta",
+      "options": [
+        "Yalnız I",
+        "Yalnız II",
+        "I ve III",
+        "I ve II",
+        "II ve III"
+      ],
+      "answer": "D",
+      "explanation": "Bitikçi devlet yazışmalarıyla ilgilendiğinden belgeler hem yazılı iletişimi hem bu alandaki görev ayrımını gösterir; I ve II desteklenir. III desteklenmez: yazı işini yürütmek hukuk kurallarının kaynağı olmakla aynı değildir. Törenin oluşumunda hükümdar düzenlemeleri, kurultay kararları ve örf ve âdetler etkiliydi.",
+      "sources": [
+        "KU19",
+        "KU09"
+      ]
+    },
+    {
+      "id": "KU-010",
+      "revision": 1,
+      "topic": "İslamiyet Öncesi Türklerde Kültür ve Uygarlık",
+      "subtopic": "Mali görevliler",
+      "skill": "Bilgi–Yorum",
+      "stem": "Bir Türk kağanlığı, üstünlüğünü tanıyan bir bölgede vergi yükümlülüklerini denetlemek üzere görevli bulundurmuştur. Bu bilgiyle ilgili,\nI. Vergi denetimi tudunun görev alanıyla ilişkilendirilebilir.\nII. Denetim, kağanlığın bağlı bölge üzerindeki mali yetkisinin bir göstergesidir.\nIII. Vergi denetimi, bağlı bölgenin hukuk ve geleneklerinin kağanlıkla aynı olduğunu kanıtlar.\nyargılarından hangileri savunulabilir?",
+      "difficulty": "Orta",
+      "options": [
+        "Yalnız I",
+        "I ve III",
+        "I ve II",
+        "II ve III",
+        "I, II ve III"
+      ],
+      "answer": "C",
+      "explanation": "I doğrudur: bağlı bölgelerdeki vergi denetimi tudunla ilişkilendirilir. II savunulabilir: vergi yükümlülüğünü denetlemek kağanlığın bu bölge üzerinde mali yetki kullandığını gösterir. III savunulamaz: mali bağlılık tek başına hukuk ve geleneklerin aynı olduğunu kanıtlamaz.",
+      "sources": [
+        "KU19",
+        "KU01"
+      ]
+    },
+    {
+      "id": "KU-011",
+      "revision": 1,
+      "topic": "İslamiyet Öncesi Türklerde Kültür ve Uygarlık",
+      "subtopic": "Orun ve ülüş",
+      "skill": "Bilgi",
+      "stem": "Bir toyda boy beylerinin oturacakları yerler belirlenmiş ve kendilerine ayrılan yemek payları düzenlenmiştir. Bu iki düzenlemeyle ilgili kavramlar aşağıdakilerin hangisinde sırasıyla verilmiştir?",
+      "difficulty": "Orta",
+      "options": [
+        "Ülüş – orun",
+        "Orun – ülüş",
+        "Kut – yosun",
+        "Orun – kut",
+        "Töre – ayukı"
+      ],
+      "answer": "B",
+      "explanation": "Orun toplantıdaki yer ve konumla, ülüş ise payla ilgilidir. Bu düzenlemeler topluluk içindeki statünün görünür olduğu uygulamalardır. Yer ve pay aynı ortamda düzenlense de iki terimin anlamı farklıdır.",
+      "sources": [
+        "KU05"
+      ]
+    },
+    {
+      "id": "KU-012",
+      "revision": 1,
+      "topic": "İslamiyet Öncesi Türklerde Kültür ve Uygarlık",
+      "subtopic": "Egemenlik sembolleri",
+      "skill": "Bilgi",
+      "stem": "İslamiyet öncesi Türk devletlerinde hükümdarlık sembolleri arasında yer alan örgin aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Sancak",
+        "Hükümdar çadırı",
+        "Hükümdarlık davulu",
+        "Taht",
+        "Tören başlığı"
+      ],
+      "answer": "D",
+      "explanation": "Örgin hükümdarın tahtıdır. Otağ hükümdar çadırını, tuğ ise hükümdarlıkla ilişkili sancak sembolünü ifade eder. Aynı egemenliği temsil etmeleri bu sembollerin adlarının eş anlamlı olduğu anlamına gelmez.",
+      "sources": [
+        "KU04"
+      ]
+    },
+    {
+      "id": "KU-013",
+      "revision": 1,
+      "topic": "İslamiyet Öncesi Türklerde Kültür ve Uygarlık",
+      "subtopic": "Törenin bağlayıcılığı",
+      "skill": "Bilgi–Yorum",
+      "stem": "İlk Türk devletlerinde törenin hem halk hem de hükümdar için bağlayıcı kabul edilmesi aşağıdaki yargılardan hangisini destekler?",
+      "difficulty": "Orta",
+      "options": [
+        "Hükümdarın yönetim yetkisinin kurallarla sınırlandırıldığını",
+        "Törenin hükümdar ailesinin çıkarlarıyla özdeş olduğunu",
+        "Hukuk kurallarının yazılı metinlerle oluşturulduğunu",
+        "Yargılama işlerinin kurultaydan bağımsız seçilen görevlilere ait olduğunu",
+        "Hükümdarın savaş ve diplomasi yetkilerinin kaldırıldığını"
+      ],
+      "answer": "A",
+      "explanation": "Törenin hükümdarı da bağlaması, yönetme yetkisinin kurallardan bağımsız görülmediğini gösterir. Bu durum yazılı anayasa, modern kuvvetler ayrılığı veya hükümdarın siyasi yetkilerini kaybetmesiyle eş tutulamaz. Sorunun kanıtı yetkinin varlığına değil, kullanımındaki sınıra ilişkindir.",
+      "sources": [
+        "KU08"
+      ]
+    },
+    {
+      "id": "KU-014",
+      "revision": 1,
+      "topic": "İslamiyet Öncesi Türklerde Kültür ve Uygarlık",
+      "subtopic": "Törenin kaynakları",
+      "skill": "Bilgi",
+      "stem": "İslamiyet öncesi Türklerde törenin oluşumunda aşağıdakilerden hangisinin etkili olduğu söylenemez?",
+      "difficulty": "Orta",
+      "options": [
+        "Hükümdarın düzenlemeleri",
+        "Kurultay kararları",
+        "Hanedan üyelerinin kişisel taht iddiaları",
+        "Toplumda yerleşmiş örf ve âdetler",
+        "Hükümdarın kabul ettiği gelenekler"
+      ],
+      "answer": "C",
+      "explanation": "Törenin oluşumunda hükümdarın düzenlemeleri, kurultay kararları ve kabul gören örf ve âdetler etkiliydi. Toplumsal gelenekler yosun kavramıyla ilişkilendirilir. Bir hanedan üyesinin tahta hak iddia etmesi ise bu kaynaklarla aynı şey değildir.",
+      "sources": [
+        "KU09"
+      ]
+    },
+    {
+      "id": "KU-015",
+      "revision": 1,
+      "topic": "İslamiyet Öncesi Türklerde Kültür ve Uygarlık",
+      "subtopic": "Törenin değişebilirliği",
+      "skill": "Bilgi–Yorum",
+      "stem": "İlk Türk devletlerinde yeni ihtiyaçlara göre bazı töre hükümleri değiştirilebilmiş, adalet ve eşitlik gibi temel ilkelerin korunmasına önem verilmiştir. Bu bilgilere göre aşağıdakilerden hangisine ulaşılamaz?",
+      "difficulty": "Orta",
+      "options": [
+        "Hukukta süreklilik ile uyarlama birlikte görülebilir.",
+        "Toplumsal ihtiyaçlar hukuk düzenlemelerini etkileyebilir.",
+        "Törenin bütün hükümleri aynı ölçüde değişmez değildir.",
+        "Yeni düzenlemelerde temel değerlerin korunması önemsenir.",
+        "Hükümdarın tercihi temel hukuk ilkelerinin yerini alır."
+      ],
+      "answer": "E",
+      "explanation": "Bazı hükümlerin uyarlanması hukukun yeni ihtiyaçlara cevap verebildiğini gösterir. Temel ilkelerin korunması ise bu değişimin sınırsız olmadığını ortaya koyar. Bu nedenle hükümdarın tercihinin adalet ve eşitlik gibi ilkelerin yerine geçtiği sonucu çıkarılamaz.",
+      "sources": [
+        "KU09"
+      ]
+    },
+    {
+      "id": "KU-016",
+      "revision": 1,
+      "topic": "İslamiyet Öncesi Türklerde Kültür ve Uygarlık",
+      "subtopic": "Yargı ve kamu düzeni",
+      "skill": "Bilgi–Yorum",
+      "stem": "İlk Türk devletlerinde suçun cezalandırılmasının devletin görevleri arasında görülmesi ve yargılama kurumlarının bulunması aşağıdakilerden hangisinin göstergesidir?",
+      "difficulty": "Orta",
+      "options": [
+        "Törenin toplumsal bağlayıcılığını yitirdiğinin",
+        "Adaletin sağlanmasında siyasi teşkilatın sorumluluk üstlendiğinin",
+        "Uyuşmazlıkların ailelerin karşılıklı anlaşmasına bırakıldığının",
+        "Hükümdarın yargı yetkisinin boy beylerine devredildiğinin",
+        "Örf ve âdetlerin hukuk kaynağı olmaktan çıktığının"
+      ],
+      "answer": "B",
+      "explanation": "Yargılama ve cezanın devlet eliyle yürütülmesi, adaletin siyasi teşkilatın sorumluluğunda görüldüğünü gösterir. Bu uygulama hukukun sadece kişisel hesaplaşmaya bırakılmadığını ifade eder. Devletin bu rolü, örf ve âdetlerin hukuk kaynağı olmasını ortadan kaldırmaz.",
+      "sources": [
+        "KU10"
+      ]
+    },
+    {
+      "id": "KU-017",
+      "revision": 1,
+      "topic": "İslamiyet Öncesi Türklerde Kültür ve Uygarlık",
+      "subtopic": "Toplumsal teşkilat",
+      "skill": "Bilgi",
+      "stem": "İslamiyet öncesi Türklerde toplumsal ve siyasi birimlerin küçükten büyüğe doğru sıralanışı aşağıdakilerin hangisinde doğru verilmiştir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Urug – oguş – boy – bodun – il",
+        "Oguş – boy – urug – bodun – il",
+        "Oguş – urug – bodun – boy – il",
+        "Oguş – urug – boy – bodun – il",
+        "Oguş – urug – boy – il – bodun"
+      ],
+      "answer": "D",
+      "explanation": "Oguş aileyi, urug aileler birliğini, boy siyasi ve toplumsal boy birimini, bodun boylar birliğini, il ise devleti ifade eder. Sıralama aileden devlete doğru genişleyen teşkilatı gösterir. Burada olayların tarih sırası değil, birimlerin kapsamı sorulmaktadır.",
+      "sources": [
+        "KU22"
+      ]
+    },
+    {
+      "id": "KU-018",
+      "revision": 1,
+      "topic": "İslamiyet Öncesi Türklerde Kültür ve Uygarlık",
+      "subtopic": "Konargöçer yaşam",
+      "skill": "Bilgi–Yorum",
+      "stem": "Bir Türk topluluğunun aynı güzergâh üzerinde mevsimlik otlak değiştirdiği, sürülerini beslerken komşularından tahıl aldığı ve bu güzergâh üzerindeki bir su kaynağının kullanımını savunduğu kabul edilirse;\nI. Mevsimlik hareket konargöçer üretim düzeniyle ilişkilendirilebilir.\nII. Tahıl alınması, topluluğun kendi çevresinde tarım yapılmadığını kanıtlar.\nIII. Yer değiştirme ile belirli alanlar üzerinde kullanım hakkı ileri sürme birlikte görülebilir.\nyargılarından hangilerine ulaşılabilir?",
+      "difficulty": "Orta",
+      "options": [
+        "Yalnız I",
+        "I ve II",
+        "II ve III",
+        "I, II ve III",
+        "I ve III"
+      ],
+      "answer": "E",
+      "explanation": "I desteklenir: mevsimlik otlak değişimi konargöçer hayvancılık düzeniyle ilişkilidir. III de desteklenir: hareket eden bir topluluğun belirli su ve otlak alanları üzerinde kullanım hakkı savunması mümkündür. II desteklenmez: tahılın dışarıdan alınması, çevrede tarım yapılmadığını tek başına göstermez. Bu örnek, hareketliliği yurt ve kaynaklarla ilişkinin yokluğu olarak yorumlamamayı gerektirir.",
+      "sources": [
+        "KU14"
+      ]
+    },
+    {
+      "id": "KU-019",
+      "revision": 1,
+      "topic": "İslamiyet Öncesi Türklerde Kültür ve Uygarlık",
+      "subtopic": "Coğrafya ve üretim",
+      "skill": "Bilgi–Yorum",
+      "stem": "Orta Asya’nın bazı kuzey bölgelerinde avcılık ve orman ürünleri, sulamaya elverişli alanlarında tarım, geniş bozkırlarında ise hayvancılık öne çıkmıştır. Bu bilgilerden aşağıdaki sonuçların hangisi çıkarılabilir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Siyasi teşkilatın ekonomik faaliyetleri sona erdirdiği",
+        "Tarım yapan toplulukların hayvancılıktan uzaklaştığı",
+        "Ticari ilişkilerin kuzey bölgelerinde daha gelişmiş olduğu",
+        "Yerleşim merkezlerinin aynı büyüklükte olduğu",
+        "Doğal çevrenin üretim biçimlerinin çeşitlenmesinde etkili olduğu"
+      ],
+      "answer": "E",
+      "explanation": "Bölgelere göre değişen kaynaklar ve iklim şartları farklı üretim biçimlerinin öne çıkmasını sağlar. Bu durum Orta Asya ekonomisinin tek bir faaliyete indirgenemeyeceğini gösterir. Ancak verilen bilgiler ticaretin düzeyini veya yerleşmelerin büyüklüğünü karşılaştırmaya yeterli değildir.",
+      "sources": [
+        "KU14"
+      ]
+    },
+    {
+      "id": "KU-020",
+      "revision": 1,
+      "topic": "İslamiyet Öncesi Türklerde Kültür ve Uygarlık",
+      "subtopic": "Tarımın kanıtları",
+      "skill": "Bilgi–Yorum",
+      "stem": "Bir tarihçi, İslamiyet öncesi Türklerin yaşadığı bir alanda sulama kanalı, saban parçaları ve tahıl depolarıyla karşılaşsaydı aşağıdaki sonuçlardan hangisi bu bulguların kanıt sınırını aşardı?",
+      "difficulty": "Orta",
+      "options": [
+        "Toprağı işlemeye yönelik üretim araçları kullanılmıştır.",
+        "Üretilen tahıl miktarı topluluğun tüketim ihtiyacını aşmıştır.",
+        "Suyun tarımsal üretimde kullanılmasına yönelik düzenleme yapılmıştır.",
+        "Tahılın bir süre saklanmasına yönelik altyapı bulunmaktadır.",
+        "Topluluğun geçim faaliyetleri içinde tarımsal üretim yer almıştır."
+      ],
+      "answer": "B",
+      "explanation": "Sulama kanalı ve saban tarımsal üretimi, tahıl depoları ise saklama imkânını destekler. Üretimin tüketim ihtiyacını aştığını söylemek için miktar ve tüketimle ilgili ek veri gerekir. Tahılın depolanması gelecek tüketim için de yapılabileceğinden, depodan doğrudan üretim fazlası sonucu çıkmaz.",
+      "sources": [
+        "KU15"
+      ]
+    },
+    {
+      "id": "KU-021",
+      "revision": 1,
+      "topic": "İslamiyet Öncesi Türklerde Kültür ve Uygarlık",
+      "subtopic": "Ticaret ve ekonomik ilişki",
+      "skill": "Bilgi–Yorum",
+      "stem": "Türk topluluklarının Çin’e hayvan, deri ve kürk verip karşılığında tahıl ve kumaş aldığı bir ticari ilişkide aşağıdakilerden hangisine ulaşılamaz?",
+      "difficulty": "Orta",
+      "options": [
+        "Farklı üretim alanlarının ürünleri değiş tokuş edilmiştir.",
+        "Türk topluluklarında tarımsal üretim yapılmamıştır.",
+        "Hayvansal ürünler dış ticarette değerlendirilmiştir.",
+        "Ticari ilişkiler tüketim ihtiyaçlarının karşılanmasına katkı sağlamıştır.",
+        "Çin ile ekonomik temas kurulmuştur."
+      ],
+      "answer": "B",
+      "explanation": "Hayvansal ürünlerin tahıl ve kumaşla değiştirilmesi, farklı üretim alanları arasında alışveriş bulunduğunu gösterir. Bir ürünün dışarıdan alınması, aynı ürünün ülke içinde hiç üretilmediği anlamına gelmez. Dolayısıyla bu ticaretten Türk topluluklarında tarımın bulunmadığı sonucu çıkarılamaz.",
+      "sources": [
+        "KU14"
+      ]
+    },
+    {
+      "id": "KU-022",
+      "revision": 1,
+      "topic": "İslamiyet Öncesi Türklerde Kültür ve Uygarlık",
+      "subtopic": "Ordu ve yaşam biçimi",
+      "skill": "Bilgi–Yorum",
+      "stem": "Bozkır yaşamında küçük yaşta at binme ve ok kullanma becerisi kazanılması, ilk Türk ordularının aşağıdaki özelliklerinden hangisinin gelişmesine katkı sağlamıştır?",
+      "difficulty": "Kolay",
+      "options": [
+        "Kuşatma makinelerinin temel savaş aracı olmasına",
+        "Piyade birliklerinin ordunun hareketini belirlemesine",
+        "Askerî görevlerin hanedan üyelerinin dışında bırakılmasına",
+        "Hareketli atlı birliklerin etkili kullanılmasına",
+        "Ordunun bağlı topluluklardan alınan vergilerle oluşmasına"
+      ],
+      "answer": "D",
+      "explanation": "At binme ve okçuluğun gündelik yaşamda öğrenilmesi, atlı birliklerin hızlı hareket etmesine ve etkili savaşmasına katkı sağlar. Burada yaşam biçimiyle askerî beceri arasında ilişki kurulmaktadır. Bu bilgiler kuşatma teknolojisinin düzeyini veya ordunun mali kaynaklarını açıklamaz.",
+      "sources": [
+        "KU05"
+      ]
+    },
+    {
+      "id": "KU-023",
+      "revision": 1,
+      "topic": "İslamiyet Öncesi Türklerde Kültür ve Uygarlık",
+      "subtopic": "Askerî teşkilat",
+      "skill": "Bilgi",
+      "stem": "İlk Türk devletlerinin onlu askerî teşkilatında on bin kişilik birlik aşağıdakilerden hangisiyle adlandırılır?",
+      "difficulty": "Kolay",
+      "options": [
+        "Tümen",
+        "Boy",
+        "Urug",
+        "Ayukı",
+        "Bodun"
+      ],
+      "answer": "A",
+      "explanation": "Tümen on bin kişilik askerî birliktir. Onlu teşkilat, birliklerin belli büyüklüklerde düzenlenmesini ve komuta ilişkilerinin kurulmasını sağlar. Boy ve bodun toplumsal teşkilat kavramlarıdır; tümenin sayısal karşılığı değildir.",
+      "sources": [
+        "KU06"
+      ]
+    },
+    {
+      "id": "KU-024",
+      "revision": 1,
+      "topic": "İslamiyet Öncesi Türklerde Kültür ve Uygarlık",
+      "subtopic": "İnanış ve dinî görevliler",
+      "skill": "Bilgi",
+      "stem": "İslamiyet öncesi Türk topluluklarında dinî törenleri yürütme ve ruhlarla ilişki kurma işleviyle anılan kişi aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Buyruk",
+        "Tudun",
+        "Kam",
+        "Bitikçi",
+        "Şad"
+      ],
+      "answer": "C",
+      "explanation": "Kam dinî tören ve ritüellerle ilişkilendirilen kişidir. Bu görev, buyruk veya tudun gibi siyasi ve idari görevlerden farklıdır. Kamın varlığı tek başına hükümdarlık görevini de kamların yürüttüğü anlamına gelmez.",
+      "sources": [
+        "KU11"
+      ]
+    },
+    {
+      "id": "KU-025",
+      "revision": 1,
+      "topic": "İslamiyet Öncesi Türklerde Kültür ve Uygarlık",
+      "subtopic": "Tabiatla ilgili inanışlar",
+      "skill": "Bilgi–Yorum",
+      "stem": "İslamiyet öncesi Türk topluluklarında bazı dağ, ağaç ve su kaynaklarının kutsal kabul edilmesi aşağıdaki kavramlardan hangisiyle ilişkilidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Atalar kültü",
+        "Kut anlayışı",
+        "Veraset geleneği",
+        "Cihan hâkimiyeti",
+        "Tabiat kültleri"
+      ],
+      "answer": "E",
+      "explanation": "Tabiat kültleri, bazı doğal varlıklara kutsallık atfedilmesiyle ilgilidir. Atalar kültü ise ölmüş atalara yönelik saygı ve inanışları ifade eder. Bir dağın kutsal sayılmasıyla hükümdarın kut sahibi kabul edilmesi farklı inanış bağlamlarıdır.",
+      "sources": [
+        "KU11"
+      ]
+    },
+    {
+      "id": "KU-026",
+      "revision": 1,
+      "topic": "İslamiyet Öncesi Türklerde Kültür ve Uygarlık",
+      "subtopic": "Ölüm ve anma",
+      "skill": "Bilgi",
+      "stem": "İslamiyet öncesi Türklerde ölen kişinin ardından düzenlenen cenaze töreni aşağıdaki kavramlardan hangisiyle ifade edilir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Sagu",
+        "Yuğ",
+        "Kurgan",
+        "Balbal",
+        "Koşuk"
+      ],
+      "answer": "B",
+      "explanation": "Yuğ cenaze töreninin adıdır. Sagu ölüm karşısında söylenen ağıt türünü, kurgan ise mezarı ifade eder. Böylece tören, törendeki sözlü ürün ve mezar birbirinden ayrılır.",
+      "sources": [
+        "KU12",
+        "KU21"
+      ]
+    },
+    {
+      "id": "KU-027",
+      "revision": 1,
+      "topic": "İslamiyet Öncesi Türklerde Kültür ve Uygarlık",
+      "subtopic": "İnanç terimleri",
+      "skill": "Bilgi",
+      "stem": "İslamiyet öncesi Türk inanışlarıyla ilgili tin, uçmağ ve tamu kavramları aşağıdakilerin hangisinde sırasıyla doğru eşleştirilmiştir?",
+      "difficulty": "Orta",
+      "options": [
+        "Ruh – cehennem – cennet",
+        "Cennet – ruh – cehennem",
+        "Ruh – mezar – cenaze töreni",
+        "Ruh – cennet – cehennem",
+        "Cenaze töreni – cennet – mezar"
+      ],
+      "answer": "D",
+      "explanation": "Tin ruhu, uçmağ cenneti, tamu ise cehennemi ifade eder. Kurgan ve yuğ, öte dünyadaki yerleri değil mezar ve cenaze törenini belirtir. Bu terimler benzer inanç alanında kullanılsa da aynı anlamı taşımaz.",
+      "sources": [
+        "KU12"
+      ]
+    },
+    {
+      "id": "KU-028",
+      "revision": 1,
+      "topic": "İslamiyet Öncesi Türklerde Kültür ve Uygarlık",
+      "subtopic": "Sözlü edebiyat",
+      "skill": "Bilgi",
+      "stem": "İslamiyet öncesi Türk sözlü edebiyatında öğüt içeren kısa söz, ölümün ardından söylenen ağıt ve şölenlerde dile getirilen şiir aşağıdakilerin hangisinde sırasıyla doğru verilmiştir?",
+      "difficulty": "Orta",
+      "options": [
+        "Sav – sagu – koşuk",
+        "Sagu – sav – koşuk",
+        "Sav – koşuk – sagu",
+        "Koşuk – sagu – sav",
+        "Sagu – koşuk – sav"
+      ],
+      "answer": "A",
+      "explanation": "Sav atasözü niteliğindeki kısa ve özlü sözdür. Sagu ölüm karşısında söylenen ağıt, koşuk ise şölen ve benzeri ortamlardaki şiir türüdür. Şiirsel anlatım ortaklığı, bu ürünlerin işlevlerini aynı hâle getirmez.",
+      "sources": [
+        "KU21"
+      ]
+    },
+    {
+      "id": "KU-029",
+      "revision": 1,
+      "topic": "İslamiyet Öncesi Türklerde Kültür ve Uygarlık",
+      "subtopic": "Takvim",
+      "skill": "Bilgi–Yorum",
+      "stem": "On İki Hayvanlı Türk Takvimi kullanılan iki kayıtta yılın aynı hayvan adıyla belirtilmesiyle ilgili,\nI. Kayıtlar aynı yıla ait olabilir.\nII. Kayıtlar, on iki yıllık döngünün farklı tekrarlarına ait olabilir.\nIII. Hayvan adının aynı olması, kayıtlar arasında kaç yıl bulunduğunu kesin olarak belirler.\nyargılarından hangileri doğrudur?",
+      "difficulty": "Orta",
+      "options": [
+        "Yalnız I",
+        "Yalnız II",
+        "I ve III",
+        "I ve II",
+        "II ve III"
+      ],
+      "answer": "D",
+      "explanation": "Bu takvimde yıl adları on iki yıllık bir döngü içinde tekrar eder. Dolayısıyla iki aynı hayvan adı hem aynı yılı hem farklı döngülerdeki yılları gösterebilir; I ve II doğrudur. III yanlıştır: döngü sayısı veya başka bir tarih göstergesi olmadan iki kayıt arasındaki süre kesinleştirilemez.",
+      "sources": [
+        "KU18"
+      ]
+    },
+    {
+      "id": "KU-030",
+      "revision": 1,
+      "topic": "İslamiyet Öncesi Türklerde Kültür ve Uygarlık",
+      "subtopic": "Gündelik yaşamda eğitim",
+      "skill": "Bilgi–Yorum",
+      "stem": "Çocukların aile içinde gündelik işlere katılarak üretim becerilerini ve toplumsal davranışları öğrenmeleri, İslamiyet öncesi Türklerde eğitimle ilgili aşağıdaki yargılardan hangisini destekler?",
+      "difficulty": "Kolay",
+      "options": [
+        "Askerî eğitimin aile yaşamından ayrıldığını",
+        "Öğretimin devlet görevlilerince denetlendiğini",
+        "Yazılı sınavların beceri ölçmek için kullanıldığını",
+        "Eğitim fırsatlarının hanedan üyelerine ayrıldığını",
+        "Ailenin bilgi ve beceri aktarımında rol üstlendiğini"
+      ],
+      "answer": "E",
+      "explanation": "Aile içindeki uygulamalı öğrenme, bilgi ve becerilerin kuşaklar arasında aktarılmasını sağlar. Eğitim faaliyeti bu nedenle okulun varlığına indirgenemez. Verilen örnekler yazılı sınav veya devlet denetimi bulunduğunu kanıtlamaz.",
+      "sources": [
+        "KU13"
+      ]
+    },
+    {
+      "id": "KU-031",
+      "revision": 1,
+      "topic": "İslamiyet Öncesi Türklerde Kültür ve Uygarlık",
+      "subtopic": "Kut, veraset ve ikili teşkilat",
+      "skill": "Bilgi–Yorum",
+      "stem": "Bir Türk devletinde doğu ve batı bölgelerine hanedan mensupları görevlendirilmiş; hükümdarın ölümünden sonra bu kişiler tahta geçmek için mücadele etmiştir. Bu örnekle ilgili,\nI. Bölgesel görevlendirme, ülke yönetimindeki iş bölümüyle ilişkilendirilebilir.\nII. Taht mücadelesi, hanedanın birden çok üyesinin kut sahibi sayılmasıyla ilişkilendirilebilir.\nIII. Bölgesel görevlendirme, iki bağımsız devletin kurulduğunu tek başına kanıtlar.\nyargılarından hangileri savunulabilir?",
+      "difficulty": "Orta",
+      "options": [
+        "Yalnız I",
+        "I ve II",
+        "Yalnız II",
+        "II ve III",
+        "I, II ve III"
+      ],
+      "answer": "B",
+      "explanation": "I, bölgelerin farklı yöneticilere verilmesinin idari iş bölümü olabileceğini belirtir. II, hanedan üyelerinin kutla ilişkilendirilen meşruiyet iddialarını açıklayabilir. III savunulamaz: bölgesel görevlendirme tek başına bağımsızlık veya devletin kesin olarak bölündüğü anlamına gelmez. Tahta hak iddia etmekle bir bölgede görev yapmak birbirinden ayrı meselelerdir.",
+      "sources": [
+        "KU02",
+        "KU20"
+      ]
+    },
+    {
+      "id": "KU-032",
+      "revision": 1,
+      "topic": "İslamiyet Öncesi Türklerde Kültür ve Uygarlık",
+      "subtopic": "Kurumsal görevlerin karşılaştırılması",
+      "skill": "Bilgi–Yorum",
+      "stem": "İlk Türk devletlerinin siyasi teşkilatı hakkında,\nI. Kurultayda kararların görüşülmesi, bu kararların yürütülmesini sağlayan ayukının işleviyle aynı değildir.\nII. Tudunun bağlı bölgedeki vergi işlerini denetlemesi, bitikçinin yazışma görevini üstlendiğini gösterir.\nIII. Hatunun siyasi görev üstlenebilmesi, hükûmet başkanı için kullanılan aygucı unvanının hatunla eş anlamlı olduğunu göstermez.\nyargılarından hangileri doğrudur?",
+      "difficulty": "Orta",
+      "options": [
+        "Yalnız I",
+        "I ve II",
+        "Yalnız III",
+        "I ve III",
+        "II ve III"
+      ],
+      "answer": "D",
+      "explanation": "I doğrudur: kurultay görüşme ve karar süreciyle, ayukı yürütme işleriyle ilgilidir. II yanlıştır: tudunun vergi denetimi bitikçinin yazışma göreviyle aynı değildir. III doğrudur: hatunun siyasi rol üstlenmesi, hükûmet başkanlığının adının hatun olduğu anlamına gelmez. Görevler arasındaki ilişki, kurum ve unvanların eş anlamlı olduğu sonucu doğurmaz.",
+      "sources": [
+        "KU17",
+        "KU04",
+        "KU19"
+      ]
+    },
+    {
+      "id": "KU-033",
+      "revision": 1,
+      "topic": "İslamiyet Öncesi Türklerde Kültür ve Uygarlık",
+      "subtopic": "Renkler ve yönler",
+      "skill": "Bilgi",
+      "stem": "Türk siyasi ve kültürel geleneğinde yönleri renklerle gösteren eşleştirmede kuzey, batı ve doğu aşağıdakilerin hangisinde sırasıyla doğru verilmiştir?",
+      "difficulty": "Orta",
+      "options": [
+        "Kara – ak – gök",
+        "Ak – kara – gök",
+        "Kara – gök – ak",
+        "Kızıl – ak – kara",
+        "Gök – kızıl – ak"
+      ],
+      "answer": "A",
+      "explanation": "Bu eşleştirmede kara kuzeyi, ak batıyı, gök doğuyu gösterir; kızıl güneyle ilişkilendirilir. Yönlerin renklerle anlatılması bir kültürel sembol düzenidir. Bir bölgede kullanılan her renkli adın mutlaka bu düzenle açıklanması gerekmez.",
+      "sources": [
+        "KU07"
+      ]
+    },
+    {
+      "id": "KU-034",
+      "revision": 1,
+      "topic": "İslamiyet Öncesi Türklerde Kültür ve Uygarlık",
+      "subtopic": "Hukukun temel ilkeleri",
+      "skill": "Bilgi",
+      "stem": "Türk hukuk düşüncesinde könilik, uzluk ve tüzlük kavramları aşağıdakilerin hangisinde sırasıyla doğru eşleştirilmiştir?",
+      "difficulty": "Orta",
+      "options": [
+        "Eşitlik – adalet – iyilik",
+        "Adalet – eşitlik – iyilik",
+        "Adalet – iyilik – eşitlik",
+        "İyilik – adalet – eşitlik",
+        "Eşitlik – iyilik – adalet"
+      ],
+      "answer": "C",
+      "explanation": "Könilik adalet, uzluk iyilik, tüzlük eşitlik anlamında kullanılır. Bu kavramlar Türk hukuk düşüncesinin temel değerlerini açıklamada yer alır. Daha sonraki Türk-İslam eserlerinde de karşılaşılan bu ilkeler, modern hukuk kurumlarının bütünüyle aynı olduğu biçiminde yorumlanmamalıdır.",
+      "sources": [
+        "KU09"
+      ]
+    }
+  ]
+}

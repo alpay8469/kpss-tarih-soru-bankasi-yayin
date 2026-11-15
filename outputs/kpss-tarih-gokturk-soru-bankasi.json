@@ -1,0 +1,756 @@
+{
+  "title": "KPSS Tarih — Göktürk Devletleri ve Orhun Yazıtları",
+  "unit": null,
+  "date": "2026-10-01",
+  "question_count": 32,
+  "sources": {
+    "GK1": {
+      "title": "MEB OGM — Defterim Tarih 9, I. ve II. Kök Türk devletleri",
+      "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/defterim/9/tarih/files/basic-html/page119.html"
+    },
+    "GK2": {
+      "title": "MEB OGM — Tarih 9 Çalışma Defteri 5, yönetim ve ittifaklar",
+      "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/calisma_defteri/f5/9/tarih/files/basic-html/page6.html"
+    },
+    "GK3": {
+      "title": "MEB OGM — Tarih, Türk devletlerinin ticari politikaları",
+      "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/elazig-telafi/tarih/files/basic-html/page23.html"
+    },
+    "GK4": {
+      "title": "TDV İslâm Ansiklopedisi — Türk, Ahmet Taşağıl: Göktürk devletleri",
+      "url": "https://islamansiklopedisi.org.tr/turk#1-turk-soyu-ve-tarihi-ortaya-cikisi-yayilisi-kollari-kurduklari-devletler"
+    },
+    "GK5": {
+      "title": "TDV İslâm Ansiklopedisi — Orhon Yazıtları, Mustafa S. Kaçalin",
+      "url": "https://islamansiklopedisi.org.tr/orhon-yazitlari"
+    },
+    "GK6": {
+      "title": "MEB OGM — Türk Dili ve Edebiyatı 10, Ergenekon Destanı",
+      "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/beceri_temelli/10/turkdiliveedebiyati/files/basic-html/page265.html"
+    },
+    "GK7": {
+      "title": "TDK — IX. Uluslararası Türk Dili Kurultayı, Bilge Tonyukuk Anısına, cilt 1",
+      "url": "https://www.tdk.gov.tr/wp-content/uploads/2019/12/IX-Bilge-Tonyukuk-An%C4%B1s%C4%B1na-cilt-1-1.pdf"
+    },
+    "GK8": {
+      "title": "İstanbul Türk Ocağı — Tonyukuk Kitabı, 2020 sempozyumu, s.112",
+      "url": "https://www.istanbulturkocagi.org/kullanici/goruntu/bilgiler/el/pdf/tonyukuk_sempozyumu_2020.pdf"
+    },
+    "GK9": {
+      "title": "Ayıntâb Dergisi 7/2 (2024), s.109: Anagui–Bumin ilişkileri, Zhoushu aktarımı",
+      "url": "https://dergipark.org.tr/tr/download/issue-full-file/88772"
+    },
+    "GK10": {
+      "title": "Yusuf Gedikli — Göktürkçe Ektág, Ektél Dağ Adlarının Köken ve Anlamı (2022), elçi teatisi bölümü",
+      "url": "https://dergipark.org.tr/tr/download/article-file/2148601"
+    },
+    "GK11": {
+      "title": "Gökçen Kapusuzoğlu — Tarihî Bir Kişilik Olarak Kür Şad ve 639 Yılı (2017)",
+      "url": "https://dergipark.org.tr/en/pub/gaziturkiyat/article/1070911"
+    },
+    "GK12": {
+      "title": "Nurcan Kalkır ve Selma Başkan — Göktürk Kağanlarının Kültürden Uzaklaşma Eğilimi ve Sebepleri",
+      "url": "https://dergipark.org.tr/en/download/article-file/892319"
+    },
+    "GK13": {
+      "title": "MEB OGM — İlk Türk Devletlerinde Eğitim ve Bilim, Göktürk alfabesi",
+      "url": "https://ogmmateryal.eba.gov.tr/panel/upload/files/5w2sriutlp4.pdf"
+    }
+  },
+  "questions": [
+    {
+      "id": "GOK-001",
+      "revision": 1,
+      "topic": "Göktürk Devletleri ve Orhun Yazıtları",
+      "subtopic": "I. Göktürk Devleti",
+      "skill": "Bilgi",
+      "stem": "I. Göktürk Devleti’nin kurucusu ve devletin merkezi aşağıdakilerin hangisinde birlikte doğru verilmiştir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Kutluk Kağan — Ötüken",
+        "Bumin Kağan — Karabalgasun",
+        "Mukan Kağan — Ötüken",
+        "İstemi Yabgu — Karabalgasun",
+        "Bumin Kağan — Ötüken"
+      ],
+      "answer": "E",
+      "explanation": "I. Göktürk Devleti, Bumin Kağan tarafından 552’de Ötüken merkezli kurulmuştur. Kutluk Kağan ise II. Göktürk Devleti’nin kurucusudur. Karabalgasun, Uygur Devleti’nin merkezi olması nedeniyle bu eşleştirmeye uygun değildir.",
+      "sources": [
+        "GK1",
+        "GK4"
+      ]
+    },
+    {
+      "id": "GOK-002",
+      "revision": 1,
+      "topic": "Göktürk Devletleri ve Orhun Yazıtları",
+      "subtopic": "I. Göktürk Devleti",
+      "skill": "Bilgi",
+      "stem": "I. Göktürk Devleti’nin en parlak dönemini yaşadığı hükümdar aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Bumin Kağan",
+        "Mukan Kağan",
+        "Taspar Kağan",
+        "Kapgan Kağan",
+        "Bilge Kağan"
+      ],
+      "answer": "B",
+      "explanation": "I. Göktürk Devleti’nin en parlak dönemi Mukan Kağan’a aittir. Bumin kuruluşla, Taspar ise Mukan’dan sonraki dönemle ilişkilidir. Kapgan ve Bilge Kağan, II. Göktürk Devleti hükümdarlarıdır.",
+      "sources": [
+        "GK1",
+        "GK4"
+      ]
+    },
+    {
+      "id": "GOK-003",
+      "revision": 1,
+      "topic": "Göktürk Devletleri ve Orhun Yazıtları",
+      "subtopic": "I. Göktürk Devleti",
+      "skill": "Bilgi",
+      "stem": "Akhunlara karşı Sasanilerle iş birliği yapan, daha sonra ticaret yolları üzerindeki rekabet nedeniyle Bizans’la diplomatik ilişkiler kuran Göktürk yöneticisi aşağıdakilerden hangisidir?",
+      "difficulty": "Orta",
+      "options": [
+        "İstemi Yabgu",
+        "Mukan Kağan",
+        "Bumin Kağan",
+        "Kutluk Kağan",
+        "Kapgan Kağan"
+      ],
+      "answer": "A",
+      "explanation": "Bu girişimler batı kanadını yöneten İstemi Yabgu’nun faaliyetleridir. İpek Yolu üzerindeki çıkarlar, Sasanilerle iş birliğinden Bizans’la yakınlaşmaya uzanan dış politikanın temelinde yer almıştır. Mukan aynı devletin kağanı olsa da soruda belirtilen diplomatik girişimlerin yürütücüsü İstemi’dir.",
+      "sources": [
+        "GK2",
+        "GK3"
+      ]
+    },
+    {
+      "id": "GOK-004",
+      "revision": 1,
+      "topic": "Göktürk Devletleri ve Orhun Yazıtları",
+      "subtopic": "I. Göktürk Devleti",
+      "skill": "Bilgi ve yorum",
+      "stem": "I. Göktürk Devleti’nde batı kanadını yöneten İstemi Yabgu, doğudaki kağanlık adına hareket etmekle birlikte yabancı devletlerle görüşmeler yapmış ve elçiler göndermiştir.\n\nBu durum aşağıdaki yargılardan hangisini destekler?",
+      "difficulty": "Orta",
+      "options": [
+        "Batı kanadındaki yetkilerin doğu kağanının otoritesinin yerini aldığını",
+        "Diplomatik temasların yabancı devletlere kağan seçme yetkisi verdiğini",
+        "İstemi’nin yabancı devletlerle ilişkisinin bağımsız hükümdarlık kanıtı olduğunu",
+        "Kağanlığa bağlı bir yöneticinin dış ilişkilerde yetki kullanabildiğini",
+        "Batı kanadının dış ilişkilerinin doğu kağanlığıyla ilgisiz yürütüldüğünü"
+      ],
+      "answer": "D",
+      "explanation": "İstemi’nin kağanlık adına hareket etmesi bağlılığı, elçi göndermesi dış ilişkilerde yetki kullanımını gösterir. Bu iki özellik bir yönetim düzeninde birlikte bulunabilir. Diplomatik faaliyet tek başına batı kanadının bağımsızlığı veya doğu kağanının otoritesinin kaldırıldığı anlamına gelmez.",
+      "sources": [
+        "GK2"
+      ]
+    },
+    {
+      "id": "GOK-005",
+      "revision": 1,
+      "topic": "Göktürk Devletleri ve Orhun Yazıtları",
+      "subtopic": "I. Göktürk Devleti",
+      "skill": "Bilgi ve yorum",
+      "stem": "Göktürklerle Sasanilerin Akhunlara karşı kurduğu iş birliğinin ardından, Sasanilerin ipek ticaretini kendi denetimlerinde tutma girişimleri iki devletin arasını açmıştır. Göktürkler bu süreçte Bizans’la yakınlaşmıştır.\n\nBu gelişmelerde ittifak değişikliğini açıklayan temel etken aşağıdakilerden hangisidir?",
+      "difficulty": "Orta",
+      "options": [
+        "Batı kanadının doğu kağanlığından ayrı bir ticaret devleti kurması",
+        "Bizans’ın Sasani denetimindeki ticareti Göktürklerle birlikte yürütmesi",
+        "Sasani ticaret politikasının Göktürklerin ekonomik çıkarlarıyla çatışması",
+        "Akhunların Göktürklerle Sasaniler arasındaki ticarette arabulucu olması",
+        "Sasanilerin Göktürklerle kuruluş dönemindeki siyasi bağlılığı sürdürmesi"
+      ],
+      "answer": "C",
+      "explanation": "Sasanilerin ipek ticaretini kendi denetiminde tutma girişimi Göktürklerin ekonomik çıkarlarıyla çatışmıştır. Önceki askerî iş birliğinin sürmemesi, bu çatışma üzerinden açıklanır. Bizans’a yakınlaşma ise çatışma sonrasında aranan yeni ortaklık yönüdür.",
+      "sources": [
+        "GK2",
+        "GK3"
+      ]
+    },
+    {
+      "id": "GOK-006",
+      "revision": 1,
+      "topic": "Göktürk Devletleri ve Orhun Yazıtları",
+      "subtopic": "I. Göktürk Devleti",
+      "skill": "Bilgi ve yorum",
+      "stem": "Göktürklerin kuruluş döneminde batı kanadı, doğudaki kağanlığa bağlı olarak yönetilmiştir. Daha sonra hükümdarlık anlaşmazlıkları ve Çin’in bu anlaşmazlıklardan yararlanması, doğu ile batının siyasi bakımdan ayrıldığı sürecin etkenleri arasında yer almıştır.\n\nBu bilgilerden hareketle,\nI. Yönetimin iki kanatlı olması, başlangıçta iki bağımsız devlet bulunduğunu göstermez.\nII. İç anlaşmazlıklar, dış müdahalenin etkili olabileceği bir ortam oluşturmuştur.\nIII. Batı kanadının diplomatik yetkileri, siyasi ayrılığın gerçekleştiği tarihte ortaya çıkmıştır.\nyargılarından hangilerine ulaşılabilir?",
+      "difficulty": "Orta",
+      "options": [
+        "Yalnız I",
+        "Yalnız II",
+        "I ve III",
+        "II ve III",
+        "I ve II"
+      ],
+      "answer": "E",
+      "explanation": "I doğrudur: kuruluş dönemindeki bağlılık, ikili yönetimin iki bağımsız devlet anlamına gelmediğini gösterir. II doğrudur: Çin, var olan hükümdarlık anlaşmazlıklarından yararlanmıştır. III’e ulaşılamaz; İstemi’nin batıdaki elçilik faaliyetleri siyasi ayrılıktan önceye aittir. Yetki paylaşımı, ayrılmanın nedeni ve ayrılmanın zamanı birbirine karıştırılmamalıdır.",
+      "sources": [
+        "GK2",
+        "GK4"
+      ]
+    },
+    {
+      "id": "GOK-007",
+      "revision": 1,
+      "topic": "Göktürk Devletleri ve Orhun Yazıtları",
+      "subtopic": "II. Göktürk Devleti",
+      "skill": "Bilgi",
+      "stem": "Türkleri Çin hâkimiyetinden kurtarıp yeniden devlet kurduğu için İlteriş unvanını alan hükümdar aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Kutluk Kağan",
+        "Bumin Kağan",
+        "Mukan Kağan",
+        "Kapgan Kağan",
+        "Bilge Kağan"
+      ],
+      "answer": "A",
+      "explanation": "İlteriş unvanı, II. Göktürk Devleti’nin kurucusu Kutluk Kağan’a aittir. Unvan, devleti derleyip toparlama başarısını ifade eder. Bumin ise daha önce kurulan I. Göktürk Devleti’nin hükümdarıdır.",
+      "sources": [
+        "GK1",
+        "GK2"
+      ]
+    },
+    {
+      "id": "GOK-008",
+      "revision": 1,
+      "topic": "Göktürk Devletleri ve Orhun Yazıtları",
+      "subtopic": "II. Göktürk Devleti",
+      "skill": "Bilgi ve yorum",
+      "stem": "Kapgan Kağan; Çin’de dağınık hâlde yaşayan Türkleri Göktürk ülkesine çekmeye ve Orta Asya’daki Türk boylarını kendi yönetiminde toplamaya çalışmıştır.\n\nBu iki faaliyetin ortak amacı aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Çin yönetiminin Türk boyları üzerindeki aracılık rolünü artırmak",
+        "Boyların yaşadıkları sahalarda ayrı hükümdarlıklar oluşturmak",
+        "Askerî gücü göç eden boylardan bağımsız biçimde düzenlemek",
+        "Kağanlığın insan gücünü ve Türk siyasi birliğini güçlendirmek",
+        "Komşu devletlerle bağlı boylar üzerinden ortak yönetim kurmak"
+      ],
+      "answer": "D",
+      "explanation": "Türk topluluklarının ülkeye çekilmesi insan gücünü, aynı kağanlıkta toplanması siyasi birliği güçlendirmeye yöneliktir. Ortak amaç kağanlığın gücünü pekiştirmektir. Boylara ayrı hükümdarlık kurdurmak veya Çin aracılığını artırmak bu politikanın karşılığı değildir.",
+      "sources": [
+        "GK4"
+      ]
+    },
+    {
+      "id": "GOK-022",
+      "revision": 1,
+      "topic": "Göktürk Devletleri ve Orhun Yazıtları",
+      "subtopic": "Tonyukuk",
+      "skill": "Bilgi",
+      "stem": "“Türklerin Bismarck’ı” olarak anılan ve ilk Türk tarihçisi kabul edilen devlet adamı aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Yolluğ Tigin",
+        "Bilge Kağan",
+        "Kül Tigin",
+        "Tonyukuk",
+        "İstemi Yabgu"
+      ],
+      "answer": "D",
+      "explanation": "Bu nitelemeler Tonyukuk için kullanılır. Tonyukuk, II. Göktürk Devleti’nde vezir ve danışman olarak görev yapmış; kendi yazıtında kuruluş ve bağımsızlık mücadelelerini anlatması nedeniyle ilk Türk tarihçisi kabul edilmiştir. Bismarck benzetmesi, devlet adamlığına ilişkin sonradan yapılmış bir değerlendirmedir; yaşadığı dönemde taşıdığı bir unvan değildir. Yolluğ Tigin ise Kül Tigin ve Bilge Kağan yazıtlarının Türkçe metinlerini taşa yazan kişidir.",
+      "sources": [
+        "GK7",
+        "GK8",
+        "GK5"
+      ]
+    },
+    {
+      "id": "GOK-010",
+      "revision": 1,
+      "topic": "Göktürk Devletleri ve Orhun Yazıtları",
+      "subtopic": "Göktürk siyasi tarihi",
+      "skill": "Bilgi",
+      "stem": "Göktürk tarihindeki aşağıdaki gelişmelerin eskiden yeniye doğru sıralaması hangisidir?\n\nI. Kutluk Kağan önderliğinde yeniden bağımsız bir devlet kurulması\nII. Bumin Kağan’ın Göktürk Devleti’ni kurması\nIII. Doğu Göktürk Devleti’nin Çin hâkimiyetine girmesi",
+      "difficulty": "Orta",
+      "options": [
+        "I — II — III",
+        "II — I — III",
+        "II — III — I",
+        "III — II — I",
+        "III — I — II"
+      ],
+      "answer": "C",
+      "explanation": "Bumin’in 552’de kurduğu devlet, sıralamanın başlangıcıdır. Doğu Göktürk Devleti 630’da Çin hâkimiyetine girmiş; Kutluk ise 682’de II. Göktürk Devleti’ni kurmuştur. Bu nedenle yeniden bağımsızlık, ilk kuruluştan ve ardından yaşanan egemenlik kaybından sonra gelir.",
+      "sources": [
+        "GK1",
+        "GK4"
+      ]
+    },
+    {
+      "id": "GOK-011",
+      "revision": 1,
+      "topic": "Göktürk Devletleri ve Orhun Yazıtları",
+      "subtopic": "II. Göktürk Devleti",
+      "skill": "Bilgi",
+      "stem": "II. Göktürk Devleti’nin yıkılış sürecinde birlikte hareket eden topluluklar aşağıdakilerin hangisinde doğru verilmiştir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Uygurlar — Türgişler — Kırgızlar",
+        "Karluklar — Hazarlar — Basmiller",
+        "Basmiller — Kırgızlar — Türgişler",
+        "Uygurlar — Karluklar — Oğuzlar",
+        "Basmiller — Karluklar — Uygurlar"
+      ],
+      "answer": "E",
+      "explanation": "II. Göktürk Devleti’nin çözülüşünde Basmil, Karluk ve Uygur ittifakı etkili olmuştur. Bu ittifakın ardından bölgede üstünlük mücadeleleri devam etmiş ve Uygurlar öne çıkmıştır. Kırgızların Uygur Devleti’ni yıkması ise daha sonraki farklı bir gelişmedir.",
+      "sources": [
+        "GK1",
+        "GK4"
+      ]
+    },
+    {
+      "id": "GOK-012",
+      "revision": 1,
+      "topic": "Göktürk Devletleri ve Orhun Yazıtları",
+      "subtopic": "Orhun Yazıtları",
+      "skill": "Bilgi",
+      "stem": "Kül Tigin, Bilge Kağan ve Tonyukuk adına dikilen Orhun Yazıtları aşağıdaki devletlerden hangisinin dönemine aittir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Asya Hun Devleti",
+        "I. Göktürk Devleti",
+        "II. Göktürk Devleti",
+        "Uygur Devleti",
+        "Avrupa Hun Devleti"
+      ],
+      "answer": "C",
+      "explanation": "Bu üç yazıt II. Göktürk Devleti dönemine aittir. Metinlerde I. Göktürk Devleti’nden ve önceki hükümdarlardan söz edilmesi, yazıtların o dönemde dikildiği anlamına gelmez. Anlatılan olayların zamanı ile eserin meydana getirildiği zaman birbirinden ayrılmalıdır.",
+      "sources": [
+        "GK1",
+        "GK5"
+      ]
+    },
+    {
+      "id": "GOK-013",
+      "revision": 1,
+      "topic": "Göktürk Devletleri ve Orhun Yazıtları",
+      "subtopic": "Orhun Yazıtları",
+      "skill": "Bilgi",
+      "stem": "Orhun Yazıtları’nın bulunduğu alan, günümüzde aşağıdaki ülkelerden hangisinin sınırları içindedir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Kazakistan",
+        "Moğolistan",
+        "Kırgızistan",
+        "Özbekistan",
+        "Türkmenistan"
+      ],
+      "answer": "B",
+      "explanation": "Kül Tigin, Bilge Kağan ve Tonyukuk yazıtları günümüzde Moğolistan sınırları içindedir. Bu modern coğrafi konum, eserlerin Göktürk dönemine ait olmasıyla birlikte değerlendirilmelidir. Türk tarihinin farklı merkezlerinin bulunduğu diğer Orta Asya ülkeleri bu sorunun cevabı değildir.",
+      "sources": [
+        "GK5"
+      ]
+    },
+    {
+      "id": "GOK-014",
+      "revision": 1,
+      "topic": "Göktürk Devletleri ve Orhun Yazıtları",
+      "subtopic": "Orhun Yazıtları",
+      "skill": "Bilgi",
+      "stem": "Kül Tigin ve Bilge Kağan yazıtlarının Türkçe metinlerini taşa yazan kişi aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Yolluğ Tigin",
+        "Tonyukuk",
+        "Kül Tigin",
+        "İlteriş Kağan",
+        "Kapgan Kağan"
+      ],
+      "answer": "A",
+      "explanation": "Kül Tigin ve Bilge Kağan yazıtlarının Türkçe metinlerini taşa yazan kişi Yolluğ Tigin’dir. Bir yazıtın adına dikildiği kişi, sözlerin anlatıcısı ve metni taşa yazan kişi farklı olabilir. Tonyukuk yazıtının anlatıcısını bu iki yazıtın yazıcısıyla karıştırmamak gerekir.",
+      "sources": [
+        "GK5"
+      ]
+    },
+    {
+      "id": "GOK-015",
+      "revision": 1,
+      "topic": "Göktürk Devletleri ve Orhun Yazıtları",
+      "subtopic": "Orhun Yazıtları",
+      "skill": "Bilgi",
+      "stem": "Orhun Yazıtları’ndaki yazının çözülmesiyle tanınan bilim insanı aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Wilhelm Radloff",
+        "Nikolay Yadrintsev",
+        "Philipp Johann von Strahlenberg",
+        "Vilhelm Thomsen",
+        "Hüseyin Namık Orkun"
+      ],
+      "answer": "D",
+      "explanation": "Orhun Yazıtları’nın yazısını çözen bilim insanı Vilhelm Thomsen’dir. Radloff metinlerin okunması ve yayımlanması, Yadrintsev ise yazıtların araştırma dünyasına kazandırılması sürecindeki çalışmalarıyla ilişkilidir. Araştırmacıların keşif, çözümleme ve yayın katkıları birbirinden ayrılmalıdır.",
+      "sources": [
+        "GK5"
+      ]
+    },
+    {
+      "id": "GOK-016",
+      "revision": 1,
+      "topic": "Göktürk Devletleri ve Orhun Yazıtları",
+      "subtopic": "Orhun Yazıtları",
+      "skill": "Bilgi ve yorum",
+      "stem": "Kül Tigin anıtının Türkçe bölümünde Göktürk yöneticilerinin halka seslenişi, Çince bölümünde ise Çin imparatorunun hitabesi bulunmaktadır.\n\nBu iki metni siyasi ilişkiler açısından karşılaştıran bir araştırmacı öncelikle aşağıdakilerden hangisini dikkate almalıdır?",
+      "difficulty": "Orta",
+      "options": [
+        "Çince bölümün anıtın siyasi aidiyetini belirlediğini",
+        "Aynı taşta bulunmalarının hitabeleri aynı siyasi görüşün ifadesi yaptığını",
+        "Hitabelerin sahipleri ve hitap ettikleri çevrelerin farklı olabileceğini",
+        "Türkçe bölümün anıtın bütün yüzlerini açıklayan ortak çeviri olduğunu",
+        "Metinlerin farklı dillerde olmasının aynı diplomatik ortamda üretilmelerini engellediğini"
+      ],
+      "answer": "C",
+      "explanation": "Hitabeler farklı siyasi otoritelerin seslerini aynı anıtta buluşturur. Bu nedenle metnin dilinin yanında onu sunan kişi, muhatabı ve amacı değerlendirilmelidir. Aynı anıtta bulunmak aynı bakış açısı veya çeviri ilişkisi kurmaya yeterli değildir.",
+      "sources": [
+        "GK5"
+      ]
+    },
+    {
+      "id": "GOK-017",
+      "revision": 1,
+      "topic": "Göktürk Devletleri ve Orhun Yazıtları",
+      "subtopic": "Orhun Yazıtları",
+      "skill": "Bilgi ve yorum",
+      "stem": "Bilge Kağan Yazıtı’nda hükümdar, dağılmış topluluğu bir araya getirmesini ve halkın geçim şartlarını iyileştirmesini kendi hizmetleri arasında anlatır.\n\nBu anlatım aşağıdaki çıkarımlardan hangisini destekler?",
+      "difficulty": "Orta",
+      "options": [
+        "Siyasi birlik ve halkın geçimi hükümdarlık başarısının ölçütleri arasındadır.",
+        "Halkın geçimini iyileştirmek askerî hizmetlerin yerini almıştır.",
+        "Topluluğun bir araya gelmesi yerel boy yönetimlerinin kaldırılmasıyla sağlanmıştır.",
+        "Refahın artırılması komşu devlete siyasi bağlılığın kabulüne dayanmıştır.",
+        "Hükümdarın hizmetleri kağanlık yetkisinin halktan geçici olarak alındığını gösterir."
+      ],
+      "answer": "A",
+      "explanation": "Bilge Kağan’ın birliği sağlama ve geçim şartlarını iyileştirme hizmetlerini birlikte anlatması, bunların hükümdarlık başarısıyla ilişkilendirildiğini gösterir. Anlatım askerî görevlerin bırakıldığını veya yerel yöneticilerin kaldırıldığını açıklamaz. Hükümdarın hizmetleri ile yetkinin verilme usulü ayrı konulardır.",
+      "sources": [
+        "GK5"
+      ]
+    },
+    {
+      "id": "GOK-018",
+      "revision": 1,
+      "topic": "Göktürk Devletleri ve Orhun Yazıtları",
+      "subtopic": "Orhun Yazıtları",
+      "skill": "Bilgi ve yorum",
+      "stem": "Orhun Yazıtları’nda bağımsızlığın kaybı anlatılırken Çin’in siyaseti yanında yöneticilerin yetersizliği ve halk ile yöneticiler arasındaki bağın zayıflaması da ele alınır.\n\nBu açıklama için;\nI. yönetim-halk ilişkileri bağımsızlık sorununun iç etkenleri arasında görülmüştür,\nII. Çin siyasetinin belirtilmesi iç siyasi etkenleri değerlendirme dışı bırakmıştır,\nIII. dış etkiler, toplumun kendi siyasi koşullarıyla birlikte ele alınmıştır\nyargılarından hangileri doğrudur?",
+      "difficulty": "Orta",
+      "options": [
+        "Yalnız I",
+        "I ve II",
+        "I ve III",
+        "I, II ve III",
+        "II ve III"
+      ],
+      "answer": "C",
+      "explanation": "Yönetici yetersizliği ve halk-yönetici bağının zayıflaması iç siyasi etkenlerdir. Çin siyaseti ise dış etkidir; bunların birlikte anılması tek yönlü açıklama yapılmadığını gösterir. I ve III desteklenir, II’deki iç etkenleri dışlayan değerlendirme desteklenmez.",
+      "sources": [
+        "GK4",
+        "GK5"
+      ]
+    },
+    {
+      "id": "GOK-019",
+      "revision": 1,
+      "topic": "Göktürk Devletleri ve Orhun Yazıtları",
+      "subtopic": "Göktürk siyasi tarihi",
+      "skill": "Bilgi",
+      "stem": "Göktürk devletleriyle ilgili aşağıdaki bilgilerden hangisi yanlıştır?",
+      "difficulty": "Orta",
+      "options": [
+        "Bumin Kağan, I. Göktürk Devleti’nin kurucusudur.",
+        "İstemi Yabgu, devletin batı kanadını yönetmiştir.",
+        "Kutluk Kağan, bağımsızlığı yeniden sağlayan hükümdardır.",
+        "Tonyukuk, II. Göktürk Devleti’nde vezirlik yapmıştır.",
+        "Kül Tigin Yazıtı, Mukan Kağan döneminde dikilmiştir."
+      ],
+      "answer": "E",
+      "explanation": "Kül Tigin Yazıtı, II. Göktürk Devleti’nde Bilge Kağan döneminde dikilmiştir; Mukan ise I. Göktürk Devleti hükümdarıdır. Bumin’in kuruculuğu ve İstemi’nin batı yönetimi birinci devlete, Kutluk’un yeniden kuruluşu ve Tonyukuk’un vezirliği ikinci devlete aittir. Yanlış eşleştirme, eseri önceki devletin dönemine taşımaktadır.",
+      "sources": [
+        "GK1",
+        "GK5"
+      ]
+    },
+    {
+      "id": "GOK-021",
+      "revision": 1,
+      "topic": "Göktürk Devletleri ve Orhun Yazıtları",
+      "subtopic": "Göktürk destanları",
+      "skill": "Bilgi",
+      "stem": "Göktürklerle ilişkilendirilen, dağlarla çevrili bir yerde çoğalan Türklerin demir dağı eriterek buradan çıkışını anlatan destan aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Bozkurt Destanı",
+        "Oğuz Kağan Destanı",
+        "Ergenekon Destanı",
+        "Türeyiş Destanı",
+        "Göç Destanı"
+      ],
+      "answer": "C",
+      "explanation": "Demir dağı eriterek kapalı bir alandan çıkış, Ergenekon Destanı’nın ayırt edici motifidir. Bozkurt Destanı da Göktürklerle ilişkilendirilir; ancak burada sorulan, soyun türeyişinden çok Ergenekon’dan çıkış anlatısıdır. Destandaki olağanüstü unsurlar, yaşanmış olayların doğrudan tarihî kaydı olarak değerlendirilmez.",
+      "sources": [
+        "GK6",
+        "GK2"
+      ]
+    },
+    {
+      "id": "GOK-023",
+      "revision": 1,
+      "topic": "Göktürk Devletleri ve Orhun Yazıtları",
+      "subtopic": "I. Göktürk Devleti",
+      "skill": "Bilgi",
+      "stem": "Asya Hunlarından sonra Orta Asya’daki Türk boylarını yeniden geniş bir siyasi birlik altında toplayan devlet aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "II. Göktürk Devleti",
+        "Uygur Devleti",
+        "I. Göktürk Devleti",
+        "Avrupa Hun Devleti",
+        "Avar Devleti"
+      ],
+      "answer": "C",
+      "explanation": "Asya Hunlarından sonra Orta Asya’da geniş bir Türk siyasi birliği I. Göktürk Devleti tarafından kurulmuştur. Mukan Kağan’ın doğudaki ve İstemi Yabgu’nun batıdaki faaliyetleri bu genişlemeyi sağlamıştır. II. Göktürk Devleti ise daha sonraki dönemde, Çin hâkimiyetinin ardından bağımsızlığı yeniden kazanmıştır.",
+      "sources": [
+        "GK1",
+        "GK4"
+      ]
+    },
+    {
+      "id": "GOK-024",
+      "revision": 1,
+      "topic": "Göktürk Devletleri ve Orhun Yazıtları",
+      "subtopic": "I. Göktürk Devleti",
+      "skill": "Bilgi",
+      "stem": "Asya Avar Kağanı’nın, evlilik isteğini reddederken “demirci köle” sözüyle küçümsediği Göktürk hükümdarı aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Bumin Kağan",
+        "İstemi Yabgu",
+        "Mukan Kağan",
+        "Taspar Kağan",
+        "İşbara Kağan"
+      ],
+      "answer": "A",
+      "explanation": "Bu olayın muhatabı Bumin Kağan’dır. Göktürkler bağımsızlıklarını kazanmadan önce Asya Avarlarına (Juan-juanlara) bağlıydı ve demir işçiliğiyle tanınıyordu. Avar hükümdarının reddinden sonra Bumin, Batı Wei ile yakınlaşmış; 552’de Avar hâkimiyetine son vererek kendi devletini kurmuştur.",
+      "sources": [
+        "GK9",
+        "GK1"
+      ]
+    },
+    {
+      "id": "GOK-025",
+      "revision": 1,
+      "topic": "Göktürk Devletleri ve Orhun Yazıtları",
+      "subtopic": "I. Göktürk Devleti",
+      "skill": "Yorum",
+      "stem": "Göktürkler, bağımsız devletlerini kurmadan önce Asya Avarlarına bağlı olarak demir işliyorlardı. Avar kağanının Bumin’in evlilik isteğini, onu “demirci köle” diye küçümseyerek reddettiği aktarılır. Bumin daha sonra Avar hâkimiyetine karşı mücadele etmiştir.\n\nYalnız bu bilgilerden hareketle aşağıdakilerden hangisine ulaşılamaz?",
+      "difficulty": "Orta",
+      "options": [
+        "Göktürklerin kuruluş öncesinde metal işçiliğiyle uğraştığına",
+        "Evlilik ilişkisinin siyasi ilişkilerin konusu olabildiğine",
+        "Bumin’in bağlı bulunduğu güce karşı harekete geçtiğine",
+        "Göktürk toplumundaki bütün bireylerin hukuken köle olduğuna",
+        "Avar kağanının Bumin’i kendisiyle eşit konumda görmediğine"
+      ],
+      "answer": "D",
+      "explanation": "Bir hükümdarın küçümseyici sözü, toplumdaki bütün bireylerin hukuki statüsünü kanıtlamaz. Buna karşılık demir işçiliği, evlilik isteği, Avarlara bağlılık ve bu hâkimiyete karşı mücadele metinde açıkça yer alır. Siyasi bağlılık ile herkesin hukuken köle sayılması birbirinden farklı iddialardır.",
+      "sources": [
+        "GK9",
+        "GK4"
+      ]
+    },
+    {
+      "id": "GOK-026",
+      "revision": 1,
+      "topic": "Göktürk Devletleri ve Orhun Yazıtları",
+      "subtopic": "Göktürk diplomasisi",
+      "skill": "Bilgi",
+      "stem": "Orta Asya’dan Bizans’a ilk elçilik heyetini gönderen Türk devleti aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Asya Hun Devleti",
+        "Avrupa Hun Devleti",
+        "II. Göktürk Devleti",
+        "Uygur Devleti",
+        "I. Göktürk Devleti"
+      ],
+      "answer": "E",
+      "explanation": "Orta Asya’dan Bizans’a gönderilen ilk Türk devleti elçiliği I. Göktürk Devleti dönemindedir. İstemi Yabgu’nun yürüttüğü bu diplomasi, ipek ticareti ve Sasanilerle rekabetle bağlantılıdır. Avrupa Hunlarının Bizans’la daha önce ilişkileri bulunduğundan, buradaki “ilk” ifadesi Orta Asya’dan gönderilen heyetle sınırlıdır.",
+      "sources": [
+        "GK3",
+        "GK2"
+      ]
+    },
+    {
+      "id": "GOK-027",
+      "revision": 1,
+      "topic": "Göktürk Devletleri ve Orhun Yazıtları",
+      "subtopic": "Göktürk diplomasisi",
+      "skill": "Bilgi",
+      "stem": "İstemi Yabgu’nun Bizans’a gönderdiği elçi ile Bizans’ın Göktürklere gönderdiği karşı elçilik heyetinin başkanı aşağıdakilerin hangisinde sırasıyla doğru verilmiştir?",
+      "difficulty": "Orta",
+      "options": [
+        "Zemarkhos — Maniach",
+        "Maniach — Zemarkhos",
+        "Priskos — Zemarkhos",
+        "Maniach — Priskos",
+        "Zemarkhos — Maximinus"
+      ],
+      "answer": "B",
+      "explanation": "İstemi Yabgu, Bizans’a Maniach başkanlığında bir heyet göndermiştir; karşı elçiliğin başında Zemarkhos bulunur. Maniach, Göktürkler adına görev yapan Soğdlu bir diplomattır. Adı Maniakh veya Maniah, Bizans elçisinin adı ise Zemarkos veya Zemarchus biçimlerinde de yazılabilir. Priskos ve Maximinus ise Attila dönemindeki Bizans–Avrupa Hun ilişkileriyle bağlantılı isimlerdir.",
+      "sources": [
+        "GK10"
+      ]
+    },
+    {
+      "id": "GOK-028",
+      "revision": 1,
+      "topic": "Göktürk Devletleri ve Orhun Yazıtları",
+      "subtopic": "Bağımsızlık mücadeleleri",
+      "skill": "Bilgi",
+      "stem": "Çin’de 639 yılında bir grup Göktürk savaşçısıyla bağımsızlık girişiminde bulunan, ancak başarılı olamayan Göktürk prensi aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Kutluk Kağan",
+        "Kapgan Kağan",
+        "Kürşat",
+        "Bilge Kağan",
+        "İşbara Kağan"
+      ],
+      "answer": "C",
+      "explanation": "Girişimin önderi, Türkçede Kürşat veya Kür Şad adıyla tanınan Göktürk prensidir; Çin kaynaklarındaki adı Jie-she-shuai olarak aktarılır. Kürşat adı modern dönemde yaygınlaşmıştır. Başarısız kalan 639 girişimi, Kutluk Kağan’ın 682’de II. Göktürk Devleti’ni kurmasıyla karıştırılmamalıdır.",
+      "sources": [
+        "GK11",
+        "GK1"
+      ]
+    },
+    {
+      "id": "GOK-029",
+      "revision": 1,
+      "topic": "Göktürk Devletleri ve Orhun Yazıtları",
+      "subtopic": "İşbara Kağan ve kültürel kimlik",
+      "skill": "Bilgi",
+      "stem": "Çin imparatoruna gönderdiği mektupta siyasi bağlılığı ve haraç vermeyi kabul ederken halkının dilini, kıyafetlerini ve geleneklerini değiştiremeyeceğini bildiren Göktürk hükümdarı aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Taspar Kağan",
+        "Mukan Kağan",
+        "Bumin Kağan",
+        "İşbara Kağan",
+        "Kapgan Kağan"
+      ],
+      "answer": "D",
+      "explanation": "Bu tutumu dile getiren hükümdar İşbara Kağan’dır. Mektubunda siyasi bağlılığı kabul ederken toplumunun dilini ve geleneklerini koruma isteğini belirtmiştir. Böylece siyasi ilişkilerde verilen taviz ile kültürel kimlikten vazgeçme arasında bir ayrım yapmıştır.",
+      "sources": [
+        "GK12"
+      ]
+    },
+    {
+      "id": "GOK-030",
+      "revision": 1,
+      "topic": "Göktürk Devletleri ve Orhun Yazıtları",
+      "subtopic": "İşbara Kağan ve kültürel kimlik",
+      "skill": "Yorum",
+      "stem": "İşbara Kağan, Çin imparatoruna yazdığı mektupta bağlılık ve haraç yükümlülüğünü kabul etmiştir. Ancak halkının dilini, giyimini ve geleneklerini değiştiremeyeceğini, toplumunun bu konularda çok hassas olduğunu belirtmiştir.\n\nYalnız bu mektubun içeriğine dayanarak,\nI. Siyasi bağlılık ile kültürel kimliğin korunmasını birbirinden ayırdığı,\nII. Kültürel değişime karşı tutumunu halkının hassasiyetiyle ilişkilendirdiği,\nIII. Çin yönetiminin kültürel değişim yönündeki isteklerinden vazgeçtiği\nyargılarından hangilerine ulaşılabilir?",
+      "difficulty": "Orta",
+      "options": [
+        "I ve II",
+        "Yalnız I",
+        "I ve III",
+        "II ve III",
+        "I, II ve III"
+      ],
+      "answer": "A",
+      "explanation": "Bağlılığı kabul ederken dil ve gelenekleri korumak istemesi I. yargıyı; halkının bunları değiştiremeyeceğini belirtmesi II. yargıyı destekler. Mektup İşbara’nın tutumunu gösterir. Çin yönetiminin buna nasıl karşılık verdiği anlatılmadığından III. yargıya ulaşılamaz.",
+      "sources": [
+        "GK12"
+      ]
+    },
+    {
+      "id": "GOK-031",
+      "revision": 1,
+      "topic": "Göktürk Devletleri ve Orhun Yazıtları",
+      "subtopic": "II. Göktürk Devleti",
+      "skill": "Bilgi",
+      "stem": "II. Göktürk Devleti’nde halkın surlarla çevrili şehirlere yerleşmesini öneren, ancak Tonyukuk’un itirazıyla bu düşüncesinden vazgeçen hükümdar aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Kutluk Kağan",
+        "Kapgan Kağan",
+        "Taspar Kağan",
+        "Mukan Kağan",
+        "Bilge Kağan"
+      ],
+      "answer": "E",
+      "explanation": "Öneriyi yapan hükümdar Bilge Kağan’dır. Tonyukuk, Türklerin Çin karşısındaki gücünün hareketli yaşam ve savaş düzeniyle ilişkili olduğunu savunarak şehirlerin içine kapanılmasına karşı çıkmıştır. Bu olay, bir yerleşme önerisini anlatır; Göktürk halkının topluca yerleşik hayata geçtiğini göstermez.",
+      "sources": [
+        "GK4"
+      ]
+    },
+    {
+      "id": "GOK-032",
+      "revision": 1,
+      "topic": "Göktürk Devletleri ve Orhun Yazıtları",
+      "subtopic": "Orhun Yazıtları",
+      "skill": "Bilgi",
+      "stem": "Türklerin bilinen ilk alfabesi olarak kabul edilen, Orhun Yazıtları’nın Türkçe metinlerinde kullanılan ve 38 işaretten oluşan alfabe aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Soğd alfabesi",
+        "Göktürk alfabesi",
+        "Uygur alfabesi",
+        "Brahmi alfabesi",
+        "Mani alfabesi"
+      ],
+      "answer": "B",
+      "explanation": "Göktürk alfabesi, Orhun alfabesi adıyla da bilinir ve 38 işaretli yazı sistemidir. Orhun Yazıtları’nın Türkçe metinleri bu alfabe ile yazılmıştır. Uygur alfabesi ise farklı bir yazı sistemidir. Yazının belirli bir hükümdar tarafından icat edildiği, bu bilgilerden çıkarılamaz.",
+      "sources": [
+        "GK5",
+        "GK13"
+      ]
+    },
+    {
+      "id": "GOK-033",
+      "revision": 1,
+      "topic": "Göktürk Devletleri ve Orhun Yazıtları",
+      "subtopic": "I. Göktürk Devleti",
+      "skill": "Bilgi",
+      "stem": "I. Göktürk Devleti’nde Budizm’i destekleyen ve bu dine yönelişi toplumun geleneksel yaşamıyla uyuşmazlık oluşturan hükümdar aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "İşbara Kağan",
+        "Bilge Kağan",
+        "Taspar (Tapo) Kağan",
+        "Bumin Kağan",
+        "Mukan Kağan"
+      ],
+      "answer": "C",
+      "explanation": "Budizm’i destekleyen hükümdar Taspar, diğer adıyla Tapo Kağan’dır. Budist din adamlarıyla ilişki kurmuş ve bir tapınak yaptırmıştır. Hükümdarın bu desteği, Göktürk halkının tamamının Budist olduğu anlamına gelmez. Taspar ile Tapo iki ayrı hükümdar adı değildir.",
+      "sources": [
+        "GK4",
+        "GK12"
+      ]
+    },
+    {
+      "id": "GOK-034",
+      "revision": 1,
+      "topic": "Göktürk Devletleri ve Orhun Yazıtları",
+      "subtopic": "Göktürklerde din ve yaşam",
+      "skill": "Yorum",
+      "stem": "I. Göktürk hükümdarı Taspar Kağan, Budist din adamlarını desteklemiş ve tapınak yaptırmıştır. II. Göktürk hükümdarı Bilge Kağan’ın şehirleşme ve Budist tapınakları kurma önerilerine ise Tonyukuk, Türklerin yaşam ve mücadele biçimiyle bağdaşmayacağı gerekçesiyle karşı çıkmıştır.\n\nBu iki durum birlikte değerlendirildiğinde aşağıdaki çıkarımlardan hangisi yapılabilir?",
+      "difficulty": "Orta",
+      "options": [
+        "Taspar dönemindeki dinî destek, Bilge dönemindeki önerilerin de uygulandığını gösterir.",
+        "Tonyukuk’un itirazı, Taspar’ın daha önce yaptırdığı tapınağın kapatılmasını sağlamıştır.",
+        "Hükümdarın Budizm’i desteklemesi, toplumun bu dini benimsediğini belirlemek için yeterlidir.",
+        "Din ve yaşam biçimiyle ilgili hükümdar girişimleri, dönem ve uygulama bakımından ayrı değerlendirilmelidir.",
+        "Bilge Kağan’ın önerisi, Göktürklerin hareketli savaş düzenini daha önce terk ettiğini gösterir."
+      ],
+      "answer": "D",
+      "explanation": "İki örnek farklı dönemlere ve farklı sonuçlara aittir: Taspar döneminde verilen bir destek ile Bilge döneminde itiraz edilen öneri aynı şey değildir. Bir hükümdarın dinî desteği bütün halkın din değiştirdiğini; bir yerleşme önerisi de yerleşmenin gerçekleştiğini kanıtlamaz. Tonyukuk’un itirazını önceki dönemdeki tapınağın kapatılmasıyla ilişkilendiren bir bilgi de verilmemiştir.",
+      "sources": [
+        "GK4",
+        "GK12"
+      ]
+    }
+  ]
+}

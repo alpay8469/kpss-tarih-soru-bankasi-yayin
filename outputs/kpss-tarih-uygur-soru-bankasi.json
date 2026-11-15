@@ -1,0 +1,947 @@
+{
+  "title": "KPSS Tarih — Uygur Devleti ve Uygur kültürü",
+  "unit": null,
+  "date": "2026-10-01",
+  "question_count": 40,
+  "sources": {
+    "UY1": {
+      "title": "TDV — Uygurlar, Gülçin Çandarlıoğlu",
+      "url": "https://islamansiklopedisi.org.tr/uygurlar"
+    },
+    "UY2": {
+      "title": "Türk Ocakları — Uygurlar: adın açıklamaları",
+      "url": "https://www.bursaturkocagi.org.tr/turkler-hakkinda/turk-tarihi/uygurlar/"
+    },
+    "UY3": {
+      "title": "TDV — Türk, Uygur Hakanlığı bölümü, Ahmet Taşağıl",
+      "url": "https://islamansiklopedisi.org.tr/turk"
+    },
+    "UY4": {
+      "title": "MEB OGM — Tarih 9, İlk ve Orta Çağlarda Türk Dünyası",
+      "url": "https://ogmmateryal.eba.gov.tr/panel/upload/files/4aux0xoxzui.pdf"
+    },
+    "UY5": {
+      "title": "TÜBİTAK Sosyal Bilimler Ansiklopedisi — Maniheizm",
+      "url": "https://ansiklopedi.tubitak.gov.tr/ansiklopedi/maniheizm"
+    },
+    "UY6": {
+      "title": "Betül Özbay — Uygur Bozkır İmparatorluğunun Çöküşüne Manihaizm mi Sebep Oldu? (2024), kağan unvanları",
+      "url": "https://dergipark.org.tr/tr/download/article-file/4004579"
+    },
+    "UY7": {
+      "title": "MEB OGM — Türk Kültür ve Medeniyet Tarihi, ünite 5, s.4: Uygurlarda eğitim",
+      "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/turkkulturvemedeniyettarihi/sec/unite5/files/basic-html/page4.html"
+    },
+    "UY8": {
+      "title": "Emine Temel — Eski Uygur Türkçesi Dönemine Ait İki Mektup Örneği, s.128: sivil belge türleri",
+      "url": "https://dergipark.org.tr/en/download/article-file/282074"
+    },
+    "UY9": {
+      "title": "Erdem 81 (2021) — Osmanlı Dönemi Bir Sanayi İşletmesi Olarak Değirmenler; Wang Yen-te aktarımı",
+      "url": "https://erdem.gov.tr/tam-metin/1058/tur"
+    },
+    "UY10": {
+      "title": "Türk Ekini — Türk Dil ve Kültür Evreninde Eski Uygurlar; baskı tekniği ve görüşler",
+      "url": "https://dergipark.org.tr/en/download/article-file/1177653"
+    },
+    "UY11": {
+      "title": "Yunus Berkli — Uygur Resim Sanatının Üslup Özellikleri",
+      "url": "https://dergipark.org.tr/tr/download/article-file/451927"
+    },
+    "UY12": {
+      "title": "MEB OGM — Sanat Tarihi 12, s.225: Türk minyatürünün erken örnekleri",
+      "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/sanattarihi/sec/unite1/files/basic-html/page225.html"
+    },
+    "UY13": {
+      "title": "Uygur Hukuk Vesikaları Üzerine Türkçe Literatürün değerlendirilmesi",
+      "url": "https://dergipark.org.tr/tr/download/article-file/2826330"
+    },
+    "UY14": {
+      "title": "A. Melek Özyetgin — Eski Türklerde Ödeme Araçları: Kâğıt Para Çav’ın Kullanımı (2004)",
+      "url": "https://turuz.com/storage/Turkologi-2-2019/7513-3-Eski_Turklerde_Odeme_Araclari-Kaghiz_Para_Chavin_Kullanimi-A.Melek_Ozyetgin-16s.pdf"
+    },
+    "UY15": {
+      "title": "TDV — Kâtip: Uygur kâtiplerinin Moğol bürokrasisine etkisi",
+      "url": "https://islamansiklopedisi.org.tr/katip"
+    },
+    "UY16": {
+      "title": "TDV — Elifbâ: Uygur yazısının Moğollara geçişi",
+      "url": "https://islamansiklopedisi.org.tr/elifba"
+    },
+    "UY17": {
+      "title": "TDV — Talas Savaşı: kâğıt üretiminin yayılması",
+      "url": "https://islamansiklopedisi.org.tr/talas-savasi"
+    }
+  },
+  "questions": [
+    {
+      "id": "UYG-001",
+      "revision": 1,
+      "topic": "Uygur Devleti ve Uygur kültürü",
+      "subtopic": "Ad ve boy birliği",
+      "skill": "Bilgi",
+      "stem": "Adı için “akraba, müttefik” açıklaması yapılan ve Çin kaynaklarındaki adlandırılması “uçan şahin” ile ilişkilendirilen Türk topluluğu aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Karluklar",
+        "Kırgızlar",
+        "Türgişler",
+        "Uygurlar",
+        "Basmıllar"
+      ],
+      "answer": "D",
+      "explanation": "Bu açıklamalar Uygur adıyla ilişkilidir. “Akraba, müttefik” bir köken açıklaması, “uçan şahin” ise Çin kaynaklarındaki adlandırmaya ilişkin yorumdur. Bunlar kelimenin kökeni hakkında kesinleşmiş tek bir açıklama olarak değerlendirilmemelidir.",
+      "sources": [
+        "UY1",
+        "UY2"
+      ]
+    },
+    {
+      "id": "UYG-002",
+      "revision": 1,
+      "topic": "Uygur Devleti ve Uygur kültürü",
+      "subtopic": "Ad ve boy birliği",
+      "skill": "Bilgi",
+      "stem": "Uygurların siyasi ve toplumsal oluşumuyla yakından ilişkili olan, kaynaklarda Uygurlarla birlikte anılan boy birliği aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "On Oklar",
+        "Dokuz Oğuzlar",
+        "Üç Oğuzlar",
+        "Dokuz Tatarlar",
+        "Otuz Tatarlar"
+      ],
+      "answer": "B",
+      "explanation": "Dokuz Oğuzlar, Uygurların oluşumuyla yakından ilişkili boy birliğidir. Kaynaklarda Dokuz Oğuz ve On Uygur adları arasındaki ilişki döneme göre farklı açıklanır. Bu nedenle Dokuz Oğuz adını, her dönemde Uygurların bütünüyle aynı anlama gelen değişmez adı saymak doğru değildir.",
+      "sources": [
+        "UY1",
+        "UY3"
+      ]
+    },
+    {
+      "id": "UYG-003",
+      "revision": 1,
+      "topic": "Uygur Devleti ve Uygur kültürü",
+      "subtopic": "Kuruluş ve hükümdarlar",
+      "skill": "Bilgi",
+      "stem": "Ötüken Uygur Kağanlığı’nın kurucusu aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Kutluk Bilge Kül Kağan",
+        "Kutluk (İlteriş) Kağan",
+        "Bumin Kağan",
+        "Moyen Çor",
+        "Bögü Kağan"
+      ],
+      "answer": "A",
+      "explanation": "Kurucu Kutluk Bilge Kül Kağan’dır. Kutluk adını taşıyan İlteriş Kağan ise II. Göktürk Devleti’ni kurmuştur. Moyen Çor ve Bögü, Uygur Kağanlığı’nın kuruluşundan sonraki hükümdarlardır.",
+      "sources": [
+        "UY1",
+        "UY4"
+      ]
+    },
+    {
+      "id": "UYG-004",
+      "revision": 1,
+      "topic": "Uygur Devleti ve Uygur kültürü",
+      "subtopic": "Merkezler ve coğrafya",
+      "skill": "Bilgi",
+      "stem": "Uygur Kağanlığı’nın kurulduğu tarihî bölge ile başkent olarak kullanılan şehir aşağıdakilerin hangisinde doğru eşleştirilmiştir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Ötüken — Balasagun",
+        "Turfan — Karabalgasun",
+        "Kansu — Beşbalık",
+        "Ötüken — Kaşgar",
+        "Ötüken — Karabalgasun"
+      ],
+      "answer": "E",
+      "explanation": "Kuruluş sahası Ötüken, başkent şehri Karabalgasun’dur; şehir Ordu Balık adıyla da bilinir. Ötüken bir tarihî bölgeyi, Karabalgasun ise bir şehri ifade eder. Balasagun ayrı bir şehirdir ve Karabalgasun’la karıştırılmamalıdır.",
+      "sources": [
+        "UY1",
+        "UY4"
+      ]
+    },
+    {
+      "id": "UYG-005",
+      "revision": 1,
+      "topic": "Uygur Devleti ve Uygur kültürü",
+      "subtopic": "Kuruluş ve hükümdarlar",
+      "skill": "Bilgi",
+      "stem": "Uygur Kağanlığı’na askerî ve siyasi bakımdan en parlak dönemlerinden birini yaşatan, Bayan Çor adıyla da bilinen hükümdar aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Kutluk Bilge Kül Kağan",
+        "Bögü Kağan",
+        "Moyen Çor",
+        "Kutluk İlteriş Kağan",
+        "Kapgan Kağan"
+      ],
+      "answer": "C",
+      "explanation": "Moyen Çor ile Bayan Çor aynı hükümdarın farklı adlandırmalarıdır. Onun döneminde Uygur hâkimiyeti genişlemiş ve Çin üzerinde siyasi etki artmıştır. Bögü Kağan ise özellikle Maniheizm’i benimsemesiyle ayırt edilir.",
+      "sources": [
+        "UY3",
+        "UY4"
+      ]
+    },
+    {
+      "id": "UYG-006",
+      "revision": 1,
+      "topic": "Uygur Devleti ve Uygur kültürü",
+      "subtopic": "Din ve hükümdarlık",
+      "skill": "Bilgi",
+      "stem": "Maniheizm’i benimseyerek Uygur Kağanlığı’nın dinî hayatında önemli bir değişime öncülük eden hükümdar aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Moyen Çor",
+        "Kutluk Bilge Kül Kağan",
+        "Taspar Kağan",
+        "Bilge Kağan",
+        "Bögü Kağan"
+      ],
+      "answer": "E",
+      "explanation": "Maniheizm’in Uygur yönetimince benimsenmesi Bögü Kağan dönemindedir. Taspar Kağan’ın Budizm’i desteklemesi ise I. Göktürk tarihine ait farklı bir olaydır. Yönetimin dinî tercihi, halkın tamamının aynı anda din değiştirdiği anlamına gelmez.",
+      "sources": [
+        "UY1",
+        "UY4"
+      ]
+    },
+    {
+      "id": "UYG-007",
+      "revision": 1,
+      "topic": "Uygur Devleti ve Uygur kültürü",
+      "subtopic": "Siyasi tarih",
+      "skill": "Bilgi ve yorum",
+      "stem": "Uygur tarihindeki aşağıdaki gelişmelerin eskiden yeniye sıralanışı hangisidir?\n\nI. Kırgız saldırısıyla Ötüken’deki kağanlığın sona ermesi\nII. Kutluk Bilge Kül Kağan’ın devleti kurması\nIII. Bögü Kağan’ın Maniheizm’i benimsemesi",
+      "difficulty": "Orta",
+      "options": [
+        "II — III — I",
+        "II — I — III",
+        "III — II — I",
+        "I — II — III",
+        "III — I — II"
+      ],
+      "answer": "A",
+      "explanation": "Önce Uygur Kağanlığı kurulmuş, daha sonra Bögü Kağan döneminde Maniheizm benimsenmiştir. Ötüken’deki kağanlığın Kırgız saldırısıyla sona ermesi 840’tadır. Dinî değişim, devletin kuruluşundan sonra ve yıkılışından önce gerçekleşmiştir.",
+      "sources": [
+        "UY1",
+        "UY4"
+      ]
+    },
+    {
+      "id": "UYG-008",
+      "revision": 1,
+      "topic": "Uygur Devleti ve Uygur kültürü",
+      "subtopic": "Din ve hükümdarlık",
+      "skill": "Bilgi",
+      "stem": "Bögü Kağan döneminde Uygurlarca benimsenen ve öğretisinde ışık ile karanlığın karşıtlığına temel yer veren din aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Budizm",
+        "Maniheizm",
+        "Gök Tanrı inancı",
+        "Musevilik",
+        "Nesturilik"
+      ],
+      "answer": "B",
+      "explanation": "Işık ve karanlık karşıtlığı Maniheizm’in temel öğretilerindendir. Din, adını kurucusu Mani’den alır. Budizm de Uygur tarihinde etkili olmuştur; ancak kökteki hükümdar ve öğreti birlikte Maniheizm’i işaret eder.",
+      "sources": [
+        "UY5",
+        "UY4"
+      ]
+    },
+    {
+      "id": "UYG-009",
+      "revision": 1,
+      "topic": "Uygur Devleti ve Uygur kültürü",
+      "subtopic": "Din ve günlük yaşam",
+      "skill": "Yorum",
+      "stem": "Maniheizm’de seçkinler adı verilen dinî zümrenin et yememesi ve canlılara zarar vermekten kaçınması beklenirdi. Sıradan inanlıların yükümlülükleri ise seçkinlerinkiyle aynı değildi.\n\nBu bilgiye dayanarak aşağıdaki yargılardan hangisine ulaşılabilir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Dinî kuralların uygulanmasıyla üretim faaliyetleri aynı ölçüte bağlanmıştır.",
+        "Seçkinlerin kuralları sıradan inanlıların günlük yaşamını da aynı biçimde düzenlemiştir.",
+        "Dinî zümrelerin ayrılması hükümdarlığa farklı siyasi bağlılıklar doğurmuştur.",
+        "Aynı dinin mensupları için farklı davranış yükümlülükleri bulunabilmiştir.",
+        "Beslenme kuralları toplumdaki meslek dağılımına göre belirlenmiştir."
+      ],
+      "answer": "D",
+      "explanation": "Seçkinlerin ve sıradan inanlıların farklı yükümlülükleri aynı din içinde davranış kurallarının farklılaşabildiğini gösterir. Bu ayrım, siyasi bağlılık veya meslek dağılımıyla özdeş değildir. Dinî beslenme kuralından bütün ekonominin aynı üretim biçimine geçtiği de çıkarılamaz.",
+      "sources": [
+        "UY5"
+      ]
+    },
+    {
+      "id": "UYG-010",
+      "revision": 1,
+      "topic": "Uygur Devleti ve Uygur kültürü",
+      "subtopic": "Din ve hükümdarlık",
+      "skill": "Bilgi ve yorum",
+      "stem": "Uygur kağanlarının “Ay Tengri” ve “Kün Tengri” ifadelerini içeren unvanlar kullanması, özellikle aşağıdaki gelişmelerden hangisiyle ilişkilendirilir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Budist öğretinin resmî kağan unvanlarını belirlemesiyle",
+        "Hristiyan dinî terimlerinin hükümdarlık sıfatlarına aktarılmasıyla",
+        "Maniheist anlayışın hükümdarlık unvanlarına yansımasıyla",
+        "Eski kut anlayışının hükümdarlık dilinden çıkarılmasıyla",
+        "Soğd ticaret unvanlarının kağanlık makamının yerini almasıyla"
+      ],
+      "answer": "C",
+      "explanation": "Ay ve Kün Tengri gibi unvan unsurları Maniheizmin hükümdarlık dilindeki etkisiyle ilişkilendirilir; kün güneş anlamındadır. Bu değişim, kut anlayışının bütünüyle kaldırılması veya kağanlık makamının ticari bir makama dönüşmesi değildir. Yeni dinî ifadeler eski meşruiyet unsurlarıyla birlikte kullanılabilmiştir.",
+      "sources": [
+        "UY6",
+        "UY3"
+      ]
+    },
+    {
+      "id": "UYG-011",
+      "revision": 1,
+      "topic": "Uygur Devleti ve Uygur kültürü",
+      "subtopic": "Din ve hükümdarlık",
+      "skill": "Bilgi ve yorum",
+      "stem": "Göktürklerde kağanın yönetme yetkisi kut anlayışıyla açıklanıyordu. Maniheist Uygur kağanlarının unvanlarında da “kut bulmuş” ifadesi korunurken “Ay Tengri” gibi unsurlar öne çıktı.\n\nBu iki bilgiyi birlikte değerlendiren aşağıdaki yorumlardan hangisi daha isabetlidir?",
+      "difficulty": "Orta",
+      "options": [
+        "Kut ifadesinin korunması, Uygur yönetiminin dinî değişimden etkilenmediğini gösterir.",
+        "Ay unsurunun eklenmesi, kağanlığın siyasi yetkilerini din adamlarına devrettiğini gösterir.",
+        "Ortak unvanlar, Göktürk ve Uygur hükümdarlarının aynı hanedandan geldiğini gösterir.",
+        "Yeni unvanlar, yönetme yetkisinin kutsal dayanağından vazgeçildiğini gösterir.",
+        "Kutsal meşruiyet anlayışı sürerken bunun dinî ifade biçimi değişebilmiştir."
+      ],
+      "answer": "E",
+      "explanation": "Kut kavramının sürmesi yönetme yetkisinin kutsallığında devamlılığa, Ay unsurunun öne çıkması ise dinî ifade biçimindeki değişime işaret eder. Ortak kavramlar aynı hanedana mensubiyeti kanıtlamaz. Unvan değişiminden din adamlarına yetki devri sonucu da çıkarılamaz.",
+      "sources": [
+        "UY3",
+        "UY6"
+      ]
+    },
+    {
+      "id": "UYG-012",
+      "revision": 1,
+      "topic": "Uygur Devleti ve Uygur kültürü",
+      "subtopic": "Yerleşik yaşam",
+      "skill": "Bilgi",
+      "stem": "İslamiyet öncesi Türk tarihinde şehir yaşamı, tarım, tapınak mimarisi ve yazılı ticari belgeleriyle yerleşik kültürün gelişmesinde öne çıkan topluluk aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Uygurlar",
+        "Peçenekler",
+        "Kıpçaklar",
+        "Avrupa Hunları",
+        "Avarlar"
+      ],
+      "answer": "A",
+      "explanation": "Uygurlar, yerleşik yaşam ve şehir kültürünün gelişmesindeki rolleriyle öne çıkar. Tarım, mimari ve belge üretimi bu hayatın farklı yönlerini gösterir. Bu özellik, Uygurlardan önce hiçbir Türk topluluğunda tarım veya yerleşme bulunmadığı anlamına gelmez.",
+      "sources": [
+        "UY7",
+        "UY8"
+      ]
+    },
+    {
+      "id": "UYG-013",
+      "revision": 1,
+      "topic": "Uygur Devleti ve Uygur kültürü",
+      "subtopic": "Yerleşik yaşam",
+      "skill": "Yorum",
+      "stem": "Aşağıdaki buluntulardan hangisi Uygurlarda kalıcı yerleşmelerin geliştiğine diğerlerinden daha doğrudan kanıt oluşturur?",
+      "difficulty": "Orta",
+      "options": [
+        "Hükümdar unvanlarının yazıldığı taşlar",
+        "Ticarette kullanılan taşınabilir ödeme araçları",
+        "Kuşaklar boyunca kullanılan sulama kanalları ve yapı temelleri",
+        "Savaş sahnelerinin işlendiği at koşumları",
+        "Elçiler arasında değiştirilen ipek kumaşlar"
+      ],
+      "answer": "C",
+      "explanation": "Uzun süre kullanılan sulama kanalları ve yapı temelleri, belirli bir mekâna sürekli yatırım yapıldığını gösterir. Taşınabilir eşya, elçilik hediyesi veya hükümdar unvanı ise tek başına yerleşik yaşamı kanıtlamaz. Burada aranan, yerleşmeye en doğrudan bağlı fiziksel kanıttır.",
+      "sources": [
+        "UY7",
+        "UY9"
+      ]
+    },
+    {
+      "id": "UYG-014",
+      "revision": 1,
+      "topic": "Uygur Devleti ve Uygur kültürü",
+      "subtopic": "Yerleşik yaşam ve hukuk",
+      "skill": "Yorum",
+      "stem": "Uygurlarda tarım arazileri ve evlerle ilgili alım-satım ve kiralama işlemlerinin yazılı belgelere geçirilmesi aşağıdakilerden hangisiyle en doğrudan ilişkilidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Kağanların seçim usulünün değişmesiyle",
+        "Taşınmazlar üzerindeki hak ve yükümlülüklerin belirginleşmesiyle",
+        "Konar-göçerlerin ticaretten uzaklaşmasıyla",
+        "Boylar arasındaki askerî rekabetin sona ermesiyle",
+        "Dinî öğretinin ortak bir dille yayılmasıyla"
+      ],
+      "answer": "B",
+      "explanation": "Tarla ve ev gibi taşınmazların kullanımı, hak sahipliğinin ve yükümlülüklerin belirlenmesini gerektirir. Yazılı sözleşmeler bu ilişkileri kayıt altına alır. Bu belgelerden hükümdar seçiminin değiştiği veya askerî rekabetin bittiği sonucu çıkmaz.",
+      "sources": [
+        "UY8"
+      ]
+    },
+    {
+      "id": "UYG-015",
+      "revision": 1,
+      "topic": "Uygur Devleti ve Uygur kültürü",
+      "subtopic": "Tarım ve seyahatname",
+      "skill": "Bilgi",
+      "stem": "Turfan Uygurlarını ziyaret ederek sulama, tarım ve günlük yaşamları hakkında bilgiler veren Çinli elçi ve seyyah aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Priskos",
+        "Zemarkhos",
+        "İbn Fadlan",
+        "Wang Yen-te",
+        "Maniach"
+      ],
+      "answer": "D",
+      "explanation": "Wang Yen-te, Uygur ülkesine yaptığı yolculukta gözlemlerini kaydetmiştir. Seyahatnamesi özellikle Turfan Uygurlarının toplumsal ve ekonomik hayatını tanımaya katkı sağlar. Priskos Avrupa Hunlarıyla, Zemarkhos ve Maniach Göktürk–Bizans ilişkileriyle tanınır.",
+      "sources": [
+        "UY8",
+        "UY9"
+      ]
+    },
+    {
+      "id": "UYG-016",
+      "revision": 1,
+      "topic": "Uygur Devleti ve Uygur kültürü",
+      "subtopic": "Tarım ve seyahatname",
+      "skill": "Yorum",
+      "stem": "Wang Yen-te, Uygur ülkesindeki bir akarsuyun tarlaları ve meyve bahçelerini suladığını, aynı zamanda değirmenleri işlettiğini anlatır.\n\nBu anlatımdan,\nI. Suyun tarımsal üretimde kullanıldığı,\nII. Su gücünden ürünlerin işlenmesinde yararlanıldığı,\nIII. Tarım dışındaki geçim kaynaklarının terk edildiği\nyargılarından hangilerine ulaşılabilir?",
+      "difficulty": "Orta",
+      "options": [
+        "Yalnız I",
+        "Yalnız II",
+        "I ve III",
+        "II ve III",
+        "I ve II"
+      ],
+      "answer": "E",
+      "explanation": "Sulama I. yargıyı, değirmenlerin çalıştırılması II. yargıyı destekler. Ürünün yetiştirilmesiyle işlenmesi üretimin farklı aşamalarıdır. Metin diğer geçim kaynakları hakkında bilgi vermediğinden III. yargı çıkarılamaz.",
+      "sources": [
+        "UY9"
+      ]
+    },
+    {
+      "id": "UYG-017",
+      "revision": 1,
+      "topic": "Uygur Devleti ve Uygur kültürü",
+      "subtopic": "Yıkılış ve yeni merkezler",
+      "skill": "Bilgi",
+      "stem": "840 yılında Ötüken Uygur Kağanlığı’nın sona ermesine yol açan saldırıyı gerçekleştiren Türk topluluğu aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Kırgızlar",
+        "Karluklar",
+        "Basmıllar",
+        "Türgişler",
+        "Oğuzlar"
+      ],
+      "answer": "A",
+      "explanation": "Kağanlığa son veren saldırı Kırgızlar tarafından gerçekleştirilmiştir. Bu olay Ötüken merkezli siyasi yapıyı sona erdirmiştir. Uygurların başka bölgelere göç ederek yeni siyasi ve kültürel merkezler kurması ise sonraki döneme aittir.",
+      "sources": [
+        "UY1",
+        "UY3"
+      ]
+    },
+    {
+      "id": "UYG-018",
+      "revision": 1,
+      "topic": "Uygur Devleti ve Uygur kültürü",
+      "subtopic": "Yıkılış ve yeni merkezler",
+      "skill": "Bilgi",
+      "stem": "840 sonrasında oluşan başlıca iki Uygur siyasi kolunun yerleşim sahaları aşağıdakilerin hangisinde birlikte verilmiştir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Turfan — Yedisu",
+        "Kansu — Ötüken",
+        "Kansu — Turfan",
+        "Ötüken — Beşbalık",
+        "Yedisu — Karabalgasun"
+      ],
+      "answer": "C",
+      "explanation": "840 sonrasında başlıca Uygur siyasi oluşumları Kansu’daki Sarı Uygurlar ile Doğu Türkistan’daki Turfan Uygurlarıdır. Ötüken ve Karabalgasun eski kağanlık merkezleriyle ilişkilidir. Eski merkezlerin adları, göç sonrasında oluşan iki kolun yerleşim sahaları yerine kullanılmamalıdır.",
+      "sources": [
+        "UY1"
+      ]
+    },
+    {
+      "id": "UYG-019",
+      "revision": 1,
+      "topic": "Uygur Devleti ve Uygur kültürü",
+      "subtopic": "Yıkılış ve yeni merkezler",
+      "skill": "Yorum",
+      "stem": "Ötüken’deki kağanlığın 840’ta sona ermesinden sonra Uygurların bir bölümü Turfan ve Kansu çevresine yerleşmiş; bu bölgelerde ticari ve kültürel faaliyetlerini sürdürmüştür.\n\nBu durum aşağıdaki yargılardan hangisini destekler?",
+      "difficulty": "Kolay",
+      "options": [
+        "Turfan ve Kansu’daki siyasi yapıların Ötüken merkezinden yönetildiğini",
+        "Siyasi merkez değişirken ticari ve kültürel faaliyetlerin sürebildiğini",
+        "Göç eden grupların yeni bölgelerde aynı hanedana bağlandığını",
+        "Kültürel faaliyetlerin Ötüken’e dönüş hazırlığının bir parçası olduğunu",
+        "Yeni merkezlerin eski devletin dış ilişkilerini aynı esaslarla devraldığını"
+      ],
+      "answer": "B",
+      "explanation": "Turfan ve Kansu’da faaliyetlerin sürmesi siyasi merkez kaybıyla kültürel hayatın sona ermesinin aynı şey olmadığını gösterir. Bu devamlılık eski başkentten yönetim, ortak hanedan veya aynı dış politika anlamına gelmez. Kültürel hayat ile siyasi örgütlenmenin devamlılığı ayrı değerlendirilmelidir.",
+      "sources": [
+        "UY1"
+      ]
+    },
+    {
+      "id": "UYG-020",
+      "revision": 1,
+      "topic": "Uygur Devleti ve Uygur kültürü",
+      "subtopic": "Dönem ve coğrafya ayrımı",
+      "skill": "Bilgi ve yorum",
+      "stem": "Uygur tarihindeki gelişmelerin dönem ve coğrafyası dikkate alındığında aşağıdaki eşleştirmelerden hangisi yanlıştır?",
+      "difficulty": "Orta",
+      "options": [
+        "Kutluk Bilge Kül Kağan — Ötüken’de kağanlığın kuruluşu",
+        "Bögü Kağan — Kağanlık döneminde Maniheizm’in kabulü",
+        "Sarı Uygurlar — Kansu çevresindeki siyasi varlık",
+        "Kırgız saldırısı — 840’ta Turfan Uygur Devleti’nin sona ermesi",
+        "Turfan Uygurları — Doğu Türkistan’da yerleşik kültür"
+      ],
+      "answer": "D",
+      "explanation": "840’taki Kırgız saldırısı Turfan Uygur Devleti’ni değil, Ötüken’deki kağanlığı sona erdirmiştir. Turfan’daki siyasi oluşum, bu yıkılıştan sonraki göçlerle bağlantılıdır. Diğer eşleştirmeler kuruluş, dinî değişim ve yeni yerleşim sahalarını doğru dönemlere yerleştirir.",
+      "sources": [
+        "UY1",
+        "UY3"
+      ]
+    },
+    {
+      "id": "UYG-021",
+      "revision": 1,
+      "topic": "Uygur Devleti ve Uygur kültürü",
+      "subtopic": "Yazı ve baskı",
+      "skill": "Bilgi",
+      "stem": "Uygurların kullandığı hareketli harflerle baskı tekniğini, bir sayfanın tamamının tek kalıba oyulduğu blok baskıdan ayıran özellik aşağıdakilerden hangisidir?",
+      "difficulty": "Orta",
+      "options": [
+        "Sayfanın bütününün aynı ahşap kalıba oyulması",
+        "Bir sayfanın kalıbının sonraki baskılarda saklanması",
+        "Aynı kalıbın aynı metni çoğaltmak için kullanılması",
+        "Yeni metin için sayfanın bütün kalıbının yeniden hazırlanması",
+        "Ayrı harf kalıplarının başka metinler için yeniden dizilebilmesi"
+      ],
+      "answer": "E",
+      "explanation": "Hareketli harf tekniğinde ayrı harf kalıpları farklı metinler için yeniden dizilebilir. Blok baskıda bir sayfa bütünüyle kalıba işlenir; aynı sayfanın çoğaltılması iki teknikte de mümkündür. Bu nedenle yalnız çok nüsha üretmek değil, harf parçalarının yeniden düzenlenebilmesi ayırt edicidir.",
+      "sources": [
+        "UY10"
+      ]
+    },
+    {
+      "id": "UYG-022",
+      "revision": 1,
+      "topic": "Uygur Devleti ve Uygur kültürü",
+      "subtopic": "Yazı ve baskı",
+      "skill": "Yorum",
+      "stem": "Uygurların dinî ve edebî metinleri baskı yoluyla çoğaltabilmesi aşağıdaki gelişmelerden hangisini doğrudan kolaylaştırmıştır?",
+      "difficulty": "Kolay",
+      "options": [
+        "Aynı eserin daha çok nüshasının hazırlanmasını",
+        "Metinler arasındaki çeviri farklarının kendiliğinden giderilmesini",
+        "Eserlerin içeriklerinin ortak bir dinî otoritece belirlenmesini",
+        "Çoğaltılan metinlerin farklı bölgelerde aynı yorumla okunmasını",
+        "Metni hazırlayanların hukuki yetkilerinin genişlemesini"
+      ],
+      "answer": "A",
+      "explanation": "Baskı, aynı metnin çok sayıda nüshasını hazırlamayı doğrudan kolaylaştırır. Çeviri farklarını gidermek veya okuyucuların aynı yorumu benimsemesi ise ayrıca çalışma ve değerlendirme gerektirir. Teknik çoğaltma imkânı, içerik denetimi ya da hukuki yetki düzeniyle özdeş değildir.",
+      "sources": [
+        "UY7",
+        "UY10"
+      ]
+    },
+    {
+      "id": "UYG-023",
+      "revision": 1,
+      "topic": "Uygur Devleti ve Uygur kültürü",
+      "subtopic": "Resim ve mimari",
+      "skill": "Bilgi",
+      "stem": "Uygur sanatında resim ve bezeme işleriyle uğraşan sanatçı için kullanılan ad aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Bitikçi",
+        "Otacı",
+        "Bedizci",
+        "Kam",
+        "Aygucı"
+      ],
+      "answer": "C",
+      "explanation": "Bedizci, tasvir ve bezeme yapan sanatçıyı ifade eder; Uygur resim sanatı bağlamında ressam için kullanılır. Bitikçi yazı ve kâtiplikle, otacı hekimlikle ilişkilidir. Sanatçının adı ile yaptığı eserin türü birbirinden ayrılmalıdır.",
+      "sources": [
+        "UY11"
+      ]
+    },
+    {
+      "id": "UYG-024",
+      "revision": 1,
+      "topic": "Uygur Devleti ve Uygur kültürü",
+      "subtopic": "Resim ve mimari",
+      "skill": "Bilgi",
+      "stem": "Uygur tapınaklarındaki duvar resimleri için kullanılan “fresk (fresko)” terimi aşağıdakilerden hangisini ifade eder?",
+      "difficulty": "Kolay",
+      "options": [
+        "Kitap yapraklarının birbirine bağlanmasını",
+        "Duvarın sıvalı yüzeyine yapılan resmi",
+        "El yazmasının altınla bezenmesini",
+        "Küçük boyutlu kitap resmini",
+        "Ayrı harflerle metin basılmasını"
+      ],
+      "answer": "B",
+      "explanation": "Fresk, duvarın sıvalı yüzeyine yapılan resimle ilişkilidir. Minyatür ise kitaplarda görülen küçük boyutlu resimleri ifade eder. Bu ayrım sanat eserinin uygulandığı yüzeyi ve işlevini tanımayı sağlar.",
+      "sources": [
+        "UY11",
+        "UY12"
+      ]
+    },
+    {
+      "id": "UYG-025",
+      "revision": 1,
+      "topic": "Uygur Devleti ve Uygur kültürü",
+      "subtopic": "Resim ve mimari",
+      "skill": "Bilgi",
+      "stem": "Türk sanatında erken örnekleri Uygurlarda görülen, el yazmalarındaki konuları küçük boyutlu resimlerle canlandıran sanat aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Fresk",
+        "Heykel",
+        "Ciltçilik",
+        "Minyatür",
+        "Tezhip"
+      ],
+      "answer": "D",
+      "explanation": "Küçük boyutlu kitap resimleri minyatür olarak adlandırılır. Uygur örnekleri, Türk minyatür geleneğinin erken kaynakları arasındadır. Tezhip sayfayı bezemeye, ciltçilik kitabın dış yapısına; fresk ise duvar yüzeyine ilişkindir.",
+      "sources": [
+        "UY12"
+      ]
+    },
+    {
+      "id": "UYG-026",
+      "revision": 1,
+      "topic": "Uygur Devleti ve Uygur kültürü",
+      "subtopic": "Resim ve mimari",
+      "skill": "Yorum",
+      "stem": "Uygur sanatında dinî figürler hem tapınak duvarlarında hem resimli yazmalarda görülür. Aynı çevrede hükümdar, soylu ve bağışçı tasvirleri de yapılmıştır.\n\nBu bilgilerden,\nI. İnanç dünyasının sanatın konularını etkilediği,\nII. Tasvir sanatının farklı yüzeylerde uygulandığı,\nIII. Bütün resimlerin yalnız hükümdar emriyle yapıldığı\nyargılarından hangilerine ulaşılabilir?",
+      "difficulty": "Orta",
+      "options": [
+        "Yalnız I",
+        "Yalnız III",
+        "I ve III",
+        "II ve III",
+        "I ve II"
+      ],
+      "answer": "E",
+      "explanation": "Dinî figürler I. yargıyı, duvar ve yazma yüzeylerinin birlikte kullanılması II. yargıyı destekler. Sanatçıların bütün eserleri kimin emriyle yaptığına ilişkin bilgi yoktur. Hükümdar tasviri bulunması, tüm eserlerin onun emriyle yapıldığını kanıtlamaz.",
+      "sources": [
+        "UY11",
+        "UY12"
+      ]
+    },
+    {
+      "id": "UYG-027",
+      "revision": 1,
+      "topic": "Uygur Devleti ve Uygur kültürü",
+      "subtopic": "Eğitim ve tercüme",
+      "skill": "Bilgi ve yorum",
+      "stem": "Uygurlarda yazılı kültür farklı alanlarda kullanılmıştır. Aşağıdaki uygulamalardan hangisi bu alanlar içinde örgün eğitime doğrudan kanıt oluşturur?",
+      "difficulty": "Kolay",
+      "options": [
+        "Alım-satım belgelerinde tarafların yükümlülüklerini kaydetmek",
+        "Kağanlık haberlerini yabancı hükümdarlara iletmek",
+        "Belirli bir kurumda öğrencilerin metin öğrenimini düzenli yürütmek",
+        "Tapınak gelirlerini kira sözleşmeleriyle belirlemek",
+        "Ticaret yolundaki farklı diller arasında anlaşmayı sağlamak"
+      ],
+      "answer": "C",
+      "explanation": "Öğrencilerin belirli bir kurumda ve düzenli biçimde öğrenim görmesi örgün eğitimin doğrudan göstergesidir. Yazı kullanımı ticaret, hukuk ve diplomasi alanlarında da bulunabilir. Bu nedenle bir belgenin veya çevirmenin varlığı tek başına düzenli öğretim kurumunu kanıtlamaz.",
+      "sources": [
+        "UY7"
+      ]
+    },
+    {
+      "id": "UYG-028",
+      "revision": 1,
+      "topic": "Uygur Devleti ve Uygur kültürü",
+      "subtopic": "Eğitim ve tercüme",
+      "skill": "Yorum",
+      "stem": "Uygurlar farklı dillerden dinî metinleri Türkçeye çevirmiş, kendi dillerinde eserler üretmiş ve bu eserleri çoğaltmıştır.\n\nBu faaliyetlerin ortak sonucu aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Türkçenin farklı içeriklerle yazı dili olarak kullanımının genişlemesi",
+        "Dinî metinlerin ortak bir ticaret dili belirleme işlevi kazanması",
+        "Çeviri eserlerin telif eserlerin yerini alması",
+        "Farklı dillerden alınan metinlerin aynı içerikle ortaya çıkması",
+        "Metin çoğaltmanın resmî yazışma yetkisini din adamlarına aktarması"
+      ],
+      "answer": "A",
+      "explanation": "Türkçe çeviri ve telif eserler farklı içeriklerin Türkçe yazılmasına, çoğaltma da bunların dolaşımına katkı sağlar. Böylece Türkçenin yazılı kullanım alanı genişler. Bu faaliyetler çevirinin telifin yerini aldığını veya resmî yazışma yetkisinin devredildiğini göstermez.",
+      "sources": [
+        "UY7",
+        "UY1"
+      ]
+    },
+    {
+      "id": "UYG-029",
+      "revision": 1,
+      "topic": "Uygur Devleti ve Uygur kültürü",
+      "subtopic": "Hukuk ve ekonomik hayat",
+      "skill": "Bilgi ve yorum",
+      "stem": "Uygurlardan kalan borç, satış, kira ve rehin belgeleri öncelikle aşağıdaki alanlardan hangisinin incelenmesine katkı sağlar?",
+      "difficulty": "Kolay",
+      "options": [
+        "Veraset usulü ve kağan seçimi",
+        "Askerî teşkilat ve sefer düzeni",
+        "Diplomatik protokol ve elçilik",
+        "Özel hukuk ve ekonomik ilişkiler",
+        "Dinî törenler ve ibadet takvimi"
+      ],
+      "answer": "D",
+      "explanation": "Bu belgeler kişiler arasındaki mal, borç ve kullanım ilişkilerini kaydeder; bu nedenle özel hukuk ve ekonomi için temel veridir. Yazılı belgelerin bulunması, hukuki hayatın kayda geçirildiğini gösterir. Ancak törenin bütün hükümlerinin tek bir kanun kitabında toplandığını tek başına kanıtlamaz.",
+      "sources": [
+        "UY8",
+        "UY13"
+      ]
+    },
+    {
+      "id": "UYG-030",
+      "revision": 1,
+      "topic": "Uygur Devleti ve Uygur kültürü",
+      "subtopic": "Hukuk ve ekonomik hayat",
+      "skill": "Yorum",
+      "stem": "Uygur sivil belgelerinde malı devreden ve devralan kişilerin, bedelin ve işlemin şartlarının kaydedilmesi, anlaşmazlıklarda başvurulabilecek bir kayıt oluşturuyordu.\n\nBu uygulamadan aşağıdakilerden hangisine ulaşılamaz?",
+      "difficulty": "Orta",
+      "options": [
+        "Tarafların yükümlülüklerinin belirlenmesine önem verildiğine",
+        "Ülkedeki bütün arazilerin kağanın özel mülkü olduğuna",
+        "Yazının ekonomik işlemlerde kullanıldığına",
+        "Yapılan işlemin sonradan kanıtlanmasının amaçlandığına",
+        "Kişiler arasındaki mal devrinin belgelendirilebildiğine"
+      ],
+      "answer": "B",
+      "explanation": "Sivil bir işlemde tarafların ve şartların yazılması, bütün toprakların kağana ait olduğunu göstermez. Diğer seçenekler doğrudan belgenin içeriği ve kayıt işleviyle desteklenir. Belirli sözleşmelerden ülkenin bütün mülkiyet düzenine ilişkin kesin bir hüküm çıkarılamaz.",
+      "sources": [
+        "UY8",
+        "UY13"
+      ]
+    },
+    {
+      "id": "UYG-031",
+      "revision": 1,
+      "topic": "Uygur Devleti ve Uygur kültürü",
+      "subtopic": "Hukuk ve ekonomik hayat",
+      "skill": "Bilgi",
+      "stem": "Uygur sivil belgelerinde kâğıt para karşılığında kullanılan terim aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Böz",
+        "Yastuk",
+        "Tamga",
+        "Satır",
+        "Çav"
+      ],
+      "answer": "E",
+      "explanation": "Kâğıt para için çav terimi kullanılmıştır. Uygur sahasındaki çav kayıtları özellikle Moğol–Yuan dönemiyle ilişkilidir; sekizinci yüzyıl kağanlığının kâğıt parayı icat ettiği anlamına gelmez. Böz kumaşla, yastuk ve satır ise değer veya ağırlık birimleriyle bağlantılıdır.",
+      "sources": [
+        "UY14"
+      ]
+    },
+    {
+      "id": "UYG-032",
+      "revision": 1,
+      "topic": "Uygur Devleti ve Uygur kültürü",
+      "subtopic": "Hukuk ve ekonomik hayat",
+      "skill": "Yorum",
+      "stem": "Farklı dönemlere ait Uygur belgelerinde işlemlerin kumaş, madenî değerler veya çav ile ifade edildiği görülmektedir.\n\nBu bilgi aşağıdakilerden hangisini destekler?",
+      "difficulty": "Orta",
+      "options": [
+        "Belgelendiği dönemlerde farklı değer ve ödeme araçlarının kullanıldığını",
+        "Kumaşla ödeme belgelerinin çav belgelerinden daha eski olduğunu",
+        "Bütün araçların aynı işlemde birlikte kullanıldığını",
+        "Madenî değerlerin yalnız vergi, çavın yalnız ticaret için kullanıldığını",
+        "Çavla ödeme yapılan bölgelerin kumaşla ödeme yapılanlardan daha gelişmiş olduğunu"
+      ],
+      "answer": "A",
+      "explanation": "Farklı belge ve dönemlerde kumaş, madenî değer ve çavın görülmesi ödeme araçlarının çeşitliliğini destekler. Bu araçların aynı işlemde kullanıldığı veya belirli bir sırayla birbirinin yerini aldığı söylenemez. Ödeme aracından bölgelerin gelişmişlik sırası da doğrudan çıkarılamaz.",
+      "sources": [
+        "UY14"
+      ]
+    },
+    {
+      "id": "UYG-033",
+      "revision": 1,
+      "topic": "Uygur Devleti ve Uygur kültürü",
+      "subtopic": "Vakıf ve sosyal hayat",
+      "skill": "Bilgi",
+      "stem": "Uygurlarda görülen, bir malın veya gelirinin dinî ya da toplumsal bir hizmete tahsis edilmesiyle ilişkili kurum aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Rehin",
+        "Kiralama",
+        "Vakıf",
+        "Satış",
+        "Miras"
+      ],
+      "answer": "C",
+      "explanation": "Bu tahsis vakıf uygulamasıyla ilişkilidir; Uygur belgeleri arasında vakıf vesikaları da yer alır. Rehinde bir borca güvence sağlanması, kiralamada bedel karşılığı kullanım hakkı verilmesi öne çıkar. Vakıfta ise malın veya gelirin belirli bir hizmete ayrılması belirleyicidir.",
+      "sources": [
+        "UY8",
+        "UY13"
+      ]
+    },
+    {
+      "id": "UYG-034",
+      "revision": 1,
+      "topic": "Uygur Devleti ve Uygur kültürü",
+      "subtopic": "Vakıf ve sosyal hayat",
+      "skill": "Yorum",
+      "stem": "Uygur hukuk belgelerini inceleyen bir araştırmacı, bir tarlanın belirli süre ve bedelle kullanılmasına ilişkin belge ile aynı tür mülkün bedel karşılığı devrine ilişkin belgeyi karşılaştırmaktadır.\n\nBu belgeler arasındaki temel fark aşağıdakilerden hangisidir?",
+      "difficulty": "Orta",
+      "options": [
+        "Kira belgesinin mülkiyet devrini, satış belgesinin kullanım devrini düzenlediği",
+        "Kira belgesinde kullanım hakkının, satış belgesinde mülkiyet devrinin öne çıktığı",
+        "İki belgenin de bir borcu güvenceye alan rehin işlemi olduğu",
+        "Kira belgesinin hizmete gelir tahsisini, satış belgesinin miras paylaşımını gösterdiği",
+        "İki belgenin de tarla gelirinin bir tapınağa sürekli tahsisini düzenlediği"
+      ],
+      "answer": "B",
+      "explanation": "Kiralama bedel karşılığı kullanım hakkını, satış ise mülkiyetin devrini öne çıkarır. Yazılı belgeler bu hak ve yükümlülüklerin belirlenmesinde kullanılır. Borca güvence olan rehin ile bir hizmete gelir ayrılması da bu iki işlemin yerine geçirilemez.",
+      "sources": [
+        "UY8",
+        "UY13"
+      ]
+    },
+    {
+      "id": "UYG-035",
+      "revision": 1,
+      "topic": "Uygur Devleti ve Uygur kültürü",
+      "subtopic": "Moğollarla kültürel ilişkiler",
+      "skill": "Bilgi",
+      "stem": "Moğol yönetiminde kâtiplik ve idari görevler üstlenerek yazı kültürünün aktarılmasına önemli katkı sağlayan Türk topluluğu aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Karluklar",
+        "Kırgızlar",
+        "Kıpçaklar",
+        "Uygurlar",
+        "Türgişler"
+      ],
+      "answer": "D",
+      "explanation": "Uygurlar, Moğol yönetiminde yazı ve bürokrasi alanlarında etkili olmuştur. Uygur yazısı Moğolcaya uyarlanmış, Uygur kâtipleri idari hizmetlerde görev almıştır. Buradaki etki kültürel ve idaridir; Moğolların Uygurlar tarafından siyasi olarak yönetildiği anlamına gelmez.",
+      "sources": [
+        "UY15",
+        "UY16"
+      ]
+    },
+    {
+      "id": "UYG-036",
+      "revision": 1,
+      "topic": "Uygur Devleti ve Uygur kültürü",
+      "subtopic": "Moğollarla kültürel ilişkiler",
+      "skill": "Yorum",
+      "stem": "Turfan Uygurları Moğol hâkimiyetini kabul etmiş; buna rağmen Uygur yazısı ve Uygur kâtiplerinin bilgi birikimi Moğol yönetiminde etkili olmuştur.\n\nBu durum aşağıdaki yargılardan hangisini destekler?",
+      "difficulty": "Orta",
+      "options": [
+        "Kültürel etki siyasi hâkimiyetin yönünü izlemek zorundadır.",
+        "Kâtiplerin görev alması Turfan’ın siyasi bağımsızlığını koruduğunu kanıtlar.",
+        "Moğol yönetimi Uygur alfabesini kullanınca Uygurca konuşmaya başlamıştır.",
+        "Siyasi bağlılık kurulduktan sonra kültürel aktarım durmuştur.",
+        "Siyasi bakımdan bağlı bir topluluk hâkim gücü kültürel açıdan etkileyebilir."
+      ],
+      "answer": "E",
+      "explanation": "Örnek, siyasi üstünlük ile kültürel etkinin aynı yönde olmak zorunda olmadığını gösterir. Uygur kâtiplerinin hizmeti siyasi bağımsızlık kanıtı değildir. Bir yazı sisteminin benimsenmesi de dilin aynılaşması anlamına gelmez.",
+      "sources": [
+        "UY1",
+        "UY15",
+        "UY16"
+      ]
+    },
+    {
+      "id": "UYG-037",
+      "revision": 1,
+      "topic": "Uygur Devleti ve Uygur kültürü",
+      "subtopic": "Kültürel aktarım",
+      "skill": "Bilgi ve yorum",
+      "stem": "Talas Savaşı sonrasındaki Doğu–Batı kültürel aktarımıyla özellikle ilişkilendirilen gelişme aşağıdakilerden hangisidir?",
+      "difficulty": "Orta",
+      "options": [
+        "Kâğıt üretim bilgisinin İslam dünyasında yaygınlaşması",
+        "Uygur yazısının Moğol devletinin resmî yazısı olması",
+        "Turfan Uygurlarının Moğol hâkimiyetine girmesi",
+        "Uygur minyatürlerinin Osmanlı sarayında üretilmesi",
+        "Çavın Yuan yönetiminde dolaşıma girmesi"
+      ],
+      "answer": "A",
+      "explanation": "Talas Savaşı sonrasında kâğıt üretim bilgisinin Semerkant üzerinden İslam dünyasında yayılması öne çıkar. Moğollarla ilgili gelişmeler ve Osmanlı minyatürü daha sonraki dönemlere aittir. Kültürel aktarımın farklı yollarını ve yüzyıllarını tek bir savaşa bağlamamak gerekir.",
+      "sources": [
+        "UY17"
+      ]
+    },
+    {
+      "id": "UYG-038",
+      "revision": 1,
+      "topic": "Uygur Devleti ve Uygur kültürü",
+      "subtopic": "Dönem ve kanıt ayrımı",
+      "skill": "Bilgi ve yorum",
+      "stem": "Ötüken Uygur Kağanlığı 840’ta sona ermiştir. Uygur sahasında çav kullanımına ilişkin belgeler ise Moğol–Yuan döneminde yoğunlaşır.\n\nBu iki bilgiyi birlikte kullanan bir araştırmacının,\nI. Çav belgelerini Ötüken kağanlığının para düzenine doğrudan kanıt sayması,\nII. Uygur toplumsal hayatının 840 sonrasına da uzandığını dikkate alması,\nIII. Belgelerin ait olduğu siyasi dönemi belirlemeden bütün Uygur tarihine genelleme yapmaması\nyaklaşımlarından hangileri yöntem bakımından doğrudur?",
+      "difficulty": "Orta",
+      "options": [
+        "Yalnız I",
+        "I ve II",
+        "II ve III",
+        "I ve III",
+        "I, II ve III"
+      ],
+      "answer": "C",
+      "explanation": "II ve III doğrudur: Topluluğun tarihi bir devletin yıkılışıyla bitmez ve belgeler kendi dönemlerinde değerlendirilmelidir. I. yaklaşım, çok daha sonraki para kullanımını sekizinci yüzyıl kağanlığına taşır. Aynı topluluk adının bulunması, iki dönemin kurumlarının özdeşliğini kanıtlamaz.",
+      "sources": [
+        "UY1",
+        "UY14"
+      ]
+    },
+    {
+      "id": "UYG-039",
+      "revision": 1,
+      "topic": "Uygur Devleti ve Uygur kültürü",
+      "subtopic": "Din, kültür ve süreklilik",
+      "skill": "Bilgi ve yorum",
+      "stem": "Bir Uygur koleksiyonunda dinî içerikli resimli yazmalar ile kira, borç ve satış belgeleri birlikte incelenmektedir.\n\nBu iki belge grubunu birlikte açıklayan en uygun değerlendirme aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Resimli yazmalar, kira sözleşmelerinin din adamlarınca hazırlandığını gösterir.",
+        "Yazılı kültür hem inanç dünyasında hem gündelik ekonomik ilişkilerde kullanılmıştır.",
+        "Sivil belgelerin bulunması, yazmaların dinî eğitim amacı taşımadığını gösterir.",
+        "İki belge türünün varlığı, bütün toplumun aynı eğitimden geçtiğini kanıtlar.",
+        "Ortak yazı kullanımı, dinî kurallarla sözleşme hükümlerinin aynı olduğunu gösterir."
+      ],
+      "answer": "B",
+      "explanation": "Dinî yazma ve sivil sözleşmeler, yazının birden fazla alanda işlev gördüğünü birlikte ortaya koyar. Farklı belge türlerinin aynı toplumda bulunması, bunların aynı kişilerce hazırlandığını veya aynı kuralları içerdiğini kanıtlamaz. Bu örneklerden bütün toplumun eğitim düzeyi de kesinleştirilemez.",
+      "sources": [
+        "UY8",
+        "UY11",
+        "UY7"
+      ]
+    },
+    {
+      "id": "UYG-040",
+      "revision": 1,
+      "topic": "Uygur Devleti ve Uygur kültürü",
+      "subtopic": "Sanat ve gündelik hayat",
+      "skill": "Yorum",
+      "stem": "Bezeklik’teki Uygur duvar resimleri arasında birlikte müzik yapan kişilerin tasvirleri de bulunmaktadır.\n\nBu buluntu aşağıdaki yargılardan hangisini en doğrudan destekler?",
+      "difficulty": "Orta",
+      "options": [
+        "Müzik icrasının görsel sanatın konuları arasında yer aldığına",
+        "Resmin betimlediği müzik topluluğunun tapınağın sürekli görevlileri olduğuna",
+        "Tasvir edilen çalgıların resmin yapıldığı yerde üretildiğine",
+        "Müzik sahnesinin belirli bir dinî törenin düzenini belgelediğine",
+        "Resimdeki çalgıların başka bölgelerdeki benzerlerinden daha eski olduğuna"
+      ],
+      "answer": "A",
+      "explanation": "Müzik yapan kişilerin resimde yer alması müzik icrasının görsel sanata konu olduğunu gösterir. Bunun ötesinde görevli statüsü, çalgıların üretim yeri veya tören düzeni için ek kanıt gerekir. Bir tasvirden çalgıların ilk kullanımı veya eskilik sırası da belirlenemez.",
+      "sources": [
+        "UY11"
+      ]
+    }
+  ]
+}

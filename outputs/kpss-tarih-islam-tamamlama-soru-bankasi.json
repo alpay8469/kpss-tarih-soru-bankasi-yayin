@@ -1,0 +1,688 @@
+{
+  "title": "Türk-İslam eksik tamamlama — ekonomi, bilim, sanat ve Türkiye Selçukluları",
+  "unit": "U02",
+  "date": "2026-10-12",
+  "question_count": 28,
+  "sources": {
+    "TT-CIZ": {
+      "title": "TDV — Cizye",
+      "url": "https://islamansiklopedisi.org.tr/cizye",
+      "type": "Resmî eğitim veya akademik başvuru kaynağı",
+      "accessed": "2026-10-12"
+    },
+    "TT-HAR": {
+      "title": "TDV — Haraç",
+      "url": "https://islamansiklopedisi.org.tr/harac",
+      "type": "Resmî eğitim veya akademik başvuru kaynağı",
+      "accessed": "2026-10-12"
+    },
+    "TT-OS": {
+      "title": "TDV — Öşür",
+      "url": "https://islamansiklopedisi.org.tr/osur",
+      "type": "Resmî eğitim veya akademik başvuru kaynağı",
+      "accessed": "2026-10-12"
+    },
+    "TT-SEL": {
+      "title": "TDV — Selçuklular; Anadolu siyasi ve iktisadi tarih",
+      "url": "https://islamansiklopedisi.org.tr/selcuklular",
+      "type": "Resmî eğitim veya akademik başvuru kaynağı",
+      "accessed": "2026-10-12"
+    },
+    "TT-BIL": {
+      "title": "MEB OGM Tarih 9 — İslam medeniyetinde bilim",
+      "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/tarih/9/unite5/files/basic-html/page41.html",
+      "type": "Resmî eğitim veya akademik başvuru kaynağı",
+      "accessed": "2026-10-12"
+    },
+    "TT-FAR": {
+      "title": "TDV — Farabi",
+      "url": "https://islamansiklopedisi.org.tr/farabi",
+      "type": "Resmî eğitim veya akademik başvuru kaynağı",
+      "accessed": "2026-10-12"
+    },
+    "TT-SIN": {
+      "title": "TDV — İbn Sina",
+      "url": "https://islamansiklopedisi.org.tr/ibn-sina",
+      "type": "Resmî eğitim veya akademik başvuru kaynağı",
+      "accessed": "2026-10-12"
+    },
+    "TT-TEZ": {
+      "title": "TDV — Tezhip",
+      "url": "https://islamansiklopedisi.org.tr/tezhip",
+      "type": "Resmî eğitim veya akademik başvuru kaynağı",
+      "accessed": "2026-10-12"
+    },
+    "TT-HAT": {
+      "title": "TDV — Hattat",
+      "url": "https://islamansiklopedisi.org.tr/hattat",
+      "type": "Resmî eğitim veya akademik başvuru kaynağı",
+      "accessed": "2026-10-12"
+    },
+    "TT-CIN": {
+      "title": "TDV — Çini",
+      "url": "https://islamansiklopedisi.org.tr/cini",
+      "type": "Resmî eğitim veya akademik başvuru kaynağı",
+      "accessed": "2026-10-12"
+    },
+    "TT-CAS": {
+      "title": "TDV — Çaşnigir",
+      "url": "https://islamansiklopedisi.org.tr/casnigir",
+      "type": "Resmî eğitim veya akademik başvuru kaynağı",
+      "accessed": "2026-10-12"
+    },
+    "TT-HAC": {
+      "title": "TDV — Hacib",
+      "url": "https://islamansiklopedisi.org.tr/hacib",
+      "type": "Resmî eğitim veya akademik başvuru kaynağı",
+      "accessed": "2026-10-12"
+    },
+    "TT-DAN": {
+      "title": "TDV — Danişmend",
+      "url": "https://islamansiklopedisi.org.tr/danismend",
+      "type": "Resmî eğitim veya akademik başvuru kaynağı",
+      "accessed": "2026-10-12"
+    }
+  },
+  "questions": [
+    {
+      "id": "IMU-077",
+      "revision": 1,
+      "topic": "İlk Türk-İslam Devletlerinde Kültür ve Uygarlık",
+      "subtopic": "Ekonomi — kişi vergisi",
+      "skill": "Bilgi",
+      "stem": "İslam vergi hukukunda, belirli yükümlülük şartlarını taşıyan gayrimüslim erkeklerden kişi üzerinden alınan vergi aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Öşür",
+        "Zekât",
+        "Cizye",
+        "Haraç",
+        "Gümrük resmi"
+      ],
+      "answer": "C",
+      "explanation": "Cizye, İslam vergi hukukunda şartları taşıyan gayrimüslim erkeklere ilişkin şahsi vergidir. Kadınlar, çocuklar ve çeşitli muafiyet grupları aynı yükümlülük içinde genellenmez. Haraç araziyle, tarımsal öşür ise ürünle ilişkilidir.",
+      "sources": [
+        "TT-CIZ"
+      ]
+    },
+    {
+      "id": "IMU-078",
+      "revision": 1,
+      "topic": "İlk Türk-İslam Devletlerinde Kültür ve Uygarlık",
+      "subtopic": "Ekonomi — verginin konusu",
+      "skill": "Bilgi ve yorum",
+      "stem": "İslam vergi hukukundaki temel anlamları esas alındığında aşağıdaki eşleştirmelerden hangisi yanlıştır?",
+      "difficulty": "Orta",
+      "options": [
+        "Haraç — Arazinin vergi yükümlülüğü",
+        "Öşür — Tarımsal ürünlerden alınan pay",
+        "Cizye — Araziden elde edilen mahsule bağlı tarımsal pay",
+        "Gümrük resmi — Ticari malların geçişine ilişkin vergi",
+        "Zekât — Müslümanların belirli mallarına ilişkin mali yükümlülük"
+      ],
+      "answer": "C",
+      "explanation": "Cizyenin konusu kişi, tarımsal öşrün konusu ise üründür. Haraç araziyle, gümrük resmi malın ticari geçişiyle ilişkilidir. Terimlerin bazı dönemlerde farklı kullanımları bulunabildiği için bu eşleştirme temel vergi hukuku anlamıyla sınırlandırılmıştır.",
+      "sources": [
+        "TT-CIZ",
+        "TT-HAR",
+        "TT-OS"
+      ]
+    },
+    {
+      "id": "IMU-079",
+      "revision": 1,
+      "topic": "İlk Türk-İslam Devletlerinde Kültür ve Uygarlık",
+      "subtopic": "Ekonomi — şahıs ve arazi statüsü",
+      "skill": "Bilgi ve yorum",
+      "stem": "Bir gayrimüslimin İslamiyet’i kabulü üzerine şahsi cizye yükümlülüğünün kalkması, sahip olduğu haraç arazisinin vergi statüsünü kendiliğinden değiştirmemektedir. Bu durum hangi ayrımı gösterir?",
+      "difficulty": "Orta",
+      "options": [
+        "Din değiştirmenin bütün tarımsal gelir tahsislerini vakfa dönüştürdüğünü",
+        "Cizyenin arazinin verimliliğine göre hesaplandığını",
+        "Kişinin dinî statüsü ile arazinin vergi statüsünün ayrı ölçütler olabildiğini",
+        "Arazi statüsünün sahibinin güncel dininden başka ölçüte dayanmadığını",
+        "Haraç ödeyen herkesin cizye yükümlüsü sayıldığını"
+      ],
+      "answer": "C",
+      "explanation": "Cizye şahsa, haraç ise arazi statüsüne bağlıdır; birindeki değişiklik diğerini zorunlu olarak değiştirmez. Dolayısıyla her haraç mükellefini gayrimüslim ve cizye yükümlüsü saymak doğru değildir. Örnek, dinî aidiyet ile arazinin tarihsel vergi statüsünün ayrı incelenmesi gerektiğini gösterir.",
+      "sources": [
+        "TT-CIZ",
+        "TT-HAR"
+      ]
+    },
+    {
+      "id": "IMU-080",
+      "revision": 1,
+      "topic": "İlk Türk-İslam Devletlerinde Kültür ve Uygarlık",
+      "subtopic": "Ekonomi — tahsis ve tahsil",
+      "skill": "Bilgi ve yorum",
+      "stem": "Bir arazinin haraç vergisine tabi olduğu, gelirinin ise askerî hizmet karşılığında bir görevliye tahsis edildiği belirtilmektedir. Bu iki kayıt birlikte hangi bilgileri verir?",
+      "difficulty": "Zor",
+      "options": [
+        "Verginin toplandığı divanı ve hükümdarın veraset sırasını",
+        "Gelirin vakıf niteliğini ve tahsis sahibinin yargı yetkisini",
+        "Verginin ayni ödeme biçimini ve çiftçinin askerî rütbesini",
+        "Arazinin özel mülkiyetini ve sahibinin dinini kesin olarak",
+        "Verginin hukuki konusunu ve gelirin hangi hizmete ayrıldığını"
+      ],
+      "answer": "E",
+      "explanation": "Haraç ifadesi vergi statüsünü, hizmet karşılığındaki tahsis ise gelirin kullanımını açıklar. Vergiyi tanımlamakla gelirin nereye ayrıldığını belirlemek farklı işlemlerdir. Bu kayıtlardan tam özel mülkiyet, sahibin güncel dini veya ödeme biçimi kesin olarak çıkarılamaz.",
+      "sources": [
+        "TT-HAR",
+        "IM-IKT"
+      ]
+    },
+    {
+      "id": "IMU-081",
+      "revision": 1,
+      "topic": "İlk Türk-İslam Devletlerinde Kültür ve Uygarlık",
+      "subtopic": "Bilim — Farabi",
+      "skill": "Bilgi",
+      "stem": "Aristoteles’in düşüncelerini yorumlamasıyla tanınan ve Muallim-i Sani unvanıyla anılan düşünür aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "İbn Sina",
+        "Biruni",
+        "Farabi",
+        "Ömer Hayyam",
+        "Gazali"
+      ],
+      "answer": "C",
+      "explanation": "Muallim-i Sani, Aristoteles’ten sonra ikinci öğretmen anlamında Farabi için kullanılır. Bu unvan onun mantık ve felsefe çalışmalarını öne çıkarır. İbn Sina’nın da felsefeyle ilgilenmesi, iki bilginin unvanlarının ve eserlerinin aynı olduğu anlamına gelmez.",
+      "sources": [
+        "TT-FAR",
+        "TT-BIL"
+      ]
+    },
+    {
+      "id": "IMU-082",
+      "revision": 1,
+      "topic": "İlk Türk-İslam Devletlerinde Kültür ve Uygarlık",
+      "subtopic": "Bilim — eser ve alan",
+      "skill": "Bilgi ve yorum",
+      "stem": "el-Kanun fi’t-Tıbb adlı eseriyle tanınan bilgin ile bu eserin öne çıkan alanı hangi seçenekte doğru eşleştirilmiştir?",
+      "difficulty": "Orta",
+      "options": [
+        "İbn Sina — Astronomi",
+        "Biruni — Devlet yönetimi",
+        "Ömer Hayyam — Mantık",
+        "İbn Sina — Tıp",
+        "Farabi — Tıp"
+      ],
+      "answer": "D",
+      "explanation": "el-Kanun fi’t-Tıbb, İbn Sina’nın tıp alanındaki eseridir. İbn Sina’nın başka alanlarda da çalışması, bu eserin temel konusunu değiştirmez. Soruda bilginin bütün çalışmalarını tek alana indirgemek yerine belirli bir eserle alanı eşleştirilmektedir.",
+      "sources": [
+        "TT-SIN",
+        "TT-BIL"
+      ]
+    },
+    {
+      "id": "IMU-083",
+      "revision": 1,
+      "topic": "İlk Türk-İslam Devletlerinde Kültür ve Uygarlık",
+      "subtopic": "Bilim — ortak alan ve farklı eser",
+      "skill": "Bilgi ve yorum",
+      "stem": "Farabi mantık ve felsefede, İbn Sina ise felsefe yanında tıp eserleriyle öne çıkmıştır. Bu bilgilerden hangisine ulaşılamaz?",
+      "difficulty": "Orta",
+      "options": [
+        "Bilginlerin tanıtımında öne çıkan alanın bütün çalışmalarını tüketmediğine",
+        "İki bilginin çalışma alanlarının kısmen kesiştiğine",
+        "Farabi’nin düşünce tarihi araştırmalarına konu olabileceğine",
+        "İbn Sina’nın tıp eserlerinin Farabi’nin eserlerinin yeniden adlandırılmış biçimi olduğuna",
+        "İbn Sina’nın birden fazla alanda eser verdiğine"
+      ],
+      "answer": "D",
+      "explanation": "İki düşünürün felsefeyle ilgilenmesi onların aynı eserleri yazdığı veya eserlerin yeniden adlandırıldığı sonucunu vermez. Verilen bilgiler çalışma alanlarının kesişebildiğini ve bir bilginin farklı alanlarda üretim yapabildiğini gösterir. Yazar, eser ve uzmanlık alanı ayrı ölçütlerdir.",
+      "sources": [
+        "TT-FAR",
+        "TT-SIN"
+      ]
+    },
+    {
+      "id": "IMU-084",
+      "revision": 1,
+      "topic": "İlk Türk-İslam Devletlerinde Kültür ve Uygarlık",
+      "subtopic": "Bilim — kültürler arası aktarım",
+      "skill": "Bilgi ve yorum",
+      "stem": "İbn Sina’nın eserlerinin Latinceye çevrilerek Avrupa’daki bilim çevrelerinde okunması hangi gelişmeye en doğrudan örnektir?",
+      "difficulty": "Orta",
+      "options": [
+        "Çevirinin eserin özgün yazarını değiştirmesine",
+        "Latinceye çevrilen eserin özgün dilinin de Latince olmasına",
+        "Aynı eseri okuyan kurumların aynı devlet teşkilatına bağlanmasına",
+        "Bilimsel birikimin dil sınırlarını aşarak aktarılmasına",
+        "Eserin yazarının Avrupa’da siyasi hâkimiyet kurmasına"
+      ],
+      "answer": "D",
+      "explanation": "Bir eserin başka dile çevrilmesi farklı bilim çevrelerinin o birikimden yararlanmasını sağlar. İbn Sina’nın eserlerinin Avrupa’daki etkisi kültürler arası bilimsel aktarım örneğidir. Çeviri, yazarın kimliğini veya metnin başlangıçtaki dilini değiştirmez ve siyasi birlik kanıtı değildir.",
+      "sources": [
+        "TT-SIN"
+      ]
+    },
+    {
+      "id": "IMU-085",
+      "revision": 1,
+      "topic": "İlk Türk-İslam Devletlerinde Kültür ve Uygarlık",
+      "subtopic": "Sanat — teknik eşleştirmeleri",
+      "skill": "Bilgi ve yorum",
+      "stem": "Güzel yazı, el yazması bezemesi ve sırlı seramik yüzey süslemesi aşağıdakilerin hangisinde sırasıyla doğru verilmiştir?",
+      "difficulty": "Orta",
+      "options": [
+        "Hat — Çini — Tezhip",
+        "Hat — Tezhip — Çini",
+        "Tezhip — Hat — Çini",
+        "Minyatür — Tezhip — Hat",
+        "Hat — Minyatür — Ebru"
+      ],
+      "answer": "B",
+      "explanation": "Hat yazının estetik biçimde düzenlenmesi; tezhip el yazmalarının altın ve renklerle bezenmesi; çini ise sırlı seramik süslemedir. Minyatür resim, ebru ise kâğıt üzerindeki farklı bir süsleme tekniğidir. Yakın sanat kavramlarını ayırmak için malzeme ve uygulama alanına bakılmalıdır.",
+      "sources": [
+        "TT-HAT",
+        "TT-TEZ",
+        "TT-CIN"
+      ]
+    },
+    {
+      "id": "IMU-086",
+      "revision": 1,
+      "topic": "İlk Türk-İslam Devletlerinde Kültür ve Uygarlık",
+      "subtopic": "Sanat — yazı ve bezeme",
+      "skill": "Bilgi ve yorum",
+      "stem": "Bir el yazmasının harfleri özenli bir yazı üslubuyla hazırlanmış, sayfa kenarları ise altın ve renkli motiflerle bezenmiştir. Bu eserde hangi iki sanatın birlikte kullanıldığı söylenebilir?",
+      "difficulty": "Orta",
+      "options": [
+        "Hat ve çini",
+        "Hat ve tezhip",
+        "Tezhip ve ebru",
+        "Minyatür ve çini",
+        "Ebru ve minyatür"
+      ],
+      "answer": "B",
+      "explanation": "Harflerin estetik üslubu hatla, altın ve renklerle yapılan sayfa bezemesi tezhiple ilişkilidir. Eserde resim bulunması belirtilmediği için minyatür sonucu çıkarılmaz. Kitap süslemesi ile mimari seramik süslemesini aynı teknik saymak da doğru değildir.",
+      "sources": [
+        "TT-HAT",
+        "TT-TEZ"
+      ]
+    },
+    {
+      "id": "IMU-087",
+      "revision": 1,
+      "topic": "İlk Türk-İslam Devletlerinde Kültür ve Uygarlık",
+      "subtopic": "Sanat — mimari işlev ve teknik",
+      "skill": "Bilgi ve yorum",
+      "stem": "Bir medresenin çini kaplamalarında geometrik ve bitkisel motiflerin bulunması için hangi yargı yanlıştır?",
+      "difficulty": "Orta",
+      "options": [
+        "Çini kullanılması yapının bir mezar yapısı olduğunu belirlemeye yeterlidir.",
+        "Yapının öğretim işlevi ile bezeme tekniği ayrı ölçütlerdir.",
+        "Çini yapının yüzeylerinin süslenmesiyle ilişkilidir.",
+        "Motifler sanat anlayışının incelenmesinde kullanılabilir.",
+        "Yapının medrese olarak kullanımı kurum tarihiyle ilişkilidir."
+      ],
+      "answer": "A",
+      "explanation": "Çini bir yüzey süsleme tekniğidir; medrese, cami veya başka yapı türlerinde kullanılabilir. Bu nedenle çiniden yapının mezar olduğu sonucu çıkmaz. Yapının işlevi, kullanılan malzeme ve motifler ayrı ölçütlerle değerlendirilmelidir.",
+      "sources": [
+        "TT-CIN"
+      ]
+    },
+    {
+      "id": "IMU-088",
+      "revision": 1,
+      "topic": "İlk Türk-İslam Devletlerinde Kültür ve Uygarlık",
+      "subtopic": "Saray — sofrada görev ve güvenlik",
+      "skill": "Bilgi ve yorum",
+      "stem": "Sarayda hükümdara sunulacak yemeğin önce çaşnigir tarafından kontrol edilmesi, emir-i ahurun ise saray atlarıyla ilgilenmesi hangi yargıyı destekler?",
+      "difficulty": "Orta",
+      "options": [
+        "Çaşnigir ordunun askerî kayıtlarını tutan divan başkanıdır.",
+        "Hükümdara hizmet içinde güvenlik ve bakım farklı görevlerle örgütlenmiştir.",
+        "Emir-i ahur bütün saray kabul protokolünü tek başına yürütür.",
+        "Saray atlarının bakımı pazar fiyatlarını belirleme yetkisi kazandırır.",
+        "Yemek kontrolü hükümdarın ikta tahsis yetkisini görevlilere devreder."
+      ],
+      "answer": "B",
+      "explanation": "Çaşnigir hükümdarın sofrasıyla ve yemeğin kontrolüyle, emir-i ahur saray atları ve ahırlarla ilişkilidir. Örnek saray hizmetlerinin farklı ihtiyaçlara göre ayrıldığını gösterir. Hizmet görevi, görevliye mali divan veya ikta tahsis yetkisi verdiği anlamına gelmez.",
+      "sources": [
+        "TT-CAS",
+        "IM-MIR"
+      ]
+    },
+    {
+      "id": "IMU-089",
+      "revision": 1,
+      "topic": "İlk Türk-İslam Devletlerinde Kültür ve Uygarlık",
+      "subtopic": "Saray — başhacib ve dönem",
+      "skill": "Bilgi ve yorum",
+      "stem": "Gazneli teşkilatında hacib-i büzürg başhacib unvanıyla öne çıkmış; haciblerin görev ve yetkileri devletlere göre değişebilmiştir. Bu bilgiye dayanarak hangi yaklaşım daha uygundur?",
+      "difficulty": "Orta",
+      "options": [
+        "Hacib unvanını yalnız vergi toplama yükümlülüğüyle açıklamak",
+        "Hacib-i büzürgü Gazneli mali divanının müstevfisiyle eşitlemek",
+        "Unvanın görev kapsamını devlet ve dönem bağlamında incelemek",
+        "Başhacibin konumunu hanedan mensubu melikle aynı kabul etmek",
+        "Unvan benzerliğini devletlerin aynı başkentte kurulduğunun kanıtı saymak"
+      ],
+      "answer": "C",
+      "explanation": "Hacib-i büzürg Gazneli başhacibidir; farklı devletlerde haciblerin konumu ve yetkileri aynı ayrıntılarla tanımlanamaz. Bir unvanın karşılığını incelerken saray teşkilatı, dönem ve kaynak birlikte değerlendirilmelidir. Başhacib, müstevfi veya hanedan mensubu melikle eşitlenmez.",
+      "sources": [
+        "TT-HAC"
+      ]
+    },
+    {
+      "id": "IMU-090",
+      "revision": 1,
+      "topic": "İlk Türk-İslam Devletlerinde Kültür ve Uygarlık",
+      "subtopic": "Eğitim — öğrenci unvanının bağlamı",
+      "skill": "Bilgi ve yorum",
+      "stem": "Danişmend kelimesi bilgili kişi anlamına gelirken sonraki Osmanlı medreselerinde ileri seviyedeki öğrenci için de kullanılmıştır. Bu kullanımlar hangi yorumu destekler?",
+      "difficulty": "Orta",
+      "options": [
+        "Medrese öğrencisi bu unvanla hükümdarın yargı yetkisini devralır.",
+        "Danişmend adı geçen her kişi aynı Anadolu beyliğinin hükümdarıdır.",
+        "Öğrenci unvanının verilmesi, kişinin aynı anda müderris olarak görevlendirildiğini gösterir.",
+        "Osmanlı öğrenci kullanımının bütün erken Türk-İslam okullarında aynı olduğu kanıtlanmıştır.",
+        "Bir terimin genel anlamı ile kurumdaki özel kullanımı ayrı değerlendirilebilir."
+      ],
+      "answer": "E",
+      "explanation": "Danişmendin genel bilgili kişi anlamı ile sonraki medrese öğrenciliği kullanımı bağlamına göre ayrılır. Terimin varlığı bir kişinin Danişmentli hanedana mensup olduğunu göstermez. Osmanlıdaki özel öğrenci kullanımını bütün erken Türk-İslam eğitim kurumlarına aynen taşımak da doğru değildir.",
+      "sources": [
+        "TT-DAN"
+      ]
+    },
+    {
+      "id": "ATS-001",
+      "revision": 1,
+      "topic": "Türkiye Selçuklu Devleti",
+      "subtopic": "Kuruluş — kurucu ve merkez",
+      "skill": "Bilgi ve yorum",
+      "stem": "Türkiye Selçuklu Devleti’nin kurucusu ile kuruluş dönemindeki merkezi hangi seçenekte doğru verilmiştir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Tuğrul Bey — Nişabur",
+        "Kutalmışoğlu Süleyman Şah — İznik",
+        "II. Kılıç Arslan — Konya",
+        "Kutalmışoğlu Süleyman Şah — Konya",
+        "I. Kılıç Arslan — İznik"
+      ],
+      "answer": "B",
+      "explanation": "Kutalmışoğlu Süleyman Şah İznik’i merkez edinerek Türkiye Selçuklu Devleti’ni kurmuştur. Konya, I. Haçlı Seferi sırasında İznik’in kaybedilmesinden sonra merkez olmuştur. Devletin ilk merkezi ile daha sonraki uzun süreli merkezini ayırmak gerekir.",
+      "sources": [
+        "TT-SEL"
+      ]
+    },
+    {
+      "id": "ATS-002",
+      "revision": 1,
+      "topic": "Türkiye Selçuklu Devleti",
+      "subtopic": "Haçlılar — merkez değişimi",
+      "skill": "Bilgi ve yorum",
+      "stem": "I. Haçlı Seferi sırasında İznik’in kaybedilmesinin ardından I. Kılıç Arslan’ın Konya’yı merkez yapması hangi duruma örnektir?",
+      "difficulty": "Orta",
+      "options": [
+        "Merkezin değişmesinin Anadolu’dan Türk nüfusunun bütünüyle çekilmesini gerektirmesine",
+        "Konya’nın alınmasının ilk kez Malazgirt Savaşı’na yol açmasına",
+        "Haçlı Seferi’nin Türkiye Selçuklularını o tarihte sona erdirmesine",
+        "Başkent değişiminin yeni bir hanedanın kuruluşunu göstermesine",
+        "Askerî baskının devletin yönetim merkezinin yerini değiştirebilmesine"
+      ],
+      "answer": "E",
+      "explanation": "İznik’in kaybı I. Kılıç Arslan’ı merkezini Konya’ya taşımaya yöneltmiştir. Bu, dış askerî baskının yönetim coğrafyasını etkileyebildiğini gösterir. Merkez değişikliği aynı anda devletin veya hanedanın sona ermesi anlamına gelmez.",
+      "sources": [
+        "TT-SEL"
+      ]
+    },
+    {
+      "id": "ATS-003",
+      "revision": 1,
+      "topic": "Türkiye Selçuklu Devleti",
+      "subtopic": "Bizans ilişkileri — Miryokefalon",
+      "skill": "Bilgi",
+      "stem": "1176 Miryokefalon Savaşı’nda Bizans ordusunu yenilgiye uğratan Türkiye Selçuklu hükümdarı kimdir?",
+      "difficulty": "Kolay",
+      "options": [
+        "I. Kılıç Arslan",
+        "I. İzzeddin Keykavus",
+        "I. Gıyaseddin Keyhüsrev",
+        "I. Alaeddin Keykubad",
+        "II. Kılıç Arslan"
+      ],
+      "answer": "E",
+      "explanation": "Miryokefalon Savaşı II. Kılıç Arslan ile Bizans İmparatoru Manuel Komnenos arasında gerçekleşmiştir. Selçuklu zaferi Bizans’ın Anadolu’yu geri alma girişimine ağır darbe vurmuştur. I. Kılıç Arslan’ın Haçlılarla mücadele dönemiyle karıştırılmamalıdır.",
+      "sources": [
+        "TT-SEL"
+      ]
+    },
+    {
+      "id": "ATS-004",
+      "revision": 1,
+      "topic": "Türkiye Selçuklu Devleti",
+      "subtopic": "Bizans ilişkileri — zaferin sınırı",
+      "skill": "Bilgi ve yorum",
+      "stem": "Miryokefalon’da Bizans’ın Konya’ya ilerleyen ordusu yenilmiş, İmparator Manuel barış istemiş ve Bizans’ın Anadolu’yu geri alma girişimi ağır darbe almıştır. Bu bilgilerden hangisine ulaşılamaz?",
+      "difficulty": "Orta",
+      "options": [
+        "Selçukluların kendi hâkimiyetini savunmada başarı kazandığına",
+        "Bizans’ın Anadolu’ya ilişkin askerî hedefinin gerçekleşmediğine",
+        "Askerî sonuçtan sonra diplomatik girişimde bulunulduğuna",
+        "Bizans’ın o tarihte siyasi varlığının sona erdiğine",
+        "Bizans’ın Selçuklu merkezine yöneldiğine"
+      ],
+      "answer": "D",
+      "explanation": "Miryokefalon, Bizans’ın Anadolu’yu geri alma girişimini ağır biçimde zayıflatmış ve Selçuklu hâkimiyetinin korunmasına katkı vermiştir. Konya’ya ilerleyiş başarısız kalmış, yenilgiden sonra barış istenmiştir. Bunlar Bizans Devleti’nin siyasi varlığının o anda sona erdiğini göstermez.",
+      "sources": [
+        "TT-SEL"
+      ]
+    },
+    {
+      "id": "ATS-005",
+      "revision": 1,
+      "topic": "Türkiye Selçuklu Devleti",
+      "subtopic": "Ticaret — limanlar ve hükümdarlar",
+      "skill": "Bilgi ve yorum",
+      "stem": "Antalya’nın 1207’de fethi, Sinop’un 1214’te fethi ve Alanya’nın Selçuklu hâkimiyetine alınması sırasıyla hangi hükümdarlarla ilişkilidir?",
+      "difficulty": "Orta",
+      "options": [
+        "I. Gıyaseddin Keyhüsrev — I. İzzeddin Keykavus — I. Alaeddin Keykubad",
+        "I. Gıyaseddin Keyhüsrev — I. İzzeddin Keykavus — II. Gıyaseddin Keyhüsrev",
+        "I. İzzeddin Keykavus — I. Gıyaseddin Keyhüsrev — I. Alaeddin Keykubad",
+        "I. Gıyaseddin Keyhüsrev — I. Alaeddin Keykubad — I. İzzeddin Keykavus",
+        "II. Kılıç Arslan — I. İzzeddin Keykavus — I. Alaeddin Keykubad"
+      ],
+      "answer": "A",
+      "explanation": "Antalya I. Gıyaseddin Keyhüsrev, Sinop I. İzzeddin Keykavus, Alanya ise I. Alaeddin Keykubad döneminde Selçuklu hâkimiyetine alınmıştır. Antalya ve Alanya Akdeniz’de, Sinop Karadeniz’de ticari açılıma katkı sağlamıştır. Hükümdarların yakın adları aynı kişi oldukları anlamına gelmez.",
+      "sources": [
+        "TT-SEL"
+      ]
+    },
+    {
+      "id": "ATS-006",
+      "revision": 1,
+      "topic": "Türkiye Selçuklu Devleti",
+      "subtopic": "Ticaret — coğrafi ağ",
+      "skill": "Bilgi ve yorum",
+      "stem": "Türkiye Selçuklularının Antalya ve Sinop limanlarını ele geçirmesi, iç bölgelerde kervansaraylar yaptırması hangi çıkarımı en doğrudan destekler?",
+      "difficulty": "Orta",
+      "options": [
+        "Kervansarayların deniz aşırı gemi yapımının temel atölyeleri olduğunu",
+        "Devletin ticaretini Karadeniz limanlarıyla sınırlandırdığını",
+        "İç bölgelerdeki konaklama ihtiyacının limanlardan bağımsız bırakıldığını",
+        "Kara ticaret yolları ile deniz ulaşımının birbirine bağlanmasının önemsendiğini",
+        "Limanların ele geçirilmesinin tarımsal vergi tahsilini kaldırdığını"
+      ],
+      "answer": "D",
+      "explanation": "Antalya ve Sinop farklı denizlere açılan kapılardır; kervansaraylar ise iç yolların konaklama altyapısını destekler. Bunların birlikte geliştirilmesi kara ve deniz ticaretini bağlayan bir ağ anlayışını gösterir. Konaklama hizmeti ile gemi inşa işlevi aynı kurum değildir.",
+      "sources": [
+        "TT-SEL"
+      ]
+    },
+    {
+      "id": "ATS-007",
+      "revision": 1,
+      "topic": "Türkiye Selçuklu Devleti",
+      "subtopic": "Denizcilik — tersane",
+      "skill": "Bilgi",
+      "stem": "Alanya’nın alınması ve burada tersane kurulmasıyla öne çıkan Türkiye Selçuklu hükümdarı aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "II. Kılıç Arslan",
+        "II. Gıyaseddin Keyhüsrev",
+        "I. Alaeddin Keykubad",
+        "I. Kılıç Arslan",
+        "I. Gıyaseddin Keyhüsrev"
+      ],
+      "answer": "C",
+      "explanation": "I. Alaeddin Keykubad döneminde Alanya Selçuklu hâkimiyetine alınmış ve tersane kurulmuştur. Tersane gemi yapımı ve denizcilik kapasitesiyle ilişkilidir. Antalya’nın I. Gıyaseddin Keyhüsrev dönemindeki fethi ile Alanya faaliyeti farklı hükümdarlara aittir.",
+      "sources": [
+        "TT-SEL"
+      ]
+    },
+    {
+      "id": "ATS-008",
+      "revision": 1,
+      "topic": "Türkiye Selçuklu Devleti",
+      "subtopic": "Denizcilik — Suğdak seferi",
+      "skill": "Bilgi ve yorum",
+      "stem": "I. Alaeddin Keykubad döneminde Hüsameddin Çoban’ın donanmayla Karadeniz’in kuzeyindeki Suğdak’a sefer düzenlemesi hangi yargıyı destekler?",
+      "difficulty": "Orta",
+      "options": [
+        "Türkiye Selçuklu askerî ve ticari faaliyetlerinin Anadolu kıyılarının ötesine uzanabildiğini",
+        "Seferin Bizans başkentinin fethedilmesiyle sonuçlandığını",
+        "Donanmanın varlığının kara ordusunun kaldırıldığını gösterdiğini",
+        "Suğdak’ın Akdeniz ticaretinin Anadolu içindeki merkezlerinden biri olduğunu",
+        "Seferin Selçukluların bütün Rus prensliklerini kalıcı olarak yönetmesini sağladığını"
+      ],
+      "answer": "A",
+      "explanation": "Suğdak Karadeniz’in kuzeyindedir; sefer Türkiye Selçuklularının deniz aşırı hareket edebildiğini gösterir. Faaliyet ticari bağlantılarla da ilişkilidir. Bir limana yönelik seferden bütün Karadeniz çevresinde kalıcı siyasi egemenlik veya kara ordusunun kaldırılması çıkarılamaz.",
+      "sources": [
+        "TT-SEL"
+      ]
+    },
+    {
+      "id": "ATS-009",
+      "revision": 1,
+      "topic": "Türkiye Selçuklu Devleti",
+      "subtopic": "Ekonomi — ticari hareketlilik",
+      "skill": "Bilgi ve yorum",
+      "stem": "Kervansaraylarda tüccarlara konaklama ve bakım hizmeti sağlanmasının ticari hareketliliğe katkısı hangi gerekçeyle açıklanabilir?",
+      "difficulty": "Orta",
+      "options": [
+        "Yolculuk sırasında karşılaşılan hizmet ve güvenlik maliyetlerini azaltabilmesiyle",
+        "Konaklama hizmetinin tüccarı gümrük vergisinden kendiliğinden muaf tutmasıyla",
+        "Tüccarın mallarını satmadan önce devlete devretmesini gerektirmesiyle",
+        "Konaklama yapılan yerlerde malların piyasa fiyatının devletçe sabitlenmesiyle",
+        "Gümrük vergileriyle arazi vergilerini aynı yükümlülüğe dönüştürmesiyle"
+      ],
+      "answer": "A",
+      "explanation": "Konaklama, bakım ve güvenlik imkânları tüccarın yolculuk yükünü azaltarak ticareti teşvik edebilir. Bu hizmetler ticari ağın altyapısıdır. Kervansarayın varlığı her ticari yolculuğun kârlı veya risksiz olacağını, malların da devlete devredildiğini göstermez.",
+      "sources": [
+        "TT-SEL"
+      ]
+    },
+    {
+      "id": "ATS-010",
+      "revision": 1,
+      "topic": "Türkiye Selçuklu Devleti",
+      "subtopic": "İç ve dış gelişmeler — Babaîler ve Moğollar",
+      "skill": "Bilgi ve yorum",
+      "stem": "1240’taki Babaî İsyanı devletin askerî gücünü sarsmış, 1243 Kösedağ yenilgisi ise Moğol baskısını artırmıştır. Bu gelişmeler için hangi açıklama daha uygundur?",
+      "difficulty": "Orta",
+      "options": [
+        "İsyanın Kösedağ savaşının tek ve yeterli nedeni olduğu",
+        "İç ayaklanmanın devletin dış politikasıyla bağlantı kuramayacağı",
+        "Kösedağ yenilgisinin üç yıl önceki ayaklanmayı başlattığı",
+        "Babaî İsyanı’nın Moğol devletinin kuruluşu olduğu",
+        "İç sorunların dış askerî tehdide karşı direnci zayıflatabildiği"
+      ],
+      "answer": "E",
+      "explanation": "Babaî İsyanı’nın devlet gücünü sarsması dış tehdit karşısındaki direnci etkileyebilir. Ancak ayaklanmayı Kösedağ’ın tek nedeni saymak kaynakların gösterdiği ilişkiyi aşar. Kösedağ’ın daha önceki ayaklanmayı başlattığını söylemek ise olayların zaman sırasını ters çevirmektir.",
+      "sources": [
+        "TT-SEL"
+      ]
+    },
+    {
+      "id": "ATS-011",
+      "revision": 1,
+      "topic": "Türkiye Selçuklu Devleti",
+      "subtopic": "Moğol ilişkileri — Kösedağ",
+      "skill": "Bilgi",
+      "stem": "1243 Kösedağ Savaşı’nda Moğollar karşısında yenilen Türkiye Selçuklu hükümdarı aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "II. Kılıç Arslan",
+        "I. İzzeddin Keykavus",
+        "I. Alaeddin Keykubad",
+        "II. Gıyaseddin Keyhüsrev",
+        "I. Gıyaseddin Keyhüsrev"
+      ],
+      "answer": "D",
+      "explanation": "Kösedağ Savaşı II. Gıyaseddin Keyhüsrev döneminde Baycu Noyan komutasındaki Moğol kuvvetlerine karşı yapılmıştır. Yenilgi Selçukluları Moğol üstünlüğünü kabul etmeye yöneltmiştir. Savaş henüz kurulmamış İlhanlı Devleti’ne doğrudan yüklenmez.",
+      "sources": [
+        "TT-SEL"
+      ]
+    },
+    {
+      "id": "ATS-012",
+      "revision": 1,
+      "topic": "Türkiye Selçuklu Devleti",
+      "subtopic": "Moğol ilişkileri — bağımlılık",
+      "skill": "Bilgi ve yorum",
+      "stem": "Kösedağ’dan sonra Türkiye Selçukluları Moğollara yıllık vergi vermeyi kabul etmiş, Selçuklu sultanları ise yönetimde kalmıştır. Bu durum için hangi yargı yanlıştır?",
+      "difficulty": "Orta",
+      "options": [
+        "Askerî yenilgi siyasi ve mali yükümlülük doğurmuştur.",
+        "Moğol baskısı mevcut yönetimin hareket alanını daraltabilir.",
+        "Hanedanın sürmesi tam siyasi bağımsızlığın korunduğunu göstermez.",
+        "Devletin çözülüşü tek savaş anıyla sınırlı düşünülmemelidir.",
+        "Yenilgi, aynı anda Selçuklu hanedanının bütün yönetim görevlerini sona erdirmiştir."
+      ],
+      "answer": "E",
+      "explanation": "Kösedağ siyasi bağımlılığı güçlendirmiştir; yıllık vergi bunun mali göstergesidir. Ancak Selçuklu sultanlarının yönetimde kalması, hanedanın o anda bütün görevleriyle sona ermediğini gösterir. Hanedan devamı da tam bağımsızlığın kanıtı değildir.",
+      "sources": [
+        "TT-SEL"
+      ]
+    },
+    {
+      "id": "ATS-013",
+      "revision": 1,
+      "topic": "Türkiye Selçuklu Devleti",
+      "subtopic": "Egemenlik — müşterek saltanat",
+      "skill": "Bilgi ve yorum",
+      "stem": "Kösedağ sonrasında bir Selçuklu şehzadesi Moğol hanından aldığı yarlıkla hükümdarlığını ilan etmiş; daha sonra üç kardeş adına hutbe okutulup para bastırılmıştır. Bu bilgilerin birlikte değerlendirilmesiyle hangi yargı savunulabilir?",
+      "difficulty": "Zor",
+      "options": [
+        "Moğol onayıyla hükümdarlık ilanı, önceki askerî yenilginin siyasi sonuçlarının ortadan kalktığını gösterir.",
+        "Hutbe ve sikke, müşterek saltanatta mali tahsisin orduya geçmediğini gösterir.",
+        "Üç kardeş adına sikke basılması Selçuklu ülkesinin üç bağımsız devlete resmen ayrıldığını kanıtlar.",
+        "Moğol yarlığı, hükümdarlık unvanını kullanan hanedanın Moğol kökenli olduğunu gösterir.",
+        "Siyasi tanınmada dış güç ve hanedan içi uzlaşma etkili olabilir; egemenlik sembollerinin kullanılması tam bağımsızlığı tek başına kanıtlamaz."
+      ],
+      "answer": "E",
+      "explanation": "Moğol hanının yarlığı dış gücün siyasi tanınmadaki etkisini, üç kardeş adına hutbe ve sikke ise müşterek saltanatı gösterir. Semboller hükümdarlık iddiasını görünür kılar; dış onaya bağımlılık varken tam bağımsızlığı tek başına kanıtlamaz. Ortak saltanat da üç bağımsız devlet veya hanedanın köken değişimi demek değildir.",
+      "sources": [
+        "TT-SEL",
+        "IM-MEB"
+      ]
+    },
+    {
+      "id": "ATS-014",
+      "revision": 1,
+      "topic": "Türkiye Selçuklu Devleti",
+      "subtopic": "Siyasi gelişmeler — kronolojik ilişki",
+      "skill": "Bilgi ve yorum",
+      "stem": "Türkiye Selçuklu tarihindeki aşağıdaki gelişmelerden hangisi diğerlerinden sonra gerçekleşmiştir?",
+      "difficulty": "Orta",
+      "options": [
+        "Miryokefalon’da Bizans’ın Konya’ya ilerleyişinin durdurulması",
+        "İznik’in kaybından sonra merkezinin Konya’ya taşınması",
+        "Alanya’da tersane kurulmasıyla denizcilik kapasitesinin gelişmesi",
+        "Sinop’un alınarak Karadeniz ticaretine açılım sağlanması",
+        "Kösedağ yenilgisiyle Moğol baskısının artması"
+      ],
+      "answer": "E",
+      "explanation": "Merkezin Konya’ya taşınması I. Haçlı Seferi sonrasında, Miryokefalon 1176’da ve Sinop’un fethi 1214’te gerçekleşmiştir. Alanya’daki tersane I. Alaeddin Keykubad dönemindedir. Bu gelişmelerden sonra, 1243 Kösedağ yenilgisi Moğol baskısını artıran aşamadır.",
+      "sources": [
+        "TT-SEL"
+      ]
+    }
+  ]
+}

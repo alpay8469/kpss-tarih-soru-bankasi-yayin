@@ -1,0 +1,320 @@
+{
+  "title": "Türk-İslam kazanım kontrolü — eserler, kurumlar ve yorum ekleri",
+  "unit": "U02",
+  "date": "2026-10-12",
+  "question_count": 12,
+  "sources": {
+    "TI12-MEB": {
+      "title": "MEB OGM — Türklerin İslamiyet’i Kabulü ve İlk Türk-İslam Devletleri",
+      "url": "https://ogmmateryal.eba.gov.tr/panel/upload/files/f1wutriyvqt.pdf",
+      "type": "Resmî eğitim veya akademik başvuru kaynağı",
+      "accessed": "2026-10-12"
+    },
+    "TI12-KB": {
+      "title": "TDV — Kutadgu Bilig",
+      "url": "https://islamansiklopedisi.org.tr/kutadgu-bilig",
+      "type": "Resmî eğitim veya akademik başvuru kaynağı",
+      "accessed": "2026-10-12"
+    },
+    "TI12-SIY": {
+      "title": "TDV — Siyasetname",
+      "url": "https://islamansiklopedisi.org.tr/siyasetname",
+      "type": "Resmî eğitim veya akademik başvuru kaynağı",
+      "accessed": "2026-10-12"
+    },
+    "TI12-CEL": {
+      "title": "TDV — Celali Takvimi",
+      "url": "https://islamansiklopedisi.org.tr/celali-takvimi",
+      "type": "Resmî eğitim veya akademik başvuru kaynağı",
+      "accessed": "2026-10-12"
+    },
+    "TI12-DIV": {
+      "title": "TDV — Divan; Büyük Selçuklu ve Anadolu Selçuklu bölümleri",
+      "url": "https://islamansiklopedisi.org.tr/divan--devlet",
+      "type": "Resmî eğitim veya akademik başvuru kaynağı",
+      "accessed": "2026-10-12"
+    },
+    "TI12-RIB": {
+      "title": "TDV — Ribat",
+      "url": "https://islamansiklopedisi.org.tr/ribat",
+      "type": "Resmî eğitim veya akademik başvuru kaynağı",
+      "accessed": "2026-10-12"
+    },
+    "TI12-IMA": {
+      "title": "TDV — İmaret; aşevi anlamı ve sonraki gelişim",
+      "url": "https://islamansiklopedisi.org.tr/imaret--osmanli",
+      "type": "Resmî eğitim veya akademik başvuru kaynağı",
+      "accessed": "2026-10-12"
+    },
+    "TI12-NOT": {
+      "title": "Kullanıcının Ramazan Yetgin devlet teşkilatı ve sosyal hayat tahta görselleri",
+      "type": "Kullanıcı tarafından sağlanan kapsam notu",
+      "date": "2026-10-11"
+    },
+    "TI12-AMID": {
+      "title": "TDV — Amid; sivil taşra idaresi",
+      "url": "https://cdn2.islamansiklopedisi.org.tr/dosya/3/C03001065.pdf",
+      "type": "Akademik başvuru kaynağı",
+      "accessed": "2026-10-12"
+    }
+  },
+  "questions": [
+    {
+      "id": "IMU-065",
+      "revision": 1,
+      "topic": "İlk Türk-İslam Devletlerinde Kültür ve Uygarlık",
+      "subtopic": "Edebiyat — eser ve yazar",
+      "skill": "Bilgi ve yorum",
+      "stem": "Kutadgu Bilig, Divânü Lûgati’t-Türk ve Atabetü’l-Hakayık’ın yazarları sırasıyla hangi seçenekte doğru verilmiştir?",
+      "difficulty": "Orta",
+      "options": [
+        "Yusuf Has Hacib — Kaşgarlı Mahmut — Edip Ahmet Yükneki",
+        "Ahmet Yesevi — Kaşgarlı Mahmut — Yusuf Has Hacib",
+        "Kaşgarlı Mahmut — Yusuf Has Hacib — Edip Ahmet Yükneki",
+        "Yusuf Has Hacib — Edip Ahmet Yükneki — Kaşgarlı Mahmut",
+        "Yusuf Has Hacib — Kaşgarlı Mahmut — Ahmet Yesevi"
+      ],
+      "answer": "A",
+      "explanation": "Yusuf Has Hacib Kutadgu Bilig’i, Kaşgarlı Mahmut Divânü Lûgati’t-Türk’ü, Edip Ahmet Yükneki ise Atabetü’l-Hakayık’ı yazmıştır. Ahmet Yesevi ile ilişkili eser Divan-ı Hikmet’tir. Aynı kültürel çevredeki eserlerin ortak Türkçe niteliği, yazarlarının da aynı olduğu anlamına gelmez.",
+      "sources": [
+        "TI12-MEB"
+      ]
+    },
+    {
+      "id": "IMU-066",
+      "revision": 1,
+      "topic": "İlk Türk-İslam Devletlerinde Kültür ve Uygarlık",
+      "subtopic": "Edebiyat — dil ve tarih kaynağı",
+      "skill": "Bilgi ve yorum",
+      "stem": "Divânü Lûgati’t-Türk Arapça açıklamalarla Türkçe kelimeleri tanıtır; boylar, yer adları ve sözlü edebiyat örnekleri hakkında da bilgi verir. Bu özelliklerden hareketle eserle ilgili hangi değerlendirme daha uygundur?",
+      "difficulty": "Zor",
+      "options": [
+        "Türkçe öğretme amacıyla hazırlanması, kültür tarihi için de kaynak olmasını engellemez.",
+        "Arapça açıklamalar kullanılması, örneklerdeki Türkçe sözlü mirasın Arap kökenli olduğunu gösterir.",
+        "Türkçe kelimelerin tanıtılması, metnin Karahanlı devletinin resmî idari dilini tek başına belirlediğini gösterir.",
+        "Boy adlarına yer verilmesi, eserin temel amacının hanedan verasetini düzenlemek olduğunu gösterir.",
+        "Sözlü örnekler içermesi, kelimelerin anlamlarını öğretme amacının ikinci bir esere ait olduğunu gösterir."
+      ],
+      "answer": "A",
+      "explanation": "Eserin öğretim amacı ile tarih araştırmalarındaki kullanımını ayırmak gerekir. Türkçe kelime ve sözlü örnekler, boy ve yer adlarıyla birlikte kültürel incelemeye malzeme sağlar. Arapça açıklama dili Türkçe örneklerin kökenini değiştirmediği gibi, sözlüğün varlığı devletin bütün dil uygulamalarını da tek başına kanıtlamaz.",
+      "sources": [
+        "TI12-MEB"
+      ]
+    },
+    {
+      "id": "IMU-067",
+      "revision": 1,
+      "topic": "İlk Türk-İslam Devletlerinde Kültür ve Uygarlık",
+      "subtopic": "Edebiyat — yönetim düşüncesi",
+      "skill": "Bilgi ve yorum",
+      "stem": "Kutadgu Bilig’de hükümdarın adaletli davranması ve yöneticilerin akla, bilgiye ve ahlaka önem vermesi öğütlenir. Bir araştırmacının yalnız bu öğütlerden hareketle hangi sonuca ulaşması uygun değildir?",
+      "difficulty": "Orta",
+      "options": [
+        "Eserde önerilen yönetim ilkelerinin dönemin bütün görevlilerince uygulandığına",
+        "Bilginin yönetici nitelikleri arasında önemsendiğine",
+        "Eserin siyaset düşüncesi araştırmalarında kullanılabileceğine",
+        "Hükümdarın davranışının eser içinde değerlendirildiğine",
+        "Yönetimin ahlaki sorumluluk açısından ele alındığına"
+      ],
+      "answer": "A",
+      "explanation": "Kutadgu Bilig iyi yönetim için gerekli görülen nitelikleri tartışır; bu yönüyle dönemin siyaset düşüncesine kaynaklık eder. Ancak tavsiye edilen davranışları fiilen gerçekleşmiş uygulamalar gibi okumak doğru değildir. Uygulamayı değerlendirmek için başka kayıtlarla karşılaştırma gerekir.",
+      "sources": [
+        "TI12-KB"
+      ]
+    },
+    {
+      "id": "IMU-068",
+      "revision": 1,
+      "topic": "İlk Türk-İslam Devletlerinde Kültür ve Uygarlık",
+      "subtopic": "Edebiyat — öğüt ve tasavvuf",
+      "skill": "Bilgi ve yorum",
+      "stem": "Atabetü’l-Hakayık’ın bilgi ve ahlak üzerine öğütler vermesi, Divan-ı Hikmet’in ise Türkçe hikmetlerle tasavvuf düşüncesini işlemesi birlikte düşünüldüğünde hangi yargı desteklenir?",
+      "difficulty": "Orta",
+      "options": [
+        "Türkçe eserler farklı öğretici ve dinî amaçlar için kullanılabilmiştir.",
+        "Türkçe eser verme, tasavvuf öğretisinin idari bir divana dönüştüğünü gösterir.",
+        "Tasavvuf şiirleriyle ahlaki öğütler aynı yazarın tek eserinde toplanmıştır.",
+        "Öğretici eserler saray yazışmalarındaki dil tercihini belirlemiştir.",
+        "Ahlaki öğüt içeren eserler devletin resmî kanun derlemesi sayılmıştır."
+      ],
+      "answer": "A",
+      "explanation": "Atabetü’l-Hakayık ahlaki ve öğretici öğütlerle; Divan-ı Hikmet Ahmet Yesevi çevresinin tasavvufi hikmetleriyle ilişkilidir. Türkçenin bu farklı alanlarda kullanılması kültürel üretimin çeşitliliğini gösterir. Eserlerin konusu, onlara resmî kanun veya idari kurum niteliği kazandırmaz.",
+      "sources": [
+        "TI12-MEB"
+      ]
+    },
+    {
+      "id": "IMU-069",
+      "revision": 1,
+      "topic": "İlk Türk-İslam Devletlerinde Kültür ve Uygarlık",
+      "subtopic": "Edebiyat — sembolik anlatım",
+      "skill": "Bilgi",
+      "stem": "Kutadgu Bilig’de hükümdar Kün Togdı’nın temsil ettiği ilke aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Soy bağı ve veraset",
+        "Adalet ve doğru kanun",
+        "Saadet ve kut",
+        "Akıl ve anlayış",
+        "Hayatın sonu ve akıbet"
+      ],
+      "answer": "B",
+      "explanation": "Kün Togdı doğru kanun ve adaleti temsil eder. Ay Toldı saadet ve kutla, Ögdülmiş akılla, Odgurmış ise hayatın sonu ve akıbetle ilişkilidir. Karakterin hükümdar olması üzerinden eserde ideal yönetimin adaletle bağlantısı kurulmaktadır.",
+      "sources": [
+        "TI12-KB"
+      ]
+    },
+    {
+      "id": "IMU-070",
+      "revision": 1,
+      "topic": "İlk Türk-İslam Devletlerinde Kültür ve Uygarlık",
+      "subtopic": "Devlet düşüncesi — Siyasetname",
+      "skill": "Bilgi ve yorum",
+      "stem": "Nizâmülmülk’ün Melikşah döneminde kaleme aldığı Siyasetname, kurumların işleyişini ve yönetime ilişkin tedbirleri ele alır. Nizamiye medreseleri de devletin görevli ihtiyacına katkı sağlamıştır. Bu iki faaliyet hangi değerlendirmeyi destekler?",
+      "difficulty": "Orta",
+      "options": [
+        "Yönetim tecrübesi ile eğitim, devlet teşkilatının işlerliği için birlikte değerlendirilmiştir.",
+        "Vezirin öğretimle ilgilenmesi, sultanın siyasi yetkisini kendisine devrettiğini gösterir.",
+        "Siyasetname, hükümdarlık uygulamalarından bağımsız bir sözlük çalışmasıdır.",
+        "Yönetici eğitimi, askerî gelir tahsislerinin özel mülkiyete dönüşmesini amaçlamıştır.",
+        "Kurumların sorunlarına değinilmesi, medreselerin mali denetim divanlarının yerini aldığını gösterir."
+      ],
+      "answer": "A",
+      "explanation": "Siyasetname idari tecrübeden yararlanarak yönetime öneriler sunar; medreseler ise eğitim yoluyla personel yetişmesine katkı verir. İki faaliyet farklı araçlarla devlet teşkilatını destekleyebilir. Buradan saltanatın vezire devredildiği veya medreselerin divanların yerini aldığı sonucu çıkmaz.",
+      "sources": [
+        "TI12-SIY",
+        "IM-NIZ"
+      ]
+    },
+    {
+      "id": "IMU-071",
+      "revision": 1,
+      "topic": "İlk Türk-İslam Devletlerinde Kültür ve Uygarlık",
+      "subtopic": "Bilim — Celali takvimi",
+      "skill": "Bilgi ve yorum",
+      "stem": "Melikşah’ın isteği üzerine Ömer Hayyâm başkanlığındaki bilginler tarafından hazırlanan Celali takviminin yıl başlangıcını ilkbahar ılınımına bağlaması hangi yargıyı destekler?",
+      "difficulty": "Orta",
+      "options": [
+        "Yeni takvim Selçuklu devletinin resmî dilini Türkçe olarak belirlemiştir.",
+        "Hicrî takvimin ay yılı esasları değiştirilmeden aynı düzen sürdürülmüştür.",
+        "Sultanın isteği, çalışmanın gözlem yerine hanedan soyuna dayandığını gösterir.",
+        "Takvimi düzenleyen kurul devletin vergi gelirlerini doğrudan tahsil etmiştir.",
+        "Güneş yılına ilişkin astronomi bilgisinden takvim düzenlemesinde yararlanılmıştır."
+      ],
+      "answer": "E",
+      "explanation": "Celali takvimi güneş yılını ve mevsimlerle uyumu esas alır. Ömer Hayyâm başkanlığındaki kurulun çalışması Melikşah’ın bilimsel faaliyete desteğiyle ilişkilidir. Takvimden vergi uygulamalarında yararlanılabilmesi, bilginlerin doğrudan vergi tahsil ettiğini göstermez.",
+      "sources": [
+        "TI12-CEL"
+      ]
+    },
+    {
+      "id": "IMU-072",
+      "revision": 1,
+      "topic": "İlk Türk-İslam Devletlerinde Kültür ve Uygarlık",
+      "subtopic": "Devlet teşkilatı — saltanat naibliği",
+      "skill": "Bilgi",
+      "stem": "Anadolu Selçuklu teşkilatında sultanın yokluğunda onun adına devlet idaresini üstlenen görevli aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Tuğrai",
+        "Atabey",
+        "Müşrif",
+        "Müstevfi",
+        "Naib-i saltanat"
+      ],
+      "answer": "E",
+      "explanation": "Saltanat naibi, Anadolu Selçuklu teşkilatında sultanın yokluğunda onun adına yönetimi üstlenir. Atabeyin melikle ilişkili eğitim görevi veya müstevfinin mali hesap görevi bundan farklıdır. Vekâleten yönetim, görevlinin bağımsız bir hanedanın hükümdarı olduğu anlamına gelmez.",
+      "sources": [
+        "TI12-DIV"
+      ]
+    },
+    {
+      "id": "IMU-073",
+      "revision": 1,
+      "topic": "İlk Türk-İslam Devletlerinde Kültür ve Uygarlık",
+      "subtopic": "Divanlar — koordinasyon",
+      "skill": "Bilgi ve yorum",
+      "stem": "Büyük Selçuklularda vezirin başkanlık ettiği büyük divana bağlı maliye, yazışma ve askerî işlerle ilgili birimler bulunması aşağıdakilerden hangisini en doğrudan gösterir?",
+      "difficulty": "Orta",
+      "options": [
+        "Her divanın kendi hükümdarını seçerek bağımsız yönetim oluşturduğunu",
+        "Uzmanlaşmış birimlerin merkezî idare içinde koordine edildiğini",
+        "Vezirin hükümdarlık verasetini belirleyen seçim kurulu yönettiğini",
+        "Askerî kayıtların mali hesaplarla aynı işi ifade ettiğini",
+        "Bağlı birimlerin eyalet beylerine ait özel saray görevlileri olduğunu"
+      ],
+      "answer": "B",
+      "explanation": "Büyük divan devlet işlerini birlikte ele alan üst idari yapıdır; vezir başkanlığındaki birimlerin görev ayrımı koordinasyonla birlikte yürür. Mali kayıt, askerî iş ve yazışma farklı uzmanlık alanlarıdır. Bu örgütlenme, divanların ayrı siyasi egemenlik sahibi olduğu anlamına gelmez.",
+      "sources": [
+        "TI12-DIV",
+        "TI12-MEB"
+      ]
+    },
+    {
+      "id": "IMU-074",
+      "revision": 1,
+      "topic": "İlk Türk-İslam Devletlerinde Kültür ve Uygarlık",
+      "subtopic": "Taşra teşkilatı — görev ayrımları",
+      "skill": "Bilgi ve yorum",
+      "stem": "Bir Selçuklu şehrinde sivil idareyi amidin, askerî yönetimi şıhnenin yürütmesi ve vergi toplama işinde amilin görevlendirilmesi hangi yorumu destekler?",
+      "difficulty": "Orta",
+      "options": [
+        "Görevlilerin farklı unvanları, şehrin merkezî idareden bağımsız olduğunu gösterir.",
+        "Taşra yönetiminde sivil, askerî ve mali işlevler ayrıştırılabilmiştir.",
+        "Vergi tahsili, askerî komutanlığa geçiş için zorunlu aşamadır.",
+        "Sivil yöneticilik, kadının şeri yargı göreviyle aynı makamdır.",
+        "Şıhne görevi, meliklerin eğitimi için verilen atabey unvanıdır."
+      ],
+      "answer": "B",
+      "explanation": "Amid sivil idare, şıhne askerî yöneticilik ve amil vergi toplama işleviyle ilişkilidir. Bu ayrım taşradaki görev dağılımını gösterir; görevliler arasında zorunlu bir terfi sırası veya şehir için bağımsızlık anlamına gelmez. Kadılık ise bu idari işlerden ayrı bir yargı görevidir.",
+      "sources": [
+        "TI12-NOT",
+        "TI12-AMID"
+      ]
+    },
+    {
+      "id": "IMU-075",
+      "revision": 1,
+      "topic": "İlk Türk-İslam Devletlerinde Kültür ve Uygarlık",
+      "subtopic": "Sosyal hayat — ribatın değişen işlevi",
+      "skill": "Bilgi ve yorum",
+      "stem": "Ribat adı başlangıçta sınır savunmasına yönelik yapılarda kullanılmış; farklı bölge ve dönemlerde konaklama ve tasavvuf faaliyetleriyle de ilişkili hâle gelmiştir. Bu bilgilerle hangi yaklaşım bağdaşmaz?",
+      "difficulty": "Orta",
+      "options": [
+        "Sınırdaki bir ribatın savunma ihtiyacıyla ilişkisini incelemek",
+        "Ribatın yalnız adına bakarak her örneğinin aynı işlevde olduğunu kabul etmek",
+        "Konaklama işlevi taşıyan örnekleri hareketlilik açısından değerlendirmek",
+        "Bir ribatın işlevini belirlerken dönemi ve konumunu araştırmak",
+        "Tasavvufla ilgili örneklerde barınma ve dinî faaliyetleri birlikte ele almak"
+      ],
+      "answer": "B",
+      "explanation": "Ribatın tarih boyunca tek ve değişmez bir işlevi yoktur. Sınır savunması, konaklama ve tasavvuf çevresi gibi kullanımlar bağlamına göre değerlendirilir. Ticari konaklamaya elverişli bir yapının bulunması, başka dönemlerdeki askerî ribatların da ticaret yapısı olduğunu tek başına göstermez.",
+      "sources": [
+        "TI12-RIB"
+      ]
+    },
+    {
+      "id": "IMU-076",
+      "revision": 1,
+      "topic": "İlk Türk-İslam Devletlerinde Kültür ve Uygarlık",
+      "subtopic": "Sosyal hayat — aşevi ve hizmet erişimi",
+      "skill": "Bilgi ve yorum",
+      "stem": "Aşevi işleviyle kullanılan bir imarette ihtiyaç sahiplerine ve öğrencilere ücretsiz yemek verilmesi, darüşşifada ise hastaların tedavi edilmesi hangi yorumu destekler?",
+      "difficulty": "Orta",
+      "options": [
+        "Farklı sosyal ihtiyaçlar, işlevleri ayrılan hayır kurumlarıyla karşılanmıştır.",
+        "Sağlık hizmeti ile öğrenci beslenmesi, aynı eğitim derecesini kazandırmıştır.",
+        "Ücretsiz hizmet, finansman kaynağı bulunmadığı anlamına gelir.",
+        "Yemek desteği verilmesi, kurumun resmî vergi tahsil yetkisi aldığını gösterir.",
+        "İmaret adı, yapının askerî ikta gelirini denetleyen divan olduğunu gösterir."
+      ],
+      "answer": "A",
+      "explanation": "Yemek ve sağlık desteği farklı sosyal ihtiyaçlara hizmet eder. Ücretsiz sunulmaları, giderlerin olmadığı anlamına gelmez; vakıf gibi gelir kaynakları hizmetleri finanse edebilir. İmaret kelimesi tarihsel olarak farklı yapı toplulukları için de kullanıldığından kökte aşevi anlamı belirtilmiştir.",
+      "sources": [
+        "TI12-IMA",
+        "IM-VAK",
+        "TI12-NOT"
+      ]
+    }
+  ]
+}

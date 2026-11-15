@@ -1,0 +1,962 @@
+{
+  "title": "KPSS Tarih — Uzlar, Peçenekler, Macarlar ve Bulgarlar",
+  "unit": null,
+  "date": "2026-10-02",
+  "question_count": 42,
+  "sources": {
+    "EU1": {
+      "title": "Ahmet Taşağıl — Türk: Uzlar, Peçenekler ve Bulgarlar (TDV)",
+      "url": "https://islamansiklopedisi.org.tr/turk"
+    },
+    "EU2": {
+      "title": "Faruk Sümer — Peçenekler (TDV)",
+      "url": "https://islamansiklopedisi.org.tr/pecenekler"
+    },
+    "EU3": {
+      "title": "Kemal Karpat — Gagauzlar (TDV)",
+      "url": "https://islamansiklopedisi.org.tr/gagauzlar"
+    },
+    "EU4": {
+      "title": "Géza Dávid — Macaristan (TDV)",
+      "url": "https://islamansiklopedisi.org.tr/macaristan"
+    },
+    "EU5": {
+      "title": "Türk-Macar İlişkilerinde Türklük (TDK)",
+      "url": "https://tdk.gov.tr/wp-content/uploads/2012/03/152-156.pdf"
+    },
+    "EU6": {
+      "title": "ELTE Türk Filolojisi Bölümü — Kurum tarihi",
+      "url": "https://turkicstudies.elte.hu/tortenet"
+    },
+    "EU7": {
+      "title": "TÜRKSOY — 2024 Büyük Hun Türk Kurultayı",
+      "url": "https://www.turksoy.org/haberler/macaristanda-9-buyuk-hun-turk-kurultayi-gorkemli-bir-torenle-basladi"
+    },
+    "EU8": {
+      "title": "Ahmet Taşağıl — İdil Bulgar Hanlığı (TDV)",
+      "url": "https://islamansiklopedisi.org.tr/idil-bulgar-hanligi"
+    },
+    "EU9": {
+      "title": "Nuri Yüce — Bulgar (TDV)",
+      "url": "https://islamansiklopedisi.org.tr/bulgar"
+    },
+    "EU10": {
+      "title": "Saleh Muhammedoğlu Aliev — İbn Fadlân (TDV)",
+      "url": "https://islamansiklopedisi.org.tr/ibn-fadlan"
+    },
+    "EU11": {
+      "title": "Ankara Üniversitesi açık ders — Sabarlar, Avarlar, Bulgarlar",
+      "url": "https://acikders.ankara.edu.tr/course/section.php?id=29787"
+    },
+    "EU12": {
+      "title": "Canan Seyfeli — Bulgar kilisesi ve Simeon dönemi üzerine araştırma",
+      "url": "https://dergipark.org.tr/en/download/article-file/582089"
+    },
+    "EU13": {
+      "title": "Belleten — İbn Rüste’nin eserinin tarihlenmesi ve Simeon’un unvanı",
+      "url": "https://www.belleten.gov.tr/tam-metin/356/tur"
+    }
+  },
+  "questions": [
+    {
+      "id": "UZ-001",
+      "revision": 1,
+      "topic": "Uzlar",
+      "subtopic": "Ad ve köken",
+      "skill": "Bilgi",
+      "stem": "Bizans kaynaklarında “Uz” adıyla anılan topluluk, aşağıdaki Türk boylarından hangisinin batıya yönelen koludur?",
+      "difficulty": "Kolay",
+      "options": [
+        "Kırgızlar",
+        "Oğuzlar",
+        "Oğurlar",
+        "Kıpçaklar",
+        "Karluklar"
+      ],
+      "answer": "B",
+      "explanation": "Uz adı, Oğuzların batıya yönelen grupları için kullanılmıştır. Uzların bir bölümünün Hristiyanlığı benimsemesi bu adın yalnız bir din tanımı olduğu anlamına gelmez. Oğuz ve Ogur adları da benzer yazılışlarına rağmen aynı boy adlandırması değildir.",
+      "sources": [
+        "EU1"
+      ]
+    },
+    {
+      "id": "UZ-002",
+      "revision": 1,
+      "topic": "Uzlar",
+      "subtopic": "Askerî hizmet",
+      "skill": "Bilgi",
+      "stem": "Balkanlara gelen Uz gruplarından bir bölümünün ücretli asker olarak hizmet ettiği ve Malazgirt seferine katıldığı ordu aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Gazneli ordusu",
+        "Karahanlı ordusu",
+        "Abbasi ordusu",
+        "Fatımi ordusu",
+        "Bizans ordusu"
+      ],
+      "answer": "E",
+      "explanation": "Uz grupları Bizans ordusunda ücretli asker olarak yer aldı. Malazgirt seferine getirilen bazı Uz ve Peçenek birliklerinin Selçuklu tarafına geçmesi, başlangıçtaki askerî hizmet ilişkisini değiştirdi. Bütün Uzların tek bir orduda bulunduğu sonucu çıkarılmamalıdır.",
+      "sources": [
+        "EU2"
+      ]
+    },
+    {
+      "id": "UZ-003",
+      "revision": 1,
+      "topic": "Uzlar",
+      "subtopic": "Malazgirt",
+      "skill": "Bilgi",
+      "stem": "Bizans hizmetindeki bazı Uz ve Peçenek birliklerinin Alparslan’ın tarafına geçtiği sefer, aşağıdaki savaşlardan hangisiyle ilişkilidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Miryokefalon",
+        "Kösedağ",
+        "Malazgirt",
+        "Pasinler",
+        "Dandanakan"
+      ],
+      "answer": "C",
+      "explanation": "Bu geçiş 1071 Malazgirt seferiyle ilişkilidir. Bizans ordusunda bulunan bazı Uz ve Peçenek birlikleri Alparslan’ın ordusuna katılmıştır. Pasinler de Bizans ile Selçuklular arasındaki bir mücadeledir; ancak sorudaki olay Malazgirt’e aittir.",
+      "sources": [
+        "EU2"
+      ]
+    },
+    {
+      "id": "UZ-004",
+      "revision": 1,
+      "topic": "Uzlar",
+      "subtopic": "Gagauzlar",
+      "skill": "Bilgi",
+      "stem": "Ortodoks Hristiyanlığı benimsemiş, dili Oğuz grubu içinde yer alan ve kökeniyle ilgili görüşlerden birinde Uzlarla ilişkilendirilen topluluk aşağıdakilerden hangisidir?",
+      "difficulty": "Orta",
+      "options": [
+        "Gagauzlar",
+        "Çuvaşlar",
+        "Karaimler",
+        "Tatarlar",
+        "Başkurtlar"
+      ],
+      "answer": "A",
+      "explanation": "Gagauzlar Ortodoks Hristiyandır ve dilleri Oğuz grubundadır. Uzlarla bağlantıları, kökenlerini açıklayan görüşlerden biridir; bütün tarihlerini tek ve kesin bir soy çizgisine indirgemek doğru olmaz. Çuvaşların dili ise Oğuz grubunda değildir.",
+      "sources": [
+        "EU3",
+        "EU1"
+      ]
+    },
+    {
+      "id": "UZ-005",
+      "revision": 1,
+      "topic": "Uzlar",
+      "subtopic": "Dil ve din",
+      "skill": "Yorum",
+      "stem": "Gagauzların Ortodoks Hristiyan olmalarına rağmen Oğuz grubundaki dillerini korumaları aşağıdaki yargılardan hangisini destekler?",
+      "difficulty": "Orta",
+      "options": [
+        "Ortak dili olan toplulukların siyasi merkezi ortaktır.",
+        "Bir topluluğun dinini bilmek tarihî göç yolunu belirler.",
+        "Dilin korunması başka kültürlerle temas edilmediğini gösterir.",
+        "Dinî aidiyet ile dilsel aidiyet aynı ölçüt değildir.",
+        "Din değişimi dilin kökenini de değiştirir."
+      ],
+      "answer": "D",
+      "explanation": "Dinî inanç ve dilin hangi gruba ait olduğu farklı özelliklerdir. Gagauz örneği, Hristiyanlığın benimsenmesinin Türkçe konuşmayı zorunlu olarak sona erdirmediğini gösterir. Dilin korunması siyasi birlik veya kültürel yalıtılmışlık kanıtı değildir.",
+      "sources": [
+        "EU3"
+      ]
+    },
+    {
+      "id": "UZ-006",
+      "revision": 1,
+      "topic": "Uzlar",
+      "subtopic": "Askerî bağlılık ve çıkarım",
+      "skill": "Yorum",
+      "stem": "Uzlar Oğuzlarla ilişkili bir topluluktu. Bazı Uz birlikleri önce Bizans hizmetinde bulunmuş, Malazgirt seferi sırasında ise Selçuklu ordusuna katılmıştır.\n\nBuna göre,\nI. Boy kökeni ile hizmet edilen siyasi güç farklı ölçütlerdir.\nII. Bu geçiş, Balkanlardaki bütün Uzların Selçuklu egemenliğine girdiğini kanıtlar.\nIII. Bir birliğin askerî bağlılığı zaman içinde değişebilir.\nyargılarından hangilerine ulaşılabilir?",
+      "difficulty": "Orta",
+      "options": [
+        "I, II ve III",
+        "I ve III",
+        "Yalnız I",
+        "I ve II",
+        "II ve III"
+      ],
+      "answer": "B",
+      "explanation": "Oğuz kökeni ile Bizans hizmetinin birlikte görülmesi I’i, taraf değiştirme ise III’ü destekler. II, bazı askerî birliklerin davranışını bütün bir topluluğun siyasi statüsüne genellemektedir. Birliklerin geçişi, bütün Uzların yerleşimlerini ve bağlılığını açıklamaz.",
+      "sources": [
+        "EU1",
+        "EU2"
+      ]
+    },
+    {
+      "id": "PEC-001",
+      "revision": 1,
+      "topic": "Peçenekler",
+      "subtopic": "Karadeniz’in kuzeyi",
+      "skill": "Bilgi",
+      "stem": "Karadeniz’in kuzeyinde uzun süre faaliyet gösteren Peçeneklerin Kiev merkezli siyasi oluşumla mücadeleleri, aşağıdaki topluluklardan hangisinin tarihiyle doğrudan ilişkilidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Franklar",
+        "Sasaniler",
+        "Avarlar",
+        "Venedikliler",
+        "Ruslar"
+      ],
+      "answer": "E",
+      "explanation": "Kiev merkezli Rus siyasi oluşumu, Peçeneklerin kuzey bozkırlarındaki başlıca muhataplarındandır. İlişkileri savaşlardan ibaret değildi; barış ve askerî iş birliği örnekleri de vardı. Bu nedenle uzun mücadele dönemini aralıksız süren tek bir savaş gibi düşünmemek gerekir.",
+      "sources": [
+        "EU2"
+      ]
+    },
+    {
+      "id": "PEC-002",
+      "revision": 1,
+      "topic": "Peçenekler",
+      "subtopic": "Bizans mücadeleleri",
+      "skill": "Bilgi",
+      "stem": "Peçeneklerin XI. yüzyıl ortalarında Bizans’a karşı mücadele ederken kuşattığı Trakya şehri aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Pliska",
+        "Sirmium",
+        "Edirne",
+        "Selanik",
+        "İstanbul"
+      ],
+      "answer": "C",
+      "explanation": "Sorulan hedef Edirne’dir. Peçeneklerin Bizans’la farklı tarihlerde yaşadığı mücadeleleri aynı kuşatma olarak düşünmemek gerekir. Özellikle XI. yüzyıl ortasındaki Edirne harekâtı, 1091’de Kuman desteğiyle kazanılan Bizans zaferinden ayrı bir olaydır.",
+      "sources": [
+        "EU2"
+      ]
+    },
+    {
+      "id": "PEC-003",
+      "revision": 1,
+      "topic": "Peçenekler",
+      "subtopic": "1091 yenilgisi",
+      "skill": "Bilgi",
+      "stem": "1091’de Bizans’ın Peçeneklere karşı kazandığı ağır zaferde Bizans’a askerî destek veren topluluk aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Kumanlar",
+        "Uzlar",
+        "Macarlar",
+        "Tuna Bulgarları",
+        "Oğuzlar"
+      ],
+      "answer": "A",
+      "explanation": "1091’de Bizans, Kuman-Kıpçak desteğiyle Peçenekleri ağır yenilgiye uğratmıştır. Soruda Bizans hizmetindeki her Türk topluluğu değil, bu belirli seferde destek veren grup aranır. Uzlarla ilgili Bizans hizmeti ve Malazgirt bilgisi farklı olay bağlamındadır.",
+      "sources": [
+        "EU2"
+      ]
+    },
+    {
+      "id": "PEC-004",
+      "revision": 1,
+      "topic": "Peçenekler",
+      "subtopic": "Siyasi teşkilat",
+      "skill": "Yorum",
+      "stem": "Peçenek boylarının kendi başbuğları bulunuyor, savaş ve savunma sırasında ortak hareket edebiliyorlardı; buna rağmen bütün boyları sürekli tek merkezde birleştiren bir devlet yapısı oluşmadı.\n\nBuna göre aşağıdakilerden hangisi söylenebilir?",
+      "difficulty": "Orta",
+      "options": [
+        "Başbuğların varlığı verasetin bütün boylarda aynı kurala bağlandığını kanıtlar.",
+        "Boy teşkilatı dış siyasi ilişkiler kurulmasını engellemiştir.",
+        "Askerî iş birliği boyların bağımsız hareket etme imkânını ortadan kaldırmıştır.",
+        "Merkezî devlet kurulamaması siyasi örgütlenmenin hiç bulunmadığı anlamına gelmez.",
+        "Ortak savunma yapılması bütün boyların tek hükümdara sürekli bağlı olduğunu gösterir."
+      ],
+      "answer": "D",
+      "explanation": "Başbuğlar ve ortak savunma, boy düzeyinde siyasi ve askerî örgütlenmenin bulunduğunu gösterir. Burada eksik olan bütün boyları sürekli bir merkezde birleştiren devlet yapısıdır. Savaş sırasındaki iş birliği, kalıcı merkezî otoriteyle aynı değildir.",
+      "sources": [
+        "EU1"
+      ]
+    },
+    {
+      "id": "PEC-005",
+      "revision": 1,
+      "topic": "Peçenekler",
+      "subtopic": "Malazgirt’te ortak özellik",
+      "skill": "Bilgi ve yorum",
+      "stem": "Malazgirt seferinde Bizans hizmetindeki bazı Peçenek birlikleri Selçuklu tarafına geçmiştir.\n\nBu gelişme ile ilgili aşağıdaki yargılardan hangisi, birliklerin askerî tercihi dışında ayrıca kanıt gerektirir?",
+      "difficulty": "Orta",
+      "options": [
+        "Selçuklu ordusuna katılan Peçenek savaşçıları bulunduğu",
+        "Peçenek boy beylerinin bu geçişi ortak bir siyasi kararla yönettiği",
+        "Peçenek savaşçılarının seferde Bizans ordusunda da görev aldığı",
+        "Bazı Peçenek birliklerinin hizmet ettiği siyasi gücün değiştiği",
+        "Aynı sefer içinde askerî bağlılığın yeniden şekillenebildiği"
+      ],
+      "answer": "B",
+      "explanation": "Bazı birliklerin taraf değiştirmesi, onların askerî hizmetinin yönünü gösterir. Ancak bütün boy birliğini temsil eden ortak bir karar alındığı, geçişi boy beylerinin yönettiği bilgisi verilmemiştir. Bir askerî birliğin hareketi ile topluluğun ortak siyasi kararı aynı düzeyde kanıt değildir.",
+      "sources": [
+        "EU2"
+      ]
+    },
+    {
+      "id": "PEC-006",
+      "revision": 1,
+      "topic": "Peçenekler",
+      "subtopic": "Çaka Bey ittifakı",
+      "skill": "Bilgi",
+      "stem": "Bizans’a karşı Peçeneklerle anlaşarak kara ve deniz yönlerinden ortak baskı kurmayı amaçlayan Türk beyi aşağıdakilerden hangisidir?",
+      "difficulty": "Orta",
+      "options": [
+        "Kutalmışoğlu Süleyman Şah",
+        "Danişmend Gazi",
+        "Artuk Bey",
+        "Mengücek Gazi",
+        "Çaka Bey"
+      ],
+      "answer": "E",
+      "explanation": "İzmir merkezli deniz gücü kuran Çaka Bey, Peçeneklerle Bizans’a karşı iş birliği aradı. Tasarlanan ortak baskıda Peçeneklerin kara kuvvetleri ile Çaka Bey’in deniz gücü birbirini tamamlayacaktı. Ancak bu plan hedeflenen sonucu vermedi.",
+      "sources": [
+        "EU2"
+      ]
+    },
+    {
+      "id": "PEC-007",
+      "revision": 1,
+      "topic": "Peçenekler",
+      "subtopic": "Olay sırası",
+      "skill": "Bilgi ve yorum",
+      "stem": "Peçeneklerle ilgili gelişmelerin eskiden yeniye sıralaması aşağıdakilerden hangisidir?\n\nI. Kuman destekli Bizans kuvvetleri karşısında 1091 yenilgisi\nII. XI. yüzyıl ortalarında Edirne’ye yönelik harekât\nIII. Bazı birliklerin Malazgirt seferinde Selçuklu tarafına geçmesi",
+      "difficulty": "Orta",
+      "options": [
+        "II — I — III",
+        "III — I — II",
+        "II — III — I",
+        "I — II — III",
+        "III — II — I"
+      ],
+      "answer": "C",
+      "explanation": "Edirne’ye yönelik XI. yüzyıl ortası harekâtını 1071 Malazgirt seferi, onu da 1091 yenilgisi izler. Bu sıralama üç farklı olayın tek bir savaşın aşamaları gibi görülmesini önler. Edirne kuşatması ile Kuman destekli yenilgi aynı olay değildir.",
+      "sources": [
+        "EU2"
+      ]
+    },
+    {
+      "id": "PEC-008",
+      "revision": 1,
+      "topic": "Peçenekler",
+      "subtopic": "Değişen ittifaklar",
+      "skill": "Yorum",
+      "stem": "Peçenekler 1078’de Kıpçaklarla birlikte Edirne’yi kuşatmış, 1091’de ise Kuman-Kıpçak desteği alan Bizans kuvvetleri karşısında yenilmiştir.\n\nBuna göre,\nI. Peçenek–Kıpçak ilişkileri iki olayda farklı askerî yönelimler göstermiştir.\nII. Ortak bir düşmana karşı iş birliği, sonraki dönemde aynı safta kalmayı garanti etmez.\nIII. 1078’deki iş birliği iki topluluğun tek devlet hâlinde birleştiğini kanıtlar.\nyargılarından hangilerine ulaşılabilir?",
+      "difficulty": "Orta",
+      "options": [
+        "I ve II",
+        "Yalnız I",
+        "Yalnız III",
+        "II ve III",
+        "I, II ve III"
+      ],
+      "answer": "A",
+      "explanation": "İlk olayda iş birliği, ikinci olayda karşıt saflarda bulunma I ve II’yi destekler. Kuman ve Kıpçak adları burada aynı topluluk çevresini ifade eder. III, askerî ittifakı kanıt olmadan devlet birleşmesine dönüştürmektedir.",
+      "sources": [
+        "EU2"
+      ]
+    },
+    {
+      "id": "MAC-001",
+      "revision": 1,
+      "topic": "Macarlar",
+      "subtopic": "Arpad ve yurt edinme",
+      "skill": "Bilgi",
+      "stem": "Macarların IX. yüzyıl sonlarında Karpat Havzası’na yerleşme sürecinde önderlik eden ve bir hanedana adını veren lider aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Kubrat",
+        "Asparuh",
+        "Almış",
+        "Arpad",
+        "Bayan"
+      ],
+      "answer": "D",
+      "explanation": "Arpad, Macarların 895–896 çevresinde Karpat Havzası’na yönelişi ve yurt edinmesiyle ilişkilidir. Macar Krallığı’nın Hristiyan temelde kuruluşu ve ilk krallık tacı ise daha sonra I. István ile bağlantılıdır. Bu nedenle göç önderliği ile krallığın kuruluşu aynı olay sayılmaz.",
+      "sources": [
+        "EU4"
+      ]
+    },
+    {
+      "id": "MAC-002",
+      "revision": 1,
+      "topic": "Macarlar",
+      "subtopic": "Coğrafya",
+      "skill": "Bilgi",
+      "stem": "Macarların IX. yüzyıl sonlarında yurt edindikleri ve bugünkü Macaristan’ın da içinde bulunduğu bölge aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Seyhun Havzası",
+        "Karpat Havzası",
+        "İdil–Kama Havzası",
+        "Orhun Vadisi",
+        "Tarım Havzası"
+      ],
+      "answer": "B",
+      "explanation": "Macarların yurt edinme sürecinin başlıca sahası Karpat Havzası’dır. İdil–Kama sahası İdil Bulgarlarıyla, Orhun Vadisi Göktürk ve Uygur siyasi merkezleriyle ilişkilidir. Farklı dönemlerde aynı bölgede yaşamış toplulukları tek devlet gibi değerlendirmemek gerekir.",
+      "sources": [
+        "EU4"
+      ]
+    },
+    {
+      "id": "MAC-003",
+      "revision": 1,
+      "topic": "Macarlar",
+      "subtopic": "Hun mirası",
+      "skill": "Bilgi",
+      "stem": "Orta Çağ Macar kroniklerinde soy ve tarihî miras anlatılarının ilişkilendirildiği Avrupa Hun hükümdarı aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Balamir",
+        "Uldız",
+        "Rua",
+        "Bleda",
+        "Attila"
+      ],
+      "answer": "E",
+      "explanation": "Macar kronik geleneğinde Attila önemli bir ata ve tarihî miras figürü olarak yer alır. Bu anlatı, Macarların Hun mirasıyla kurduğu bağı gösterir. Kronikteki soy iddiası, bütün nüfusun biyolojik kökeninin kesin kanıtı olarak kullanılamaz.",
+      "sources": [
+        "EU5"
+      ]
+    },
+    {
+      "id": "MAC-004",
+      "revision": 1,
+      "topic": "Macarlar",
+      "subtopic": "Hristiyanlaşma",
+      "skill": "Bilgi ve yorum",
+      "stem": "Macar tarihinde Géza’nın X. yüzyılda Hristiyanlığı benimsemesi ile I. István’ın 1000–1001’de kral olarak taç giymesi birlikte değerlendirildiğinde aşağıdaki açıklamalardan hangisi uygundur?",
+      "difficulty": "Orta",
+      "options": [
+        "Krallık tacı, bütün halkın aynı gün din değiştirdiğini gösterir.",
+        "Géza’nın tercihi Bizans siyasi egemenliğini zorunlu kılmıştır.",
+        "Dinî dönüşüm ile Hristiyan krallığın kurumsallaşması birbirini izleyen aşamalardır.",
+        "Macarların Karpat Havzası’na gelişi ilk kralın taç giydiği sırada başlamıştır.",
+        "Arpad ile I. István aynı hükümdarın farklı adlarıdır."
+      ],
+      "answer": "C",
+      "explanation": "Hristiyanlaşma bir süreçtir; Géza’nın tercihi ile István’ın krallığı bunun farklı aşamalarını gösterir. Macarların Karpat Havzası’na yerleşmesi daha erkendir. Bir hükümdarın dinî veya siyasi kararı, halkın tamamının aynı anda aynı değişimi yaşadığını kanıtlamaz.",
+      "sources": [
+        "EU4"
+      ]
+    },
+    {
+      "id": "MAC-005",
+      "revision": 1,
+      "topic": "Macarlar",
+      "subtopic": "Türkoloji",
+      "skill": "Bilgi",
+      "stem": "1870’te kurulan ve bugün ELTE bünyesinde faaliyet gösteren Türk filolojisi bölümüyle Türkoloji çalışmalarında öncü merkezlerden biri olan ülke aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Macaristan",
+        "Bulgaristan",
+        "Romanya",
+        "Sırbistan",
+        "Yunanistan"
+      ],
+      "answer": "A",
+      "explanation": "Söz konusu kurum Macaristan’ın Budapeşte kentindedir. Türkolojiye ilişkin üniversite eğitimi ve araştırmaları Macaristan’da köklü bir geçmişe sahiptir. Bu bilgi, Orta Çağ’daki Macar siyasi teşkilatıyla XIX. yüzyıldaki bilim kurumunu aynı döneme yerleştirmek için kullanılamaz.",
+      "sources": [
+        "EU6"
+      ]
+    },
+    {
+      "id": "MAC-006",
+      "revision": 1,
+      "topic": "Macarlar",
+      "subtopic": "Bilimsel alan",
+      "skill": "Yorum",
+      "stem": "Macaristan’daki bir Türkoloji bölümünde Türk dilleri, tarihî metinler ve Türk topluluklarının kültürleri üzerinde çalışılması, öncelikle aşağıdakilerden hangisini gösterir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Dil akrabalığı incelemesinin siyasi köken sorununu sonuçlandırdığını",
+        "Tarihî metinlerin modern siyasi sınırları belirlemek için kullanıldığını",
+        "Türk topluluklarının tarihinin Macar kronikleriyle sınırlı tutulduğunu",
+        "Türk dünyasının dil, tarih ve kültür yönleriyle araştırıldığını",
+        "İncelenen dillerin Macarcanın tarihî dönemleri olarak kabul edildiğini"
+      ],
+      "answer": "D",
+      "explanation": "Türkoloji çalışmaları Türk dünyasını dil, tarih ve kültür yönleriyle inceler. Araştırmanın yürütülmesi, belirli bir soy veya dil akrabalığı iddiasının kendiliğinden doğrulandığı anlamına gelmez. Kurumun araştırma alanıyla bilimsel incelemenin sonuçları ayrılmalıdır.",
+      "sources": [
+        "EU6"
+      ]
+    },
+    {
+      "id": "MAC-007",
+      "revision": 1,
+      "topic": "Macarlar",
+      "subtopic": "Kültürel miras",
+      "skill": "Yorum",
+      "stem": "Macaristan’da düzenlenen Büyük Hun Türk Kurultayı’nda farklı topluluklardan katılımcılar tarihî kıyafetleri, atlı gösterileri ve geleneksel sanatları tanıtmaktadır. Bu etkinlikle ilgili aşağıdakilerden hangisine ulaşılamaz?",
+      "difficulty": "Orta",
+      "options": [
+        "Geçmişe yönelik ilgiyi canlı tutabilecek faaliyetler içermektedir.",
+        "Eski Türk kurultayı gibi devlet yönetiminde karar alma yetkisine sahiptir.",
+        "Kültürel mirasın görünür olmasına katkıda bulunmaktadır.",
+        "Tarihî sembollerin hatırlanmasına aracılık etmektedir.",
+        "Topluluklar arasında kültürel temas imkânı sunmaktadır."
+      ],
+      "answer": "B",
+      "explanation": "Günümüzdeki etkinlik kültürel miras ve tanıtım işlevi taşır. Eski Türk devletlerinde ise kurultay siyasi konuların görüşüldüğü bir meclisti. Aynı adın kullanılması, bugünkü etkinliğin tarihî meclisle aynı yönetim yetkilerine sahip olduğunu göstermez.",
+      "sources": [
+        "EU7"
+      ]
+    },
+    {
+      "id": "MAC-008",
+      "revision": 1,
+      "topic": "Macarlar",
+      "subtopic": "Tarihî anlatı ve bilim kurumu",
+      "skill": "Yorum",
+      "stem": "Bir Macar kroniği Attila’yı ata figürü olarak anlatırken XIX. yüzyılda kurulan bir üniversite bölümü Türk dilleri ve tarihini araştırmaktadır.\n\nBu iki bilgiden;\nI. Hun mirasının Macar tarihî anlatılarında yer aldığı,\nII. Türk dünyasına ilişkin araştırmaların kurumsal bir zemine sahip olduğu,\nIII. bu bölümün soy araştırmalarında kronikteki anlatıyı esas aldığı\nyargılarından hangilerine ulaşılabilir?",
+      "difficulty": "Orta",
+      "options": [
+        "Yalnız I",
+        "Yalnız III",
+        "I ve III",
+        "II ve III",
+        "I ve II"
+      ],
+      "answer": "E",
+      "explanation": "Kronikte Attila’nın ata figürü olması Hun mirasının tarihî anlatıda yer aldığını gösterir. Türkoloji bölümü Türk dünyasının kurumsal olarak araştırıldığını destekler. Bölümün varlığı, kronikteki soy anlatısını hangi yöntemle değerlendirdiğini veya doğruladığını açıklamaz.",
+      "sources": [
+        "EU5",
+        "EU6"
+      ]
+    },
+    {
+      "id": "BUL-001",
+      "revision": 1,
+      "topic": "Bulgarlar",
+      "subtopic": "Adın anlamı",
+      "skill": "Bilgi",
+      "stem": "Adı yaygın bir köken açıklamasında “bulgamak”, yani “karışmak” fiiliyle ilişkilendirilen topluluk aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Kıpçaklar",
+        "Uzlar",
+        "Bulgarlar",
+        "Hazarlar",
+        "Peçenekler"
+      ],
+      "answer": "C",
+      "explanation": "Bulgar adı, yaygın bir açıklamada “bulgamak” fiili ve karışma anlamıyla ilişkilendirilir. Bu açıklama, Hun kalıntıları ile Ogur topluluklarının birleşmesiyle de birlikte değerlendirilir. Bir kavim adının açıklaması, her bireyin kökenini tek başına belirlemez.",
+      "sources": [
+        "EU11"
+      ]
+    },
+    {
+      "id": "BUL-002",
+      "revision": 1,
+      "topic": "Bulgarlar",
+      "subtopic": "Hun–Ogur ilişkisi",
+      "skill": "Bilgi",
+      "stem": "Bulgarların oluşumunda Avrupa Hun mirasıyla ilişkilendirilen grupların, Karadeniz’in kuzeyindeki hangi Türk topluluklarıyla birleşmesi öne çıkar?",
+      "difficulty": "Kolay",
+      "options": [
+        "Ogur toplulukları",
+        "Oğuz toplulukları",
+        "Peçenek toplulukları",
+        "Kıpçak toplulukları",
+        "Sabar toplulukları"
+      ],
+      "answer": "A",
+      "explanation": "Bulgarların oluşumu Hun mirasıyla ilişkili grupların Ogur topluluklarıyla birleşmesi üzerinden açıklanır. Ogur ile Oğuz adları birbirinin yerine kullanılmamalıdır. Aynı geniş coğrafyada bulunmuş Peçenek, Kıpçak veya Sabar grupları bu belirli oluşumun sorulan karşılığı değildir.",
+      "sources": [
+        "EU1",
+        "EU11"
+      ]
+    },
+    {
+      "id": "BUL-003",
+      "revision": 1,
+      "topic": "Bulgarlar",
+      "subtopic": "Büyük Bulgar Devleti",
+      "skill": "Bilgi",
+      "stem": "Karadeniz’in kuzeyinde Büyük Bulgar Devleti’ni kuran hükümdar aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Almış Han",
+        "Kurum Han",
+        "Boris Han",
+        "Kubrat Han",
+        "Asparuh Han"
+      ],
+      "answer": "D",
+      "explanation": "Büyük Bulgar Devleti’nin kurucusu Kubrat Han’dır; adı Kurt veya Kuvrat biçimlerinde de geçer. Asparuh Tuna Bulgarlarının kuruluşuyla, Almış ise İdil Bulgarlarının İslamiyet’i kabulüyle ilişkilidir. Bu hükümdarların aynı Bulgar siyasi yapısında aynı rolü üstlendiği düşünülmemelidir.",
+      "sources": [
+        "EU1",
+        "EU11"
+      ]
+    },
+    {
+      "id": "BUL-004",
+      "revision": 1,
+      "topic": "Bulgarlar",
+      "subtopic": "Bulgar kolları ve coğrafya",
+      "skill": "Bilgi",
+      "stem": "Büyük Bulgar Devleti’nin dağılmasından sonra ortaya çıkan başlıca Bulgar siyasi kolları ile yerleştikleri sahalar aşağıdakilerin hangisinde doğru eşleştirilmiştir?",
+      "difficulty": "Orta",
+      "options": [
+        "Tuna Bulgarları — Seyhun çevresi; İdil Bulgarları — Volga–Kama çevresi",
+        "Tuna Bulgarları — Balkanlar; İdil Bulgarları — Volga–Kama çevresi",
+        "Tuna Bulgarları — Volga–Kama çevresi; İdil Bulgarları — Balkanlar",
+        "Tuna Bulgarları — Orhun Vadisi; İdil Bulgarları — Balkanlar",
+        "Tuna Bulgarları — Balkanlar; İdil Bulgarları — Tarım Havzası"
+      ],
+      "answer": "B",
+      "explanation": "Tuna Bulgarları Balkanlarda, İdil Bulgarları Volga–Kama çevresinde siyasi varlık gösterdi. Büyük Bulgar Devleti’nin dağılması farklı yönlerde göçlere yol açtı; bütün Bulgar grupları yalnız bu iki kola katılmadı. Coğrafi ayrım, sonraki dinî ve siyasi gelişmeleri anlamak için önemlidir.",
+      "sources": [
+        "EU8",
+        "EU11"
+      ]
+    },
+    {
+      "id": "BUL-005",
+      "revision": 1,
+      "topic": "Bulgarlar",
+      "subtopic": "626 ve siyasi bağlılık",
+      "skill": "Yorum",
+      "stem": "626 İstanbul kuşatmasına katılan Avar ordusunun Bulgar birlikleriyle takviye edilmesi aşağıdaki yargılardan hangisini destekler?",
+      "difficulty": "Orta",
+      "options": [
+        "Kuşatmanın Asparuh’un devlet kuruluşundan sonra gerçekleştiğini",
+        "Bulgar birliklerinin Avar ordusunu kendi hükümdarlıklarına bağladığını",
+        "Kuşatmanın Kurum Han’ın Bizans politikasına ait olduğunu",
+        "Kuşatmadaki Bulgar birliğinin Tuna ve İdil kollarını birleştirdiğini",
+        "Bulgar gruplarının Tuna Bulgar Devleti’nden önce de bölgede askerî rol aldığını"
+      ],
+      "answer": "E",
+      "explanation": "626’daki katılım, Bulgar gruplarının Tuna Bulgar Devleti kurulmadan önce de askerî olaylarda rol aldığını gösterir. Asparuh’un kuruluşu ve Kurum’un Bizans mücadeleleri daha sonraki gelişmelerdir. Bir orduda Bulgar birliklerinin bulunması Avarların Bulgar yönetimine girdiğini de kanıtlamaz.",
+      "sources": [
+        "EU1"
+      ]
+    },
+    {
+      "id": "BUL-006",
+      "revision": 1,
+      "topic": "Bulgarlar",
+      "subtopic": "Almış Han",
+      "skill": "Bilgi",
+      "stem": "İdil Bulgarlarında İslamiyet’in resmen benimsenmesi ve 922’de Abbasi heyetinin kabulü hangi hükümdarla ilişkilidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Omurtag Han",
+        "Boris Han",
+        "Almış Han",
+        "Kubrat Han",
+        "Asparuh Han"
+      ],
+      "answer": "C",
+      "explanation": "Almış Han, Abbasi halifesiyle ilişki kurarak din adamları istemiş ve 922’de gelen heyeti kabul etmiştir. İbn Fadlan da bu heyette yer almıştır. Ülkede İslamiyet’in yayılması, bu resmî temastan önce tüccarlar ve yerel Müslümanlar aracılığıyla başlamıştı.",
+      "sources": [
+        "EU8"
+      ]
+    },
+    {
+      "id": "BUL-007",
+      "revision": 1,
+      "topic": "Bulgarlar",
+      "subtopic": "Doğu Avrupa’da İslamiyet",
+      "skill": "Bilgi",
+      "stem": "Doğu Avrupa’da İslamiyet’i resmî din olarak kabul eden ilk Türk devleti olarak anılan siyasi yapı aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "İdil Bulgar Devleti",
+        "Tuna Bulgar Devleti",
+        "Büyük Bulgar Devleti",
+        "Hazar Kağanlığı",
+        "Avrupa Avar Devleti"
+      ],
+      "answer": "A",
+      "explanation": "Bu niteleme İdil Bulgar Devleti için kullanılır. Almış Han ve 922’deki Abbasi heyeti resmî kabul sürecinin önemli unsurlarıdır. Tuna Bulgarlarının Boris dönemindeki dinî yönelimi ise Hristiyanlıktır.",
+      "sources": [
+        "EU8",
+        "EU1"
+      ]
+    },
+    {
+      "id": "BUL-008",
+      "revision": 1,
+      "topic": "Bulgarlar",
+      "subtopic": "Seyyah ve eser",
+      "skill": "Bilgi",
+      "stem": "922’de Abbasi heyetiyle İdil Bulgar ülkesine giden ve gözlemlerini Seyahatname veya er-Risâle adıyla bilinen eserinde anlatan kişi aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "İbn Haldun",
+        "Kaşgarlı Mahmud",
+        "Yusuf Has Hacib",
+        "İbn Fadlan",
+        "İbn Battuta"
+      ],
+      "answer": "D",
+      "explanation": "İbn Fadlan, Abbasi heyetindeki görevi sırasında İdil Bulgarları ve yol üzerindeki topluluklar hakkında gözlemler kaydetmiştir. Eseri seyahat anlatısı niteliğindedir; bibliyografyalarda farklı adlandırmalarla da anılır. İbn Battuta’nın er-Rihle’siyle karıştırılmamalıdır.",
+      "sources": [
+        "EU8",
+        "EU10"
+      ]
+    },
+    {
+      "id": "BUL-009",
+      "revision": 1,
+      "topic": "Bulgarlar",
+      "subtopic": "Kaynak değerlendirme",
+      "skill": "Yorum",
+      "stem": "İbn Fadlan’ın İdil Bulgar ülkesine giderek gördüğü törenleri ve toplumsal uygulamaları kaydetmesi, eserinin hangi bakımdan önemini artırır?",
+      "difficulty": "Orta",
+      "options": [
+        "Tuna ve İdil Bulgarlarının bütün kurumlarının aynı olduğunu kanıtlaması",
+        "Belirli yer ve zamana ilişkin doğrudan gözlemler içermesi",
+        "Bulgarların bütün dönemlerini aynı ayrıntıyla anlatması",
+        "Anlatılan her olayın başka kaynakla denetlenmesine gerek bırakmaması",
+        "Yazarın diplomatik görevinin bütün yorumlarını tarafsız kılması"
+      ],
+      "answer": "B",
+      "explanation": "Seyahate katılmış olması, eserine belirli olaylar bakımından doğrudan gözlem değeri kazandırır. Ancak bu değer bütün dönemleri kapsama veya her yorumun tartışmasız doğruluğu anlamına gelmez. Gözlemin zamanı, yeri ve yazarın bakış açısı yine dikkate alınmalıdır.",
+      "sources": [
+        "EU10"
+      ]
+    },
+    {
+      "id": "BUL-010",
+      "revision": 1,
+      "topic": "Bulgarlar",
+      "subtopic": "Moğol istilası",
+      "skill": "Bilgi",
+      "stem": "Batu Han’ın kuvvetlerinin 1236’daki istilasıyla İdil Bulgarlarının bağımsız siyasi varlığına ağır darbe vuran güç aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Kiev Rus Knezliği",
+        "Kumanlar",
+        "Hârizmşahlar",
+        "Tuna Bulgarları",
+        "Moğollar"
+      ],
+      "answer": "E",
+      "explanation": "1236’da Batu Han’ın kuvvetleri İdil Bulgar ülkesini istila etmiş ve ülke Moğol egemenliğine girmiştir. Önceki Rus mücadeleleri bu belirli istilayla aynı olay değildir. Siyasi varlığa darbe, Bulgar topluluklarının ve kültürel hayatlarının o tarihte bütünüyle yok olması anlamına gelmez.",
+      "sources": [
+        "EU8",
+        "EU9"
+      ]
+    },
+    {
+      "id": "BUL-011",
+      "revision": 1,
+      "topic": "Bulgarlar",
+      "subtopic": "Tuna kuruluşu",
+      "skill": "Bilgi",
+      "stem": "Tuna Bulgar Devleti’nin kuruluşuyla ilişkilendirilen hükümdar aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Boris Han",
+        "Simeon",
+        "Asparuh Han",
+        "Kubrat Han",
+        "Almış Han"
+      ],
+      "answer": "C",
+      "explanation": "Asparuh, Bulgar gruplarını Tuna bölgesine yönlendirerek burada siyasi bir yapı oluşturmuştur. Kubrat Büyük Bulgar Devleti’nin kurucusudur; Almış ise İdil kolunun hükümdarıdır. Aynı Bulgar adı altında anılmaları bu siyasi yapıların kurucularını aynı yapmaz.",
+      "sources": [
+        "EU1",
+        "EU9"
+      ]
+    },
+    {
+      "id": "BUL-012",
+      "revision": 1,
+      "topic": "Bulgarlar",
+      "subtopic": "Kurum Han",
+      "skill": "Bilgi",
+      "stem": "IX. yüzyıl başlarında Bizans’la mücadele eden ve İstanbul’u kuşatmasıyla tanınan Tuna Bulgar hükümdarı aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Kurum Han",
+        "Kubrat Han",
+        "Asparuh Han",
+        "Almış Han",
+        "Boris Han"
+      ],
+      "answer": "A",
+      "explanation": "Kurum Han, Tuna Bulgarlarının IX. yüzyıl başındaki Bizans mücadeleleri ve İstanbul kuşatmasıyla tanınır. Bu olay, Bulgar birliklerinin Avar ordusunda yer aldığı 626 kuşatmasından farklıdır. Kubrat ve Asparuh’un kuruluş faaliyetleri de daha erken dönemdedir.",
+      "sources": [
+        "EU1",
+        "EU9"
+      ]
+    },
+    {
+      "id": "BUL-013",
+      "revision": 1,
+      "topic": "Bulgarlar",
+      "subtopic": "Omurtag ve güçlenme",
+      "skill": "Bilgi",
+      "stem": "Tuna Bulgarlarının güçlü dönemlerinden birinde Bizans’la uzun süreli barış yaparak imar ve ekonomik faaliyetlere imkân sağlayan hükümdar aşağıdakilerden hangisidir?",
+      "difficulty": "Orta",
+      "options": [
+        "Kubrat Han",
+        "Almış Han",
+        "Asparuh Han",
+        "Omurtag Han",
+        "Kurum Han"
+      ],
+      "answer": "D",
+      "explanation": "Omurtag döneminde Bizans’la yapılan uzun süreli barış, ekonomik faaliyetler ve imar için elverişli bir ortam sağladı. Kurum’un Bizans’a karşı askerî baskısı ile Omurtag’ın barış ve güçlenme siyaseti birbirinden ayrılmalıdır. “En parlak” nitelemesi tek başına kullanılmak yerine bu somut faaliyetlerle birlikte değerlendirilir.",
+      "sources": [
+        "EU1",
+        "EU9"
+      ]
+    },
+    {
+      "id": "BUL-014",
+      "revision": 1,
+      "topic": "Bulgarlar",
+      "subtopic": "Boris ve Hristiyanlık",
+      "skill": "Bilgi",
+      "stem": "Tuna Bulgarlarında Hristiyanlığın resmen kabul edilmesi hangi hükümdar döneminde gerçekleşmiştir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Omurtag Han",
+        "Boris Han",
+        "Almış Han",
+        "Kubrat Han",
+        "Kurum Han"
+      ],
+      "answer": "B",
+      "explanation": "Tuna Bulgarlarında Hristiyanlığın resmî kabulü Boris dönemindedir. Almış Han ise İdil Bulgarlarının İslamiyet’i benimsemesiyle ilişkilidir. Aynı Bulgar adı altında anılan iki kolun dinî dönüşümleri farklıdır.",
+      "sources": [
+        "EU8",
+        "EU9"
+      ]
+    },
+    {
+      "id": "BUL-015",
+      "revision": 1,
+      "topic": "Bulgarlar",
+      "subtopic": "Simeon ve çar",
+      "skill": "Bilgi",
+      "stem": "Tuna Bulgar hükümdarları arasında çar unvanını kullanmasıyla öne çıkan ilk hükümdar aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Boris",
+        "Omurtag",
+        "Asparuh",
+        "Kubrat",
+        "Simeon"
+      ],
+      "answer": "E",
+      "explanation": "Simeon, Bulgar hükümdarlığında çar unvanıyla ve imparatorluk iddiasıyla öne çıkar. Boris’in Hristiyanlığı benimsemesi ile Simeon’un bu unvanı kullanması ayrı gelişmelerdir. Simeon adı bazı Türkçe anlatımlarda Simon biçiminde de yazılır.",
+      "sources": [
+        "EU12",
+        "EU13"
+      ]
+    },
+    {
+      "id": "BUL-016",
+      "revision": 1,
+      "topic": "Bulgarlar",
+      "subtopic": "Unvan ve siyasi iddia",
+      "skill": "Yorum",
+      "stem": "Tuna Bulgar hükümdarlığında Hristiyanlaşma sonrasında çar unvanının kullanılması, en doğrudan aşağıdakilerden hangisiyle ilişkilendirilebilir?",
+      "difficulty": "Orta",
+      "options": [
+        "Tuna Bulgar hükümdarlığının Moğol siyasi geleneğine bağlanmasıyla",
+        "Hükümdarın din adamlığı görevinin siyasi yönetimin yerini almasıyla",
+        "Hükümdarlığın meşruiyet ve imparatorluk iddiasının yeni çevrede ifade edilmesiyle",
+        "Tuna ve İdil Bulgar kollarının ortak bir hanedanda birleşmesiyle",
+        "Yönetim yetkisinin hanedandan dinî kurullara aktarılmasıyla"
+      ],
+      "answer": "C",
+      "explanation": "Çar unvanı hükümdarlığın yeni dinî-siyasi çevredeki meşruiyet ve imparatorluk iddiasını ifade eder. Unvan değişimi hükümdarın yönetim yetkisini din adamlarına devretmesi değildir. Tuna ve İdil kollarının birleşmesi de bu unvan kullanımından çıkarılamaz.",
+      "sources": [
+        "EU12",
+        "EU13"
+      ]
+    },
+    {
+      "id": "BUL-017",
+      "revision": 1,
+      "topic": "Bulgarlar",
+      "subtopic": "İki kolun karşılaştırılması",
+      "skill": "Yorum",
+      "stem": "İdil Bulgarları Almış döneminde Abbasilerle ilişki kurarak İslamiyet’i resmen benimserken Tuna Bulgarları Boris döneminde Hristiyanlığı kabul etmiştir.\n\nBuna göre,\nI. Bulgar siyasi kollarının dinî yönelimleri farklılaşmıştır.\nII. Ortak bir ad ve tarihî köken, aynı diplomatik çevre ve dinî tercihi zorunlu kılmaz.\nIII. Tuna Bulgarlarının Hristiyanlığı kabulü İdil Bulgarlarının da Bizans’a bağlandığını gösterir.\nyargılarından hangilerine ulaşılabilir?",
+      "difficulty": "Orta",
+      "options": [
+        "I ve II",
+        "Yalnız I",
+        "Yalnız III",
+        "I ve III",
+        "II ve III"
+      ],
+      "answer": "A",
+      "explanation": "I verilen iki farklı dinî tercihten, II ise farklı siyasi çevrelerle kurulan ilişkilerden desteklenir. III, bir Bulgar kolunun kararını diğerine aktarmakta ve din tercihini kanıt olmadan siyasi tabiiyete dönüştürmektedir. İdil ile Tuna kollarının ad ortaklığı, karar ve egemenlik ortaklığı değildir.",
+      "sources": [
+        "EU8",
+        "EU9"
+      ]
+    },
+    {
+      "id": "BUL-018",
+      "revision": 1,
+      "topic": "Bulgarlar",
+      "subtopic": "Tuna hükümdarları sırası",
+      "skill": "Bilgi ve yorum",
+      "stem": "Tuna Bulgar tarihinde aşağıdaki gelişmelerin eskiden yeniye sıralaması hangisidir?\n\nI. Simeon’un çar unvanıyla öne çıkması\nII. Asparuh önderliğinde devletleşme\nIII. Boris döneminde Hristiyanlığın resmen benimsenmesi",
+      "difficulty": "Orta",
+      "options": [
+        "II — I — III",
+        "I — II — III",
+        "III — I — II",
+        "II — III — I",
+        "III — II — I"
+      ],
+      "answer": "D",
+      "explanation": "Asparuh’un kuruluş dönemi, Boris’in Hristiyanlığı kabulünden öncedir; Simeon ise Boris’ten sonraki kuşaktadır. Bu yüzden doğru sıra kuruluş, resmî Hristiyanlaşma ve çarlık unvanıdır. Hristiyanlığın kabulünü çar unvanının ilk kullanımıyla aynı olay saymak sıralamayı bozar.",
+      "sources": [
+        "EU1",
+        "EU9",
+        "EU12"
+      ]
+    },
+    {
+      "id": "BUL-019",
+      "revision": 1,
+      "topic": "Bulgarlar",
+      "subtopic": "Ticaret ve İslamlaşma",
+      "skill": "Yorum",
+      "stem": "İdil Bulgar ülkesinde Müslüman tüccarların faaliyetleriyle İslamiyet yayılmaya başlamış, Almış Han da daha sonra Abbasi halifesinden din adamları istemiştir.\n\nBu bilgiler aşağıdakilerden hangisini destekler?",
+      "difficulty": "Orta",
+      "options": [
+        "Ticaret ilişkileri devletin siyasi bağımsızlığını kendiliğinden ortadan kaldırmıştır.",
+        "Dinî yayılmada toplumsal temas ile hükümdarın diplomatik girişimi birlikte etkili olmuştur.",
+        "İslamiyet ülkeye yalnız bir askerî fetih sonucunda girmiştir.",
+        "922’den önce ülkede Müslüman bulunmamıştır.",
+        "Halifeden din adamı istenmesi Bulgarların yerleşik hayatı terk ettiğini gösterir."
+      ],
+      "answer": "B",
+      "explanation": "Tüccarlar aracılığıyla oluşan temas toplumsal yayılmayı, Almış’ın girişimi resmî-diplomatik boyutu gösterir. Resmî kabul tarihi, ülkedeki ilk Müslümanın ortaya çıktığı tarih değildir. Din adamı istemek de tek başına siyasi bağımsızlığın kaybedildiğinin kanıtı sayılamaz.",
+      "sources": [
+        "EU8"
+      ]
+    },
+    {
+      "id": "BUL-020",
+      "revision": 1,
+      "topic": "Bulgarlar",
+      "subtopic": "Barış ve ekonomik güç",
+      "skill": "Yorum",
+      "stem": "Omurtag’ın Bizans’la yaptığı uzun süreli barış, güney sınırında sükûnet sağlarken gümrük şartlarına bağlı ticarete de imkân verdi. Aynı dönemde başka yönlerde askerî faaliyetler sürdü.\n\nBu bilgilerden,\nI. Bir cephede barış sağlanması başka bir cephede mücadele yürütülmesini engellemez.\nII. Diplomatik düzenlemeler ekonomik faaliyetlere elverişli koşullar oluşturabilir.\nIII. Bizans’la barış yapılması, Bulgar hükümdarının bütün dış ilişkilerde Bizans’a bağlı olduğunu kanıtlar.\nyargılarından hangilerine ulaşılabilir?",
+      "difficulty": "Orta",
+      "options": [
+        "Yalnız II",
+        "Yalnız III",
+        "I ve III",
+        "II ve III",
+        "I ve II"
+      ],
+      "answer": "E",
+      "explanation": "Başka yönlerdeki faaliyetler I’i, gümrük şartlarıyla ticaret imkânı II’yi destekler. III barış antlaşmasını bütün dış ilişkileri kapsayan siyasi bağımlılığa dönüştürür; bunun için ayrı kanıt gerekir. Barış, ticaret ve egemenlik kavramları birbirinin yerine kullanılmamalıdır.",
+      "sources": [
+        "EU1"
+      ]
+    }
+  ]
+}

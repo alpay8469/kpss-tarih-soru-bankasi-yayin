@@ -1,0 +1,11 @@
+{
+  "name": "kpss-tarih-soru-bankasi",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "dev": "node scripts/dev.mjs",
+    "backup": "node scripts/backup.mjs"
+  }
+}
+

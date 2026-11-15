@@ -1,0 +1,1593 @@
+{
+  "title": "İlk Türk-İslam Devletlerinde Kültür ve Uygarlık — tahta görselleri",
+  "unit": "U02",
+  "date": "2026-10-11",
+  "question_count": 64,
+  "sources": {
+    "IM-NOT": {
+      "title": "Ramazan Yetgin kültür ve medeniyet tahta notları — kullanıcının dört görseli",
+      "type": "Kullanıcı tarafından sağlanan kapsam notu",
+      "date": "2026-10-11"
+    },
+    "IM-DIV": {
+      "title": "TDV İslâm Ansiklopedisi — Divan",
+      "url": "https://islamansiklopedisi.org.tr/divan--devlet",
+      "type": "Akademik başvuru kaynağı",
+      "accessed": "2026-10-11"
+    },
+    "IM-IKT": {
+      "title": "TDV İslâm Ansiklopedisi — İkta",
+      "url": "https://islamansiklopedisi.org.tr/ikta",
+      "type": "Akademik başvuru kaynağı",
+      "accessed": "2026-10-11"
+    },
+    "IM-NIZ": {
+      "title": "TDV İslâm Ansiklopedisi — Nizamiye Medresesi",
+      "url": "https://islamansiklopedisi.org.tr/nizamiye-medresesi",
+      "type": "Akademik başvuru kaynağı",
+      "accessed": "2026-10-11"
+    },
+    "IM-GUL": {
+      "title": "TDV İslâm Ansiklopedisi — Gulam",
+      "url": "https://islamansiklopedisi.org.tr/gulam",
+      "type": "Akademik başvuru kaynağı",
+      "accessed": "2026-10-11"
+    },
+    "IM-MEZ": {
+      "title": "TDV İslâm Ansiklopedisi — Mezalim",
+      "url": "https://islamansiklopedisi.org.tr/mezalim",
+      "type": "Akademik başvuru kaynağı",
+      "accessed": "2026-10-11"
+    },
+    "IM-HAC": {
+      "title": "TDV İslâm Ansiklopedisi — Hacib",
+      "url": "https://islamansiklopedisi.org.tr/hacib",
+      "type": "Akademik başvuru kaynağı",
+      "accessed": "2026-10-11"
+    },
+    "IM-HIS": {
+      "title": "TDV İslâm Ansiklopedisi — Hisbe",
+      "url": "https://islamansiklopedisi.org.tr/hisbe",
+      "type": "Akademik başvuru kaynağı",
+      "accessed": "2026-10-11"
+    },
+    "IM-BED": {
+      "title": "TDV İslâm Ansiklopedisi — Bedesten",
+      "url": "https://islamansiklopedisi.org.tr/bedesten",
+      "type": "Akademik başvuru kaynağı",
+      "accessed": "2026-10-11"
+    },
+    "IM-KAP": {
+      "title": "TDV İslâm Ansiklopedisi — Kapan",
+      "url": "https://islamansiklopedisi.org.tr/kapan",
+      "type": "Akademik başvuru kaynağı",
+      "accessed": "2026-10-11"
+    },
+    "IM-ARA": {
+      "title": "TDV İslâm Ansiklopedisi — Arasta",
+      "url": "https://islamansiklopedisi.org.tr/arasta",
+      "type": "Akademik başvuru kaynağı",
+      "accessed": "2026-10-11"
+    },
+    "IM-HAN": {
+      "title": "TDV İslâm Ansiklopedisi — Hankah",
+      "url": "https://islamansiklopedisi.org.tr/hankah",
+      "type": "Akademik başvuru kaynağı",
+      "accessed": "2026-10-11"
+    },
+    "IM-MED": {
+      "title": "TDV İslâm Ansiklopedisi — Medrese",
+      "url": "https://islamansiklopedisi.org.tr/medrese",
+      "type": "Akademik başvuru kaynağı",
+      "accessed": "2026-10-11"
+    },
+    "IM-VAK": {
+      "title": "TDV İslâm Ansiklopedisi — Vakıf",
+      "url": "https://islamansiklopedisi.org.tr/vakif",
+      "type": "Akademik başvuru kaynağı",
+      "accessed": "2026-10-11"
+    },
+    "IM-CAN": {
+      "title": "TDV İslâm Ansiklopedisi — Candar",
+      "url": "https://islamansiklopedisi.org.tr/candar",
+      "type": "Akademik başvuru kaynağı",
+      "accessed": "2026-10-11"
+    },
+    "IM-CAM": {
+      "title": "TDV İslâm Ansiklopedisi — Camedar",
+      "url": "https://islamansiklopedisi.org.tr/camedar",
+      "type": "Akademik başvuru kaynağı",
+      "accessed": "2026-10-11"
+    },
+    "IM-SIL": {
+      "title": "TDV İslâm Ansiklopedisi — Emir-i silah",
+      "url": "https://islamansiklopedisi.org.tr/emir-i-silah",
+      "type": "Akademik başvuru kaynağı",
+      "accessed": "2026-10-11"
+    },
+    "IM-MUS": {
+      "title": "TDV İslâm Ansiklopedisi — Müstevfi",
+      "url": "https://islamansiklopedisi.org.tr/mustevfi",
+      "type": "Akademik başvuru kaynağı",
+      "accessed": "2026-10-11"
+    },
+    "IM-ISF": {
+      "title": "TDV İslâm Ansiklopedisi — Müşrif",
+      "url": "https://islamansiklopedisi.org.tr/musrif",
+      "type": "Akademik başvuru kaynağı",
+      "accessed": "2026-10-11"
+    },
+    "IM-MIR": {
+      "title": "TDV İslâm Ansiklopedisi — Mirahur",
+      "url": "https://islamansiklopedisi.org.tr/mirahur",
+      "type": "Akademik başvuru kaynağı",
+      "accessed": "2026-10-11"
+    },
+    "IM-TAS": {
+      "title": "TDV İslâm Ansiklopedisi — Taştdar",
+      "url": "https://islamansiklopedisi.org.tr/tastdar",
+      "type": "Akademik başvuru kaynağı",
+      "accessed": "2026-10-11"
+    },
+    "IM-MEB": {
+      "title": "MEB Tarih 9 — hükümdarlık, yönetim ve hukuk",
+      "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/kazanim_kavrama/9/tar/files/basic-html/page36.html",
+      "type": "Resmî eğitim materyali",
+      "accessed": "2026-10-11"
+    },
+    "IM-ORD": {
+      "title": "MEB Tarih 9 — Karahanlı ve Gazneli orduları",
+      "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/kazanim_kavrama/9/tar/files/basic-html/page37.html",
+      "type": "Resmî eğitim materyali",
+      "accessed": "2026-10-11"
+    },
+    "IM-KAZ": {
+      "title": "TTK Belleten — Osmanlı Devleti’nde Kazaskerlik; Osmanlı öncesi adli teşkilat",
+      "url": "https://belleten.gov.tr/tam-metin/2435/tur",
+      "type": "Akademik araştırma",
+      "accessed": "2026-10-11"
+    },
+    "IM-ALE": {
+      "title": "TDV İslâm Ansiklopedisi — Alemdar",
+      "url": "https://islamansiklopedisi.org.tr/alemdar",
+      "type": "Akademik başvuru kaynağı",
+      "accessed": "2026-10-11"
+    }
+  },
+  "questions": [
+    {
+      "id": "IMU-001",
+      "revision": 1,
+      "topic": "İlk Türk-İslam Devletlerinde Kültür ve Uygarlık",
+      "subtopic": "Hükümdarlık — egemenlik sembolleri",
+      "skill": "Bilgi ve yorum",
+      "stem": "Bir hükümdarın adına hutbe okutulması ve para bastırılması aşağıdakilerden hangisiyle en doğrudan ilişkilidir?",
+      "difficulty": "Orta",
+      "options": [
+        "Veraset sırasının değiştirilmesiyle",
+        "Ticaret vergilerinin kaldırılmasıyla",
+        "Hükümdarın yargı yetkisini bırakmasıyla",
+        "Askerî teşkilatın eyaletlere devredilmesiyle",
+        "Siyasi egemenliğinin tanınmasıyla"
+      ],
+      "answer": "E",
+      "explanation": "Hutbe ve sikke, hükümdarın siyasi otoritesinin görünür biçimde ifade edildiği uygulamalardır. Para basılması ekonomik işlev de taşır; fakat hükümdar adının kullanılması bu soruda egemenlik boyutunu öne çıkarır.",
+      "sources": [
+        "IM-NOT",
+        "IM-MEB"
+      ]
+    },
+    {
+      "id": "IMU-002",
+      "revision": 1,
+      "topic": "İlk Türk-İslam Devletlerinde Kültür ve Uygarlık",
+      "subtopic": "Hükümdarlık — çetr ve tuğra",
+      "skill": "Bilgi ve yorum",
+      "stem": "Türk-İslam hükümdarlık sembollerinin eşleştirmelerinden hangisi yanlıştır?",
+      "difficulty": "Orta",
+      "options": [
+        "Tuğ — Hükümdarlık ve askerî yetkiyle ilişkili alamet",
+        "Hilat — Taltif amacıyla verilen değerli giysi",
+        "Tuğra — Hükümdarın belge üzerindeki işareti",
+        "Sikke — Hükümdar adına bastırılan para",
+        "Çetr — Hükümdarın resmî belgelerdeki işareti"
+      ],
+      "answer": "E",
+      "explanation": "Çetr, hükümdarın başı üzerinde tutulan gölgelik veya şemsiyedir. Resmî belgedeki hükümdar işareti tuğradır; iki egemenlik sembolünün somut biçimleri ayrılmalıdır.",
+      "sources": [
+        "IM-NOT",
+        "IM-MEB"
+      ]
+    },
+    {
+      "id": "IMU-003",
+      "revision": 1,
+      "topic": "İlk Türk-İslam Devletlerinde Kültür ve Uygarlık",
+      "subtopic": "Hükümdarlık — tıraz ve hilat",
+      "skill": "Bilgi",
+      "stem": "Hükümdarın adını veya unvanını taşıyan işlemeli giysi geleneği hangi kavramla ilişkilidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Menşur",
+        "Tuğra",
+        "Nevbet",
+        "Tıraz",
+        "Çetr"
+      ],
+      "answer": "D",
+      "explanation": "Tıraz, hükümdar adı veya unvanıyla ilişkili işlemeli kumaş ve giysi geleneğini ifade eder. Hilat ise değerli giysi verilerek onurlandırmayla ilişkilidir; yakın giysi kavramlarının kapsamları bütünüyle aynı değildir.",
+      "sources": [
+        "IM-NOT",
+        "IM-MEB"
+      ]
+    },
+    {
+      "id": "IMU-004",
+      "revision": 1,
+      "topic": "İlk Türk-İslam Devletlerinde Kültür ve Uygarlık",
+      "subtopic": "Hükümdarlık — menşur",
+      "skill": "Bilgi",
+      "stem": "Bir kişiye verilen görev veya yetkinin resmî belgeyle bildirilmesi aşağıdaki kavramlardan hangisiyle ilişkilidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Çetr",
+        "Hilat",
+        "Tıraz",
+        "Nevbet",
+        "Menşur"
+      ],
+      "answer": "E",
+      "explanation": "Menşur, bir görev veya yetki verilmesini bildiren resmî belgedir. Hilat da yetkilendirme törenine eşlik edebilir; ancak verilen belgeyle değerli giysi aynı nesne değildir.",
+      "sources": [
+        "IM-NOT",
+        "IM-DIV"
+      ]
+    },
+    {
+      "id": "IMU-005",
+      "revision": 1,
+      "topic": "İlk Türk-İslam Devletlerinde Kültür ve Uygarlık",
+      "subtopic": "Hükümdarlık — unvanlar",
+      "skill": "Bilgi ve yorum",
+      "stem": "Karahanlı hükümdarlarının han, hakan ve ilig gibi unvanlar kullanırken İslami ad ve lakaplar da alması hangi yorumu destekler?",
+      "difficulty": "Orta",
+      "options": [
+        "İslamlaşmanın hükümdarlık kurumunu kaldırdığını",
+        "Hükümdar adlarının devletin resmî dilini tek başına belirlediğini",
+        "Bütün Türk-İslam devletlerinin aynı unvanları kullandığını",
+        "Eski Türk siyasi geleneği ile İslami unsurların birlikte yaşayabildiğini",
+        "Eski unvanların kullanılmasının İslamlaşmayı engellediğini"
+      ],
+      "answer": "D",
+      "explanation": "Han ve hakan gibi unvanlarla Müslüman ad ve lakapların birlikte kullanılması süreklilik ile değişimin bir arada bulunduğunu gösterir. Bu örnek, devletlerin unvan ve dil tercihlerinin birbirinin aynısı olduğunu kanıtlamaz.",
+      "sources": [
+        "IM-NOT",
+        "IM-MEB"
+      ]
+    },
+    {
+      "id": "IMU-006",
+      "revision": 1,
+      "topic": "İlk Türk-İslam Devletlerinde Kültür ve Uygarlık",
+      "subtopic": "Devlet görevlileri — vezir unvanları",
+      "skill": "Bilgi",
+      "stem": "Karahanlı ve Gazneli vezirleriyle ilişkili yuğruş ve hace unvanları sırasıyla hangi seçenekte doğru verilmiştir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Selçuklular — Karahanlılar",
+        "Karahanlılar — Memlükler",
+        "Karahanlılar — Gazneliler",
+        "Memlükler — Selçuklular",
+        "Gazneliler — Karahanlılar"
+      ],
+      "answer": "C",
+      "explanation": "Karahanlı vezirleri için yuğruş, Gazneli vezirleri için hace unvanı kullanılmıştır. Unvanların farklılığı aynı temel idari görevin farklı siyasi çevrelerde ayrı adlandırılabildiğini gösterir.",
+      "sources": [
+        "IM-NOT",
+        "IM-MEB"
+      ]
+    },
+    {
+      "id": "IMU-007",
+      "revision": 1,
+      "topic": "İlk Türk-İslam Devletlerinde Kültür ve Uygarlık",
+      "subtopic": "Devlet teşkilatı — divan adları",
+      "skill": "Bilgi ve yorum",
+      "stem": "Karahanlılarda Meclis-i Ali, Gaznelilerde Divan-ı Vezaret gibi organların bulunması aşağıdakilerden hangisini destekler?",
+      "difficulty": "Orta",
+      "options": [
+        "İdari görevlerin yalnız askerî komutanlara verildiğini",
+        "Yerel yöneticilerin merkezî idarenin yerini aldığını",
+        "Bütün kararların hükümdar onayından bağımsız uygulandığını",
+        "Modern parlamenter yönetimin kurulduğunu",
+        "Devlet işlerinin kurumsal organlarda görüşüldüğünü"
+      ],
+      "answer": "E",
+      "explanation": "Divan ve meclisler, yönetim işlerinin belirli organlarda ele alınmasını sağlar. Hükümdarın otoritesi içindeki bu yapı modern parlamentonun yetkileriyle özdeşleştirilemez.",
+      "sources": [
+        "IM-NOT",
+        "IM-MEB",
+        "IM-DIV"
+      ]
+    },
+    {
+      "id": "IMU-008",
+      "revision": 1,
+      "topic": "İlk Türk-İslam Devletlerinde Kültür ve Uygarlık",
+      "subtopic": "Saray teşkilatı — hacib",
+      "skill": "Bilgi",
+      "stem": "Saraydaki kabul ve protokol düzeniyle, hükümdar ile görevliler arasındaki iletişimin düzenlenmesiyle ilişkili görevli kimdir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Emir-i ahur",
+        "Çaşnigir",
+        "Hacib",
+        "Müstevfi",
+        "Camedar"
+      ],
+      "answer": "C",
+      "explanation": "Hacibin görevleri saray kabulleri, protokol ve hükümdara ulaşma düzeniyle ilişkilidir. Görev kapsamı devlet ve döneme göre değişebilse de kıyafet veya maliye görevlisiyle eşitlenemez.",
+      "sources": [
+        "IM-NOT",
+        "IM-HAC"
+      ]
+    },
+    {
+      "id": "IMU-009",
+      "revision": 1,
+      "topic": "İlk Türk-İslam Devletlerinde Kültür ve Uygarlık",
+      "subtopic": "Saray teşkilatı — candar ve canıdar",
+      "skill": "Bilgi",
+      "stem": "Hükümdarın can güvenliğini sağlayan saray muhafızları aşağıdaki adlardan hangisiyle anılır?",
+      "difficulty": "Kolay",
+      "options": [
+        "Silahtar",
+        "Camedar",
+        "Candar",
+        "Şerabdar",
+        "Taştdar"
+      ],
+      "answer": "C",
+      "explanation": "Candarlar hükümdarın güvenliğini sağlayan saray muhafızlarıdır. Silahtarın silahla ilgili görevi bu kavrama yakındır; fakat silah hizmeti ile muhafız birliğinin adı aynı değildir.",
+      "sources": [
+        "IM-NOT",
+        "IM-CAN"
+      ]
+    },
+    {
+      "id": "IMU-010",
+      "revision": 1,
+      "topic": "İlk Türk-İslam Devletlerinde Kültür ve Uygarlık",
+      "subtopic": "Saray teşkilatı — kıyafet",
+      "skill": "Bilgi",
+      "stem": "Hükümdarın kıyafetlerinin hazırlanması ve korunmasıyla görevli saray mensubu aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Candar",
+        "Emir-i ahur",
+        "Çaşnigir",
+        "Camedar",
+        "Alemdar"
+      ],
+      "answer": "D",
+      "explanation": "Camedar hükümdarın giysileriyle ilgili saray görevlisidir. Camedar ile candarın adları birbirine benzese de birinin kıyafet, diğerinin güvenlik görevi vardır.",
+      "sources": [
+        "IM-NOT",
+        "IM-CAM"
+      ]
+    },
+    {
+      "id": "IMU-011",
+      "revision": 1,
+      "topic": "İlk Türk-İslam Devletlerinde Kültür ve Uygarlık",
+      "subtopic": "Saray teşkilatı — atlar ve silahlar",
+      "skill": "Bilgi ve yorum",
+      "stem": "Hükümdarın ahırları ve atlarından sorumlu görevli ile silahlarından sorumlu görevli hangi seçenekte sırasıyla verilmiştir?",
+      "difficulty": "Orta",
+      "options": [
+        "Emir-i ahur — Emir-i silah",
+        "Alemdar — Emir-i ahur",
+        "Emir-i silah — Emir-i ahur",
+        "Camedar — Candar",
+        "Taştdar — Emir-i silah"
+      ],
+      "answer": "A",
+      "explanation": "Emir-i ahur atlar ve ahırlardan, emir-i silah hükümdarın silah hizmetinden sorumludur. İki görev askerî çevreyle ilişkili görünse de yerine getirdikleri somut hizmetler farklıdır.",
+      "sources": [
+        "IM-NOT",
+        "IM-MIR",
+        "IM-SIL"
+      ]
+    },
+    {
+      "id": "IMU-012",
+      "revision": 1,
+      "topic": "İlk Türk-İslam Devletlerinde Kültür ve Uygarlık",
+      "subtopic": "Saray teşkilatı — yemek ve içecek",
+      "skill": "Bilgi ve yorum",
+      "stem": "Saray hizmetleriyle ilgili eşleştirmelerden hangisi yanlıştır?",
+      "difficulty": "Orta",
+      "options": [
+        "Çaşnigir — Yemeklerin tadımı ve yemek hizmeti",
+        "Camedar — Hükümdarın giysileriyle ilgilenme",
+        "Şerabdar — Hükümdarın atlarının bakımını yürütme",
+        "Emir-i silah — Hükümdarın silahlarıyla ilgilenme",
+        "Taştdar — Hükümdarın temizlik hizmeti"
+      ],
+      "answer": "C",
+      "explanation": "Şerabdar sarayın içecek hizmetleriyle ilişkilidir; at bakımı emir-i ahurun alanındadır. Yemek, içecek, giysi ve temizlik hizmetlerinin ayrı adlarla örgütlenmesi saray içindeki iş bölümünü gösterir.",
+      "sources": [
+        "IM-NOT",
+        "IM-GUL",
+        "IM-MIR",
+        "IM-CAM",
+        "IM-TAS"
+      ]
+    },
+    {
+      "id": "IMU-013",
+      "revision": 1,
+      "topic": "İlk Türk-İslam Devletlerinde Kültür ve Uygarlık",
+      "subtopic": "Saray teşkilatı — bayraklar",
+      "skill": "Bilgi",
+      "stem": "Sancak veya bayrak taşıma göreviyle ilişkili saray görevlisi hangi seçenekte verilmiştir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Alemdar",
+        "Tuğrai",
+        "Çaşnigir",
+        "Müstevfi",
+        "Camedar"
+      ],
+      "answer": "A",
+      "explanation": "Alemdar, bayrak veya sancak taşımakla ilişkilendirilen görevlidir. Tuğrai de hükümdarlık işaretiyle bağlantılıdır; ancak onun görevi belge ve yazışma düzenindedir.",
+      "sources": [
+        "IM-NOT",
+        "IM-ALE"
+      ]
+    },
+    {
+      "id": "IMU-014",
+      "revision": 1,
+      "topic": "İlk Türk-İslam Devletlerinde Kültür ve Uygarlık",
+      "subtopic": "Saray teşkilatı — sefer ve yol düzeni",
+      "skill": "Bilgi ve yorum",
+      "stem": "Saray görevlileri arasında serhenkin sefer güzergâhındaki düzeni sağlaması ve emir-i ahurun atlarla ilgilenmesi hangi çıkarımı destekler?",
+      "difficulty": "Orta",
+      "options": [
+        "Atların yalnız törenlerde kullanıldığını",
+        "Saray görevlilerinin divanların bütün yetkilerini üstlendiğini",
+        "Hükümdarın hareketi için farklı hizmet alanlarının koordinasyonunu",
+        "Yol güvenliğinin maliye kayıtlarından bağımsız olduğunu",
+        "Sefer kararının bu iki görevli tarafından bağımsız alındığını"
+      ],
+      "answer": "C",
+      "explanation": "Yol düzeni ile at hizmeti farklı görevlerdir; bir hükümdar seferinde birlikte işlev görebilir. Bu koordinasyon, hizmetlilerin hükümdarın yerine siyasi veya askerî karar aldığı anlamına gelmez.",
+      "sources": [
+        "IM-NOT",
+        "IM-GUL"
+      ]
+    },
+    {
+      "id": "IMU-015",
+      "revision": 1,
+      "topic": "İlk Türk-İslam Devletlerinde Kültür ve Uygarlık",
+      "subtopic": "Saray teşkilatı — kurum ve görev ayrımı",
+      "skill": "Bilgi ve yorum",
+      "stem": "Vekil-i hasın saray işlerini, muhtesibin ise çarşı ve pazar düzenini izlemesi için hangi yorum doğrudur?",
+      "difficulty": "Orta",
+      "options": [
+        "Vekil-i hasın bütün mahkemelerin başında bulunduğu",
+        "İki görevlinin aynı mali divanı yönettiği",
+        "Denetim görevinin farklı kurum alanlarında örgütlendiği",
+        "Muhtesibin hükümdarın özel hizmetkârı olduğu",
+        "Çarşı denetiminin saray kıyafet düzeniyle aynı hizmet olduğu"
+      ],
+      "answer": "C",
+      "explanation": "Saray işlerinin düzenlenmesiyle çarşı ve pazarın denetlenmesi farklı alanlardır. Görevlerin ayrı olması, kamu idaresindeki iş bölümünü gösterir; adlar aynı yetkiyi ifade etmez.",
+      "sources": [
+        "IM-NOT",
+        "IM-HIS",
+        "IM-GUL"
+      ]
+    },
+    {
+      "id": "IMU-016",
+      "revision": 1,
+      "topic": "İlk Türk-İslam Devletlerinde Kültür ve Uygarlık",
+      "subtopic": "Devlet görevlileri — amil ve şıhne",
+      "skill": "Bilgi ve yorum",
+      "stem": "Türk-İslam taşra teşkilatında vergi toplamakla ilişkilendirilen amil ile askerî yöneticilikle ilişkilendirilen şıhne için hangi ayrım doğrudur?",
+      "difficulty": "Orta",
+      "options": [
+        "Askerî görev — Mali görev",
+        "Dinî tören — Diplomatik yazışma",
+        "Saray kıyafeti — Pazar denetimi",
+        "Yargı görevi — Eğitim görevi",
+        "Mali görev — Askerî görev"
+      ],
+      "answer": "E",
+      "explanation": "Amil vergi ve gelirlerin toplanmasıyla, şıhne askerî idare ve güvenlik göreviyle ilişkilidir. Görev kapsamları yer ve döneme göre çeşitlenebilse de temel mali-askerî ayrım korunmalıdır.",
+      "sources": [
+        "IM-NOT",
+        "IM-DIV"
+      ]
+    },
+    {
+      "id": "IMU-017",
+      "revision": 1,
+      "topic": "İlk Türk-İslam Devletlerinde Kültür ve Uygarlık",
+      "subtopic": "Devlet görevlileri — melik ve atabey",
+      "skill": "Bilgi ve yorum",
+      "stem": "Meliklerin yönetim tecrübesi kazanması için yanlarında atabeylerin görevlendirilmesinin başlangıçtaki amacı hangisidir?",
+      "difficulty": "Orta",
+      "options": [
+        "Kadıların hukuk öğretimini kaldırmak",
+        "Hanedan mensuplarını yönetim ve askerlik bakımından yetiştirmek",
+        "Bütün eyaletleri merkezden bağımsızlaştırmak",
+        "Saray ordusunu vergi toplamakla görevlendirmek",
+        "Hanedan dışındaki kişileri hükümdar seçmek"
+      ],
+      "answer": "B",
+      "explanation": "Atabeyler meliklerin yetiştirilmesinde tecrübeli rehber ve yönetici rolü taşırdı. Sonradan bazı atabeylerin bağımsız güç olması kurumun ilk işleviyle aynı şey değildir.",
+      "sources": [
+        "IM-NOT",
+        "IM-GUL"
+      ]
+    },
+    {
+      "id": "IMU-018",
+      "revision": 1,
+      "topic": "İlk Türk-İslam Devletlerinde Kültür ve Uygarlık",
+      "subtopic": "Divanlar — istifa",
+      "skill": "Bilgi",
+      "stem": "Büyük Selçuklu teşkilatında devletin gelir ve gider kayıtlarının tutulmasıyla ilgili başvuru hangi divana yapılmalıdır?",
+      "difficulty": "Kolay",
+      "options": [
+        "Divan-ı İnşa",
+        "Divan-ı İstifa",
+        "Divan-ı Berid",
+        "Divan-ı Arz",
+        "Divan-ı İşraf"
+      ],
+      "answer": "B",
+      "explanation": "Divan-ı İstifa mali kayıtlar ve gelir-gider işleriyle ilişkilidir. İşraf divanı bu işlemlerin denetimine yöneliktir; hesap tutmak ile hesabı denetlemek ayrı işlevlerdir.",
+      "sources": [
+        "IM-NOT",
+        "IM-DIV",
+        "IM-MUS"
+      ]
+    },
+    {
+      "id": "IMU-019",
+      "revision": 1,
+      "topic": "İlk Türk-İslam Devletlerinde Kültür ve Uygarlık",
+      "subtopic": "Divanlar — arz",
+      "skill": "Bilgi",
+      "stem": "Büyük Selçuklularda askerlerin kayıtları ve askerî ihtiyaçların düzenlenmesi hangi divanın görev alanıdır?",
+      "difficulty": "Kolay",
+      "options": [
+        "Divan-ı İstifa",
+        "Divan-ı Arz",
+        "Divan-ı Berid",
+        "Divan-ı İşraf",
+        "Divan-ı İnşa"
+      ],
+      "answer": "B",
+      "explanation": "Divan-ı Arz ordu işleri ve askerî kayıtlarla ilgilenirdi. Askerî faaliyetlerin mali yönü olması, ordunun teşkilat görevini bütünüyle İstifa divanına aktarmaz.",
+      "sources": [
+        "IM-NOT",
+        "IM-DIV"
+      ]
+    },
+    {
+      "id": "IMU-020",
+      "revision": 1,
+      "topic": "İlk Türk-İslam Devletlerinde Kültür ve Uygarlık",
+      "subtopic": "Divanlar — işraf",
+      "skill": "Bilgi ve yorum",
+      "stem": "Bir divanın yaptığı mali işlemlerin başka bir organ tarafından incelenmesi ve uygunsuzlukların araştırılması hangi işlevi gösterir?",
+      "difficulty": "Orta",
+      "options": [
+        "İşraf divanının denetim işlevini",
+        "İnşa divanının diplomatik mektup işlevini",
+        "İstifa divanının kıyafet dağıtma işlevini",
+        "Berid teşkilatının posta taşıma işlevini",
+        "Arz divanının asker kaydı işlevini"
+      ],
+      "answer": "A",
+      "explanation": "İşraf mali ve idari işlemleri kontrol eden denetim işleviyle ilişkilidir. İstifa hesapları yürütürken işrafın bunları incelemesi, uygulama ile kontrolün ayrılabildiğini gösterir.",
+      "sources": [
+        "IM-NOT",
+        "IM-DIV",
+        "IM-ISF"
+      ]
+    },
+    {
+      "id": "IMU-021",
+      "revision": 1,
+      "topic": "İlk Türk-İslam Devletlerinde Kültür ve Uygarlık",
+      "subtopic": "Divanlar — inşa",
+      "skill": "Bilgi",
+      "stem": "Resmî mektubun hazırlanması ve hükümdarın tuğrasıyla düzenlenmesi hangi divanın göreviyle ilişkilidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Divan-ı Arz",
+        "Divan-ı Berid",
+        "Divan-ı İstifa",
+        "Divan-ı İşraf",
+        "Divan-ı İnşa"
+      ],
+      "answer": "E",
+      "explanation": "İnşa veya Tuğra divanı devletin iç ve dış yazışmalarını ve resmî belgelerini düzenlerdi. Berid haberleşmeyle ilişkilidir; mektubu hazırlama ile taşıma aynı görev değildir.",
+      "sources": [
+        "IM-NOT",
+        "IM-DIV"
+      ]
+    },
+    {
+      "id": "IMU-022",
+      "revision": 1,
+      "topic": "İlk Türk-İslam Devletlerinde Kültür ve Uygarlık",
+      "subtopic": "Divanlar — berid",
+      "skill": "Bilgi ve yorum",
+      "stem": "Merkez yönetimine eyaletlerden haber gönderilmesi ve yönetimin taşradaki gelişmeler hakkında bilgi edinmesi hangi teşkilatla ilişkilidir?",
+      "difficulty": "Orta",
+      "options": [
+        "İnşa",
+        "İstifa",
+        "Arz",
+        "Berid",
+        "İşraf"
+      ],
+      "answer": "D",
+      "explanation": "Berid, haberleşme ve merkez için bilgi akışının sağlanmasıyla ilişkilidir. Bilginin taşınması merkezî yönetimin taşrayı izlemesine yardımcı olabilir; bu durum eyaletlerin doğrudan bu teşkilat tarafından yönetildiği anlamına gelmez.",
+      "sources": [
+        "IM-NOT",
+        "IM-DIV"
+      ]
+    },
+    {
+      "id": "IMU-023",
+      "revision": 1,
+      "topic": "İlk Türk-İslam Devletlerinde Kültür ve Uygarlık",
+      "subtopic": "Divanlar — görevli eşleştirmeleri",
+      "skill": "Bilgi ve yorum",
+      "stem": "Büyük Selçuklu divanlarıyla başlarındaki görevlilere ilişkin eşleştirmelerden hangisi yanlıştır?",
+      "difficulty": "Orta",
+      "options": [
+        "Divan-ı İstifa — Müstevfi",
+        "Divan-ı İstifa — Emir-i ahur",
+        "Divan-ı Arz — Arız",
+        "Divan-ı İşraf — Müşrif",
+        "Divan-ı İnşa — Tuğrai"
+      ],
+      "answer": "B",
+      "explanation": "İstifa divanının görevlisi müstevfidir; emir-i ahur saray atları ve ahırlarının görevlisidir. Mali organın başkanı ile saray hizmetlisinin birbirine aktarılması yanlış eşleştirme oluşturur.",
+      "sources": [
+        "IM-NOT",
+        "IM-DIV",
+        "IM-MUS",
+        "IM-ISF",
+        "IM-MIR"
+      ]
+    },
+    {
+      "id": "IMU-024",
+      "revision": 1,
+      "topic": "İlk Türk-İslam Devletlerinde Kültür ve Uygarlık",
+      "subtopic": "Divanlar — uzmanlaşma",
+      "skill": "Bilgi ve yorum",
+      "stem": "Mali hesapların istifa, askerî işlerin arz, yazışmaların inşa divanınca yürütülmesi hangi yargıyı destekler?",
+      "difficulty": "Orta",
+      "options": [
+        "Merkezî yönetimde görev alanlarına göre uzmanlaşmayı",
+        "Merkez yönetiminin yalnız askerî personelden oluştuğunu",
+        "Divanların zamanla işlevlerini birbirine devrettiğini",
+        "Hükümdarın siyasi yetkilerinin kaldırıldığını",
+        "Divanların her birinin ayrı bir bağımsız devlet olduğunu"
+      ],
+      "answer": "A",
+      "explanation": "Farklı işlerin ayrı divanlara verilmesi idari uzmanlaşmayı gösterir. Bu ayrım divanların hükümdardan bağımsız siyasi güçler olduğu veya modern bakanlıklarla tüm yetkileri bakımından aynı olduğu anlamına gelmez.",
+      "sources": [
+        "IM-NOT",
+        "IM-DIV"
+      ]
+    },
+    {
+      "id": "IMU-025",
+      "revision": 1,
+      "topic": "İlk Türk-İslam Devletlerinde Kültür ve Uygarlık",
+      "subtopic": "Divanlar — karar ve icra sınırı",
+      "skill": "Bilgi ve yorum",
+      "stem": "Bir Selçuklu kararının mali kaydı istifada, resmî yazısı inşada hazırlanıp haberleşme ağıyla taşraya iletilmiştir. Bu örnekten hangisine ulaşılamaz?",
+      "difficulty": "Orta",
+      "options": [
+        "Bir işin yürütülmesinde birden fazla organın rol aldığına",
+        "İdari işlemin mali boyutu bulunduğuna",
+        "Yazışmanın hazırlanması ile iletiminin ayrı işlevler olduğuna",
+        "Kararın hükümdarın onayı dışında alındığına",
+        "Merkez ile taşra arasında iletişim kurulduğuna"
+      ],
+      "answer": "D",
+      "explanation": "Verilen aşamalar mali işlem, yazışma ve merkez-taşra iletişimini gösterir. Hükümdarın karar sürecindeki onayı hakkında bilgi olmadığı için onun dışlandığı sonucu çıkarılamaz.",
+      "sources": [
+        "IM-NOT",
+        "IM-DIV"
+      ]
+    },
+    {
+      "id": "IMU-026",
+      "revision": 1,
+      "topic": "İlk Türk-İslam Devletlerinde Kültür ve Uygarlık",
+      "subtopic": "Divanlar — çoklu süreç",
+      "skill": "Bilgi ve yorum",
+      "stem": "Bir askerî birliğin kaydı, devletin gider hesabı ve hesapların denetimi birbirine karıştırılmadan incelenmek isteniyor. İlgili divanlar hangi seçenekte sırasıyla doğru verilmiştir?",
+      "difficulty": "Zor",
+      "options": [
+        "Arz — İşraf — İstifa",
+        "Arz — İstifa — İşraf",
+        "İstifa — Arz — İşraf",
+        "İnşa — İstifa — Berid",
+        "Berid — İşraf — İnşa"
+      ],
+      "answer": "B",
+      "explanation": "Askerî birliğin kaydı arz, mali hesap istifa, işlemlerin denetimi işraf ile ilişkilidir. Aynı faaliyetin mali yönü ve kontrol aşaması bulunabilir; bu bağlantı görevleri aynılaştırmayı gerektirmez.",
+      "sources": [
+        "IM-NOT",
+        "IM-DIV"
+      ]
+    },
+    {
+      "id": "IMU-027",
+      "revision": 1,
+      "topic": "İlk Türk-İslam Devletlerinde Kültür ve Uygarlık",
+      "subtopic": "Hukuk — kaynaklar",
+      "skill": "Bilgi ve yorum",
+      "stem": "Türk-İslam devletlerinde töre ve hükümdarın idari düzenlemeleriyle ilişkili örfi hukuk ile İslam esaslarına dayanan şeri hukukun birlikte bulunması hangi yargıyı destekler?",
+      "difficulty": "Orta",
+      "options": [
+        "Bütün davaların hükümdar tarafından bizzat görüldüğünü",
+        "İslamlaşmanın eski hukuk geleneklerini tamamen ortadan kaldırdığını",
+        "Hukukun yalnız askerî ilişkileri düzenlediğini",
+        "Töre ile şeri hukukun aynı kaynaktan doğduğunu",
+        "Hukuki düzenin birden fazla kaynak geleneğinden beslendiğini"
+      ],
+      "answer": "E",
+      "explanation": "Şeri hukuk dinî kaynaklarla, örfi hukuk töre ve idari düzenlemelerle ilişkilidir. Birlikte bulunmaları eski geleneğin sürdürülmesiyle yeni dinî unsurların etkisini aynı düzende birleştirir.",
+      "sources": [
+        "IM-NOT",
+        "IM-MEB"
+      ]
+    },
+    {
+      "id": "IMU-028",
+      "revision": 1,
+      "topic": "İlk Türk-İslam Devletlerinde Kültür ve Uygarlık",
+      "subtopic": "Hukuk — kadı",
+      "skill": "Bilgi",
+      "stem": "Evlenme, boşanma ve miras gibi konuların şeri hukuk çerçevesinde görülmesiyle ilişkili görevli aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Camedar",
+        "Müstevfi",
+        "Kadı",
+        "Tuğrai",
+        "Arız"
+      ],
+      "answer": "C",
+      "explanation": "Kadı şeri yargı görevlisidir; evlenme, boşanma ve miras gibi davalar bu alanla ilişkilidir. Kamu maliyesi veya resmî yazışma görevlileri aynı yargı görevini üstlenmiş sayılmaz.",
+      "sources": [
+        "IM-NOT",
+        "IM-MEB"
+      ]
+    },
+    {
+      "id": "IMU-029",
+      "revision": 1,
+      "topic": "İlk Türk-İslam Devletlerinde Kültür ve Uygarlık",
+      "subtopic": "Hukuk — mezalim",
+      "skill": "Bilgi ve yorum",
+      "stem": "Bir kimsenin devlet görevlisinin haksız işlemini üst yönetimin huzurunda şikâyet etmesi hangi kurumun temel işleviyle ilişkilidir?",
+      "difficulty": "Orta",
+      "options": [
+        "Divan-ı Arz",
+        "Gulamhanesi",
+        "Divan-ı İnşa",
+        "Divan-ı İstifa",
+        "Divan-ı Mezalim"
+      ],
+      "answer": "E",
+      "explanation": "Mezalim, yöneticilerin veya nüfuzlu kişilerin haksızlıklarına yönelik şikâyetlerin ele alınmasıyla ilişkilidir. Böyle bir başvuru bütün olağan mahkemelerin kaldırıldığı anlamına gelmez.",
+      "sources": [
+        "IM-NOT",
+        "IM-MEZ"
+      ]
+    },
+    {
+      "id": "IMU-030",
+      "revision": 1,
+      "topic": "İlk Türk-İslam Devletlerinde Kültür ve Uygarlık",
+      "subtopic": "Hukuk — görev alanları",
+      "skill": "Bilgi ve yorum",
+      "stem": "Kadıların şeri davalara bakması ve mezalimde kamu görevlilerinin haksız işlemlerinin ele alınmasıyla ilgili hangisi yanlıştır?",
+      "difficulty": "Orta",
+      "options": [
+        "Yargı işlevleri tek bir görevli türüne indirgenemez.",
+        "Kadıların belirli hukuk alanlarında yargı görevi vardır.",
+        "Farklı başvuru yolları aynı düzende bulunabilir.",
+        "Mezalim bulunması kadı mahkemelerine gerek kalmadığını gösterir.",
+        "Kamu görevlilerinin işlemleri şikâyet konusu olabilir."
+      ],
+      "answer": "D",
+      "explanation": "Mezalim ile kadı mahkemeleri birbirini bütünüyle dışlayan kurumlar değildir. Şikâyet denetimi ve olağan yargı farklı işlevler taşıyabildiğinden birinin varlığı diğerinin gereksiz olduğu sonucunu vermez.",
+      "sources": [
+        "IM-NOT",
+        "IM-MEZ",
+        "IM-MEB"
+      ]
+    },
+    {
+      "id": "IMU-031",
+      "revision": 1,
+      "topic": "İlk Türk-İslam Devletlerinde Kültür ve Uygarlık",
+      "subtopic": "Hukuk — delil ve görev ayrımı",
+      "skill": "Bilgi ve yorum",
+      "stem": "Bir kayıtta evlilik uyuşmazlığına kadının, bir görevlinin haksız vergi talebine ise mezalim makamının baktığı anlatılıyor. Bu bilgilerden hangisine ulaşılamaz?",
+      "difficulty": "Orta",
+      "options": [
+        "Kamu görevlilerinin işlemine karşı başvuru bulunabildiğine",
+        "Şeri davalarda kadının görev alabildiğine",
+        "İdari haksızlıkların yargısal şikâyete konu olabildiğine",
+        "Her iki başvurunun aynı usulle sonuçlandırıldığına",
+        "Farklı dava konuları için farklı mekanizmaların kullanıldığına"
+      ],
+      "answer": "D",
+      "explanation": "Kayıt iki farklı başvuru konusu ve iki farklı merci hakkında bilgi verir. Sonuçlandırma usulleri belirtilmediği için aynı yargılama yöntemi kullanıldığına ulaşılamaz.",
+      "sources": [
+        "IM-NOT",
+        "IM-MEZ",
+        "IM-MEB"
+      ]
+    },
+    {
+      "id": "IMU-032",
+      "revision": 1,
+      "topic": "İlk Türk-İslam Devletlerinde Kültür ve Uygarlık",
+      "subtopic": "Hukuk — ordu yargısı",
+      "skill": "Bilgi ve yorum",
+      "stem": "Ordu içindeki hukuki uyuşmazlıkların kadıasker gibi özel bir görevli tarafından ele alınması aşağıdakilerden hangisini gösterir?",
+      "difficulty": "Orta",
+      "options": [
+        "Kadıların bütün mali işlerin başına geçtiğini",
+        "Ordunun siyasi egemenliğinin hükümdardan bağımsız olduğunu",
+        "Askerlerin hukuki denetimden çıkarıldığını",
+        "Saray hizmetlilerinin ordu komutanlarını seçtiğini",
+        "Askerî çevre için uzmanlaşmış yargı görevlerinin bulunabildiğini"
+      ],
+      "answer": "E",
+      "explanation": "Askerî uyuşmazlıklar için özel yargı görevlisi bulunması işlevsel uzmanlaşmayı gösterir. Kadıasker unvanının devletlere göre gelişimi farklı olduğundan her erken Türk-İslam devletinde aynı teşkilatın bulunduğu sonucu çıkarılmamalıdır.",
+      "sources": [
+        "IM-NOT",
+        "IM-KAZ"
+      ]
+    },
+    {
+      "id": "IMU-033",
+      "revision": 1,
+      "topic": "İlk Türk-İslam Devletlerinde Kültür ve Uygarlık",
+      "subtopic": "Toprak yönetimi — mülkiyet ve kullanım",
+      "skill": "Bilgi ve yorum",
+      "stem": "Selçuklu askerî iktasında bir bölgenin vergi gelirinden yararlanma yetkisi verilmesiyle ilgili hangi yargı doğrudur?",
+      "difficulty": "Orta",
+      "options": [
+        "İkta bütün tarihsel örneklerinde yalnız para maaşıdır.",
+        "Toprağı işleyen bütün köylüler askerî köle hâline gelir.",
+        "Tahsis edilen yerde devletin hiçbir yetkisi kalmaz.",
+        "Gelir tahsisi, toprağın tam özel mülkiyetinin verilmesiyle aynı şey değildir.",
+        "İkta verilen kişi bölgenin bağımsız hükümdarı olur."
+      ],
+      "answer": "D",
+      "explanation": "Askerî iktada belirli gelirin hizmet karşılığında kullanılması esastır. Bu düzeni, bütün dönemlerdeki her ikta çeşidinin tam mülkiyet devri olduğu veya bağımsız siyasi egemenlik verdiği biçiminde genişletmemek gerekir.",
+      "sources": [
+        "IM-NOT",
+        "IM-IKT"
+      ]
+    },
+    {
+      "id": "IMU-034",
+      "revision": 1,
+      "topic": "İlk Türk-İslam Devletlerinde Kültür ve Uygarlık",
+      "subtopic": "Toprak yönetimi — askerî finansman",
+      "skill": "Bilgi ve yorum",
+      "stem": "Selçuklu askerî iktasında görevlilerin kendilerine tahsis edilen gelirle asker beslemesi hangi sonucu en doğrudan destekler?",
+      "difficulty": "Orta",
+      "options": [
+        "Vergi gelirlerinin devlet hizmetiyle bağının kesilmesini",
+        "Askerî giderlerin yerel gelirlerle karşılanmasını",
+        "Askerlerin yalnız gönüllü bağışlarla beslenmesini",
+        "Köylülerin tarımsal üretimden çekilmesini",
+        "Merkez hazinesinden bütün askerî harcamaların kaldırılmasını"
+      ],
+      "answer": "B",
+      "explanation": "İkta, askerî hizmeti yerel vergi gelirlerine bağlayarak doğrudan hazine giderlerinin bir kısmını azaltır. Saray ve diğer birliklerin masrafları da bulunduğundan bütün askerî harcamaların ortadan kalktığı söylenemez.",
+      "sources": [
+        "IM-NOT",
+        "IM-IKT"
+      ]
+    },
+    {
+      "id": "IMU-035",
+      "revision": 1,
+      "topic": "İlk Türk-İslam Devletlerinde Kültür ve Uygarlık",
+      "subtopic": "Toprak yönetimi — işlevler",
+      "skill": "Bilgi ve yorum",
+      "stem": "Selçuklu askerî iktasının işlevleriyle ilgili hangisi yanlıştır?",
+      "difficulty": "Orta",
+      "options": [
+        "Bölgede güvenliğin sağlanmasına katkı sunabilmesi",
+        "Gelir tahsisiyle askerî hizmeti ilişkilendirmesi",
+        "Üretimin sürmesini teşvik etmesi",
+        "Tahsis sahibine merkezden bağımsız siyasi egemenlik vermesi",
+        "Bazı hizmet giderlerinin yerel kaynaklardan karşılanması"
+      ],
+      "answer": "D",
+      "explanation": "İkta hizmet ve gelir ilişkisi kurar; düzenin amacı tahsis sahibini bağımsız hükümdar yapmak değildir. Merkez zayıfladığında yerel güçlerin bağımsızlaşabilmesi, sistemin kuruluş amacına verilmiş bir egemenlik hakkıyla aynı şey değildir.",
+      "sources": [
+        "IM-NOT",
+        "IM-IKT"
+      ]
+    },
+    {
+      "id": "IMU-036",
+      "revision": 1,
+      "topic": "İlk Türk-İslam Devletlerinde Kültür ve Uygarlık",
+      "subtopic": "Toprak yönetimi — üretim bağı",
+      "skill": "Bilgi ve yorum",
+      "stem": "Bir ikta bölgesinde tarımsal üretimin azalması ve vergi gelirinin düşmesi, mevcut tahsis düzeni korunursa öncelikle hangi sonucu doğurabilir?",
+      "difficulty": "Orta",
+      "options": [
+        "İkta sahibinin askerî hizmet giderlerini karşılamasının güçleşmesi",
+        "İkta sahibinin bölge üzerinde kalıtsal egemenlik kazanması",
+        "Tahsis edilen arazinin kendiliğinden özel mülke dönüşmesi",
+        "Bölgenin bütün vergilerinin merkez hazinesinden ödenmesi",
+        "Asker besleme yükümlülüğünün doğrudan vakıflara geçmesi"
+      ],
+      "answer": "A",
+      "explanation": "Askerî iktada gelir tahsisi hizmet yükümlülüğünü finanse eder. Üretim ve vergi geliri azalınca askerlerin ihtiyaçlarını karşılama güçlüğü doğabilir. Ancak bundan mülkiyetin değiştiği, hizmetin vakfa aktarıldığı veya bağımsız egemenlik kazanıldığı sonucu çıkarılamaz.",
+      "sources": [
+        "IM-NOT",
+        "IM-IKT"
+      ]
+    },
+    {
+      "id": "IMU-037",
+      "revision": 1,
+      "topic": "İlk Türk-İslam Devletlerinde Kültür ve Uygarlık",
+      "subtopic": "Toprak yönetimi — has ve vakıf",
+      "skill": "Bilgi ve yorum",
+      "stem": "Geliri hükümdarın ihtiyaçlarına ayrılan has ile geliri hayır ve sosyal hizmetlere tahsis edilen vakıf arasında hangi ayrım doğrudur?",
+      "difficulty": "Orta",
+      "options": [
+        "Vakıf geliri hükümdarın şahsi harcaması için ayrılır.",
+        "Hasın varlığı diğer gelir tahsislerini kaldırır.",
+        "Gelirin kullanım amacı farklıdır.",
+        "Vakıf kurumu tarımsal gelirden yararlanamaz.",
+        "Has ile vakıf aynı askerî birliğin iki adıdır."
+      ],
+      "answer": "C",
+      "explanation": "Has ve vakıf farklı gelir tahsis amaçlarını ifade eder. Özellikle vakıfta kaynağın hangi hizmete ayrıldığı önemlidir; aynı tür ekonomik kaynaktan farklı kurumlar yararlanabilir.",
+      "sources": [
+        "IM-NOT",
+        "IM-VAK",
+        "IM-IKT"
+      ]
+    },
+    {
+      "id": "IMU-038",
+      "revision": 1,
+      "topic": "İlk Türk-İslam Devletlerinde Kültür ve Uygarlık",
+      "subtopic": "Toprak yönetimi — mülk ve vakıf",
+      "skill": "Bilgi ve yorum",
+      "stem": "Bir kişinin özel mülkünden gelen geliri bir darüşşifaya sürekli tahsis etmesi hangi sürece örnektir?",
+      "difficulty": "Orta",
+      "options": [
+        "Has gelirinin hükümdara devredilmesine",
+        "Askerî iktanın bağımsız beyliğe dönüşmesine",
+        "Özel kaynağın vakıf yoluyla sosyal hizmete ayrılmasına",
+        "Ticaret vergilerinin bütünüyle kaldırılmasına",
+        "Şeri yargı görevinin orduya verilmesine"
+      ],
+      "answer": "C",
+      "explanation": "Vakıf, ekonomik kaynağın belirlenmiş sosyal veya hayrî hizmete ayrılmasına imkân verir. Darüşşifaya sürekli gelir sağlanması, hizmetin finansmanını destekler; örnek askerî ikta değildir.",
+      "sources": [
+        "IM-NOT",
+        "IM-VAK"
+      ]
+    },
+    {
+      "id": "IMU-039",
+      "revision": 1,
+      "topic": "İlk Türk-İslam Devletlerinde Kültür ve Uygarlık",
+      "subtopic": "Toprak yönetimi — öşri ve haraci",
+      "skill": "Bilgi ve yorum",
+      "stem": "Öşri ve haraci arazi adlandırmalarını birbirinden ayıran temel ölçüt aşağıdakilerden hangisidir?",
+      "difficulty": "Orta",
+      "options": [
+        "Arazinin tabi olduğu vergi ve hukuki statü",
+        "Arazinin merkezden veya eyaletten yönetilmesi",
+        "Tahsis sahibinin yetiştirdiği asker sayısı",
+        "Gelirin nakden veya ayni olarak toplanması",
+        "Gelirin hükümdara veya medreseye tahsis edilmesi"
+      ],
+      "answer": "A",
+      "explanation": "Öşri ve haraci adlandırmalar vergi ve hukuki statüyle ilişkilidir. Gelirin hangi hizmete ayrıldığı ise başka bir sınıflandırma ölçütüdür. Bu nedenle has, vakıf veya askerî tahsis amacıyla öşri-haraci statüyü birbirine eşitlemek doğru değildir.",
+      "sources": [
+        "IM-NOT",
+        "IM-IKT"
+      ]
+    },
+    {
+      "id": "IMU-040",
+      "revision": 1,
+      "topic": "İlk Türk-İslam Devletlerinde Kültür ve Uygarlık",
+      "subtopic": "Toprak yönetimi — ikta ve tımar",
+      "skill": "Bilgi ve yorum",
+      "stem": "Selçuklu askerî iktası ile Osmanlı tımarı arasında hizmet karşılığında gelir tahsisi bakımından benzerlik kurulabilir. Bu karşılaştırmada hangi yargı yanlıştır?",
+      "difficulty": "Orta",
+      "options": [
+        "İki uygulamanın bütün yetki ve kurallarının aynı olduğu",
+        "İkta adı bütün dönemlerde tek biçimli uygulamayı ifade etmez.",
+        "Benzer işlevler farklı örgütlenmelerle yürütülebilir.",
+        "Tımarın Osmanlı dönemindeki biçimi ayrıca değerlendirilmelidir.",
+        "İki uygulamada da vergi geliri ile hizmet ilişkisi incelenebilir."
+      ],
+      "answer": "A",
+      "explanation": "Hizmet-gelir ilişkisi benzerlik kurmaya yeterlidir fakat kurumların bütün kurallarını aynılaştırmaz. Osmanlı tımarlı sipahisi ve cebelü adları, Selçuklu askerî iktasının her örneğine aynen taşınmamalıdır.",
+      "sources": [
+        "IM-NOT",
+        "IM-IKT"
+      ]
+    },
+    {
+      "id": "IMU-041",
+      "revision": 1,
+      "topic": "İlk Türk-İslam Devletlerinde Kültür ve Uygarlık",
+      "subtopic": "Sosyal hayat — kurum işlevleri",
+      "skill": "Bilgi",
+      "stem": "Türk-İslam şehir hayatında darüşşifanın temel işlevi aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Hanedan üyelerinin eyalet yönetimi",
+        "Değerli malların alınıp satılması",
+        "Askerî kayıtların tutulması",
+        "Resmî yazışmaların hazırlanması",
+        "Hastaların tedavisi"
+      ],
+      "answer": "E",
+      "explanation": "Darüşşifa hastaların tedavisine yönelik kurumdur. Medrese eğitim, bedesten ticaret işleviyle öne çıkar; farklı sosyal ihtiyaçlar ayrı kurumlarla karşılanmıştır.",
+      "sources": [
+        "IM-NOT",
+        "IM-MED"
+      ]
+    },
+    {
+      "id": "IMU-042",
+      "revision": 1,
+      "topic": "İlk Türk-İslam Devletlerinde Kültür ve Uygarlık",
+      "subtopic": "Sosyal hayat — bedesten",
+      "skill": "Bilgi",
+      "stem": "Şehirde kıymetli malların güvenli biçimde saklanıp alınıp satılabildiği kapalı ticaret yapısı hangi kavramla ilişkilidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Medrese",
+        "Kümbet",
+        "Bedesten",
+        "Darüşşifa",
+        "Hankah"
+      ],
+      "answer": "C",
+      "explanation": "Bedesten özellikle değerli malların ticareti ve korunmasıyla ilişkilidir. Bir yapının kapalı olması onu eğitim veya ibadet kurumu yapmaz; temel işlevi belirlemek gerekir.",
+      "sources": [
+        "IM-NOT",
+        "IM-BED"
+      ]
+    },
+    {
+      "id": "IMU-043",
+      "revision": 1,
+      "topic": "İlk Türk-İslam Devletlerinde Kültür ve Uygarlık",
+      "subtopic": "Sosyal hayat — arasta",
+      "skill": "Bilgi",
+      "stem": "Aynı tür malların satıldığı dükkânların düzenli sıralar hâlinde toplandığı çarşı hangi kavramla ifade edilir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Darüşşifa",
+        "Kümbet",
+        "Arasta",
+        "Medrese",
+        "Kapan"
+      ],
+      "answer": "C",
+      "explanation": "Arasta, düzenli sıralanan ve çoğunlukla aynı tür malları satan dükkânlardan oluşur. Kapan da ticaretle ilişkilidir ancak tartım ve toptan dağıtım işleviyle ayrılır.",
+      "sources": [
+        "IM-NOT",
+        "IM-ARA"
+      ]
+    },
+    {
+      "id": "IMU-044",
+      "revision": 1,
+      "topic": "İlk Türk-İslam Devletlerinde Kültür ve Uygarlık",
+      "subtopic": "Sosyal hayat — kapan",
+      "skill": "Bilgi ve yorum",
+      "stem": "Türk-İslam şehirlerinin ticari mirasında, özellikle sonraki Osmanlı şehirlerinde ürünlerin tartılıp toptan dağıtıldığı kapanlar hangi işlevle ilişkilidir?",
+      "difficulty": "Orta",
+      "options": [
+        "Yüksek dinî öğretimin verilmesiyle",
+        "Şehzadelerin askerî eğitim almasıyla",
+        "Hastaların yatılı tedavi edilmesiyle",
+        "Mal akışının ölçü, tartı ve satış bakımından düzenlenmesiyle",
+        "Hükümdarların mezarlarının korunmasıyla"
+      ],
+      "answer": "D",
+      "explanation": "Kapanlar tartım ve özellikle toptan ticaret düzeniyle ilişkilidir. Terimin ve kurumun sonraki Osmanlı şehirlerindeki belirgin biçimi, bütün erken Türk-İslam şehirlerinde aynı yapı ve yetkilerin bulunduğu anlamına gelmez.",
+      "sources": [
+        "IM-NOT",
+        "IM-KAP"
+      ]
+    },
+    {
+      "id": "IMU-045",
+      "revision": 1,
+      "topic": "İlk Türk-İslam Devletlerinde Kültür ve Uygarlık",
+      "subtopic": "Sosyal hayat — külliye",
+      "skill": "Bilgi ve yorum",
+      "stem": "Cami, medrese ve darüşşifa gibi farklı yapıları aynı çevrede birleştiren külliye için hangisi söylenebilir?",
+      "difficulty": "Orta",
+      "options": [
+        "Külliye tek işlevli bir alışveriş dükkânıdır.",
+        "Külliyede farklı kurum işlevleri birbirini ortadan kaldırır.",
+        "Külliye yalnız hükümdar ailesinin mezarından oluşur.",
+        "Külliye bir askerî birlik türüdür.",
+        "Birden fazla toplumsal ihtiyacın birlikte karşılanmasını sağlar."
+      ],
+      "answer": "E",
+      "explanation": "Külliye ibadet, eğitim, sağlık ve başka hizmetleri bir arada barındırabilir. Her külliyenin aynı yapı listesini taşıması gerekmez; birden fazla işlevin birlikte örgütlenmesi temel özelliktir.",
+      "sources": [
+        "IM-NOT",
+        "IM-MED",
+        "IM-VAK"
+      ]
+    },
+    {
+      "id": "IMU-046",
+      "revision": 1,
+      "topic": "İlk Türk-İslam Devletlerinde Kültür ve Uygarlık",
+      "subtopic": "Sosyal hayat — mezar yapıları",
+      "skill": "Bilgi ve yorum",
+      "stem": "Türk-İslam şehirlerinde görülen yapı ve temel işlev eşleştirmelerinden hangisi yanlıştır?",
+      "difficulty": "Orta",
+      "options": [
+        "Kapan — Malların tartılması ve toptan dağıtımı",
+        "Kümbet — Tasavvuf mensuplarının birlikte eğitim ve barınma faaliyeti",
+        "Bedesten — Kıymetli malların ticareti ve korunması",
+        "Darüşşifa — Hastaların tedavi edilmesi",
+        "Medrese — Öğretim faaliyetlerinin yürütülmesi"
+      ],
+      "answer": "B",
+      "explanation": "Kümbet bir mezar yapısıdır. Tasavvuf mensuplarının barınması ve dinî eğitim faaliyeti hankah veya tekke çevresiyle ilişkilidir. Diğer eşleştirmelerde sağlık, ticaret ve eğitim işlevleri doğru verilmiştir; yakın sosyal kurumların birbirine karıştırılmaması gerekir.",
+      "sources": [
+        "IM-NOT",
+        "IM-MED"
+      ]
+    },
+    {
+      "id": "IMU-047",
+      "revision": 1,
+      "topic": "İlk Türk-İslam Devletlerinde Kültür ve Uygarlık",
+      "subtopic": "Sosyal hayat — tekke ve hankah",
+      "skill": "Bilgi ve yorum",
+      "stem": "Tasavvuf hayatı içinde barınma, dinî eğitim ve şeyh çevresinde faaliyetlerle ilişkili hankah hangi kurum çevresine girer?",
+      "difficulty": "Orta",
+      "options": [
+        "Kapan ve toptan tartı çevresine",
+        "İstifa ve mali kayıt çevresine",
+        "İnşa ve resmî belge çevresine",
+        "Arz ve askerî yoklama çevresine",
+        "Tekke ve dergâh çevresine"
+      ],
+      "answer": "E",
+      "explanation": "Hankah, tasavvuf erbabının faaliyet gösterdiği tekke ve dergâh türündeki kurumlarla ilişkilidir. Medreseyle bazı eğitim işlevleri paylaşabilse de idari divan veya ticaret yapısı değildir.",
+      "sources": [
+        "IM-NOT",
+        "IM-HAN"
+      ]
+    },
+    {
+      "id": "IMU-048",
+      "revision": 1,
+      "topic": "İlk Türk-İslam Devletlerinde Kültür ve Uygarlık",
+      "subtopic": "Sosyal hayat — ticaret ve denetim",
+      "skill": "Bilgi",
+      "stem": "Bir çarşıda ölçü ve tartıların doğruluğunu, satış düzenini ve kamu kurallarına uyumu denetleyen görevli kimdir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Camedar",
+        "Tuğrai",
+        "Emir-i ahur",
+        "Müstevfi",
+        "Muhtesib"
+      ],
+      "answer": "E",
+      "explanation": "Muhtesib hisbe teşkilatı içinde pazar düzeni, ölçü-tartı ve kamu kurallarını denetleyebilir. Bu görev devletin genel gelir-gider hesabını tutan müstevfinin göreviyle aynı değildir.",
+      "sources": [
+        "IM-NOT",
+        "IM-HIS"
+      ]
+    },
+    {
+      "id": "IMU-049",
+      "revision": 1,
+      "topic": "İlk Türk-İslam Devletlerinde Kültür ve Uygarlık",
+      "subtopic": "Sosyal hayat — mekân ve personel",
+      "skill": "Bilgi ve yorum",
+      "stem": "Bedesten değerli mal ticaretine, arasta dükkân düzenine, muhtesib ise pazar denetimine ilişkindir. Bu bilgilerden hangisine ulaşılamaz?",
+      "difficulty": "Orta",
+      "options": [
+        "Bu üç kavramın aynı idari makamın farklı unvanları olduğuna",
+        "Ticaret düzeninde işlevsel ayrımlar bulunduğuna",
+        "Pazar faaliyetlerinin denetime konu olabildiğine",
+        "Mekân adı ile görevli unvanının ayrı türden kavramlar olduğuna",
+        "Ticaretin belirli mekânlarda örgütlendiğine"
+      ],
+      "answer": "A",
+      "explanation": "Bedesten ve arasta ticaret mekânları, muhtesib ise denetim görevlisidir. Aynı toplumsal alanda rol almaları onları aynı makamın unvanları yapmaz; yapı ve personel türleri ayrılmalıdır.",
+      "sources": [
+        "IM-NOT",
+        "IM-BED",
+        "IM-ARA",
+        "IM-HIS"
+      ]
+    },
+    {
+      "id": "IMU-050",
+      "revision": 1,
+      "topic": "İlk Türk-İslam Devletlerinde Kültür ve Uygarlık",
+      "subtopic": "Ordu — teşkilat çeşitliliği",
+      "skill": "Bilgi ve yorum",
+      "stem": "Büyük Selçuklu ordusunda gulamlar, ikta askerleri, bağlı devlet kuvvetleri ve Türkmen birliklerinin bulunması hangi yargıyı destekler?",
+      "difficulty": "Orta",
+      "options": [
+        "Ordunun farklı insan ve finansman kaynaklarından oluştuğunu",
+        "Ordunun her birliğinin yalnız merkez hazinesinden aynı usulle beslendiğini",
+        "Bağlı devletlerin bütün askerlerinin gulam eğitimi aldığını",
+        "Birlik çeşitliliğinin askerî komuta ihtiyacını kaldırdığını",
+        "Türkmen birliklerinin devlet yönetiminden bütünüyle bağımsız olduğunu"
+      ],
+      "answer": "A",
+      "explanation": "Farklı birlik türleri ordunun tek kaynaktan oluşmadığını gösterir. Gulamların sarayla bağı ve ikta askerlerinin gelir tahsisi farklıdır; ortak orduda bulunmaları bütün yetiştirme ve finansman yöntemlerini aynılaştırmaz.",
+      "sources": [
+        "IM-NOT",
+        "IM-GUL",
+        "IM-IKT",
+        "IM-ORD"
+      ]
+    },
+    {
+      "id": "IMU-051",
+      "revision": 1,
+      "topic": "İlk Türk-İslam Devletlerinde Kültür ve Uygarlık",
+      "subtopic": "Ordu — gulam ve devşirme",
+      "skill": "Bilgi ve yorum",
+      "stem": "Gulam sistemi ile sonraki Osmanlı devşirme uygulaması karşılaştırılırken hangi yargı doğrudur?",
+      "difficulty": "Orta",
+      "options": [
+        "Gulam sistemi yalnız tarım vergi gelirini ifade eder.",
+        "Hizmet eğitimi iki uygulama arasında karşılaştırma yapılmasını engeller.",
+        "Devşirme ve gulam her dönemde aynı yaş ve hukuk kurallarını taşır.",
+        "Gulamların tamamı Osmanlı devşirme kanununa göre toplanmıştır.",
+        "Hizmet için yetiştirme benzerliği, temin usullerinin tamamen aynı olduğunu göstermez."
+      ],
+      "answer": "E",
+      "explanation": "Gulamlar esir, satın alma veya farklı yollarla temin edilerek hizmet için yetiştirilebilmiştir. Osmanlı devşirmesinin ayrı düzenlemeleri vardır; genel yetiştirme benzerliği tüm yöntemlerin özdeşliğini kanıtlamaz.",
+      "sources": [
+        "IM-NOT",
+        "IM-GUL"
+      ]
+    },
+    {
+      "id": "IMU-052",
+      "revision": 1,
+      "topic": "İlk Türk-İslam Devletlerinde Kültür ve Uygarlık",
+      "subtopic": "Ordu — hassa",
+      "skill": "Bilgi ve yorum",
+      "stem": "Hükümdara doğrudan bağlı ve saray güvenliğiyle ilişkili hassa birliklerinin varlığı hangi amaca en doğrudan hizmet eder?",
+      "difficulty": "Orta",
+      "options": [
+        "Hükümdarın elinde doğrudan kullanılabilir askerî güç bulunmasına",
+        "Askerî görevlerin medrese öğrencilerine verilmesine",
+        "Bütün birliklerin tarım geliriyle yetişmesine",
+        "Eyalet yöneticilerinin merkezden bağımsızlaşmasına",
+        "Saraydaki mali kayıtların kaldırılmasına"
+      ],
+      "answer": "A",
+      "explanation": "Hassa askerlerinin doğrudan hükümdarla bağlantısı merkezî otoritenin kendine bağlı bir kuvvet bulundurmasını sağlar. Bu kuvvetin varlığı eyaletlerin veya diğer birliklerin ortadan kaldırıldığı anlamına gelmez.",
+      "sources": [
+        "IM-NOT",
+        "IM-GUL",
+        "IM-ORD"
+      ]
+    },
+    {
+      "id": "IMU-053",
+      "revision": 1,
+      "topic": "İlk Türk-İslam Devletlerinde Kültür ve Uygarlık",
+      "subtopic": "Ordu — bağlı devletler",
+      "skill": "Bilgi ve yorum",
+      "stem": "Bağlı devletlerin savaş zamanında kuvvet göndermesi aşağıdakilerden hangisine örnektir?",
+      "difficulty": "Orta",
+      "options": [
+        "Sarayın bütün güvenliğinin yerel kadılara bırakılmasına",
+        "Bağlı devletin hükümdarının merkez sultanının yerine geçmesine",
+        "Siyasi bağlılığın askerî yükümlülük doğurmasına",
+        "Bütün askerlerin aynı sarayda yetiştirilmesine",
+        "İkta gelirinin tamamen vakıflara ayrılmasına"
+      ],
+      "answer": "C",
+      "explanation": "Bağlı devletlerin asker sağlaması siyasi ilişkinin askerî hizmet boyutunu gösterir. Gönderilen askerler farklı kaynaklardan gelebilir; bu yükümlülük onları otomatik olarak saray gulamı yapmaz.",
+      "sources": [
+        "IM-NOT",
+        "IM-GUL"
+      ]
+    },
+    {
+      "id": "IMU-054",
+      "revision": 1,
+      "topic": "İlk Türk-İslam Devletlerinde Kültür ve Uygarlık",
+      "subtopic": "Ordu — ücretli askerler",
+      "skill": "Bilgi ve yorum",
+      "stem": "Gazneli ordusunda gulamların yanında ücretli asker ve gönüllülerin de yer alması hangi yargıyı desteklemez?",
+      "difficulty": "Orta",
+      "options": [
+        "Hizmete katılma biçimlerinin farklılaşmasını",
+        "Ordu teşkilatının saray muhafızlarıyla sınırlı olmamasını",
+        "Ordunun tek bir temin biçimine dayanmasını",
+        "Askerî gücün farklı topluluklardan yararlanabilmesini",
+        "Asker kaynaklarının çeşitlenmesini"
+      ],
+      "answer": "C",
+      "explanation": "Gulam, ücretli asker ve gönüllülerin birlikte varlığı tek biçimli temin iddiasını desteklemez. Bir ordunun farklı kaynaklardan oluşması, bu birliklerin siyasi veya hukuki konumlarının da bütünüyle aynı olduğunu göstermez.",
+      "sources": [
+        "IM-NOT",
+        "IM-ORD"
+      ]
+    },
+    {
+      "id": "IMU-055",
+      "revision": 1,
+      "topic": "İlk Türk-İslam Devletlerinde Kültür ve Uygarlık",
+      "subtopic": "Eğitim — medrese ve devlet",
+      "skill": "Bilgi",
+      "stem": "Nizamiye medreseleri ağının kurulmasıyla en doğrudan ilişkili Selçuklu devlet adamı kimdir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Tamgaç Buğra Han",
+        "Uluğ Bey",
+        "Yağıbasan",
+        "Tuğrul Bey",
+        "Nizamülmülk"
+      ],
+      "answer": "E",
+      "explanation": "Nizamiye medreseleri Nizamülmülk’ün himaye ve örgütlenmesiyle ilişkilidir. Karahanlı ve Danişmentli medreseleri ayrı siyasi çevrelerin eğitim faaliyetleridir.",
+      "sources": [
+        "IM-NOT",
+        "IM-NIZ"
+      ]
+    },
+    {
+      "id": "IMU-056",
+      "revision": 1,
+      "topic": "İlk Türk-İslam Devletlerinde Kültür ve Uygarlık",
+      "subtopic": "Eğitim — medrese şehirleri",
+      "skill": "Bilgi ve yorum",
+      "stem": "Karahanlıların Semerkant’taki medresesi, Nişabur ve Bağdat’taki Selçuklu medreseleri ile ilgili hangi yargı doğrudur?",
+      "difficulty": "Orta",
+      "options": [
+        "Karahanlı medresesi Selçuklu vezirinin saray birliğidir.",
+        "Eğitim yatırımları birden fazla siyasi çevre ve şehirde görülmüştür.",
+        "Bağdat Nizamiyesi bütün İslam tarihinin ilk medresesidir.",
+        "Bütün medreseler yalnız tek başkentte kurulmuştur.",
+        "Nişabur medresesi Anadolu’daki Yağıbasan yapısıdır."
+      ],
+      "answer": "B",
+      "explanation": "Semerkant, Nişabur ve Bağdat örnekleri medreselerin farklı merkezlerde bulunduğunu gösterir. Bağdat Nizamiyesi çok tanınmış olsa da bu özellik onu bütün medreselerin tarihsel başlangıcı yapmaz.",
+      "sources": [
+        "IM-NOT",
+        "IM-MED"
+      ]
+    },
+    {
+      "id": "IMU-057",
+      "revision": 1,
+      "topic": "İlk Türk-İslam Devletlerinde Kültür ve Uygarlık",
+      "subtopic": "Eğitim — yönetici yetiştirme",
+      "skill": "Bilgi ve yorum",
+      "stem": "Nizamiye medreselerinde devletin ihtiyaç duyduğu görevlilerin yetiştirilmesinin amaçlanması hangi ilişkiyi gösterir?",
+      "difficulty": "Orta",
+      "options": [
+        "Eğitim ile idari personel ihtiyacı arasındaki bağı",
+        "Divanların eğitim sebebiyle kaldırıldığını",
+        "Öğrencilerin tamamının hanedan üyesi olduğunu",
+        "Medreselerin yalnız özel ticaret şirketi olduğunu",
+        "Ordu komutasının medreseye devredildiğini"
+      ],
+      "answer": "A",
+      "explanation": "Devlet görevlisi yetiştirme amacı eğitimin yönetimle bağlantılı olduğunu gösterir. Medrese mezunlarının idari göreve hazırlanması, okulun doğrudan devletin karar organı olduğu anlamına gelmez.",
+      "sources": [
+        "IM-NOT",
+        "IM-NIZ"
+      ]
+    },
+    {
+      "id": "IMU-058",
+      "revision": 1,
+      "topic": "İlk Türk-İslam Devletlerinde Kültür ve Uygarlık",
+      "subtopic": "Eğitim — dinî ve siyasi amaç",
+      "skill": "Bilgi ve yorum",
+      "stem": "Nizamiye medreselerinde Sünni öğretimin güçlendirilmesi ve karşı propagandaya cevap verilmesi hangi yargıyı destekler?",
+      "difficulty": "Orta",
+      "options": [
+        "Medreselerin yalnız askerî esirleri eğittiğini",
+        "Bütün dinî anlaşmazlıkların medreselerle sona erdiğini",
+        "Devletin dinî tartışmalarla hiçbir ilgisinin bulunmadığını",
+        "Eğitimin dinî ve siyasi rekabet içinde de rol oynadığını",
+        "Bilimsel öğretimin bütün derslerden çıkarıldığını"
+      ],
+      "answer": "D",
+      "explanation": "Nizamiye ağı, öğretim yanında Selçuklu-Abbasi çevresinin dinî görüşlerini güçlendirmeye de hizmet etmiştir. Bu amaç başka bilimlerin hiç öğretilmediği veya siyasi rekabetin tamamen sona erdiği biçiminde genişletilemez.",
+      "sources": [
+        "IM-NOT",
+        "IM-NIZ"
+      ]
+    },
+    {
+      "id": "IMU-059",
+      "revision": 1,
+      "topic": "İlk Türk-İslam Devletlerinde Kültür ve Uygarlık",
+      "subtopic": "Eğitim — yatılı ve burslu öğretim",
+      "skill": "Bilgi ve yorum",
+      "stem": "Öğrenciler için barınma ve geçim desteği sağlanması hangi amaca en doğrudan katkı verir?",
+      "difficulty": "Orta",
+      "options": [
+        "Öğrenim yerine askerî sefer yapılmasını sağlamaya",
+        "Medreseye girişi yalnız saray mensuplarıyla sınırlamaya",
+        "Öğretmenlerin yargı yetkisini artırmaya",
+        "Öğrencinin öğrenimini sürdürmesini kolaylaştırmaya",
+        "Toprak vergilerinin tamamını kaldırmaya"
+      ],
+      "answer": "D",
+      "explanation": "Barınma ve geçim desteği öğrencinin ekonomik yükünü azaltarak öğrenime devamını kolaylaştırır. Bu imkânın bulunması, herkesin eğitime eşit biçimde eriştiğini veya bütün sınırlamaların kalktığını kanıtlamaz.",
+      "sources": [
+        "IM-NOT",
+        "IM-NIZ",
+        "IM-MED"
+      ]
+    },
+    {
+      "id": "IMU-060",
+      "revision": 1,
+      "topic": "İlk Türk-İslam Devletlerinde Kültür ve Uygarlık",
+      "subtopic": "Eğitim — vakıf finansmanı",
+      "skill": "Bilgi ve yorum",
+      "stem": "Bir medreseye tahsis edilen vakıf gelirinin hoca ve öğrenci ihtiyaçlarını karşılaması hangi çıkarımı destekler?",
+      "difficulty": "Orta",
+      "options": [
+        "Vakıf gelirinin medreseyi bağımsız bir devlet yaptığını",
+        "Gelirin mutlaka askerî iktadan geldiğini",
+        "Müderrisin devletin bütün mali divanlarını yönettiğini",
+        "Öğrenci desteğinin yalnız hükümdarın günlük bağışına bağlı olduğunu",
+        "Eğitimin sürekliliği için ekonomik kaynak oluşturulduğunu"
+      ],
+      "answer": "E",
+      "explanation": "Vakıf geliri okulun personel ve öğrenci giderlerine düzenli kaynak sağlayabilir. Bu düzen eğitim hizmetini sürdürülebilir kılar; vakıf kurumu ile askerî ikta aynı tahsis amacı taşımaz.",
+      "sources": [
+        "IM-NOT",
+        "IM-VAK",
+        "IM-MED"
+      ]
+    },
+    {
+      "id": "IMU-061",
+      "revision": 1,
+      "topic": "İlk Türk-İslam Devletlerinde Kültür ve Uygarlık",
+      "subtopic": "Eğitim — personel ve mekân",
+      "skill": "Bilgi",
+      "stem": "Medresede ders veren kişi ile dersin yapıldığı mekân hangi seçenekte doğru eşleştirilmiştir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Kadı — Darüşşifa",
+        "Müderris — Kapan",
+        "Muhtesib — Dershane",
+        "Müderris — Dershane",
+        "Müstevfi — Dershane"
+      ],
+      "answer": "D",
+      "explanation": "Müderris medresede öğretim görevi yapan kişidir; dershane öğretimin yapıldığı mekândır. Müstevfi ve muhtesib başka idari alanlara ait unvanlardır.",
+      "sources": [
+        "IM-NOT",
+        "IM-MED"
+      ]
+    },
+    {
+      "id": "IMU-062",
+      "revision": 1,
+      "topic": "İlk Türk-İslam Devletlerinde Kültür ve Uygarlık",
+      "subtopic": "Eğitim — hadis, tefsir ve fıkıh",
+      "skill": "Bilgi ve yorum",
+      "stem": "I. Muhaddis — Hadis\nII. Müfessir — Fıkıh\nIII. Fakih — Tefsir\n\nDinî ilimlerde uzmanlık alanlarıyla ilgili eşleştirmelerden hangileri doğrudur?",
+      "difficulty": "Orta",
+      "options": [
+        "II ve III",
+        "I, II ve III",
+        "Yalnız I",
+        "Yalnız II",
+        "I ve II"
+      ],
+      "answer": "C",
+      "explanation": "Muhaddis hadis alanında, müfessir Kur’an’ın açıklanması olan tefsir alanında, fakih ise fıkıh alanında uzmanlaşan kişidir. İkinci ve üçüncü eşleştirmede fıkıh ve tefsir yer değiştirmiştir. Bu unvanlar bir devlet makamından önce ilgili ilim alanını belirtir.",
+      "sources": [
+        "IM-NOT",
+        "IM-MED"
+      ]
+    },
+    {
+      "id": "IMU-063",
+      "revision": 1,
+      "topic": "İlk Türk-İslam Devletlerinde Kültür ve Uygarlık",
+      "subtopic": "Kurumlar — hizmet ve finansman",
+      "skill": "Bilgi ve yorum",
+      "stem": "Bir medrese vakıf geliriyle öğrencilere destek verirken bir ikta sahibi tahsis gelirinden asker beslemektedir. Şehirdeki muhtesib ise ölçü ve tartıları kontrol etmektedir. Bu üç faaliyetle ilgili hangi yargı yanlıştır?",
+      "difficulty": "Orta",
+      "options": [
+        "Gelir tahsisi alan iki kurum aynı askerî yükümlülüğü taşır.",
+        "İkta geliri askerî hizmet için kullanılabilir.",
+        "Vakıf geliri eğitim hizmetini destekleyebilir.",
+        "Pazar denetimi bir görevli tarafından yürütülebilir.",
+        "Mali kaynak, hizmet amacı ve denetim makamı ayrı ölçütlerdir."
+      ],
+      "answer": "A",
+      "explanation": "Vakıf medrese desteğine, askerî ikta asker beslemeye yönelmiştir; gelir tahsisi bulunması amaçları aynılaştırmaz. Muhtesibin denetimi de bu gelirleri yöneten aynı mali makam olduğu sonucunu vermez.",
+      "sources": [
+        "IM-NOT",
+        "IM-VAK",
+        "IM-IKT",
+        "IM-HIS"
+      ]
+    },
+    {
+      "id": "IMU-064",
+      "revision": 1,
+      "topic": "İlk Türk-İslam Devletlerinde Kültür ve Uygarlık",
+      "subtopic": "Kurumlar — kayıt, yargı ve eğitim",
+      "skill": "Bilgi ve yorum",
+      "stem": "I. Bir hesap işleminin işraf tarafından incelenmesi denetimdir.\nII. Haksız idari işleme karşı mezalim başvurusu eğitim hizmetidir.\nIII. Medresede personel yetiştirilmesi devletin yönetici ihtiyacıyla ilişkilidir.\n\nYargılardan hangileri doğrudur?",
+      "difficulty": "Orta",
+      "options": [
+        "Yalnız I",
+        "II ve III",
+        "I ve II",
+        "I ve III",
+        "I, II ve III"
+      ],
+      "answer": "D",
+      "explanation": "İşraf işlem denetimi, medrese ise öğretim ve görevlilerin yetişmesiyle ilişkilidir. Mezalimde haksız işlemin ele alınması eğitim faaliyeti değildir; birinci ve üçüncü öncüller doğrudur.",
+      "sources": [
+        "IM-NOT",
+        "IM-DIV",
+        "IM-MEZ",
+        "IM-NIZ"
+      ]
+    }
+  ]
+}

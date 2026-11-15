@@ -1,0 +1,450 @@
+{
+  "title": "KPSS Tarih — Sibirler, Kıpçaklar ve Hazar ordu sorusu",
+  "unit": null,
+  "date": "2026-10-06",
+  "question_count": 19,
+  "sources": {
+    "SK1": {
+      "title": "TDV — Türk: Sabarlar",
+      "url": "https://islamansiklopedisi.org.tr/turk"
+    },
+    "SK2": {
+      "title": "TDV — Sibir Hanlığı: Sibir adının kökeni",
+      "url": "https://islamansiklopedisi.org.tr/sibir-hanligi"
+    },
+    "SK3": {
+      "title": "TDV — Kıpçaklar: siyasi tarih ve Kıpçak Türkçesi",
+      "url": "https://islamansiklopedisi.org.tr/kipcaklar"
+    },
+    "SK4": {
+      "title": "TDV — Oğuzlar: Dede Korkut destanlarındaki Oğuzlar",
+      "url": "https://islamansiklopedisi.org.tr/oguzlar"
+    },
+    "SK5": {
+      "title": "TDV — Memlükler: Eyyubi birlikleri ve ordu",
+      "url": "https://islamansiklopedisi.org.tr/memlukler"
+    },
+    "SK6": {
+      "title": "DEŞT-İ KIPÇAK’TA MOĞOL HAKİMİYETİ VE KUMAN-KIPÇAKLAR (2017)",
+      "url": "https://dergipark.org.tr/tr/pub/yutad/article/378247"
+    },
+    "SK7": {
+      "title": "MEB — Türk Dili ve Edebiyatı 12: Codex Cumanicus",
+      "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/turkdiliveedebiyati/12/unite1/files/basic-html/page16.html"
+    },
+    "SK8": {
+      "title": "TDV — Hazarlar: ücretli ordu ve toplumsal yapı",
+      "url": "https://islamansiklopedisi.org.tr/hazarlar"
+    }
+  },
+  "questions": [
+    {
+      "id": "HAZ-021",
+      "revision": 1,
+      "topic": "Hazarlar",
+      "subtopic": "Ordu",
+      "skill": "Bilgi",
+      "stem": "İlk Türk devletleri arasında, ordusunda Hârizm’den gelen ücretli askerî birliklere yer vermesiyle öne çıkan devlet aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Avrupa Hun Devleti",
+        "Avarlar",
+        "Göktürkler",
+        "Hazarlar",
+        "İdil Bulgarları"
+      ],
+      "answer": "D",
+      "explanation": "Hazar ordusunda Hârizm’den gelen ücretli birlikler bulunuyordu. Bu askerlerin maaşları devletin mali kaynaklarıyla karşılanırdı. Soru, ücretli birliklerin varlığı ve geldikleri bölge üzerinden Hazar askerî teşkilatını ayırt etmeyi gerektirir.",
+      "sources": [
+        "SK8"
+      ]
+    },
+    {
+      "id": "SAB-001",
+      "revision": 1,
+      "topic": "Sibirler (Sabarlar)",
+      "subtopic": "Adın anlamı",
+      "skill": "Bilgi",
+      "stem": "Sabar adını “sap-” fiiliyle ilişkilendiren köken açıklamasında aşağıdaki anlamlardan hangisi öne çıkar?",
+      "difficulty": "Kolay",
+      "options": [
+        "Yol değiştiren, serbest dolaşan",
+        "Boylar birliği",
+        "Karışmış topluluk",
+        "Miğfer",
+        "Olgunluk çağı"
+      ],
+      "answer": "A",
+      "explanation": "Sabar adını sap- fiiliyle ilişkilendiren açıklama, yol değiştiren veya serbest dolaşan anlamlarını öne çıkarır. Bu, adın kökeni için kullanılan bir dilbilimsel açıklamadır. Boylar birliği ise Oğuz adına ilişkin başka bir açıklamayla ilgilidir.",
+      "sources": [
+        "SK1"
+      ]
+    },
+    {
+      "id": "SAB-002",
+      "revision": 1,
+      "topic": "Sibirler (Sabarlar)",
+      "subtopic": "Coğrafi ad",
+      "skill": "Bilgi",
+      "stem": "Sibirya coğrafi adıyla ilişkilendirilen Türk topluluğu aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Kumanlar",
+        "Hazarlar",
+        "Sibirler (Sabarlar)",
+        "Kırgızlar",
+        "Karluklar"
+      ],
+      "answer": "C",
+      "explanation": "Sibir veya Sibirya adı Sabarlarla ilişkilendirilir. Kırgızların Sibirya coğrafyasında yaşamış olması, Sibirya adının Kırgızlardan geldiğini göstermez; coğrafyada bulunma ile adın kökeni ayrı bilgilerdir.",
+      "sources": [
+        "SK2"
+      ]
+    },
+    {
+      "id": "SAB-003",
+      "revision": 1,
+      "topic": "Sibirler (Sabarlar)",
+      "subtopic": "Anadolu akınları",
+      "skill": "Bilgi",
+      "stem": "VI. yüzyılda Kayseri, Ankara ve Konya yörelerine kadar akınlar düzenleyen Türk topluluğu aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Avrupa Hunları",
+        "Avarlar",
+        "Hazarlar",
+        "Akhunlar",
+        "Sabarlar"
+      ],
+      "answer": "E",
+      "explanation": "Kayseri, Ankara ve Konya yörelerine ulaşan VI. yüzyıl akınları Sabarlarla ilişkilidir. Avrupa Hunlarının daha erken Anadolu faaliyetleri ve Avarların İstanbul kuşatması farklı olaylardır. Yakın dönem veya Bizans bağlantısı, toplulukları aynı seferin tarafı yapmaz.",
+      "sources": [
+        "SK1"
+      ]
+    },
+    {
+      "id": "SAB-004",
+      "revision": 1,
+      "topic": "Sibirler (Sabarlar)",
+      "subtopic": "Akın ve hâkimiyet",
+      "skill": "Yorum",
+      "stem": "Sabar kuvvetlerinin VI. yüzyılda Anadolu’ya girip Kayseri, Ankara ve Konya yörelerine kadar ilerlemesi aşağıdakilerden hangisini tek başına kanıtlamaz?",
+      "difficulty": "Orta",
+      "options": [
+        "Bizans sahasının Sabar akınlarına hedef olduğunu",
+        "Bu şehirlerde sürekli bir Sabar yönetimi kurulduğunu",
+        "Askerî hareketliliğin Kafkasya çevresini aşabildiğini",
+        "Sabarların Anadolu ile askerî temas kurduğunu",
+        "Sabarların Malazgirt’ten önce Anadolu’ya ulaştığını"
+      ],
+      "answer": "B",
+      "explanation": "Bir bölgeye akın düzenlemek, orada sürekli yönetim ve yerleşim kurmakla aynı gelişme değildir. Sürekli egemenlik için idarî ve siyasi devamlılığı gösteren ek kanıtlar gerekir. Diğer seçenekler akınların zamanı, sahası ve askerî niteliğine dayanır.",
+      "sources": [
+        "SK1"
+      ]
+    },
+    {
+      "id": "SAB-005",
+      "revision": 1,
+      "topic": "Sibirler (Sabarlar)",
+      "subtopic": "Dış politika",
+      "skill": "Yorum",
+      "stem": "Sabarlar, Bizans–Sasani mücadelelerinde farklı zamanlarda bu iki güçten biriyle birlikte hareket etmiştir. Bu durum aşağıdakilerden hangisini en doğrudan gösterir?",
+      "difficulty": "Kolay",
+      "options": [
+        "İlk ittifakın Sabarların sonraki siyasi tercihini bağlayıcı hâle getirdiğini",
+        "İki imparatorluk arasındaki mücadelede Sabarların arabuluculuk görevi üstlendiğini",
+        "Taraf değiştirmeyi yöneten ortak bir Bizans-Sasani askerî makamı bulunduğunu",
+        "Dış politikada ortaklık tercihinin dönemin şartlarına göre değişebildiğini",
+        "Sabar ittifaklarının iki imparatorluğun sınırlarını belirleme yetkisi doğurduğunu"
+      ],
+      "answer": "D",
+      "explanation": "Sabarların farklı dönemlerde farklı tarafta hareket etmesi ittifak tercihlerinin değişebildiğini gösterir. Askerî iş birliği, arabuluculuk veya ortak komuta makamına bağlılıkla aynı değildir. İttifak bilgisi tarafların sınırlarını belirleme yetkisinin Sabarların elinde olduğunu da göstermez.",
+      "sources": [
+        "SK1"
+      ]
+    },
+    {
+      "id": "SAB-006",
+      "revision": 1,
+      "topic": "Sibirler (Sabarlar)",
+      "subtopic": "Siyasi devamlılık",
+      "skill": "Bilgi ve yorum",
+      "stem": "Sabarların siyasi tarihiyle ilgili;\nI. Avar baskısının Sabar siyasi gücünün dağılmasında etkili olduğu,\nII. Sabar gruplarının Hazar Devleti’nin oluşumunda yer aldığı,\nIII. Hazar Devleti’nin Sabar hükümdarlık hanedanının değişmeden devamı olduğu\nyargılarından hangileri doğrudur?",
+      "difficulty": "Orta",
+      "options": [
+        "I ve II",
+        "Yalnız I",
+        "Yalnız II",
+        "I ve III",
+        "II ve III"
+      ],
+      "answer": "A",
+      "explanation": "Avar baskısı Sabar siyasi gücünün dağılmasında etkili olmuş, Sabar grupları daha sonra Hazar kuruluş çevresinde yer almıştır. I ve II bu nedenle doğrudur. Topluluk unsurlarının yeni devletin oluşumuna katılması, aynı hükümdarlık hanedanının değişmeden devam ettiğini kanıtlamaz.",
+      "sources": [
+        "SK1",
+        "SK8"
+      ]
+    },
+    {
+      "id": "KIP-001",
+      "revision": 1,
+      "topic": "Kıpçaklar (Kumanlar)",
+      "subtopic": "Codex Cumanicus",
+      "skill": "Bilgi",
+      "stem": "Kuman-Kıpçak Türkçesinin söz varlığı yanında bilmece ve dinî metinler de içeren derleme aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Atabetü’l-hakāyık",
+        "Dîvân-ı Hikmet",
+        "Codex Cumanicus",
+        "Dîvânü lugāti’t-Türk",
+        "Kutadgu Bilig"
+      ],
+      "answer": "C",
+      "explanation": "Codex Cumanicus, Kuman Türkçesine ait sözlük malzemesi ve çeşitli metinleri bir araya getirir. Bilmece ve dinî metinler de içermesi, onu yalnız kelime listesinden oluşan bir eser olarak tanımlamayı eksik bırakır. Dîvânü lugāti’t-Türk farklı bir sözlük geleneğinin eseridir.",
+      "sources": [
+        "SK3",
+        "SK7"
+      ]
+    },
+    {
+      "id": "KIP-002",
+      "revision": 1,
+      "topic": "Kıpçaklar (Kumanlar)",
+      "subtopic": "Derlemenin hazırlanışı",
+      "skill": "Yorum",
+      "stem": "Codex Cumanicus’un bir bölümü Latince, Farsça ve Kuman Türkçesi karşılıklarını içerir; farklı bölümleri tüccar ve misyoner çevrelerinin çalışmalarıyla ilişkilendirilir. Bu bilgiler aşağıdakilerden hangisini destekler?",
+      "difficulty": "Orta",
+      "options": [
+        "Derlemenin hazırlanmasının resmî saray dilini belirleme amacı taşıdığını",
+        "Latince karşılıkların Kumanların günlük dilinin değişimini belgelediğini",
+        "Farsça bölümün Kuman siyasi hukukunun temel kaynağı olduğunu",
+        "Eserin farklı bölümlerinin aynı kurumun resmî kayıtları olarak hazırlandığını",
+        "Kuman Türkçesinin kaydında ticari ve dinî iletişim çevrelerinin etkili olduğunu"
+      ],
+      "answer": "E",
+      "explanation": "Çok dilli söz varlığı ile tüccar ve misyoner çevrelerinin katkıları ticari ve dinî iletişim ihtiyaçlarıyla birlikte değerlendirilebilir. Derlemenin hazırlanması, devletin resmî dil kararını veya toplumun günlük dilinin değişimini belgelemekle aynı değildir. Farklı bölümlerin tek resmî kuruma ait olduğu da bu bilgilerden çıkarılamaz.",
+      "sources": [
+        "SK3",
+        "SK7"
+      ]
+    },
+    {
+      "id": "KIP-003",
+      "revision": 1,
+      "topic": "Kıpçaklar (Kumanlar)",
+      "subtopic": "Codex içeriği",
+      "skill": "Bilgi ve yorum",
+      "stem": "Codex Cumanicus’ta Kuman Türkçesi kelimeler, dil bilgisi malzemesi, bilmeceler ve Hristiyanlığa ilişkin metinler bulunur. Bu içerikten aşağıdakilerden hangisine ulaşılamaz?",
+      "difficulty": "Orta",
+      "options": [
+        "Kuman Türkçesinin dinî metin aktarımında kullanıldığına",
+        "Kıpçakların tamamının aynı dini benimsediğine",
+        "Eserin Türk dili araştırmalarında kullanılabileceğine",
+        "Derlemede sözlü kültür ürünlerinin de yer aldığına",
+        "Eserin yalnız kelime karşılıklarıyla sınırlı olmadığına"
+      ],
+      "answer": "B",
+      "explanation": "Dinî metinler, ilgili dili kullanan bir çevrenin faaliyetini gösterir; bütün Kıpçak topluluklarının aynı inancı paylaştığını kanıtlamaz. Kelimeler ve dil bilgisi dil araştırmasına, bilmeceler ise sözlü kültür araştırmasına malzeme sağlar. Diğer dört seçenek eserin verilen içeriğine dayanır.",
+      "sources": [
+        "SK3"
+      ]
+    },
+    {
+      "id": "KIP-004",
+      "revision": 1,
+      "topic": "Kıpçaklar (Kumanlar)",
+      "subtopic": "İgor Destanı",
+      "skill": "Bilgi",
+      "stem": "İgor Destanı’nda Rus knezinin seferi bağlamında anlatılan mücadele aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Rus – Peçenek",
+        "Oğuz – Kıpçak",
+        "Bizans – Avar",
+        "Rus – Kıpçak",
+        "Rus – Hazar"
+      ],
+      "answer": "D",
+      "explanation": "İgor Destanı, Rus knezi İgor’un 1185’te Kıpçaklara karşı yaptığı seferle ilişkilidir. Rus–Hazar ve Rus–Peçenek mücadeleleri başka gelişmelerdir. Oğuz–Kıpçak mücadeleleri ise Dede Korkut anlatılarının tarihî arka planında değerlendirilir.",
+      "sources": [
+        "SK3",
+        "SK4"
+      ]
+    },
+    {
+      "id": "KIP-005",
+      "revision": 1,
+      "topic": "Kıpçaklar (Kumanlar)",
+      "subtopic": "Deşt-i Kıpçak",
+      "skill": "Bilgi",
+      "stem": "Karadeniz’in kuzeyinde Kıpçakların yayıldığı geniş bozkır sahası aşağıdaki coğrafi adlardan hangisiyle anılmıştır?",
+      "difficulty": "Kolay",
+      "options": [
+        "Deşt-i Kıpçak",
+        "Mâverâünnehir",
+        "Toharistan",
+        "Yedisu",
+        "Horasan"
+      ],
+      "answer": "A",
+      "explanation": "Deşt-i Kıpçak, Kıpçak bozkırı anlamında kullanılan coğrafi bir adlandırmadır. Farklı dönemlerde değişen siyasi güçler bu sahada hâkimiyet kurmuştur; bölge adı tek bir hanedanın adı değildir.",
+      "sources": [
+        "SK3",
+        "SK6"
+      ]
+    },
+    {
+      "id": "KIP-006",
+      "revision": 1,
+      "topic": "Kıpçaklar (Kumanlar)",
+      "subtopic": "Altın Orda",
+      "skill": "Bilgi",
+      "stem": "Kuman-Kıpçak topluluklarının siyasi ve kültürel katkısıyla Türkleşme süreci gelişen Türk-Moğol devleti aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Büyük Selçuklular",
+        "Karahanlılar",
+        "Altın Orda",
+        "İlhanlılar",
+        "Yuan Hanedanı"
+      ],
+      "answer": "C",
+      "explanation": "Kuman-Kıpçaklar Altın Orda içinde siyasi görevler üstlenmiş, dil ve kültür alanındaki Türk etkisine katkı sağlamıştır. Bu katkı, hanedanın kökeninin veya kuruluş sürecinin tek başına Kıpçaklardan oluştuğu anlamına gelmez.",
+      "sources": [
+        "SK6"
+      ]
+    },
+    {
+      "id": "KIP-007",
+      "revision": 1,
+      "topic": "Kıpçaklar (Kumanlar)",
+      "subtopic": "Eyyubi ve Memlük orduları",
+      "skill": "Bilgi ve yorum",
+      "stem": "Kıpçakların Eyyubi ve Memlük siyasi çevresindeki rolüyle ilgili;\nI. askerî birliklerde görev aldıkları,\nII. bazı Kıpçak kökenli kişilerin Memlük yönetiminde önemli mevkilere yükseldiği,\nIII. bu görevlerin Kıpçak bozkırının Eyyubi egemenliğine girdiğini gösterdiği\nyargılarından hangileri doğrudur?",
+      "difficulty": "Orta",
+      "options": [
+        "Yalnız I",
+        "Yalnız II",
+        "I ve III",
+        "II ve III",
+        "I ve II"
+      ],
+      "answer": "E",
+      "explanation": "Kıpçak kökenli askerler Eyyubi birliklerinde ve Memlük siyasi yapısında rol aldı; bazıları yüksek görevlere ulaştı. I ve II bu nedenle doğrudur. Askerlerin geldikleri yer, görev yaptıkları devletin egemenlik alanını göstermez; III için fetih veya yönetim kanıtı gerekir.",
+      "sources": [
+        "SK3",
+        "SK5"
+      ]
+    },
+    {
+      "id": "KIP-008",
+      "revision": 1,
+      "topic": "Kıpçaklar (Kumanlar)",
+      "subtopic": "Dede Korkut",
+      "skill": "Bilgi",
+      "stem": "Dede Korkut Hikâyeleri’nin tarihî arka planında Oğuzların mücadeleleriyle ilişkilendirilen Türk topluluğu aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Sabarlar",
+        "Kıpçaklar",
+        "Hazarlar",
+        "Karluklar",
+        "Kırgızlar"
+      ],
+      "answer": "B",
+      "explanation": "Oğuz–Kıpçak mücadeleleri Dede Korkut anlatılarının tarihî arka planında değerlendirilir. Bu, eserdeki her olayın bire bir savaş kaydı olduğu anlamına gelmez; destanlaşmış anlatılar toplumsal hafıza ve edebî kurgu özellikleri de taşır.",
+      "sources": [
+        "SK4"
+      ]
+    },
+    {
+      "id": "KIP-009",
+      "revision": 1,
+      "topic": "Kıpçaklar (Kumanlar)",
+      "subtopic": "Edebî kaynakların karşılaştırılması",
+      "skill": "Yorum",
+      "stem": "İgor Destanı Rus–Kıpçak, Dede Korkut anlatıları ise Oğuz–Kıpçak ilişkilerinin izlerini taşır. Bu iki eserin varlığından aşağıdakilerden hangisine ulaşılamaz?",
+      "difficulty": "Orta",
+      "options": [
+        "Askerî ilişkilerin edebî anlatılara yansıyabildiğine",
+        "Kıpçakların yalnız kendi topluluklarına ait metinlerle incelenemeyeceğine",
+        "Farklı anlatı geleneklerinin aynı topluluk hakkında izler taşıyabildiğine",
+        "İki eserin aynı savaşı farklı dillerde anlattığına",
+        "Kıpçakların farklı topluluklarla ilişki kurduğuna"
+      ],
+      "answer": "D",
+      "explanation": "Ortak Kıpçak adı, eserlerin aynı savaşı anlattığını göstermez; Rus ve Oğuz ilişkileri farklı bağlamlardır. İki anlatı geleneği, bir topluluğun başka halkların hafızasında da yer edinebildiğini gösterir. Edebî malzeme tarih araştırmasında kendi türünün özellikleriyle değerlendirilir.",
+      "sources": [
+        "SK3",
+        "SK4"
+      ]
+    },
+    {
+      "id": "KIP-010",
+      "revision": 1,
+      "topic": "Kıpçaklar (Kumanlar)",
+      "subtopic": "Kuman adı",
+      "skill": "Bilgi",
+      "stem": "Avrupa kaynaklarında Kuman adıyla anılan Türk topluluğu aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Kıpçaklar",
+        "Peçenekler",
+        "Uzlar",
+        "Avarlar",
+        "Bulgarlar"
+      ],
+      "answer": "A",
+      "explanation": "Kuman adı Avrupa bağlamında Kıpçaklarla birlikte kullanılır. Peçenekler ve Uzlar da batı bozkırında yer almıştır; ancak aynı topluluğun başka adları değildir. Adlandırmalar dönem ve kaynak çevresi dikkate alınarak değerlendirilir.",
+      "sources": [
+        "SK3"
+      ]
+    },
+    {
+      "id": "KIP-011",
+      "revision": 1,
+      "topic": "Kıpçaklar (Kumanlar)",
+      "subtopic": "Ruslarla değişen ilişkiler",
+      "skill": "Bilgi ve yorum",
+      "stem": "Rus–Kıpçak ilişkileriyle ilgili;\nI. İgor’un seferinin çatışma dönemlerine örnek olduğu,\nII. Moğol tehdidi karşısında Ruslarla Kıpçakların Kalka’da birlikte hareket ettiği,\nIII. farklı dönemlerdeki çatışma ve iş birliğinin değişmez bir düşmanlıkla açıklanamayacağı\nyargılarından hangileri doğrudur?",
+      "difficulty": "Zor",
+      "options": [
+        "II ve III",
+        "Yalnız III",
+        "I, II ve III",
+        "I ve II",
+        "I ve III"
+      ],
+      "answer": "C",
+      "explanation": "İgor seferi bir çatışma örneğidir; Kalka’da ise Moğollara karşı Rus–Kıpçak ortak hareketi vardır. İki olayı birlikte bilmek, ilişkileri değişmez düşmanlık olarak açıklamanın yetersizliğini gösterir. Üç yargı da doğrudur; ortak rakip daha önce karşı karşıya gelmiş güçleri yakınlaştırabilir.",
+      "sources": [
+        "SK3"
+      ]
+    },
+    {
+      "id": "KIP-012",
+      "revision": 1,
+      "topic": "Kıpçaklar (Kumanlar)",
+      "subtopic": "Dil ve siyasi egemenlik",
+      "skill": "Bilgi ve yorum",
+      "stem": "Kıpçak tarihinin dil ve kültür boyutuyla ilgili;\nI. Codex Cumanicus’un Kuman Türkçesini kayda geçiren metinlerden olduğu,\nII. Kıpçak unsurlarının Altın Orda’daki Türk dil ve kültür etkisine katkı sağladığı,\nIII. Memlük çevresindeki Kıpçak Türkçesi eserlerinin bu bölgelerin Deşt-i Kıpçak’ın siyasi yönetimine bağlandığını kanıtladığı\nyargılarından hangileri doğrudur?",
+      "difficulty": "Orta",
+      "options": [
+        "Yalnız I",
+        "Yalnız II",
+        "I ve III",
+        "II ve III",
+        "I ve II"
+      ],
+      "answer": "E",
+      "explanation": "Codex Cumanicus Kuman Türkçesini kaydeder; Kıpçak unsurları Altın Orda’nın Türk kültürel çevresine katkı sağlar. I ve II doğrudur. Memlük coğrafyasında Kıpçak Türkçesinin kullanılması, bozkırın siyasi yönetiminin Mısır ve Suriye’yi yönettiğini göstermez; dilin yayılma sahası ile siyasi egemenlik sahası aynı değildir.",
+      "sources": [
+        "SK3",
+        "SK5",
+        "SK6"
+      ]
+    }
+  ]
+}

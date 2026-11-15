@@ -1,0 +1,470 @@
+{
+  "title": "KPSS Tarih — Hazarlar",
+  "unit": null,
+  "date": "2026-10-03",
+  "question_count": 20,
+  "sources": {
+    "HZ1": {
+      "title": "Ahmet Taşağıl — Hazarlar, TDV İslâm Ansiklopedisi",
+      "url": "https://islamansiklopedisi.org.tr/hazarlar"
+    },
+    "HZ2": {
+      "title": "MEB OGM — Defterim Tarih 9, s.125",
+      "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/defterim/9/tarih/files/basic-html/page125.html"
+    },
+    "HZ3": {
+      "title": "Kübra Koç — Hazar–Doğu Roma ilişkileri (2018)",
+      "url": "https://dergipark.org.tr/tr/download/article-file/595374"
+    },
+    "HZ4": {
+      "title": "J. Özlem Oktay Çerezci — Hazar Dönemi Sarkel Şehri ve Kalesi (2019)",
+      "url": "https://dergipark.org.tr/tr/download/article-file/758679"
+    },
+    "HZ5": {
+      "title": "Meltem Akıncı — Müslüman Tüccarların Orta İtil’deki İslamlaşmaya Etkisi (2020)",
+      "url": "https://dergipark.org.tr/tr/download/article-file/1206068"
+    },
+    "HZ6": {
+      "title": "Mehmet Şeker — Türk Devlet Yönetiminde Farklı Başkadılık Uygulamaları (2018)",
+      "url": "https://dergipark.org.tr/tr/pub/abad/article/410115"
+    },
+    "HZ7": {
+      "title": "Emin Kırkıl ve Oğulcan Canıağır — Hazar Kağanlığında Hristiyanlık (2025)",
+      "url": "https://dergipark.org.tr/tr/pub/karadearas/article/1796753"
+    },
+    "HZ8": {
+      "title": "ÖSYM — 2026 KPSS Lisans Kılavuzu, Tablo 1 (PDF s.37)",
+      "url": "https://dokuman.osym.gov.tr/pdfdokuman/2026/KPSS/LISANS/kilavuz_Ld01072026.pdf"
+    }
+  },
+  "questions": [
+    {
+      "id": "HAZ-001",
+      "revision": 1,
+      "topic": "Hazarlar",
+      "subtopic": "Coğrafya",
+      "skill": "Bilgi",
+      "stem": "Hazar Hakanlığı’nın başlıca hâkimiyet sahası aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Çu ve Talas vadileri",
+        "İdil–Kama birleşiminin çevresi",
+        "Karadeniz’in kuzeyi, Kuzey Kafkasya ve Aşağı İdil çevresi",
+        "Tuna–Tisa havzası ve Pannonia",
+        "Orhun ve Selenga nehirleri çevresi"
+      ],
+      "answer": "C",
+      "explanation": "Hazarların ağırlık merkezi Kuzey Kafkasya ile Aşağı İdil arasındaydı; etkileri Karadeniz’in kuzeyine uzanıyordu. İdil–Kama çevresiyle Aşağı İdil’i ayırmak, Hazarlarla İdil Bulgarlarını karıştırmayı önler.",
+      "sources": [
+        "HZ1",
+        "HZ2"
+      ]
+    },
+    {
+      "id": "HAZ-002",
+      "revision": 1,
+      "topic": "Hazarlar",
+      "subtopic": "Siyasi köken",
+      "skill": "Bilgi",
+      "stem": "Hazarlar, bağımsız bir siyasi güç hâline gelmeden önce aşağıdaki devletlerden hangisinin batı kanadına bağlıydı?",
+      "difficulty": "Kolay",
+      "options": [
+        "Uygur Devleti",
+        "Avrupa Hun Devleti",
+        "Büyük Bulgar Devleti",
+        "Avar Devleti",
+        "Göktürk Devleti"
+      ],
+      "answer": "E",
+      "explanation": "Hazarlar Batı Göktürk siyasi çevresinde yer aldı. Bağımsızlaşmaları bu çevrenin çözülmesiyle ilişkilidir; Büyük Bulgar Devleti ise daha sonra Hazar baskısıyla karşılaşan komşularındandır.",
+      "sources": [
+        "HZ1"
+      ]
+    },
+    {
+      "id": "HAZ-003",
+      "revision": 1,
+      "topic": "Hazarlar",
+      "subtopic": "Şehirler",
+      "skill": "Bilgi",
+      "stem": "Hazarların Aşağı Volga’da, aynı adı taşıyan nehir çevresinde gelişen başkenti aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Bulgar",
+        "İtil",
+        "Belencer",
+        "Semender",
+        "Sarkel"
+      ],
+      "answer": "B",
+      "explanation": "İtil, Hazarların Aşağı Volga üzerindeki başkentidir. Belencer ve Semender de Hazar tarihiyle ilgilidir; ancak sorudaki nehir ve konum ipuçları İtil’i gösterir.",
+      "sources": [
+        "HZ1"
+      ]
+    },
+    {
+      "id": "HAZ-004",
+      "revision": 1,
+      "topic": "Hazarlar",
+      "subtopic": "Din",
+      "skill": "Bilgi",
+      "stem": "Hazar yönetici kesiminin benimsemesiyle Türk tarihinde ayırt edici bir yer edinen din aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Budizm",
+        "Hristiyanlık",
+        "İslamiyet",
+        "Musevilik",
+        "Maniheizm"
+      ],
+      "answer": "D",
+      "explanation": "Ayırt edici tercih Museviliktir. Bu, ülkedeki herkesin aynı dini benimsediği anlamına gelmez; Hazar toplumunda Müslümanlar, Hristiyanlar ve geleneksel inançlarını sürdürenler de bulunuyordu.",
+      "sources": [
+        "HZ2",
+        "HZ7"
+      ]
+    },
+    {
+      "id": "HAZ-005",
+      "revision": 1,
+      "topic": "Hazarlar",
+      "subtopic": "Hukuk",
+      "skill": "Yorum",
+      "stem": "Hazar başkentindeki yargı düzeninde iki Müslüman, iki Yahudi ve iki Hristiyan hâkimin yanında diğer inanç topluluklarının davalarıyla ilgilenen bir hâkim de bulunuyordu. Bu düzenleme aşağıdaki yargılardan hangisini destekler?",
+      "difficulty": "Kolay",
+      "options": [
+        "Toplumun inanç çeşitliliği yargı örgütlenmesine yansımıştır.",
+        "Hâkimler, birbirinden bağımsız devletlerin elçileri olarak görev yapmıştır.",
+        "Yargılama kuralları dinî aidiyetlerden bağımsızlaştırılmıştır.",
+        "Halkın çoğunluğunun hangi dine mensup olduğu belirlenebilir.",
+        "Yasama yetkisi seçimle oluşturulan bir meclise bırakılmıştır."
+      ],
+      "answer": "A",
+      "explanation": "Farklı inanç toplulukları için ayrı hâkimlerin bulunması, toplumsal çeşitliliğin hukuk düzeninde dikkate alındığını gösterir. Hâkim sayılarından nüfus oranı çıkarılamaz; bu düzenleme modern anlamda din dışı bir hukuk sistemi de değildir.",
+      "sources": [
+        "HZ6"
+      ]
+    },
+    {
+      "id": "HAZ-006",
+      "revision": 1,
+      "topic": "Hazarlar",
+      "subtopic": "Hoşgörü",
+      "skill": "Yorum",
+      "stem": "Hazar yönetici kesiminin Museviliği benimsemesine rağmen ülkede Müslüman ve Hristiyan topluluklar da yaşamış, ibadetlerini sürdürebilmiştir. Bu durumdan aşağıdakilerden hangisine ulaşılamaz?",
+      "difficulty": "Orta",
+      "options": [
+        "Farklı ibadet uygulamalarına yaşama alanı tanınmıştır.",
+        "Yönetici kesim ile bazı toplulukların dinî aidiyetleri farklıdır.",
+        "Siyasi yönetim dinî kurallardan bütünüyle arındırılmıştır.",
+        "Yönetimin dinî tercihi halkın tamamını aynı inanca yöneltmemiştir.",
+        "Toplumun dinî yapısı tek bir inançla açıklanamaz."
+      ],
+      "answer": "C",
+      "explanation": "Birden fazla dine yaşama alanı tanınması hoşgörüyle ilişkilidir. Ancak bundan modern laikliğin kurumlarının bulunduğu sonucu çıkmaz. Diğer seçenekler, yönetici tercihine rağmen farklı cemaatlerin ve ibadetlerin devam etmesine dayanır.",
+      "sources": [
+        "HZ2",
+        "HZ7"
+      ]
+    },
+    {
+      "id": "HAZ-007",
+      "revision": 1,
+      "topic": "Hazarlar",
+      "subtopic": "Hazar Barış Çağı",
+      "skill": "Bilgi",
+      "stem": "“Pax Khazarica” olarak adlandırılan Hazar Barış Çağı’nın temel özelliği aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Komşu hükümdarlıkların ortak bir merkezden yönetilmesi",
+        "Dinî farklılıkların yönetim örgütlenmesinden çıkarılması",
+        "Bozkır ticaretinin askerî gelirlerin yerine geçirilmesi",
+        "Ticari güvenliğin dış ilişkilerde tarafsızlıkla sağlanması",
+        "Egemenlik sahasında ticarete ve toplumsal ilişkilere elverişli görece istikrar"
+      ],
+      "answer": "E",
+      "explanation": "Pax Khazarica, Hazar egemenlik sahasındaki ticaret ve toplumsal ilişkiler için elverişli görece istikrarı anlatır. Bu ad Hazarların hiç savaşmadığını veya dış ilişkilerde tarafsız kaldığını göstermez. Komşu devletlerin tek merkezde birleşmesi de adlandırmanın anlamı değildir.",
+      "sources": [
+        "HZ5"
+      ]
+    },
+    {
+      "id": "HAZ-008",
+      "revision": 1,
+      "topic": "Hazarlar",
+      "subtopic": "Ticaret ve maliye",
+      "skill": "Yorum",
+      "stem": "Hazar ülkesinden geçen tüccarlardan vergi alınması, ticaret güzergâhlarının güvenliğini korumanın devlet için önemini aşağıdakilerden hangisiyle açıklar?",
+      "difficulty": "Kolay",
+      "options": [
+        "Ticari güvenliğin vergi tahsilini yabancı tüccarlara devretmesi",
+        "Ticaretin sürekliliğinin devletin vergi gelirlerini desteklemesi",
+        "Vergi gelirlerinin güzergâhın devlet sınırları içinde kalmasını gereksizleştirmesi",
+        "Gümrük denetiminin ücretli askerlerin ödeme usulünü tüccarlara bırakması",
+        "Yol güvenliğinin ticaretten alınan vergiyi karşılıksız yardıma dönüştürmesi"
+      ],
+      "answer": "B",
+      "explanation": "Ticaretin kesintisiz sürmesi bu faaliyetten alınan vergilerin devamına katkı sağlar. Bu nedenle yol güvenliği devletin mali çıkarıyla bağlantılıdır. Gelirin tüccarlardan sağlanması, vergi toplama veya asker ücretlerini belirleme yetkisinin onlara devredildiği anlamına gelmez.",
+      "sources": [
+        "HZ3",
+        "HZ5"
+      ]
+    },
+    {
+      "id": "HAZ-009",
+      "revision": 1,
+      "topic": "Hazarlar",
+      "subtopic": "Bizans ilişkileri",
+      "skill": "Bilgi",
+      "stem": "VII. yüzyılda Herakleios dönemindeki seferlerde Hazarların Bizans’la iş birliği yaptığı ortak rakip aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Avarlar",
+        "Emeviler",
+        "Tuna Bulgarları",
+        "Sasaniler",
+        "Göktürkler"
+      ],
+      "answer": "D",
+      "explanation": "Herakleios döneminde Hazar-Bizans iş birliği Sasanilere karşı gelişmiştir. Hazarların Emevilerle mücadeleleri ve Avarların Bizans’ı kuşatması aynı siyasi olay değildir. Aynı yüzyıldaki farklı ittifaklarda taraflar ve ortak hedef ayrı değerlendirilmelidir.",
+      "sources": [
+        "HZ3"
+      ]
+    },
+    {
+      "id": "HAZ-010",
+      "revision": 1,
+      "topic": "Hazarlar",
+      "subtopic": "Türk–Arap mücadeleleri",
+      "skill": "Bilgi",
+      "stem": "Emevilerle Hazarlar arasındaki mücadelelerin başlıca sahası aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Kafkasya",
+        "Maveraünnehir",
+        "Talas vadisi",
+        "Tuna havzası",
+        "Orhun vadisi"
+      ],
+      "answer": "A",
+      "explanation": "Hazar–Emevi mücadelelerinin temel sahası Kafkasya’dır. Maveraünnehir ise Emevilerle mücadele eden Türgişlerin öne çıktığı bölgedir; aynı rakiple savaşmak aynı coğrafyada bulunmak anlamına gelmez.",
+      "sources": [
+        "HZ1"
+      ]
+    },
+    {
+      "id": "HAZ-011",
+      "revision": 1,
+      "topic": "Hazarlar",
+      "subtopic": "Sarkel ve diplomasi",
+      "skill": "Bilgi ve yorum",
+      "stem": "Don üzerindeki Sarkel Kalesi’nin yapımında Bizanslı uzmanlardan yararlanılması, Hazar–Bizans ilişkilerinin hangi yönünü en doğrudan gösterir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Kalenin yapılmasının bölgeyi Bizans egemenliğine geçirmesi",
+        "Hazar savunmasının Bizans ordusunun sürekli hizmetine bağlanması",
+        "Savunma yapısının inşasında teknik iş birliği kurulması",
+        "Bizans’ın Hazar hükümdarlığını belirleme yetkisi kazanması",
+        "Kalenin giderlerinin Bizans tarafından sürekli karşılanması"
+      ],
+      "answer": "C",
+      "explanation": "Sarkel’in yapımında Bizanslı uzmanlardan yararlanılması savunma alanında teknik iş birliğini gösterir. Bu yardım Hazar ordusunun komutasını veya kalenin egemenliğini Bizans’a devretmekle aynı değildir. Sürekli finansman veya hükümdar tayin yetkisi için ayrı kanıt gerekir.",
+      "sources": [
+        "HZ4"
+      ]
+    },
+    {
+      "id": "HAZ-012",
+      "revision": 1,
+      "topic": "Hazarlar",
+      "subtopic": "Siyasi gerileme",
+      "skill": "Bilgi ve yorum",
+      "stem": "X. yüzyılda Svyatoslav’ın seferleri ve Sarkel’in ele geçirilmesiyle Hazarların ağır darbe alması, aşağıdaki siyasi güçlerden hangisinin yükselişiyle ilişkilidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Frank Krallığı",
+        "Peçenekler",
+        "Tuna Bulgar Devleti",
+        "Bizans İmparatorluğu",
+        "Kiev Rus Knezliği"
+      ],
+      "answer": "E",
+      "explanation": "Svyatoslav, Kiev Rus hükümdarıdır; X. yüzyıldaki seferleri Hazar siyasi gücüne ağır darbe vurmuştur. Bizans’la diplomatik ilişkiler ve Avarlara karşı Frank seferleri ayrı olaylardır. Soruda hükümdarın bağlı olduğu siyasi güç üzerinden seferin tarafı belirlenmektedir.",
+      "sources": [
+        "HZ3",
+        "HZ4"
+      ]
+    },
+    {
+      "id": "HAZ-013",
+      "revision": 1,
+      "topic": "Hazarlar",
+      "subtopic": "Yönetim",
+      "skill": "Yorum",
+      "stem": "Hazarlarda hakanın yanında, devlet işlerinin yürütülmesinde etkin olan “hakan beg” unvanlı bir yönetici bulunuyordu. Bu bilgi aşağıdaki yargılardan hangisini destekler?",
+      "difficulty": "Kolay",
+      "options": [
+        "Hakan beg makamının hükümdarlık hanedanının yerini aldığını",
+        "Hükümdarlık makamı ile icrai görevler arasında iş bölümü bulunduğunu",
+        "Ülkenin coğrafi bakımdan iki bağımsız yönetim alanına ayrıldığını",
+        "Askerî yetkinin hükümdarlıktan yabancı ücretli birliklere devredildiğini",
+        "Dinî yargı organlarının hükümdarlık görevlerini üstlendiğini"
+      ],
+      "answer": "B",
+      "explanation": "Hakanın yanında icrai görevlerde etkin hakan beg bulunması yönetimde iş bölümüne işaret eder. Bu ayrım ülkenin iki bağımsız devlete bölünmesi veya hâkimler heyetinin hükümdarlığı devralması değildir. Makamlar arasındaki görev farkı ile coğrafi bölünme ayrı tutulmalıdır.",
+      "sources": [
+        "HZ1"
+      ]
+    },
+    {
+      "id": "HAZ-014",
+      "revision": 1,
+      "topic": "Hazarlar",
+      "subtopic": "Ekonomi ve arkeoloji",
+      "skill": "Yorum",
+      "stem": "Sarkel kazılarında tahıl depoları, oraklar, öğütme araçları, demirci ocakları ve seramik atölyeleri belirlenmiştir. Bu buluntular;\nI. tarımsal faaliyet,\nII. zanaat üretimi,\nIII. üretimin bütününün dış pazara yönelik olması\ndurumlarından hangilerini destekler?",
+      "difficulty": "Orta",
+      "options": [
+        "Yalnız II",
+        "II ve III",
+        "I, II ve III",
+        "I ve II",
+        "Yalnız I"
+      ],
+      "answer": "D",
+      "explanation": "Tahıl depoları ve tarım araçları I’i; demirci ve seramik atölyeleri II’yi destekler. Ürünlerin nerede tüketildiğini gösterecek ek kanıt bulunmadığından III’e ulaşılamaz. Üretim ile ihracat aynı olgu değildir.",
+      "sources": [
+        "HZ4"
+      ]
+    },
+    {
+      "id": "HAZ-015",
+      "revision": 1,
+      "topic": "Hazarlar",
+      "subtopic": "Bulgarlarla ilişkiler",
+      "skill": "Bilgi ve yorum",
+      "stem": "Kubrat’ın ardından Büyük Bulgar siyasi birliğinin çözülmesinde baskısı etkili olan ve bazı Bulgar gruplarını batıya yönelmeye zorlayan devlet aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Hazar Hakanlığı",
+        "Avar Kağanlığı",
+        "Bizans İmparatorluğu",
+        "Göktürk Devleti",
+        "Sasani Devleti"
+      ],
+      "answer": "A",
+      "explanation": "Kubrat’ın ardından Büyük Bulgar birliğinin çözülmesinde Hazar baskısı etkili olmuştur. Avar bağlantısı ve Tuna sahasındaki Bizans mücadeleleri Bulgar tarihinin farklı aşamalarıdır. Sonraki Tuna ve İdil kollarını da tek tarihte gerçekleşen tek kuruluş gibi değerlendirmemek gerekir.",
+      "sources": [
+        "HZ1",
+        "HZ3"
+      ]
+    },
+    {
+      "id": "HAZ-016",
+      "revision": 1,
+      "topic": "Hazarlar",
+      "subtopic": "Hükümdarlar ve din",
+      "skill": "Bilgi",
+      "stem": "Hazar yönetici kesiminin Museviliğe geçişiyle ilişkilendirilen hükümdar aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Almış",
+        "Taspar",
+        "Bulan",
+        "Bögü",
+        "Boris"
+      ],
+      "answer": "C",
+      "explanation": "Bulan, Hazar yönetici kesiminin Museviliğe geçişiyle ilişkilendirilir. Bu geçişin kesin tarihi konusunda farklı görüşler vardır. Bögü–Maniheizm, Boris–Hristiyanlık ve Almış–İslamiyet eşleştirmeleri başka devletlere aittir.",
+      "sources": [
+        "HZ1"
+      ]
+    },
+    {
+      "id": "HAZ-017",
+      "revision": 1,
+      "topic": "Hazarlar",
+      "subtopic": "Ticaret–savunma ilişkisi",
+      "skill": "Yorum",
+      "stem": "Hazar ekonomisinde ticari gelirler, ordusunda ise ücretli birlikler önemliydi. Ticaret yollarındaki kesinti birlik ücretlerinin ödenmesini güçleştirebiliyordu.\n\nBu bilgilerden;\nI. ücretli asker bulundurmanın düzenli kaynak ihtiyacı doğurduğu,\nII. ekonomik akıştaki aksamanın savunma kapasitesini etkileyebildiği,\nIII. Hazarların ticaret dışında mali kaynaklarının bulunmadığı\nyargılarından hangilerine ulaşılabilir?",
+      "difficulty": "Orta",
+      "options": [
+        "Yalnız I",
+        "Yalnız III",
+        "II ve III",
+        "I, II ve III",
+        "I ve II"
+      ],
+      "answer": "E",
+      "explanation": "Ücretli birlikler düzenli mali kaynak gerektirir. Ticari gelirdeki aksamanın ücretleri güçleştirmesi ekonomik akışla savunma kapasitesi arasında bağ olduğunu gösterir. Ticaretin önemli olması, devletin başka mali kaynakları bulunmadığını kanıtlamaz; III’e ulaşılamaz.",
+      "sources": [
+        "HZ1",
+        "HZ3"
+      ]
+    },
+    {
+      "id": "HAZ-018",
+      "revision": 1,
+      "topic": "Hazarlar",
+      "subtopic": "Dış politika",
+      "skill": "Yorum",
+      "stem": "Hazarlar ile Bizans ortak tehditler karşısında iş birliği yapmış, hanedan evlilikleriyle ilişkilerini güçlendirmiştir. Buna karşılık Kırım’daki çıkar çatışmaları iki tarafı zaman zaman karşı karşıya getirmiştir. Bu bilgilerden aşağıdakilerden hangisine ulaşılamaz?",
+      "difficulty": "Orta",
+      "options": [
+        "İki devletin çıkarları her konuda örtüşmemiştir.",
+        "Hanedan evlilikleri Bizans’ın Hazar hükümdarını belirleme yetkisini doğurmuştur.",
+        "Dış ilişkilerde hem güvenlik hem bölgesel çıkarlar etkili olmuştur.",
+        "Diplomatik yakınlaşmada akrabalık bağlarından yararlanılmıştır.",
+        "İttifak kurulması daha sonraki çatışmaları engellememiştir."
+      ],
+      "answer": "B",
+      "explanation": "Hanedan evliliği ittifakı güçlendiren bir araç olabilir; bu tek başına hükümdar atama yetkisinin devri değildir. Ortak tehditler güvenlik iş birliğini, Kırım’daki çekişmeler ise bölgesel çıkar farklılığını gösterir. Bu nedenle ilişkiler değişmez bir dostluk olarak tanımlanamaz.",
+      "sources": [
+        "HZ3"
+      ]
+    },
+    {
+      "id": "HAZ-019",
+      "revision": 1,
+      "topic": "Hazarlar",
+      "subtopic": "Ticaret ve kültürel etkileşim",
+      "skill": "Yorum",
+      "stem": "Hazar ülkesindeki güvenli ticaret ortamından yararlanan Müslüman tüccarlar, İdil çevresindeki topluluklarla da ilişki kurmuştur. Bu temasların İslamiyet’in tanınmasına katkı sağlaması aşağıdakilerden hangisini gösterir?",
+      "difficulty": "Orta",
+      "options": [
+        "Müslüman tüccarlarla temasın yerel devletin resmî din tercihini belirlediğini",
+        "İslamiyet’in tanınmasının ticari ilişkilerin başlama nedeni olduğunu",
+        "Tüccarların ulaştığı bölgelerin Hazar siyasi egemenliğine girdiğini",
+        "Ekonomik temasın dinî ve kültürel tanışıklığa aracılık edebildiğini",
+        "Dinî temasın ticari ilişkilerin aynı siyasi birlik içinde yürütüldüğünü gösterdiğini"
+      ],
+      "answer": "D",
+      "explanation": "Ticaret insanlar ve düşünceler arasında temas sağlar; dinî tanışıklık da bu ortamda gelişebilir. Bu örnekte ticaret dinî etkileşime ortam hazırlamıştır, ilişki yönü tersine çevrilmemelidir. Dinî temas resmî din değişikliği veya siyasi fetihle aynı şey değildir.",
+      "sources": [
+        "HZ5"
+      ]
+    },
+    {
+      "id": "HAZ-020",
+      "revision": 1,
+      "topic": "Hazarlar",
+      "subtopic": "Devletler arası karşılaştırma",
+      "skill": "Bilgi ve yorum",
+      "stem": "VII. yüzyılın ilk yarısında Avarlar Sasanilerle birlikte Bizans’a karşı hareket ederken Hazarlar Bizans’ın yanında Sasanilere karşı mücadele etmiştir. Bu tablo;\nI. Türk devletlerinin dış politikada farklı ittifaklar kurabildiği,\nII. Sasanilerle ilişkilerin bütün Türk devletleri için aynı nitelikte olmadığı,\nIII. Bizans’ın bütün Türk devletleri üzerinde siyasi üstünlük kurduğu\nyargılarından hangilerini destekler?",
+      "difficulty": "Orta",
+      "options": [
+        "I ve II",
+        "Yalnız I",
+        "Yalnız II",
+        "I ve III",
+        "II ve III"
+      ],
+      "answer": "A",
+      "explanation": "Avar ve Hazar tercihlerinin karşıtlığı I’i, Sasanilerle birinin iş birliği yaparken diğerinin savaşması II’yi destekler. İttifak, bağlılık anlamına gelmez; üstelik Avarların Bizans’a karşı hareketi III’ü desteklemez. Ortak köken, ortak dış politika zorunluluğu doğurmaz.",
+      "sources": [
+        "HZ1",
+        "HZ3"
+      ]
+    }
+  ]
+}

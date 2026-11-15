@@ -1,0 +1,841 @@
+{
+  "title": "KPSS Tarih — Kültür ve Uygarlık: tahta görselleri ek bankası",
+  "unit": null,
+  "date": "2026-10-10",
+  "question_count": 30,
+  "sources": {
+    "KT01": {
+      "title": "MEB Tarih 9 — Takvimlerin karşılaştırılması",
+      "url": "https://ogmmateryal.eba.gov.tr/panel/upload/files/pozme3e4twj.pdf",
+      "type": "Resmî eğitim materyali",
+      "accessed": "2026-10-10"
+    },
+    "KT02": {
+      "title": "MEB Tarih 9 Beceri Temelli — Rumî ve Celâlî takvimler",
+      "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/beceri_temelli/9/tarih/files/basic-html/page36.html",
+      "type": "Resmî eğitim materyali",
+      "accessed": "2026-10-10"
+    },
+    "KT03": {
+      "title": "TDV — Takvim",
+      "url": "https://islamansiklopedisi.org.tr/takvim",
+      "type": "Uzman ansiklopedi maddesi",
+      "accessed": "2026-10-10"
+    },
+    "KT04": {
+      "title": "MEB Türk Kültür ve Medeniyet Tarihi 11 — Kurganlar ve Altın Elbiseli Adam",
+      "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/turkkulturvemedeniyettarihi/sec/unite6/files/basic-html/page3.html",
+      "type": "Resmî eğitim materyali",
+      "accessed": "2026-10-10"
+    },
+    "KT05": {
+      "title": "MEB Türk Kültür ve Medeniyet Tarihi 11 — Pazırık, maden sanatı ve kopuz",
+      "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/turkkulturvemedeniyettarihi/sec/unite6/files/basic-html/page4.html",
+      "type": "Resmî eğitim materyali",
+      "accessed": "2026-10-10"
+    },
+    "KT06": {
+      "title": "MEB Türk Kültür ve Medeniyet Tarihi 11 — Taşınabilir sanat ve yaşam biçimi",
+      "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/turkkulturvemedeniyettarihi/sec/unite6/files/basic-html/page2.html",
+      "type": "Resmî eğitim materyali",
+      "accessed": "2026-10-10"
+    },
+    "KT07": {
+      "title": "MEB Türk Kültür ve Medeniyet Tarihi 11 — Sporun toplumsal işlevleri",
+      "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/turkkulturvemedeniyettarihi/sec/unite7/files/basic-html/page2.html",
+      "type": "Resmî eğitim materyali",
+      "accessed": "2026-10-10"
+    },
+    "KT08": {
+      "title": "MEB Türk Kültür ve Medeniyet Tarihi 11 — Çevgan, güreş, mızrak",
+      "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/turkkulturvemedeniyettarihi/sec/unite7/files/basic-html/page3.html",
+      "type": "Resmî eğitim materyali",
+      "accessed": "2026-10-10"
+    },
+    "KT09": {
+      "title": "MEB Türk Kültür ve Medeniyet Tarihi 11 — Cirit, gökbörü, kızbörü ve koşu",
+      "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/turkkulturvemedeniyettarihi/sec/unite7/files/basic-html/page4.html",
+      "type": "Resmî eğitim materyali",
+      "accessed": "2026-10-10"
+    },
+    "KT10": {
+      "title": "MEB Türk Kültür ve Medeniyet Tarihi 11 — Tepük ve mangala",
+      "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/turkkulturvemedeniyettarihi/sec/unite7/files/basic-html/page5.html",
+      "type": "Resmî eğitim materyali",
+      "accessed": "2026-10-10"
+    },
+    "KT11": {
+      "title": "MEB Beden Eğitimi ve Spor Tarihi 12 — Türklerde spor türleri",
+      "url": "https://ogmmateryal.eba.gov.tr/kitap/spor-lisesi/beden-egitimi-spor-tarihi-12/files/basic-html/page59.html",
+      "type": "Resmî eğitim materyali",
+      "accessed": "2026-10-10"
+    },
+    "KT12": {
+      "title": "Pamuk Öztürk — Tang Hanedanlığı Dönemi Çin Müziği ve Türk Kavimlerinin Çin Müziğine Etkileri",
+      "url": "https://dergipark.org.tr/tr/download/issue-full-file/75885",
+      "type": "Akademik araştırma",
+      "accessed": "2026-10-10"
+    },
+    "KT13": {
+      "title": "TDV — Matrakçı Nasuh",
+      "url": "https://islamansiklopedisi.org.tr/matrakci-nasuh",
+      "type": "Uzman ansiklopedi maddesi",
+      "accessed": "2026-10-10"
+    },
+    "KT14": {
+      "title": "Hacer Tokyürek — Eski Uygurcada Ayurveda Tıbbı ve Beş Unsur",
+      "url": "https://dergipark.org.tr/tr/pub/iuturkiyat/article/195465",
+      "type": "Akademik araştırma",
+      "accessed": "2026-10-10"
+    },
+    "KT15": {
+      "title": "Uğur Uzunkaya — Eski Uygurcada Tıp İncelemeleri ve Bir Tıp Metnine İlişkin Fragmanlar",
+      "url": "https://dergipark.org.tr/tr/pub/tdded/article/1276373",
+      "type": "Akademik araştırma",
+      "accessed": "2026-10-10"
+    },
+    "KT16": {
+      "title": "Dîvânu Lugâti’t-Türk’te kumaş adlarının incelenmesi — eşük",
+      "url": "https://dergipark.org.tr/tr/download/issue-full-file/56740",
+      "type": "Akademik dil incelemesi",
+      "accessed": "2026-10-10"
+    },
+    "KT17": {
+      "title": "Anıl Yılmaz — Gök Türklerin Balbal Terimi Üzerine Bazı Notlar",
+      "url": "https://dergipark.org.tr/tr/pub/cihannuma/article/441630",
+      "type": "Akademik arkeoloji araştırması",
+      "accessed": "2026-10-10"
+    },
+    "KT18": {
+      "title": "Emel Esin — Muyanlık: buyan yapısından ribat ve medreseye gelişme",
+      "url": "https://tekesin.org.tr/muyanlik-uygur-buyan-yapisindan-vihara-hakanli-muyanligina-ribat-ve-selcuklu-han-ile-medresesine-gelisme/",
+      "type": "Yazarın araştırma arşivi",
+      "accessed": "2026-10-10"
+    },
+    "KT19": {
+      "title": "Yıldız Teknik Üniversitesi — Muyanlık ve konukluk kurumlarına ilişkin araştırma",
+      "url": "https://dspace.yildiz.edu.tr/xmlui/bitstream/handle/1/12757/5986.pdf?isAllowed=y&sequence=1",
+      "type": "Üniversite araştırma arşivi",
+      "accessed": "2026-10-10"
+    },
+    "KT20": {
+      "title": "MEB Türk Kültür ve Medeniyet Tarihi 11 — Gök Tanrı, tabiat ve atalarla ilgili inanışlar",
+      "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/turkkulturvemedeniyettarihi/sec/unite2/files/basic-html/page5.html",
+      "type": "Resmî eğitim materyali",
+      "accessed": "2026-10-10"
+    },
+    "KT21": {
+      "title": "MEB Türk Kültür ve Medeniyet Tarihi 11 — Cenaze ve öte dünya kavramları",
+      "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/turkkulturvemedeniyettarihi/sec/unite2/files/basic-html/page6.html",
+      "type": "Resmî eğitim materyali",
+      "accessed": "2026-10-10"
+    },
+    "KT22": {
+      "title": "MEB Türk Dili ve Edebiyatı 10 — Sözlü ürünler ve kopuz",
+      "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/kavram_calismalari/10/edebiyat/tek/files/basic-html/page10.html",
+      "type": "Resmî eğitim materyali",
+      "accessed": "2026-10-10"
+    },
+    "KT23": {
+      "title": "MEB Tarih 9 Beceri Temelli — İpek ve Kürk yolları",
+      "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/beceri_temelli/9/tarih/files/basic-html/page121.html",
+      "type": "Resmî eğitim materyali",
+      "accessed": "2026-10-10"
+    },
+    "UY1": {
+      "title": "TDV — Uygurlar, Gülçin Çandarlıoğlu",
+      "url": "https://islamansiklopedisi.org.tr/uygurlar"
+    },
+    "UY4": {
+      "title": "MEB OGM — Tarih 9, İlk ve Orta Çağlarda Türk Dünyası",
+      "url": "https://ogmmateryal.eba.gov.tr/panel/upload/files/4aux0xoxzui.pdf"
+    },
+    "HZ2": {
+      "title": "MEB OGM — Defterim Tarih 9, s.125",
+      "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/defterim/9/tarih/files/basic-html/page125.html"
+    },
+    "HZ7": {
+      "title": "Emin Kırkıl ve Oğulcan Canıağır — Hazar Kağanlığında Hristiyanlık (2025)",
+      "url": "https://dergipark.org.tr/tr/pub/karadearas/article/1796753"
+    },
+    "EU8": {
+      "title": "Ahmet Taşağıl — İdil Bulgar Hanlığı (TDV)",
+      "url": "https://islamansiklopedisi.org.tr/idil-bulgar-hanligi"
+    },
+    "EU1": {
+      "title": "Ahmet Taşağıl — Türk: Uzlar, Peçenekler ve Bulgarlar (TDV)",
+      "url": "https://islamansiklopedisi.org.tr/turk"
+    },
+    "GK4": {
+      "title": "TDV İslâm Ansiklopedisi — Türk, Ahmet Taşağıl: Göktürk devletleri",
+      "url": "https://islamansiklopedisi.org.tr/turk#1-turk-soyu-ve-tarihi-ortaya-cikisi-yayilisi-kollari-kurduklari-devletler"
+    },
+    "GK12": {
+      "title": "Nurcan Kalkır ve Selma Başkan — Göktürk Kağanlarının Kültürden Uzaklaşma Eğilimi ve Sebepleri",
+      "url": "https://dergipark.org.tr/en/download/article-file/892319"
+    }
+  },
+  "questions": [
+    {
+      "id": "KU-035",
+      "revision": 1,
+      "topic": "İslamiyet Öncesi Türklerde Kültür ve Uygarlık",
+      "subtopic": "Takvimlerin karşılaştırılması",
+      "skill": "Bilgi",
+      "stem": "Türklerin tarih boyunca kullandığı takvimlerle ilgili aşağıdaki eşleştirmelerden hangisi yanlıştır?",
+      "difficulty": "Orta",
+      "options": [
+        "On İki Hayvanlı Türk Takvimi – güneş yılı",
+        "Hicrî takvim – ay yılı",
+        "Celâlî takvim – güneş yılı",
+        "Rumî takvim – ay yılı",
+        "Miladî takvim – güneş yılı"
+      ],
+      "answer": "D",
+      "explanation": "Rumî takvim güneş yılına dayanır; hicrî takvim ay yılı esaslıdır. İkisinin hicretle ilişkilendirilmesi, yıl hesaplama yöntemlerinin aynı olduğu anlamına gelmez. On İki Hayvanlı, Celâlî ve miladî takvimler de güneş yılı esaslıdır.",
+      "sources": [
+        "KT01"
+      ]
+    },
+    {
+      "id": "KU-036",
+      "revision": 1,
+      "topic": "İslamiyet Öncesi Türklerde Kültür ve Uygarlık",
+      "subtopic": "Takvimde başlangıç ve yıl esası",
+      "skill": "Bilgi–Yorum",
+      "stem": "Hicrî takvim ile Osmanlı mali Rumî takviminin hicretle ilişkilendirilmesine rağmen tarihlerinin zaman içinde birbirinden ayrılması öncelikle aşağıdakilerden hangisiyle açıklanır?",
+      "difficulty": "Orta",
+      "options": [
+        "Başlangıç kabulünün yıl uzunluğunu aynı hâle getirmemesiyle",
+        "Her iki takvimde yılların hayvan adlarıyla gösterilmesiyle",
+        "Rumî takvimin dinî günleri hicrî takvimden devralmasıyla",
+        "Hicrî takvimin güneşin, Rumî takvimin ayın hareketine dayanmasıyla",
+        "İki takvimin farklı hükümdarların tahta çıkışını başlangıç almasıyla"
+      ],
+      "answer": "A",
+      "explanation": "Hicrî yıl ayın, Rumî yıl ise güneşin hareketine göre hesaplanır; bu nedenle yıl uzunlukları farklıdır. Ortak bir başlangıçla ilişkilendirilmek aynı yıl süresini kullanmak değildir. Yıllar ilerledikçe aradaki süre farkı da tarihlere yansır.",
+      "sources": [
+        "KT02",
+        "KT03"
+      ]
+    },
+    {
+      "id": "KU-037",
+      "revision": 1,
+      "topic": "İslamiyet Öncesi Türklerde Kültür ve Uygarlık",
+      "subtopic": "Celâlî takvimi ve bilim",
+      "skill": "Bilgi",
+      "stem": "Türklerin kullandığı takvimlerden hangisi, Büyük Selçuklu hükümdarı Melikşah’ın isteğiyle Ömer Hayyam başkanlığındaki astronomi heyetinin çalışmalarıyla ilişkilidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Rumî takvim",
+        "Hicrî takvim",
+        "Celâlî takvim",
+        "On İki Hayvanlı Türk Takvimi",
+        "Miladî takvim"
+      ],
+      "answer": "C",
+      "explanation": "Celâlî takvim Melikşah’ın isteğiyle Ömer Hayyam başkanlığındaki astronomi heyetince hazırlanmıştır ve güneş yılına dayanır. Rumî takvim Osmanlı mali uygulamasıyla, hicrî takvim ise ay yılıyla ilişkilidir. Bu soru Türklerin tarih boyunca kullandığı takvimleri karşılaştırır; hepsinin İslamiyet öncesinde kullanıldığını söylemez.",
+      "sources": [
+        "KT01",
+        "KT03"
+      ]
+    },
+    {
+      "id": "KU-038",
+      "revision": 1,
+      "topic": "İslamiyet Öncesi Türklerde Kültür ve Uygarlık",
+      "subtopic": "Bilim ve zaman ölçümü",
+      "skill": "Bilgi–Yorum",
+      "stem": "Bir toplumun takvimini gök cisimlerinin düzenli hareketlerini izleyerek oluşturması aşağıdaki alanlardan hangisindeki bilgi birikimiyle doğrudan ilişkilidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Maden işçiliği",
+        "Astronomi",
+        "Tıp",
+        "Dokumacılık",
+        "Hukuk"
+      ],
+      "answer": "B",
+      "explanation": "Gök cisimlerinin hareketlerini izlemek astronomiyle ilgilidir. Takvim, bu hareketlerden yararlanılarak zamanı düzenleme aracıdır. Takvim kullanımı astronomik bilgiye işaret eder; tek başına tıp veya maden teknolojisinin gelişme düzeyini göstermez.",
+      "sources": [
+        "KT03"
+      ]
+    },
+    {
+      "id": "KU-039",
+      "revision": 1,
+      "topic": "İslamiyet Öncesi Türklerde Kültür ve Uygarlık",
+      "subtopic": "Sanat eserleri ve buluntu yerleri",
+      "skill": "Bilgi",
+      "stem": "Orta Asya sanat tarihi açısından Pazırık ile Esik kurganlarının özellikle ilişkilendirildiği buluntular aşağıdakilerin hangisinde sırasıyla doğru verilmiştir?",
+      "difficulty": "Orta",
+      "options": [
+        "Altın Elbiseli Adam – halı",
+        "Halı – Orhun yazıtları",
+        "Gümüş tabak – duvar freskleri",
+        "Orhun yazıtları – Altın Elbiseli Adam",
+        "Halı – Altın Elbiseli Adam"
+      ],
+      "answer": "E",
+      "explanation": "Pazırık kurganları halıyla, Esik kurganı Altın Elbiseli Adam buluntusuyla öne çıkar. Halı dokumacılık, altın parçalarla işlenen giysi ise maden sanatı bakımından önemlidir. Buluntu yerlerini eşleştirmek eserlerin etnik aidiyetine ilişkin bütün tartışmaları tek başına çözmez.",
+      "sources": [
+        "KT04",
+        "KT05"
+      ]
+    },
+    {
+      "id": "KU-040",
+      "revision": 1,
+      "topic": "İslamiyet Öncesi Türklerde Kültür ve Uygarlık",
+      "subtopic": "Yaşam biçimi ve taşınabilir sanat",
+      "skill": "Bilgi–Yorum",
+      "stem": "Halı, süslü at koşum takımı ve bezemeli kemer tokasının konargöçer yaşamla ilişkisi hakkında aşağıdaki yorumlardan hangisi daha isabetlidir?",
+      "difficulty": "Orta",
+      "options": [
+        "Taşınabilir eşyaların işlevleri estetik süslemeyi dışlamıştır.",
+        "Maden ve dokuma ürünleri aynı üretim tekniğine dayanmıştır.",
+        "Gündelik kullanım eşyaları aynı zamanda sanatın taşıyıcısı olmuştur.",
+        "Süslemeli eşyalar tapınak mimarisinin geliştiğini kanıtlamıştır.",
+        "Halı motifleri göç güzergâhının tam olarak belirlenmesini sağlamıştır."
+      ],
+      "answer": "C",
+      "explanation": "Bu eserler hem kullanılabilir hem taşınabilir hem de süslenebilir eşyalardır. Böylece sanat gündelik yaşamdan ayrı bir alana hapsedilmemiş, kullanılan nesneler üzerinde de ortaya çıkmıştır. Eşyanın bezemeli olması tapınak mimarisini veya kesin göç güzergâhını tek başına kanıtlamaz.",
+      "sources": [
+        "KT06"
+      ]
+    },
+    {
+      "id": "KU-041",
+      "revision": 1,
+      "topic": "İslamiyet Öncesi Türklerde Kültür ve Uygarlık",
+      "subtopic": "Sanat dalları ve malzeme",
+      "skill": "Bilgi ve yorum",
+      "stem": "Varsayımsal bir Orta Asya buluntu grubunda iğneyle kumaş üzerine işlenmiş hayvan motifleri, oyulmuş ahşap figürler ve yün ipliklerin dokunmasıyla yapılmış bir halı bulunmaktadır.\n\nBu eserlerin yapım teknikleri aşağıdakilerin hangisinde sırasıyla doğru eşleştirilmiştir?",
+      "difficulty": "Orta",
+      "options": [
+        "Dokumacılık – ahşap oymacılığı – işlemecilik",
+        "İşlemecilik – ahşap oymacılığı – dokumacılık",
+        "İşlemecilik – taş oymacılığı – dokumacılık",
+        "Dokumacılık – ahşap oymacılığı – keçecilik",
+        "İşlemecilik – ahşap oymacılığı – keçecilik"
+      ],
+      "answer": "B",
+      "explanation": "Kumaşın üzerine iğneyle motif eklenmesi işlemecilik, ahşabı oyarak biçimlendirme ahşap oymacılığıdır. Yün iplikleri dokuyarak halı elde etme ise dokumacılıktır. Yün kullanılması tek başına keçecilik anlamına gelmez; keçe ve dokuma farklı üretim teknikleridir.",
+      "sources": [
+        "KT05",
+        "KT06"
+      ]
+    },
+    {
+      "id": "KU-042",
+      "revision": 1,
+      "topic": "İslamiyet Öncesi Türklerde Kültür ve Uygarlık",
+      "subtopic": "Sanat buluntularının kanıt sınırı",
+      "skill": "Bilgi ve yorum",
+      "stem": "Bir araştırmacı, varsayımsal bir kurganda hayvan motifli halı ile altın giysi parçaları bulmuştur. Bu nesnelerde günlük kullanıma bağlı aşınma izleri de belirlemiştir.\n\nAraştırmacının aşağıdaki değerlendirmelerinden hangisi bu bulguların kanıt sınırını aşar?",
+      "difficulty": "Orta",
+      "options": [
+        "Farklı malzemeler üzerinde benzer tasvir anlayışı kullanılabilmiştir.",
+        "Buluntular dokuma ve maden işçiliği hakkında veri sağlamaktadır.",
+        "Mezara konulan eşyalar gömülmeden önce kullanılmış olabilir.",
+        "Aynı motifler, iki eserin aynı atölyede üretildiğini belirlemek için yeterlidir.",
+        "Gömü bağlamı ve kullanım izleri eşyaların farklı işlevlerini incelemeye imkân verir."
+      ],
+      "answer": "D",
+      "explanation": "Benzer hayvan motifleri ortak bir tasvir anlayışını gösterebilir; fakat üreticiyi veya atölyeyi tek başına belirlemez. Malzeme farkı işçilik türlerini, aşınma izleri gömülmeden önceki kullanımı değerlendirmeye yardımcı olur. Aynı atölye sonucuna ulaşmak için üretim araçları ve teknik özellikler gibi ek kanıtlar gerekir.",
+      "sources": [
+        "KT04",
+        "KT05",
+        "KT06"
+      ]
+    },
+    {
+      "id": "KU-043",
+      "revision": 1,
+      "topic": "İslamiyet Öncesi Türklerde Kültür ve Uygarlık",
+      "subtopic": "Dinler ve siyasi topluluklar",
+      "skill": "Bilgi",
+      "stem": "Türk tarihiyle ilgili aşağıdaki din–siyasi çevre eşleştirmelerinden hangisi yanlıştır?",
+      "difficulty": "Orta",
+      "options": [
+        "Bögü Kağan dönemi Uygur yönetimi – Musevilik",
+        "Hazar yönetici çevresi – Musevilik",
+        "Boris dönemi Tuna Bulgar yönetimi – Hristiyanlık",
+        "Almış dönemi İdil Bulgar yönetimi – İslamiyet",
+        "Tapo Kağan’ın yöneldiği din – Budizm"
+      ],
+      "answer": "A",
+      "explanation": "Bögü Kağan dönemi Uygur yönetimi Maniheizm’le ilişkilidir; Musevilikle eşleştirme yanlıştır. Hazar yönetici çevresi Musevilik, Tuna Bulgarları Boris döneminde Hristiyanlık, İdil Bulgarları Almış döneminde İslamiyet ve Tapo Kağan Budizm’le ilişkilidir. Yönetici tercihi, ülkedeki herkesin aynı dini benimsediği anlamına gelmez.",
+      "sources": [
+        "KT20",
+        "UY1",
+        "UY4",
+        "HZ2",
+        "HZ7",
+        "EU8",
+        "EU1",
+        "GK4",
+        "GK12"
+      ]
+    },
+    {
+      "id": "KU-044",
+      "revision": 1,
+      "topic": "İslamiyet Öncesi Türklerde Kültür ve Uygarlık",
+      "subtopic": "Din ve kültürel süreklilik",
+      "skill": "Bilgi–Yorum",
+      "stem": "Dinî yönelimi değişen bir Türk topluluğunda ataların anıldığı törenlerin ve mezar ziyaretlerinin sürdüğünün belirlenmesi aşağıdakilerden hangisini destekler?",
+      "difficulty": "Orta",
+      "options": [
+        "Mezar ziyaretinin yeni dinin benimsenmediğini kanıtladığını",
+        "Atalara saygının hükümdarlık yetkisinin kaynağı olduğunu",
+        "Din değişiminin dil değişimiyle aynı anda gerçekleştiğini",
+        "Anma törenlerinin farklı devletlerde aynı biçimde düzenlendiğini",
+        "Yeni dinî yönelimle bazı eski kültürel uygulamaların birlikte bulunabildiğini"
+      ],
+      "answer": "E",
+      "explanation": "Yeni bir dinin benimsenmesi, önceki kültürel uygulamaların bir anda tamamının ortadan kalkmasını gerektirmez. Mezar ziyareti ve atalara saygının sürmesi, değişimle sürekliliğin birlikte bulunduğunu gösterir. Bu örnek dil değişiminin zamanını veya bütün devletlerin tören biçimini açıklamaz.",
+      "sources": [
+        "KT20"
+      ]
+    },
+    {
+      "id": "KU-045",
+      "revision": 1,
+      "topic": "İslamiyet Öncesi Türklerde Kültür ve Uygarlık",
+      "subtopic": "Atalar ve tabiat kültleri",
+      "skill": "Bilgi",
+      "stem": "İslamiyet öncesi Türklerde bir atanın anısına yapılan mezar ziyareti ile bir dağ veya su kaynağına kutsallık atfedilmesi aşağıdakilerin hangisinde sırasıyla doğru eşleştirilmiştir?",
+      "difficulty": "Orta",
+      "options": [
+        "Tabiat kültü – atalar kültü",
+        "Kut – tabiat kültü",
+        "Atalar kültü – tabiat kültü",
+        "Atalar kültü – veraset",
+        "Kut – ülüş"
+      ],
+      "answer": "C",
+      "explanation": "Atanın mezarını ziyaret etme, atalar kültüyle; doğal varlığa kutsallık atfetme tabiat kültleriyle ilişkilidir. Kut yönetme yetkisinin meşruiyeti, veraset tahta geçiş, ülüş ise payla ilgilidir. Kült burada saygı ve kutsallık çevresindeki uygulamaları belirtir; siyasi görev adı değildir.",
+      "sources": [
+        "KT20"
+      ]
+    },
+    {
+      "id": "KU-046",
+      "revision": 1,
+      "topic": "İslamiyet Öncesi Türklerde Kültür ve Uygarlık",
+      "subtopic": "Cenaze töreni ve öte dünya kanıtı",
+      "skill": "Bilgi ve yorum",
+      "stem": "İslamiyet öncesi Türk topluluklarında ölüm sonrası yaşam anlayışını araştıran bir tarihçi için aşağıdaki bulgulardan hangisi diğerlerine göre daha doğrudan dayanak oluşturur?",
+      "difficulty": "Orta",
+      "options": [
+        "Ölen kişinin ardından bir araya gelinerek yuğ düzenlenmesi",
+        "Gömüde kişisel eşyalar ve yiyeceklerin ölen kişinin yanına bırakılması",
+        "Ölenin yaptığı hizmetlerin anıt metninde anlatılması",
+        "Cenaze töreninde boyun ileri gelenlerinin hazır bulunması",
+        "Ölen kişinin ardından sagu söylenmesi"
+      ],
+      "answer": "B",
+      "explanation": "Kişisel eşyalar ve yiyeceklerin ölüyle birlikte bırakılması, ölümden sonra ihtiyaçların süreceği anlayışıyla ilişkilendirilebilir. Yuğ, sagu ve anıt metni öncelikle yas, anma ve toplumsal hafızayı gösterir. Tek bir gömü buluntusu inancın bütün ayrıntılarını açıklamaz; burada karşılaştırılan kanıtların doğrudanlığıdır.",
+      "sources": [
+        "KT04",
+        "KT21"
+      ]
+    },
+    {
+      "id": "KU-047",
+      "revision": 1,
+      "topic": "İslamiyet Öncesi Türklerde Kültür ve Uygarlık",
+      "subtopic": "Eşük ve cenaze kavramları",
+      "skill": "Bilgi",
+      "stem": "Eski Türkçe cenaze ve anma bağlamında eşük, yuğ ve kurgan aşağıdakilerin hangisinde sırasıyla doğru açıklanmıştır?",
+      "difficulty": "Orta",
+      "options": [
+        "Mezar – cenaze töreni – mezar üzerine örtülen kumaş",
+        "Cenaze töreni – mezar örtüsü – ruh",
+        "Mezar örtüsü – cennet – cenaze töreni",
+        "Mezar örtüsü/kefen bağlamındaki kumaş – cenaze töreni – mezar",
+        "Ruh – cenaze töreni – mezar"
+      ],
+      "answer": "D",
+      "explanation": "Eşük örtü ve kumaş anlamlarını taşır; cenaze bağlamında mezara örtülen kumaş veya kefenle ilişkilendirilir. Yuğ cenaze törenini, kurgan mezarı ifade eder. Eşükün yalnızca tek bir modern nesne anlamına indirgenmemesi gerekir.",
+      "sources": [
+        "KT16",
+        "KT21"
+      ]
+    },
+    {
+      "id": "KU-048",
+      "revision": 1,
+      "topic": "İslamiyet Öncesi Türklerde Kültür ve Uygarlık",
+      "subtopic": "Anma taşları ve yazıtlar",
+      "skill": "Bilgi ve yorum",
+      "stem": "Göktürk anma alanlarında balbal dizileri ile ölen kişiyi temsil eden insan biçimli heykeller bir arada bulunabilir.\n\nBu iki unsurun işlevi aşağıdakilerin hangisinde daha doğru ayrılmıştır?",
+      "difficulty": "Orta",
+      "options": [
+        "Balbal: yenilen düşmanla ilişkilendirilen taş; heykel: anılan kişiyi temsil eden tasvir",
+        "Balbal: anılan kişiyi temsil eden tasvir; heykel: yenilen düşmanla ilişkilendirilen taş",
+        "Balbal: ölümün ardından söylenen ağıt; heykel: atalara ayrılan tören payı",
+        "Balbal: üzerinde hitabe bulunan anıt; heykel: hitabeyi taşıyan mimari kaide",
+        "Balbal: kurganın mezar odası; heykel: cenazenin üzerine örtülen kumaş"
+      ],
+      "answer": "A",
+      "explanation": "Balbal taşları yenilen düşmanlarla ilişkilendirilirken insan biçimli heykeller anılan kişinin tasviri olarak değerlendirilir. İki unsur aynı anma alanında bulunsa da işlevleri özdeş değildir. Bu ayrım, her taş heykeli balbal saymayı veya balbalı yazılı anıtla karıştırmayı önler.",
+      "sources": [
+        "KT17"
+      ]
+    },
+    {
+      "id": "KU-049",
+      "revision": 1,
+      "topic": "İslamiyet Öncesi Türklerde Kültür ve Uygarlık",
+      "subtopic": "Yardımlaşma kurumları",
+      "skill": "Bilgi",
+      "stem": "Uygur buyan yapılarıyla bağlantılı olup tarihsel gelişiminde yolculara konaklama ve yardım işlevleriyle ilişkilendirilen kurum aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Kurgan",
+        "Ayukı",
+        "Orun",
+        "Yargu",
+        "Muyanlık"
+      ],
+      "answer": "E",
+      "explanation": "Muyanlık, Uygur buyan yapılarından daha sonraki konukluk ve yardım kurumlarına uzanan tarihsel bağlamda ele alınır. Kullanım ve işlevleri döneme göre değişebilir; yalnız aşevi veya tek tip bina olarak tanımlanması eksik kalır. Kurgan, ayukı ve yargu bu sosyal yardım işlevinin karşılığı değildir.",
+      "sources": [
+        "KT18",
+        "KT19"
+      ]
+    },
+    {
+      "id": "KU-050",
+      "revision": 1,
+      "topic": "İslamiyet Öncesi Türklerde Kültür ve Uygarlık",
+      "subtopic": "Müzik terimleri",
+      "skill": "Bilgi",
+      "stem": "Eski Türk müzik kültüründe sazla çalınan ezgi ile sözlü olarak söylenen ezgi/beste için kullanılan adlar aşağıdakilerin hangisinde sırasıyla doğru verilmiştir?",
+      "difficulty": "Orta",
+      "options": [
+        "Ir/yır – küğ",
+        "Kopuz – küğ",
+        "Küğ – ır/yır",
+        "Küğ – kopuz",
+        "Sav – sagu"
+      ],
+      "answer": "C",
+      "explanation": "Küğ sazlarla çalınan ezgiyle, ır veya yır sözlü olarak söylenen ezgi ve besteyle ilişkilendirilir. Kopuz çalgının adıdır; sav ve sagu ise sözlü edebiyat türleridir. Ezginin adı, onu icra eden çalgı ve eserin edebî türü aynı sınıflandırma değildir.",
+      "sources": [
+        "KT12"
+      ]
+    },
+    {
+      "id": "KU-051",
+      "revision": 1,
+      "topic": "İslamiyet Öncesi Türklerde Kültür ve Uygarlık",
+      "subtopic": "Müzik ve sözlü kültür",
+      "skill": "Bilgi–Yorum",
+      "stem": "Bir ozanın kahramanlık anlatısını kopuz eşliğinde seslendirmesi aşağıdakilerden hangisini destekler?",
+      "difficulty": "Kolay",
+      "options": [
+        "Kopuzun anlatı metninin yazıldığı araç olduğunu",
+        "Anlatının aktarımında söz ile müziğin birlikte kullanıldığını",
+        "Kahramanlık anlatısının bütün ayrıntılarının tarihsel kayıt olduğunu",
+        "İcranın ayukının yazışma görevinin parçası olduğunu",
+        "Anlatının yalnız tapınaklarda söylenebildiğini"
+      ],
+      "answer": "B",
+      "explanation": "Kopuz eşliğinde anlatım söz ve müziğin kültürel aktarımda birlikte kullanıldığını gösterir. Kopuz bir çalgıdır, metnin yazıldığı araç değildir. Müzikle aktarılması anlatının bütün ayrıntılarının tarihsel belge olarak doğrulandığı anlamına gelmez.",
+      "sources": [
+        "KT22",
+        "KT05"
+      ]
+    },
+    {
+      "id": "KU-052",
+      "revision": 1,
+      "topic": "İslamiyet Öncesi Türklerde Kültür ve Uygarlık",
+      "subtopic": "Yaya ve top oyunları",
+      "skill": "Bilgi",
+      "stem": "Eski Türk spor geleneğinde yaya koşusu ve ayakla topa vurularak oynanan oyun aşağıdakilerin hangisinde sırasıyla doğru verilmiştir?",
+      "difficulty": "Orta",
+      "options": [
+        "Tepük – seyirtme",
+        "Gökbörü – tepük",
+        "Seyirtme – çevgan",
+        "Seyirtme – tepük",
+        "Güreş – gökbörü"
+      ],
+      "answer": "D",
+      "explanation": "Seyirtme yaya koşusuyla, tepük ayakla topa vurularak oynanan oyunla ilişkilidir. Tepükün modern futbolla benzerliği, günümüz futbol kurallarının tamamının o dönemde bulunduğu anlamına gelmez. Çevgan ise at üzerinde değnekle topun yönlendirildiği farklı bir oyundur.",
+      "sources": [
+        "KT09",
+        "KT10",
+        "KT11"
+      ]
+    },
+    {
+      "id": "KU-053",
+      "revision": 1,
+      "topic": "İslamiyet Öncesi Türklerde Kültür ve Uygarlık",
+      "subtopic": "Çevgan ve cirit",
+      "skill": "Bilgi",
+      "stem": "İki atlı oyun hakkında aşağıdaki bilgiler verilmektedir:\n• İlkinde ucu eğri bir değnekle top belirlenen hedefe yönlendirilir.\n• İkincisinde oyuncular değneği karşı takımın oyuncusuna isabet ettirmeye çalışır.\nBu oyunlar aşağıdakilerin hangisinde sırasıyla doğru verilmiştir?",
+      "difficulty": "Orta",
+      "options": [
+        "Cirit – çevgan",
+        "Çevgan – gökbörü",
+        "Tepük – cirit",
+        "Gökbörü – çevgan",
+        "Çevgan – cirit"
+      ],
+      "answer": "E",
+      "explanation": "Çevganda top değnekle hedefe yönlendirilir; ciritte değnek rakip oyuncuya yöneltilir. İkisinin at üzerinde ve değnekle oynanması onları aynı oyun yapmaz. Gökbörü ise oğlak derisinin ele geçirilmesi ve taşınmasıyla ilişkilidir.",
+      "sources": [
+        "KT08",
+        "KT09"
+      ]
+    },
+    {
+      "id": "KU-054",
+      "revision": 1,
+      "topic": "İslamiyet Öncesi Türklerde Kültür ve Uygarlık",
+      "subtopic": "Gökbörü ve güreş",
+      "skill": "Bilgi",
+      "stem": "Atlı yarışmacıların oğlak derisini ele geçirip taşımaya çalıştığı oyun aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Gökbörü",
+        "Güreş",
+        "Seyirtme",
+        "Tepük",
+        "Çevgan"
+      ],
+      "answer": "A",
+      "explanation": "Gökbörü at üzerinde oğlak derisinin ele geçirilip taşınmasıyla oynanır. Çevgan da atlı oyundur fakat top ve değnek kullanılır. Güreş ve seyirtme aynı uygulama biçimine sahip değildir.",
+      "sources": [
+        "KT09"
+      ]
+    },
+    {
+      "id": "KU-055",
+      "revision": 1,
+      "topic": "İslamiyet Öncesi Türklerde Kültür ve Uygarlık",
+      "subtopic": "Mangala",
+      "skill": "Bilgi–Yorum",
+      "stem": "Mangala ile cirit karşılaştırıldığında, bu iki oyunun beceri alanları aşağıdakilerin hangisinde daha doğru ayırt edilmiştir?",
+      "difficulty": "Orta",
+      "options": [
+        "Mangala: atlı hedef isabeti; cirit: taşların dağılımını planlama",
+        "Mangala: at üzerinde takım koordinasyonu; cirit: hamleleri taş sayısına göre hesaplama",
+        "Mangala: taş hareketlerini planlama; cirit: at üzerinde isabet ve hareket",
+        "Mangala: taş hareketlerini planlama; cirit: yaya koşusunda sürat geliştirme",
+        "Mangala: bedensel kuvvetle rakibi yere düşürme; cirit: at üzerinde isabet ve hareket"
+      ],
+      "answer": "C",
+      "explanation": "Mangala taş hareketlerini ve sonuçlarını planlamaya dayanan bir zekâ oyunudur. Cirit ise at üzerindeki hareket ve isabet becerilerini öne çıkarır. Bu karşılaştırma Türk oyunlarının tek bir beceri alanına indirgenemeyeceğini gösterir; sabit taş sayısı üzerinden ezber gerektirmez.",
+      "sources": [
+        "KT10",
+        "KT09"
+      ]
+    },
+    {
+      "id": "KU-056",
+      "revision": 1,
+      "topic": "İslamiyet Öncesi Türklerde Kültür ve Uygarlık",
+      "subtopic": "Sporun toplumsal işlevi",
+      "skill": "Bilgi ve yorum",
+      "stem": "Bir Türk topluluğunda bayram yarışmalarına farklı boylardan takımlar katılmakta; atlı oyunlarda oyuncular ortak kurala uyarak birlikte hareket etmektedir.\n\nBu uygulamanın askerî beceriler dışında hangi etkisi daha doğrudan desteklenir?",
+      "difficulty": "Orta",
+      "options": [
+        "Yarışma sonuçlarının boylar arasındaki siyasi üstünlük sırasını belirlemesi",
+        "Boylar arasında karşılaşma ve ortak etkinliğe katılımın toplumsal bağları desteklemesi",
+        "Takım kaptanlarının kurultayda boy beylerini temsil etme yetkisi kazanması",
+        "Oyuncuların askerî birliklerdeki görevlerinin yarışma sonuçlarıyla belirlenmesi",
+        "Oyunun kurallarının boylar arasındaki hukuk uyuşmazlıklarını çözme usulüne dönüşmesi"
+      ],
+      "answer": "B",
+      "explanation": "Farklı boyların ortak bir etkinlikte buluşması ve kurallara uyarak birlikte hareket etmesi toplumsal temas ve dayanışmayı destekler. Bu durum yarışmanın siyasi üstünlük, temsil yetkisi veya askerî görevlendirme belirlediğini göstermez. Sportif katılımın toplumsal etkisi ile kurumsal karar yetkisi ayrı değerlendirilmelidir.",
+      "sources": [
+        "KT07"
+      ]
+    },
+    {
+      "id": "KU-057",
+      "revision": 1,
+      "topic": "İslamiyet Öncesi Türklerde Kültür ve Uygarlık",
+      "subtopic": "Spor ve kadınların katılımı",
+      "skill": "Bilgi ve yorum",
+      "stem": "Bazı Türk topluluklarında kadınların binicilik ve okçuluğa katılması, hatunun ise yönetim görüşmelerinde görev üstlenebilmesi bilinmektedir.\n\nBu iki bilgi birlikte değerlendirildiğinde aşağıdaki çıkarımlardan hangisi yapılabilir?",
+      "difficulty": "Orta",
+      "options": [
+        "Sportif başarı hatun olarak görevlendirilmenin ölçütüdür.",
+        "Hanedan kadınlarının siyasi görevi, yarışmalara katılan kadınların temsilinden doğmuştur.",
+        "Kadınların sportif katılımı kurultayın üyelerini seçme usulünü açıklar.",
+        "Kadınların toplumsal ve siyasi etkinlikleri farklı roller ve bağlamlarla incelenebilir.",
+        "Hatunun görüşmelere katılması kadınların askerî birliklere komuta ettiğini gösterir."
+      ],
+      "answer": "D",
+      "explanation": "Binicilik ve okçuluk toplumsal yaşamın, hatunun yönetimde görev alması ise siyasi teşkilatın farklı boyutlarını gösterir. İki alanda da kadınların etkinlikleri bulunduğu söylenebilir; fakat birindeki katılım diğerine atanma usulünü belirlemez. Sportif başarı ile hatunluk veya askerî komuta arasında zorunlu ilişki kurulamaz.",
+      "sources": [
+        "KT07",
+        "KT09"
+      ]
+    },
+    {
+      "id": "KU-058",
+      "revision": 1,
+      "topic": "İslamiyet Öncesi Türklerde Kültür ve Uygarlık",
+      "subtopic": "Tıp ve kültürel aktarım",
+      "skill": "Bilgi–Yorum",
+      "stem": "Uygurca tıp metinlerinde hastalık ve tedavi bilgilerine yer verilmesi, farklı kültür çevrelerinin tıbbi eserlerinin Uygurcaya çevrilmesiyle birlikte değerlendirildiğinde aşağıdaki yorumlardan hangisi yapılabilir?",
+      "difficulty": "Orta",
+      "options": [
+        "Tıp bilgisinin aktarımı dil ve kültürler arası etkileşimle gerçekleşebilmiştir.",
+        "Çevrilen eserler Uygurların hastalıkların ilk keşfedicisi olduğunu gösterir.",
+        "Çeviri etkinliğinin aynı toplumda özgün eser yazımını dışladığı söylenebilir.",
+        "Tıbbi metinlerin varlığı toplumun tamamının aynı tedavileri kullandığını kanıtlar.",
+        "Farklı kültürlerden aktarılan metinler arasında görüş ayrılığı bulunamaz."
+      ],
+      "answer": "A",
+      "explanation": "Uygurca tıp metinleri hastalık ve tedavi bilgisinin dil ve kültürler arasında aktarılabildiğini gösterir. Budist kültür çevreleri bu aktarımın yollarından biridir. Bir eserin çevrilmesi bilgiyi ilk kez keşfetmek veya yöntemlerinin günümüzdeki uygulamalarla aynı olması anlamına gelmez.",
+      "sources": [
+        "KT14",
+        "KT15"
+      ]
+    },
+    {
+      "id": "KU-059",
+      "revision": 1,
+      "topic": "İslamiyet Öncesi Türklerde Kültür ve Uygarlık",
+      "subtopic": "Anma kavramlarının karşılaştırılması",
+      "skill": "Bilgi–Yorum",
+      "stem": "Eski Türk kültürünü inceleyen bir araştırmacı için,\nI. Yuğ töreninin varlığı, cenaze uygulamasına ilişkin kanıt verir; ölüm sonrası inancın ayrıntılarını ayrıca araştırmak gerekir.\nII. Uçmağ ve tamu kavramlarının kullanılması, öte dünya tasavvurunun söz varlığına yansımasıyla ilişkilidir.\nIII. Anma alanında balbal taş sırasının bulunması, her taşın üzerinde ölenin hayatının yazılı olduğunu gösterir.\nyargılarından hangileri savunulabilir?",
+      "difficulty": "Orta",
+      "options": [
+        "Yalnız I",
+        "I ve III",
+        "II ve III",
+        "I, II ve III",
+        "I ve II"
+      ],
+      "answer": "E",
+      "explanation": "I savunulabilir: cenaze töreniyle inancın ayrıntıları aynı kanıt düzeyi değildir. II doğrudur: uçmağ ve tamu ölüm sonrası tasavvurla ilgili terimlerdir. III savunulamaz: balbal taş sırası yazılı bengü taş veya biyografi metniyle özdeşleştirilemez. Üç unsur aynı anma çevresinde bulunabilse de farklı sorulara cevap verir.",
+      "sources": [
+        "KT21",
+        "KT17"
+      ]
+    },
+    {
+      "id": "KU-060",
+      "revision": 1,
+      "topic": "İslamiyet Öncesi Türklerde Kültür ve Uygarlık",
+      "subtopic": "Sanat ve sporda dönem ayrımı",
+      "skill": "Bilgi ve yorum",
+      "stem": "Pazırık halısı, Esik Altın Elbiseli Adam buluntusu ve Matrakçı Nasuh ile ilişkilendirilen matrak oyunu aynı kültür tarihi listesine alınmıştır.\n\nListeyi dönemleri doğru ayırarak düzenleyen araştırmacı aşağıdaki sınıflandırmalardan hangisini yapmalıdır?",
+      "difficulty": "Orta",
+      "options": [
+        "Pazırık: Uygur şehir kültürü; Esik: bozkır kültürü; matrak: Osmanlı",
+        "Pazırık: bozkır kültürü; Esik: Osmanlı; matrak: Göktürk",
+        "Pazırık: bozkır kültürü; Esik: bozkır kültürü; matrak: Osmanlı",
+        "Pazırık: Selçuklu; Esik: bozkır kültürü; matrak: Osmanlı",
+        "Pazırık: bozkır kültürü; Esik: Uygur şehir kültürü; matrak: Selçuklu"
+      ],
+      "answer": "C",
+      "explanation": "Pazırık halısı ve Esik buluntusu İslamiyet öncesi bozkır sanatını incelemede kullanılan örneklerdir. Matrakçı Nasuh ile ilişkilendirilen matrak ise Osmanlı dönemi bağlamında ayrılmalıdır. Benzer Türk kültürü listelerinde bulunmaları, eser ve oyunların aynı döneme ait olduğunu göstermez.",
+      "sources": [
+        "KT13",
+        "KT04",
+        "KT05"
+      ]
+    },
+    {
+      "id": "KU-061",
+      "revision": 1,
+      "topic": "İslamiyet Öncesi Türklerde Kültür ve Uygarlık",
+      "subtopic": "Kültür unsurlarını sınıflandırma",
+      "skill": "Bilgi",
+      "stem": "Aşağıdaki kavram–işlev eşleştirmelerinden hangisi yanlıştır?",
+      "difficulty": "Orta",
+      "options": [
+        "Kopuz – sözlü anlatıya eşlik eden çalgı",
+        "Küğ – atlı oyunda hedefe yönlendirilen top",
+        "Seyirtme – yaya koşusu",
+        "Eşük – cenaze bağlamındaki örtü/kumaş",
+        "Mangala – taşlarla oynanan zekâ oyunu"
+      ],
+      "answer": "B",
+      "explanation": "Küğ bir müzik terimidir; atlı oyunda kullanılan topun adı değildir. Kopuz çalgı, seyirtme koşu, eşük cenaze bağlamında örtü ve mangala zekâ oyunu olarak doğru eşleştirilmiştir. Benzer kısa terimler sanat, spor ve anma alanlarında farklı işlevler taşır.",
+      "sources": [
+        "KT12",
+        "KT22",
+        "KT09",
+        "KT16",
+        "KT10"
+      ]
+    },
+    {
+      "id": "KU-062",
+      "revision": 1,
+      "topic": "İslamiyet Öncesi Türklerde Kültür ve Uygarlık",
+      "subtopic": "İpek ve Kürk yolları",
+      "skill": "Bilgi",
+      "stem": "Çin’den Orta Asya üzerinden batıya uzanan ticaret ağı ile Altay–Sibirya sahasındaki kürk ürünlerini batı pazarlarına taşıyan kuzey ağı aşağıdakilerin hangisinde sırasıyla doğru verilmiştir?",
+      "difficulty": "Orta",
+      "options": [
+        "Kürk Yolu – İpek Yolu",
+        "Baharat Yolu – İpek Yolu",
+        "İpek Yolu – Kürk Yolu",
+        "İpek Yolu – Baharat Yolu",
+        "Kral Yolu – Kürk Yolu"
+      ],
+      "answer": "C",
+      "explanation": "İpek Yolu Çin ile batıdaki pazarlar arasında Orta Asya üzerinden bağlantılar kurmuştur. Kürk Yolu ise Altay ve Sibirya gibi kuzey sahalarının deri ve kürklerini batıya taşıyan ağdır. Bunlar tek ve değişmez bir çizgiden ibaret değildir; farklı kollar ve bağlantılar barındırırlar.",
+      "sources": [
+        "KT23"
+      ]
+    },
+    {
+      "id": "KU-063",
+      "revision": 1,
+      "topic": "İslamiyet Öncesi Türklerde Kültür ve Uygarlık",
+      "subtopic": "Ticaret yollarının siyasi önemi",
+      "skill": "Bilgi–Yorum",
+      "stem": "Bir Türk hükümdarının kervan geçişlerini güvenceye almak amacıyla komşu bir devletle antlaşma yapması ve aynı zamanda yol üzerindeki geçitlere asker yerleştirmesi aşağıdaki yorumlardan hangisini destekler?",
+      "difficulty": "Orta",
+      "options": [
+        "Ekonomik çıkarların dış politika ve askerî tedbirlerle birlikte gözetildiğini",
+        "Antlaşmanın askerî güvenlik ihtiyacını ortadan kaldırdığını",
+        "Geçit denetiminin kervan mallarının tamamının devletçe üretildiğini gösterdiğini",
+        "Kervan güvenliğinin yerleşik halkın bütün gelirini ticaretten sağladığını kanıtladığını",
+        "Ticaret antlaşmasının iki devletin siyasi açıdan birleştiğini gösterdiğini"
+      ],
+      "answer": "A",
+      "explanation": "Kervanların güvenliği ticari faaliyetin sürmesiyle ilgilidir. Hükümdarın hem antlaşma hem askerî tedbir kullanması, ekonomik amaçların diplomasi ve savunma politikalarını etkileyebildiğini gösterir. Güzergâhın denetimi malların tamamını üretmek veya komşu devletle birleşmek anlamına gelmez.",
+      "sources": [
+        "KT23"
+      ]
+    },
+    {
+      "id": "KU-064",
+      "revision": 1,
+      "topic": "İslamiyet Öncesi Türklerde Kültür ve Uygarlık",
+      "subtopic": "Ticaret ağlarında değişim ve kanıt",
+      "skill": "Bilgi–Yorum",
+      "stem": "Bir ticaret ağının farklı dönemlerde farklı Türk devletlerinin denetiminde bulunması ve kollarının değişmesi hakkında,\nI. Yolun ekonomik değeri farklı siyasi güçlerin ilgisini çekmiş olabilir.\nII. Ağın adının aynı kalması, bütün kollarının ve sınırlarının değişmediğini kanıtlar.\nIII. Bir dönem için çizilen güzergâh haritası, önceki bütün dönemlerin siyasi denetimini tek başına açıklamaz.\nyargılarından hangileri savunulabilir?",
+      "difficulty": "Orta",
+      "options": [
+        "Yalnız I",
+        "I ve II",
+        "II ve III",
+        "I ve III",
+        "I, II ve III"
+      ],
+      "answer": "D",
+      "explanation": "I savunulabilir: ticaret ağının ekonomik değeri denetim mücadelesini açıklayabilir. III de savunulabilir: bir dönemin haritası başka dönemlerin sınır ve denetimini otomatik olarak göstermez. II savunulamaz; İpek veya Kürk Yolu adının kullanılması, bütün kolların her dönemde aynı kaldığını kanıtlamaz.",
+      "sources": [
+        "KT23"
+      ]
+    }
+  ]
+}

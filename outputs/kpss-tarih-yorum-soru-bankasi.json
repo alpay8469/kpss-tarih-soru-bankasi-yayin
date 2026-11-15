@@ -1,0 +1,451 @@
+{
+  "title": "KPSS Tarih — Bilgi üzerinden yorum ve çıkarım",
+  "unit": null,
+  "date": "2026-10-10",
+  "question_count": 16,
+  "sources": {
+    "S2": {
+      "title": "MEB – Tarih 9, ikinci dönem hazırlık materyali",
+      "url": "https://ogmmateryal.eba.gov.tr/panel/upload/files/ktjwzblfjdt.pdf"
+    },
+    "H1": {
+      "title": "MEB – Defterim Tarih 9, Asya Hun Devleti",
+      "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/defterim/9/tarih/files/basic-html/page119.html"
+    },
+    "S4": {
+      "title": "Pegem – Türk siyasi tarihi, Türk adının anlamlarına ilişkin açıklamalar",
+      "url": "https://depo.pegem.net/9780202200378.pdf"
+    },
+    "S6": {
+      "title": "MEB – Ortaöğretim tarih materyali, kültür merkezleri ve göçler",
+      "url": "https://ogmmateryal.eba.gov.tr/panel/upload/pdf/wdbo0cludiq.pdf"
+    },
+    "S8": {
+      "title": "MEB – İlk Türklere Kültürel Açıdan Genel Bakış",
+      "url": "https://img.eba.gov.tr/974/672/7fe/8e6/af9/d14/467/8a9/073/b7c/7cb/c49/e6b/de2/001/9746727fe8e6af9d144678a9073b7c7cbc49e6bde2001.pdf"
+    },
+    "S25": {
+      "title": "MEB – Tarih 9 Çalışma Defteri 5, s.18: kültür merkezleri",
+      "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/calisma_defteri/f5/9/tarih/files/basic-html/page18.html"
+    },
+    "K4": {
+      "title": "MEB – Orta Çağ: göçün nedenleri ve feodalite",
+      "url": "https://ogmmateryal.eba.gov.tr/panel/panel/CozumluSoruOnizle.aspx?alistirmaId=29362"
+    },
+    "S9": {
+      "title": "Encyclopaedia Iranica – Scythians",
+      "url": "https://www.iranicaonline.org/articles/scythians/"
+    },
+    "S20": {
+      "title": "İskitler ve Madencilik Sanatı – araştırma makalesi",
+      "url": "https://dergipark.org.tr/en/download/article-file/1139872"
+    },
+    "S13": {
+      "title": "Encyclopaedia Iranica – Amazons in the Iranian World",
+      "url": "https://www.iranicaonline.org/articles/amazons/amazons-ii/"
+    },
+    "H4": {
+      "title": "MEB – Asya Hunlarında siyasi birlik ve ordu teşkilatı",
+      "url": "https://ogmmateryal.eba.gov.tr/panel/panel/CozumluSoruOnizle.aspx?alistirmaId=58780"
+    },
+    "H2": {
+      "title": "MEB – Tarih 9, Asya Hun Devleti ve Çi-çi",
+      "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/tarih/9/unite4/files/basic-html/page16.html"
+    },
+    "K2": {
+      "title": "MEB – Kavimler Göçü Ne Getirdi?",
+      "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/elazig-telafi/tarih/files/basic-html/page19.html"
+    },
+    "K3": {
+      "title": "MEB – Tarih 9 Beceri Temelli Etkinlikler, göçün sonuçları, s.294",
+      "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/beceri_temelli/9/tarih/files/basic-html/page294.html"
+    },
+    "K1": {
+      "title": "MEB – Defterim Tarih 9, Kavimler Göçü ve Avrupa Hunları, s.124",
+      "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/defterim/9/tarih/files/basic-html/page124.html"
+    },
+    "K5": {
+      "title": "MEB – Tarih 9, 375–395–476 kronolojisi",
+      "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/tarih/9/unite2/files/basic-html/page16.html"
+    },
+    "R01": {
+      "title": "MEB – Tarih 9, Türk adı, Türkiye ve ana yurt",
+      "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/tarih/9/unite4/files/basic-html/page5.html"
+    },
+    "S1": {
+      "title": "MEB – Türklerin Tarih Sahnesine Çıkışı",
+      "url": "https://img.eba.gov.tr/491/79a/4c1/731/384/3a4/a5e/af7/aab/392/28e/3ae/72b/d1e/001/49179a4c17313843a4a5eaf7aab39228e3ae72bd1e001.pdf"
+    },
+    "R02": {
+      "title": "MEB – Tarih 9, Orta Asya kültür merkezleri",
+      "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/tarih/9/unite4/files/basic-html/page6.html"
+    },
+    "R03": {
+      "title": "MEB – Tarih 9, göçlerin nedenleri",
+      "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/tarih/9/unite4/files/basic-html/page22.html"
+    },
+    "R04": {
+      "title": "MEB – Tarih 9, farklı dönemlerde göç yönleri ve topluluklar",
+      "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/tarih/9/unite4/files/basic-html/page23.html"
+    },
+    "R07": {
+      "title": "Elena Fialko – Scythian female warriors in the south of Eastern Europe, Folia Praehistorica Posnaniensia 22",
+      "url": "https://pressto.amu.edu.pl/index.php/fpp/article/view/13588"
+    },
+    "R06": {
+      "title": "MEB – Tarih 9, Mete Han ve onlu askerî teşkilat",
+      "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/tarih/9/unite4/files/basic-html/page24.html"
+    }
+  },
+  "questions": [
+    {
+      "id": "YOR-001",
+      "revision": 1,
+      "topic": "Türk adının kullanımı",
+      "subtopic": "Türk ve Türkiye adlarının kullanımı",
+      "skill": "Bilgi ve yorum",
+      "stem": "Asya Hunları, Göktürkler ve Türk adıyla ilgili aşağıdaki yargılardan hangisi yanlıştır?",
+      "difficulty": "Orta",
+      "options": [
+        "Asya Hunlarının siyasi varlığı Göktürklerden öncedir.",
+        "Türk adını ilk kez devlet adı olarak kullanan siyasi teşkilat Asya Hunlarıdır.",
+        "Bir topluluk adının kaynaklarda görülmesiyle devlet adı olarak kullanılması farklı olgulardır.",
+        "Göktürkler Türk adını siyasi bir adlandırma olarak kullanmıştır.",
+        "İlk Türk devleti ile Türk adını taşıyan ilk devlet ifadeleri farklı ölçütlere dayanır."
+      ],
+      "answer": "B",
+      "explanation": "Türk adını devlet adı olarak ilk kullanan Göktürklerdir; B bu özelliği Asya Hunlarına aktararak hata yapmaktadır. Asya Hunlarının daha eski olması, Türk adını devlet adı olarak ilk kullanan devlet olduğu anlamına gelmez. Kuruluş önceliğiyle adlandırma önceliği ayrı ölçütlerdir.",
+      "sources": [
+        "H1",
+        "R01"
+      ]
+    },
+    {
+      "id": "YOR-002",
+      "revision": 1,
+      "topic": "Türk adının anlamları",
+      "subtopic": "Türk adının anlamları",
+      "skill": "Bilgi ve yorum",
+      "stem": "Doerfer Türk adını devlete bağlı halk, Ziya Gökalp ise töre sahibi olma düşüncesiyle ilişkilendirir.\n\nBu iki yaklaşımın ortak yönü hakkında aşağıdaki çıkarımlardan hangisi yapılabilir?",
+      "difficulty": "Orta",
+      "options": [
+        "Kelimeyi bir coğrafi şeklin benzerliğiyle açıklamaları",
+        "Adlandırmayı bedensel güç üzerinden değerlendirmeleri",
+        "Sözcüğün edebî anlamını köken açıklamasına dönüştürmeleri",
+        "Adın açıklanmasında toplumsal ve siyasi düzenle bağlantı kurmaları",
+        "Türk adının ilk kez aynı yazılı belgede geçtiğini savunmaları"
+      ],
+      "answer": "D",
+      "explanation": "Devlete bağlılık siyasi örgütlenmeye, töre sahibi olmak toplumsal kurallar ve düzene işaret eder. Ortak yön, adın açıklanmasında toplumun örgütlenişine başvurulmasıdır. İki görüşün aynı belgeye dayandığı veya kelimenin aynı dilsel kökünü savunduğu bilgisi verilmemiştir.",
+      "sources": [
+        "S1",
+        "R01"
+      ]
+    },
+    {
+      "id": "YOR-003",
+      "revision": 1,
+      "topic": "Orta Asya kültür merkezleri",
+      "subtopic": "Metal işleme ve arkeolojik kanıt",
+      "skill": "Bilgi ve yorum",
+      "stem": "Andronova kültüründe tunç ve altın eşyalara, Karasuk kültüründe ise demir işlemeciliğinin erken örneklerine rastlanır. Her iki kültür çevresinin değerlendirilmesinde metal buluntulardan yararlanılır.\n\nYalnız bu bilgilerden hareketle aşağıdakilerden hangisine ulaşılamaz?",
+      "difficulty": "Orta",
+      "options": [
+        "Andronova çevresinde birden fazla metalin kullanıldığına",
+        "Karasuk çevresinde demiri işleme bilgisinin bulunduğuna",
+        "Demir kullanılmaya başlanınca tunç eşyaların kullanımının sona erdiğine",
+        "Metal eserlerin kültürlerin tanınmasında veri sağladığına",
+        "Maden işleme faaliyetinin birden fazla kültür çevresinde görüldüğüne"
+      ],
+      "answer": "C",
+      "explanation": "Yeni bir metalin işlenmesi, daha önce kullanılan metallerin terk edildiğini göstermez. Bu nedenle C için farklı dönemlerdeki üretim ve kullanımın karşılaştırılması gerekir. Tunç ve altın A’yı, demir örnekleri B’yi, metal buluntuların değerlendirilmesi D’yi, iki kültürde de metal işlenmesi E’yi destekler.",
+      "sources": [
+        "R02",
+        "S25"
+      ]
+    },
+    {
+      "id": "YOR-004",
+      "revision": 1,
+      "topic": "Orta Asya kültür merkezleri",
+      "subtopic": "Metal işleme ve arkeolojik kanıt",
+      "skill": "Bilgi ve yorum",
+      "stem": "Örnek bir kazı senaryosunda, aynı kültür tabakasında metal eritme ocağı kalıntıları, yarım kalmış süs eşyaları ve metal silahlar bulunduğu varsayılsın.\n\nBu bulgulardan;\nI. yerleşmede metal işleme yapıldığı,\nII. metalin farklı ihtiyaçlar için kullanıldığı,\nIII. silahların komşu devletlere satıldığı\nyargılarından hangilerine ulaşılabilir?",
+      "difficulty": "Orta",
+      "options": [
+        "I ve II",
+        "Yalnız I",
+        "Yalnız III",
+        "II ve III",
+        "I, II ve III"
+      ],
+      "answer": "A",
+      "explanation": "Ocak ve yarım kalmış eşyaların birlikte bulunması yerel üretimi; süs eşyalarıyla silahlar ise farklı kullanım amaçlarını destekler. İhracat için satış, alıcı veya ticaret güzergâhını gösteren ek kanıt gerekir. Bu yüzden I ve II çıkarılabilir, III çıkarılamaz.",
+      "sources": [
+        "R02",
+        "S25"
+      ]
+    },
+    {
+      "id": "YOR-005",
+      "revision": 1,
+      "topic": "Göçlerin nedenleri",
+      "subtopic": "Göç nedenlerinin çeşitliliği",
+      "skill": "Bilgi ve yorum",
+      "stem": "Orta Asya’da bir boy otlaklarının yetersizliği nedeniyle yeni bir yurda yönelirken başka bir boy komşu devletin baskısı sonucunda bulunduğu bölgeden ayrılmıştır.\n\nBu örnekler birlikte değerlendirildiğinde aşağıdakilerden hangisi söylenebilir?",
+      "difficulty": "Orta",
+      "options": [
+        "Siyasi baskı göçün ardından ortaya çıkan bir sonuçtur.",
+        "Yeni yurt arayışı ekonomik ihtiyaçlardan bağımsızdır.",
+        "Otlak yetersizliği her iki hareketin ortak nedenidir.",
+        "Her iki boy aynı siyasi teşkilatın yönetimi altındadır.",
+        "Benzer nüfus hareketleri farklı türde etkenlerle başlayabilir."
+      ],
+      "answer": "E",
+      "explanation": "İlk göçte geçim kaynaklarının yetersizliği, ikincide dış siyasi baskı belirleyicidir. Aynı tür hareketin farklı nedenlerle başlaması E’yi destekler. İki boyun ortak yönetime bağlı olduğu veya aynı ekonomik sorunla karşılaştığı bilgisi bulunmamaktadır.",
+      "sources": [
+        "R03",
+        "K4"
+      ]
+    },
+    {
+      "id": "YOR-006",
+      "revision": 1,
+      "topic": "Göçlerin sonuçları",
+      "subtopic": "Göç ve kültürel etkileşim",
+      "skill": "Bilgi ve yorum",
+      "stem": "Göç eden Türk toplulukları yeni yurtlarına geleneklerini taşımıştır. Bazıları çevrelerindeki toplumların dinlerini benimserken bazıları önceki inançlarını sürdürmüştür.\n\nBu bilgilere göre aşağıdakilerden hangisine ulaşılamaz?",
+      "difficulty": "Orta",
+      "options": [
+        "Göçlerle kültür unsurlarının yeni coğrafyalara taşındığına",
+        "Din değiştiren toplulukların dillerini de değiştirdiğine",
+        "Toplulukların yeni çevrelere aynı biçimde tepki vermediğine",
+        "Göç sonrasında kültürel devamlılığın da görülebildiğine",
+        "Yeni çevredeki dinlerin bazı topluluklar üzerinde etkili olduğuna"
+      ],
+      "answer": "B",
+      "explanation": "Metin dinî tercihlerden söz etmektedir; dil değişimi hakkında veri vermemektedir. Bir topluluğun din değiştirmesi, dilinin de değiştiğinin kanıtı değildir. Geleneklerin taşınması A’yı, farklı dinî tutumlar C’yi, inançların sürdürülmesi D’yi, yeni dinlerin benimsenmesi E’yi destekler.",
+      "sources": [
+        "R04"
+      ]
+    },
+    {
+      "id": "YOR-007",
+      "revision": 1,
+      "topic": "Göçlerin nedenleri",
+      "subtopic": "Siyasi göç nedenleri",
+      "skill": "Bilgi ve yorum",
+      "stem": "Bir tarihçi, farklı yüzyıllarda gerçekleşen Türk göçlerini açıklarken Çin ve Moğol baskılarını ayrı dönem başlıkları altında incelemiştir.\n\nTarihçinin bu yöntemi kullanmasının temel gerekçesi aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Göç hareketlerini yalnız dış kaynaklardan araştırmak istemesi",
+        "Doğal nedenleri siyasi nedenlerden daha önemsiz görmesi",
+        "Aynı yöndeki göçlerin aynı tarihte gerçekleştiğini kabul etmesi",
+        "Her hareketin nedenini kendi döneminin siyasi koşullarıyla ilişkilendirmesi",
+        "Göç eden toplulukların kültürlerinin değişmediğini kanıtlamaya çalışması"
+      ],
+      "answer": "D",
+      "explanation": "Farklı yüzyılların güçlerini tek bir göçün eş zamanlı nedenleri gibi göstermek tarihsel bağlamı bozar. Dönemlere ayırmak, hangi baskının hangi hareketle ilişkili olduğunu belirlemeyi sağlar. Bu yöntem doğal etkenleri dışlamaz ve göçlerin kültürel sonuçları hakkında tek başına hüküm vermez.",
+      "sources": [
+        "R03",
+        "R04"
+      ]
+    },
+    {
+      "id": "YOR-008",
+      "revision": 1,
+      "topic": "İskitler (Sakalar)",
+      "subtopic": "Sanat ve maden işçiliği",
+      "skill": "Bilgi ve yorum",
+      "stem": "Bir İskit eserinde altın ince biçimde işlenmiş, bir av hayvanı ile yırtıcı hayvanın mücadelesi betimlenmiştir. Eser kişisel süs eşyası olarak kullanılmıştır.\n\nBu buluntudan aşağıdakilerden hangisine ulaşılamaz?",
+      "difficulty": "Orta",
+      "options": [
+        "Altının İskitlerin dış ticaretindeki başlıca gelir kaynağı olduğuna",
+        "Hayvanların sanatsal betimlemeye konu edildiğine",
+        "Metal işlemede teknik beceri bulunduğuna",
+        "Süs eşyasında hayvan üslubundan yararlanıldığına",
+        "Metalin kişisel kullanım eşyasına dönüştürüldüğüne"
+      ],
+      "answer": "A",
+      "explanation": "Bir altın eşya, altının ticaretteki payını veya ihracat gelirini göstermez. A için ekonomik ve ticari veriler gerekir. Betimleme B ve D’yi, ince işçilik C’yi, eşyanın kullanımı E’yi destekler. Eserin malzemesiyle toplumun başlıca gelir kaynağı birbirine karıştırılmamalıdır.",
+      "sources": [
+        "S9",
+        "S20"
+      ]
+    },
+    {
+      "id": "YOR-009",
+      "revision": 1,
+      "topic": "İskitler (Sakalar)",
+      "subtopic": "Kadın hükümdarlar ve savaşçılar",
+      "skill": "Bilgi ve yorum",
+      "stem": "İskit toplumuyla ilgili varsayımsal bir mezar incelemesinde, bazı kadın mezarlarında silah ve savaşla uyumlu yaralanma izleri; başka kadın mezarlarında ise değerli süs eşyaları saptanmıştır.\n\nBu bulguların kullanımıyla ilgili aşağıdaki değerlendirmelerden hangisi daha uygundur?",
+      "difficulty": "Orta",
+      "options": [
+        "Bu bulgular, incelenen mezarların göçlerle oluşmuş ortak bir yönetim alanını belgelediğini gösterir.",
+        "Bu bulgular, zengin mezar sahiplerinin askerî komuta yetkisini belirlemek için yeterlidir.",
+        "Bu bulgular, mezar eşyalarını savaş katılımı ile toplumsal statü bakımından ayrı değerlendirmeyi gerektirir.",
+        "Bu bulgular, silah bulunmayan mezar sahiplerinin savaş faaliyetlerine katılmadığını gösterir.",
+        "Bu bulgular, aynı mezarlıkta gömülen kişilerin eşit hukuki haklara sahip olduğunu gösterir."
+      ],
+      "answer": "C",
+      "explanation": "Silahlarla uyumlu yaralanma izleri savaş katılımını, değerli süs eşyaları ise statü veya gömü uygulamalarını araştırırken farklı kanıt değerleri taşır. Bir bulgunun sağladığı desteği başka bir iddiaya doğrudan aktarmamak gerekir. Silahın bulunmaması da savaş katılımının yokluğunu tek başına kanıtlamaz.",
+      "sources": [
+        "R07"
+      ]
+    },
+    {
+      "id": "YOR-010",
+      "revision": 1,
+      "topic": "Asya Hun Devleti",
+      "subtopic": "Onlu askerî teşkilat",
+      "skill": "Bilgi ve yorum",
+      "stem": "Mete Han’la ilişkilendirilen onlu askerî düzende on, yüz ve bin kişilik birlikler oluşturulmuş; küçük birimlerin komutanları üst birimlerin komutanlarına bağlanmıştır.\n\nYalnız bu bilgilerden hareketle aşağıdakilerden hangisine ulaşılamaz?",
+      "difficulty": "Kolay",
+      "options": [
+        "Birliklerin farklı büyüklüklerde düzenlendiğine",
+        "Alt birliklerle üst birlikler arasında komuta bağı kurulduğuna",
+        "Asker sayısının birlikleri ayırmada bir ölçüt olduğuna",
+        "Birlik komutanlarının daha büyük bir askerî yapı içinde görev aldığına",
+        "Bu düzenin görev alan askerlerin boy bağlarını ortadan kaldırdığına"
+      ],
+      "answer": "E",
+      "explanation": "On, yüz ve binlik birimler sayı esaslı kademelendirmeyi; üst komutana bağlı hareket ise komuta zincirini gösterir. Birlik komutanları bu zincirin içinde görev yapar. Ancak askerî sınıflandırma, askerlerin toplumsal boy bağlarının ortadan kalktığını kanıtlamaz.",
+      "sources": [
+        "R06"
+      ]
+    },
+    {
+      "id": "YOR-011",
+      "revision": 1,
+      "topic": "Asya Hun Devleti",
+      "subtopic": "Orta Asya’da siyasi birlik",
+      "skill": "Bilgi ve yorum",
+      "stem": "Mete Han döneminde farklı Türk boyları Hun yönetiminde toplanmış, bu boyların askerî kuvvetleri ortak bir komuta düzeninde bir araya getirilmiştir.\n\nBu bilgilerden;\nI. boylar arasında siyasi birlik sağlandığı,\nII. ortak askerî hareket için bir örgütlenme oluşturulduğu,\nIII. boyların yerel yöneticilerinin görevlerinin kaldırıldığı\nyargılarından hangilerine ulaşılabilir?",
+      "difficulty": "Orta",
+      "options": [
+        "Yalnız I",
+        "Yalnız III",
+        "I ve III",
+        "I ve II",
+        "I, II ve III"
+      ],
+      "answer": "D",
+      "explanation": "Boyların ortak Hun yönetiminde toplanması siyasi birliği, askerî kuvvetlerinin aynı komuta düzeninde bir araya getirilmesi ortak askerî hareketi destekler. Bunlar I ve II’nin dayanaklarıdır. Yerel boy yöneticilerinin görevlerinin kaldırılıp kaldırılmadığı anlatılmadığından III’e ulaşılamaz.",
+      "sources": [
+        "H1",
+        "H4"
+      ]
+    },
+    {
+      "id": "YOR-012",
+      "revision": 1,
+      "topic": "Asya Hun Devleti",
+      "subtopic": "Çiçi ve bağımsızlık",
+      "skill": "Bilgi ve yorum",
+      "stem": "Hohanyeh, Hunların varlığını Çin’in üstün otoritesini kabul ederek sürdürmesini savunmuştur. Çiçi ise bu öneriyi siyasi bağımsızlıktan vazgeçmek olarak değerlendirmiş ve reddetmiştir.\n\nYalnız bu görüş ayrılığından hareketle aşağıdakilerden hangisine ulaşılamaz?",
+      "difficulty": "Orta",
+      "options": [
+        "Çiçi’nin Çin ile eşit devletler arasında kurulacak bir askerî ittifaka da karşı çıktığına",
+        "Hohanyeh’in devletin varlığını korumak için başka bir devletin üstünlüğünü kabul edebildiğine",
+        "Çin ile kurulacak ilişkinin niteliğinin Hun yönetiminde tartışma konusu olduğuna",
+        "Çiçi’nin devletin devamı için önerilen çözümü bağımsızlık açısından değerlendirdiğine",
+        "Hohanyeh’in kabul edilebilir bulduğu siyasi bağlılığın Çiçi tarafından reddedildiğine"
+      ],
+      "answer": "A",
+      "explanation": "Çiçi’nin reddettiği öneri, Çin’in üstün otoritesine girmektir. Bu tutumdan, egemenliğini koruyan iki devletin askerî ittifak kurmasına da karşı çıktığı çıkarılamaz; A seçeneği bağlılığı reddetmeyi iş birliğini reddetmekle karıştırır. Hohanyeh’in bağlılığı bir çözüm olarak görmesi B’yi, bu ilişkinin tartışılması C’yi destekler. Çiçi’nin itiraz gerekçesi D’yi, iki hükümdarın öneriye farklı yaklaşması E’yi doğrudan destekler.",
+      "sources": [
+        "H2"
+      ]
+    },
+    {
+      "id": "YOR-013",
+      "revision": 1,
+      "topic": "Kavimler Göçü",
+      "subtopic": "Siyasi ve kültürel sonuçlar",
+      "skill": "Bilgi ve yorum",
+      "stem": "Kavimler Göçü sonrasında Avrupa’da yeni siyasi oluşumlar ortaya çıkmış, farklı toplulukların bir arada yaşadığı alanlar genişlemiş ve Hristiyanlık yeni topluluklar arasında yayılmıştır.\n\nBu bilgilerden aşağıdakilerden hangisine ulaşılamaz?",
+      "difficulty": "Orta",
+      "options": [
+        "Yeni siyasi otoritelerin ortaya çıktığına",
+        "Farklı toplulukların kültürel temas alanlarının genişlediğine",
+        "Dinî etkileşimin yeni topluluklara ulaştığına",
+        "Göçlerin hem siyasi hem toplumsal değişimlerle ilişkili olduğuna",
+        "Yeni devletlerin siyasi bağlılığını kilisenin belirlediğine"
+      ],
+      "answer": "E",
+      "explanation": "Yeni devletler siyasi değişime, bir arada yaşanan alanların genişlemesi kültürel temasa, Hristiyanlığın yayılması dinî etkileşime işaret eder. Sürecin birden fazla alanda etkisi bulunmaktadır. Ancak dinin yayılmasından kilisenin devletlerin siyasi bağlılığını belirleme yetkisine sahip olduğu çıkarılamaz.",
+      "sources": [
+        "K1",
+        "K2",
+        "K3"
+      ]
+    },
+    {
+      "id": "YOR-014",
+      "revision": 1,
+      "topic": "Kavimler Göçü",
+      "subtopic": "Çağlar ve kronoloji",
+      "skill": "Bilgi ve yorum",
+      "stem": "Kavimler Göçü’nün başlangıcı 375, Roma İmparatorluğu’nun ikiye ayrılması 395, Batı Roma’nın yıkılması ise 476 yılıyla tarihlendirilir.\n\nBu kronolojiyle ilgili aşağıdaki değerlendirmelerden hangisi yanlıştır?",
+      "difficulty": "Orta",
+      "options": [
+        "Göçlerin başlangıcıyla Roma’nın bölünmesi aynı yüzyıldadır.",
+        "Roma’nın siyasi olarak bölünmesi Batı Roma’nın yıkılışından öncedir.",
+        "Roma İmparatorluğu, Kavimler Göçü başladığında Doğu ve Batı olarak ayrılmış durumdadır.",
+        "Batı Roma’nın yıkılışı göçlerin başlangıcından sonraki yüzyıldadır.",
+        "Göçlerin başlangıcı ile Batı Roma’nın yıkılışı arasında bir yüzyıldan fazla zaman vardır."
+      ],
+      "answer": "C",
+      "explanation": "Roma’nın bölünmesi 395’te, Kavimler Göçü’nün başlangıcından 20 yıl sonra gerçekleşmiştir; bu nedenle C yanlıştır. 375 ve 395 IV. yüzyıla, 476 V. yüzyıla aittir. İlk ve son tarih arasındaki 101 yıllık fark E’yi doğrular.",
+      "sources": [
+        "K1",
+        "K5"
+      ]
+    },
+    {
+      "id": "YOR-015",
+      "revision": 1,
+      "topic": "Kavimler Göçü",
+      "subtopic": "Feodalite ve yerel güçler",
+      "skill": "Bilgi ve yorum",
+      "stem": "Kavimler Göçü sonrasında Avrupa’da feodal ilişkilerin güçlendiği görüşünü aşağıdaki gelişmelerden hangisi desteklemez?",
+      "difficulty": "Orta",
+      "options": [
+        "İnsanların güvenlik için yerel beylerin korumasına girmesi",
+        "Askerî kuvvetlerin ülke genelinde doğrudan merkezî hükümdara bağlanması",
+        "Yerel toprak sahiplerinin siyasi nüfuz kazanması",
+        "Koruma karşılığında bağlılık ve hizmet yükümlülüklerinin artması",
+        "Merkezî yönetimin farklı bölgelerde denetim kurmakta zorlanması"
+      ],
+      "answer": "B",
+      "explanation": "Feodal ilişkilerde yerel güç ve bağlılık ağları belirgindir. Askerî kuvvetlerin doğrudan merkezî hükümdara bağlanması ise merkezî denetimin güçlenmesine işaret eder; bu yüzden B desteklemez. Diğer seçenekler yerel otoriteyi, koruma ilişkilerini veya merkezî denetimin zayıflığını gösterir.",
+      "sources": [
+        "K4"
+      ]
+    },
+    {
+      "id": "YOR-016",
+      "revision": 1,
+      "topic": "Kavimler Göçü",
+      "subtopic": "Sonuçların zamana yayılması",
+      "skill": "Bilgi ve yorum",
+      "stem": "Kavimler Göçü’nün başlangıcı 375 olarak kabul edilir. Roma’nın ikiye ayrılması 395’te gerçekleşmiş, feodal ilişkilerin yerleşmesi ise sonraki yüzyıllara yayılmıştır.\n\nBu gelişmeleri inceleyen bir araştırmacının;\nI. göçün etkileri için sonraki dönemleri de incelemesi,\nII. başlangıç tarihi ile sonuçların gelişme aşamalarını ayırması,\nIII. göçün başlangıç nedenini Roma’nın ikiye ayrılmasına bağlaması\nyaklaşımlarından hangileri uygundur?",
+      "difficulty": "Orta",
+      "options": [
+        "Yalnız I",
+        "Yalnız II",
+        "I ve III",
+        "II ve III",
+        "I ve II"
+      ],
+      "answer": "E",
+      "explanation": "Göçlerin etkilerinin sonraki yüzyıllara yayılması, incelemenin 375 yılıyla sınırlanmamasını gerektirir. Başlangıç tarihi ile sonuçların geliştiği aşamalar ayrı tutulmalıdır. Roma’nın 395’te bölünmesi önce başlayan göç hareketinin başlangıç nedeni yerine kullanılamaz.",
+      "sources": [
+        "K1",
+        "K2",
+        "K4"
+      ]
+    }
+  ]
+}

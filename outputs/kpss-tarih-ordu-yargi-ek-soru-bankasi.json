@@ -1,0 +1,187 @@
+{
+  "title": "İslamiyet Öncesi Türklerde Kültür ve Uygarlık — Ordu, taktik ve yargı ek soruları",
+  "unit": "U01",
+  "date": "2026-10-11",
+  "question_count": 7,
+  "sources": {
+    "OTY01": {
+      "title": "MEB — İlk ve Orta Çağlarda Türk Dünyası, askerî kültür",
+      "url": "https://ogmmateryal.eba.gov.tr/panel/upload/files/jksofc2mdyc.pdf",
+      "section": "PDF s.2–4: onlu teşkilat, hareketli süvari, sahte ricat ve pusu",
+      "type": "Resmî MEB eğitim materyali",
+      "accessed": "2026-10-11"
+    },
+    "OTY02": {
+      "title": "MEB Tarih 10 — Ordu–millet anlayışı",
+      "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/tarih/10/unite3/icerik/TAR10S76.1/index.html",
+      "section": "Çözüm: ülke savunmasına geniş toplumsal katılım",
+      "type": "Resmî MEB eğitim materyali",
+      "accessed": "2026-10-11"
+    },
+    "OTY03": {
+      "title": "MEB — Türk Kültür ve Medeniyet Tarihi, ilk Türk devletlerinde hukuk",
+      "url": "https://ogmmateryal.eba.gov.tr/panel/upload/files/cwjzl3smqgj.pdf",
+      "section": "PDF s.1: yazılı olmayan töre, devlet mahkemesi yargu ve mahkeme görevlisi yargan",
+      "type": "Resmî MEB eğitim materyali",
+      "accessed": "2026-10-11"
+    },
+    "OTY04": {
+      "title": "MEB Türk Kültür ve Medeniyet Tarihi 11 — İlk Türk devletlerinin teşkilat yapısı",
+      "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/turkkulturvemedeniyettarihi/sec/unite1/files/basic-html/page7.html",
+      "section": "Basılı s.17: kurultay, ayukı, aygucı ve buyruk işlevleri",
+      "type": "Resmî MEB eğitim materyali",
+      "accessed": "2026-10-11"
+    }
+  },
+  "questions": [
+    {
+      "id": "KU-093",
+      "revision": 1,
+      "topic": "İslamiyet Öncesi Türklerde Kültür ve Uygarlık",
+      "subtopic": "Ordu–millet anlayışı",
+      "skill": "Bilgi ve yorum",
+      "stem": "İlk Türk topluluklarında askerî hazırlığın dar bir meslek grubuyla sınırlı kalmaması ve eli silah tutan kişilerin ülke savunmasına katılması aşağıdaki anlayışlardan hangisiyle açıklanır?",
+      "difficulty": "Kolay",
+      "options": [
+        "Onlu teşkilat",
+        "İkili teşkilat",
+        "Kut anlayışı",
+        "Ordu–millet anlayışı",
+        "Cihan hâkimiyeti anlayışı"
+      ],
+      "answer": "D",
+      "explanation": "Ordu–millet anlayışı, savaşma ve savunma sorumluluğunun toplumun geniş kesimleriyle ilişkili olmasını ifade eder. Onlu teşkilat askerî birliklerin düzenlenmesini, ikili teşkilat ülke yönetimini açıklar. Askerliğe geniş katılım ile ordunun hangi birimlere ayrıldığı farklı ölçütlerdir.",
+      "sources": [
+        "OTY02"
+      ]
+    },
+    {
+      "id": "KU-094",
+      "revision": 1,
+      "topic": "İslamiyet Öncesi Türklerde Kültür ve Uygarlık",
+      "subtopic": "Turan taktiğinin aşamaları",
+      "skill": "Bilgi ve yorum",
+      "stem": "Türk savaş usullerinde merkez kuvvetinin bozulmuş görünerek geri çekilmesi ve onu izleyen düşmanın kanatlarda bekleyen birliklerce çevrilmesi hangi taktiğin uygulamasıdır?",
+      "difficulty": "Kolay",
+      "options": [
+        "Turan (hilal) taktiği",
+        "Doğrudan cephe hücumu",
+        "Kale ablukası",
+        "İkmal yollarını keserek yıpratma",
+        "Dar geçitte sabit savunma"
+      ],
+      "answer": "A",
+      "explanation": "Turan taktiği, sahte geri çekilme ile pusunun birlikte uygulanmasına dayanır. Merkezin hareketi düşmanı takip etmeye yöneltirken kanatlar çevirmeyi tamamlar. Sadece geri çekilme görülmesi bu taktiği belirlemek için yeterli değildir; planlı pusu ve dönüş hareketiyle birlikte değerlendirilir.",
+      "sources": [
+        "OTY01"
+      ]
+    },
+    {
+      "id": "KU-095",
+      "revision": 1,
+      "topic": "İslamiyet Öncesi Türklerde Kültür ve Uygarlık",
+      "subtopic": "Sahte ricatta takip ve pusu",
+      "skill": "Bilgi ve yorum",
+      "stem": "Turan taktiğini uygulayan bir kuvvetin merkezi geri çekilirken karşı tarafın onu takip etmesi beklenmektedir. Karşı taraf, merkezini takip için ileri sürmek yerine kanatlarını koruyarak bulunduğu hatta kalmıştır.\n\nBu durumda planın hangi unsuru doğrudan güçleşir?",
+      "difficulty": "Orta",
+      "options": [
+        "Geri çekilen askerlerin kendi komuta bağını koruması",
+        "Kanatlardaki birliklerin savaş alanında gizlenmesi",
+        "Karşı kuvvetin hazırlanmış pusu alanına çekilmesi",
+        "Ordunun onluk ve yüzlük birimlere ayrılması",
+        "Süvarilerin geri çekilme sırasında at kullanması"
+      ],
+      "answer": "C",
+      "explanation": "Sahte ricadın amaçlarından biri karşı kuvveti takip etmeye yönelterek pusuya çekmektir. Rakibin konumunu koruması bu hareketin beklenen sonucunu güçleştirir. Bu tercih geri çekilen ordunun komuta düzenini veya atlı hareketini kendiliğinden ortadan kaldırmaz; taktiğin başarıya ulaşmadığı da tek başına söylenemez.",
+      "sources": [
+        "OTY01"
+      ]
+    },
+    {
+      "id": "KU-096",
+      "revision": 1,
+      "topic": "İslamiyet Öncesi Türklerde Kültür ve Uygarlık",
+      "subtopic": "Askerî teşkilat ve taktik ayrımı",
+      "skill": "Bilgi ve yorum",
+      "stem": "İlk Türk ordularını inceleyen bir araştırmacı, birliklerin on, yüz ve bin kişilik birimler hâlinde üst komutanlara bağlanması ile merkez kuvvetinin geri çekilerek düşmanı pusuya yöneltmesini karşılaştırmaktadır.\n\nBu iki uygulamanın öncelikli işlevleri aşağıdakilerin hangisinde sırasıyla doğru verilmiştir?",
+      "difficulty": "Orta",
+      "options": [
+        "Ülkeyi idari bölgelere ayırmak – askerlik yükümlülüğünü topluma yaymak",
+        "Askerlik yükümlülüğünü topluma yaymak – komuta kademelerini belirlemek",
+        "Savaş alanında düşmanı çevirmek – birliklerin komuta düzenini kurmak",
+        "Birliklerin komuta düzenini kurmak – savaş alanında düşmanı elverişsiz konuma yöneltmek",
+        "Hükümdarın yönetme hakkını belirlemek – bağlı boyların vergi yükümlülüğünü düzenlemek"
+      ],
+      "answer": "D",
+      "explanation": "Onlu teşkilat birimler arasındaki komuta bağını düzenler; sahte ricat ve pusu ise muharebenin yürütülüşüne ilişkin bir taktiktir. Bir orduda ikisi birlikte kullanılabilir, ancak aynı ihtiyacı karşılamaz. Ülkenin idari bölünmesi, askerî sorumluluğun toplumsal yaygınlığı ve savaş manevrası birbirinden ayrılmalıdır.",
+      "sources": [
+        "OTY01"
+      ]
+    },
+    {
+      "id": "KU-097",
+      "revision": 1,
+      "topic": "İslamiyet Öncesi Türklerde Kültür ve Uygarlık",
+      "subtopic": "Yargu ve yargan",
+      "skill": "Bilgi ve yorum",
+      "stem": "Hun ve Göktürk hukuk teşkilatında devlet mahkemesi ile mahkemede görev yapan kişi için kullanılan kavramlar aşağıdakilerin hangisinde sırasıyla doğru verilmiştir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Yargan – yargu",
+        "Yargu – yargan",
+        "Ayukı – aygucı",
+        "Kurultay – buyruk",
+        "Yargu – bitikçi"
+      ],
+      "answer": "B",
+      "explanation": "Yargu devlet mahkemesini, yargan ise mahkeme görevlisini ifade eder. Ayukı ve aygucı hükûmet teşkilatıyla; bitikçi yazışma işleriyle ilişkilidir. Bir kurumun adıyla o kurumda görev yapan kişinin unvanı aynı kavram değildir.",
+      "sources": [
+        "OTY03",
+        "OTY04"
+      ]
+    },
+    {
+      "id": "KU-098",
+      "revision": 1,
+      "topic": "İslamiyet Öncesi Türklerde Kültür ve Uygarlık",
+      "subtopic": "Kurultay, ayukı ve yargu işlevleri",
+      "skill": "Bilgi ve yorum",
+      "stem": "İlk Türk devletlerinde;\nI. boy beylerinin ülke meselelerini görüşmesi,\nII. hükûmet görevlilerinin devlet işlerini yürütmesi,\nIII. bir uyuşmazlığın töre çerçevesinde yargılanması\nfaaliyetleri aşağıdakilerin hangisinde sırasıyla uygun kurumlarla eşleştirilmiştir?",
+      "difficulty": "Orta",
+      "options": [
+        "Ayukı – kurultay – yargu",
+        "Kurultay – yargu – ayukı",
+        "Yargu – ayukı – kurultay",
+        "Ayukı – yargu – kurultay",
+        "Kurultay – ayukı – yargu"
+      ],
+      "answer": "E",
+      "explanation": "Ülke meselelerinin görüşüldüğü meclis kurultay, devlet işlerini yürüten hükûmet ayukı, yargılamanın yapıldığı mahkeme yargudur. Bu ayrım işlevlere ilişkindir; görevlerin farklı adlarla anılması modern anlamda güçler ayrılığı bulunduğunu tek başına kanıtlamaz. Özellikle hükûmetin yürütme göreviyle mahkemenin uyuşmazlık çözme görevi karıştırılmamalıdır.",
+      "sources": [
+        "OTY03",
+        "OTY04"
+      ]
+    },
+    {
+      "id": "KU-099",
+      "revision": 1,
+      "topic": "İslamiyet Öncesi Türklerde Kültür ve Uygarlık",
+      "subtopic": "Yargı kurumunun kanıt sınırı",
+      "skill": "Bilgi ve yorum",
+      "stem": "İlk Türk devletlerinde yazılı olmayan töre hükümleriyle toplumsal ilişkiler düzenlenmiş; yargu adı verilen mahkemede yarganlar görev yapmıştır.\n\nBu bilgilerden hareketle,\nI. Hukuk kurallarının uygulanmasında tanımlanmış görevler bulunmuştur.\nII. Mahkemenin ayrı bir adla anılması, yargı görevlilerinin hükümdardan bağımsız seçildiğini gösterir.\nIII. Mahkeme teşkilatının varlığı, uygulanan kuralların yazılı bir kanun metni olması için yeterli değildir.\nyargılarından hangilerine ulaşılabilir?",
+      "difficulty": "Orta",
+      "options": [
+        "I ve II",
+        "Yalnız II",
+        "II ve III",
+        "I, II ve III",
+        "I ve III"
+      ],
+      "answer": "E",
+      "explanation": "Yargu ve yargan kavramları yargılamada kurum ve görev ayrımını gösterir; I desteklenir. Ayrı bir kurum adı görevlilerin seçilme usulünü veya hükümdardan bağımsızlığını açıklamadığı için II desteklenmez. Yazılı olmayan törenin mahkemede uygulanabilmesi kurumlaşma ile kanunların yazıya geçirilmesinin ayrı olgular olduğunu gösterir; III desteklenir.",
+      "sources": [
+        "OTY03"
+      ]
+    }
+  ]
+}

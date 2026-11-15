@@ -1,0 +1,1536 @@
+{
+  "title": "Türklerin İslamiyet’i Kabulü ve İlk Türk-İslam Devletleri — ilk görsel grubu",
+  "unit": "U02",
+  "date": "2026-10-11",
+  "question_count": 62,
+  "sources": {
+    "TIS-NOT": {
+      "title": "Kullanıcının Ramazan Yetgin / Benim Hocam dersinden aktardığı beş tahta görseli",
+      "type": "Kullanıcı tarafından sağlanan kapsam notları",
+      "date": "2026-10-11",
+      "section": "Talas; Türklerin İslamlaşması; Karahanlılar; Gazneliler; Büyük Selçuklular. Okunamayan ve ihtilaflı ayrıntılar kapsam kaydında ayrıldı."
+    },
+    "TIS-M1": {
+      "title": "MEB Tarih 9 — Türklerin İslamiyet’i Kabulü ve İlk Türk-İslam Devletleri",
+      "url": "https://ogmmateryal.eba.gov.tr/panel/upload/files/f1wutriyvqt.pdf",
+      "section": "s.1–4: siyasi olaylar, Karahanlı/Gazneli/Selçuklu; yalnız ilgili doğrulanmış olgular. Dil, kâğıt ve son hükümdar ayrıntılarında aşağıdaki özel kaynaklar esas alınır.",
+      "type": "Resmî MEB eğitim materyali",
+      "accessed": "2026-10-11"
+    },
+    "TIS-M2": {
+      "title": "MEB Tarih 9 — Abbasilerde sosyal hayat",
+      "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/tarih/9/unite5/files/basic-html/page29.html",
+      "section": "Kâğıt ustaları ve Semerkant üretimi; barut, matbaa ve pusula için kaynak olarak kullanılmadı.",
+      "type": "Resmî MEB eğitim materyali",
+      "accessed": "2026-10-11"
+    },
+    "TIS-M3": {
+      "title": "MEB Tarih 9 — İslamlaşma ve önceki inançlarla benzerlikler",
+      "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/beceri_temelli/9/tarih/files/basic-html/page246.html",
+      "section": "İnanç, toplumsal hayat, cihat ve çok etkenli benimseme; aynılık iddiası değil.",
+      "type": "Resmî MEB eğitim materyali",
+      "accessed": "2026-10-11"
+    },
+    "TIS-M4": {
+      "title": "MEB Tarih 9 — Türk–Abbasi ilişkileri",
+      "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/calisma_defteri/f7/9/tarih/files/basic-html/page22.html",
+      "section": "Samarra, Avasım ve askerî/siyasi roller.",
+      "type": "Resmî MEB eğitim materyali",
+      "accessed": "2026-10-11"
+    },
+    "TIS-M5": {
+      "title": "MEB Tarih 9 — Gazneliler ve Türk-İslam siyasi düşüncesi",
+      "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/kazanim_kavrama/9/tar/files/basic-html/page35.html",
+      "section": "Gazneli dilleri, çok uluslu yapı, Mahmut, Gurlular; cihan hâkimiyeti/cihat.",
+      "type": "Resmî MEB eğitim materyali",
+      "accessed": "2026-10-11"
+    },
+    "TIS-M6": {
+      "title": "MEB — Karahanlı dil ve mimari kapsamı",
+      "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/kazanim_kavrama/9/tar/files/basic-html/page34.html",
+      "section": "Türkçe ve Karahanlı kurumları. Kervansaray bağlantısı ayrıca TIS-M12; yazma nüshaları TIS-A5.",
+      "type": "Resmî MEB eğitim materyali",
+      "accessed": "2026-10-11"
+    },
+    "TIS-M7": {
+      "title": "MEB Türk Kültür ve Medeniyet Tarihi — Taşra ve askerî teşkilat",
+      "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/turkkulturvemedeniyettarihi/sec/unite1/files/basic-html/page18.html",
+      "section": "Doğu-batı teşkilatı, melikler ve gulam. Atabey görevi kullanıcı notu ve TIS-A6 ile birlikte incelendi.",
+      "type": "Resmî MEB eğitim materyali",
+      "accessed": "2026-10-11"
+    },
+    "TIS-M8": {
+      "title": "MEB — Türk-İslam eğitimine maddi destek",
+      "url": "https://ogmmateryal.eba.gov.tr/panel/upload/files/f1wutriyvqt.pdf",
+      "section": "Öğrenci maddi desteği genel kapsamı; Tamgaç Han’ın Semerkant medresesi TIS-A1, burs bilgisi sağlanan görselde. İlk burs/ilk medrese iddiası kullanılmadı.",
+      "type": "Resmî MEB eğitim materyali",
+      "accessed": "2026-10-11"
+    },
+    "TIS-M9": {
+      "title": "MEB Tarih 9 — Oğuzlar ve Büyük Selçuklu kuruluşu",
+      "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/kazanim_kavrama/9/tar/files/basic-html/page40.html",
+      "section": "Kınık, Tuğrul ve Çağrı; keşif faaliyetleri.",
+      "type": "Resmî MEB eğitim materyali",
+      "accessed": "2026-10-11"
+    },
+    "TIS-M10": {
+      "title": "MEB Defterim Tarih 9 — Selçuklu siyasi gelişmeleri",
+      "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/defterim/9/tarih/files/basic-html/page196.html",
+      "section": "Ani’nin fethi ve Ebü’l-Feth unvanı.",
+      "type": "Resmî MEB eğitim materyali",
+      "accessed": "2026-10-11"
+    },
+    "TIS-M11": {
+      "title": "MEB/EBA — Katvan ve Selçuklu zayıflaması",
+      "url": "https://img.eba.gov.tr/213/95d/27e/f6d/2e2/c14/4dd/96d/2b4/007/ce4/fd6/5f2/918/001/21395d27ef6d2e2c144dd96d2b4007ce4fd65f2918001.pdf",
+      "section": "Katvan, Sencer, Oğuzlar, hanedan sorunları ve atabeylerin bağımsızlaşması.",
+      "type": "Resmî MEB eğitim materyali",
+      "accessed": "2026-10-11"
+    },
+    "TIS-M12": {
+      "title": "MEB Türk Kültür ve Medeniyet Tarihi — Karahanlı mimarisi",
+      "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/turkkulturvemedeniyettarihi/sec/unite6/files/basic-html/page12.html",
+      "section": "Talhatan, Arap Ata, Ayşe Bibi ve ribat/kervansaray ilişkisi.",
+      "type": "Resmî MEB eğitim materyali",
+      "accessed": "2026-10-11"
+    },
+    "TIS-A1": {
+      "title": "TDV İslâm Ansiklopedisi — Karahanlılar",
+      "url": "https://islamansiklopedisi.org.tr/karahanlilar",
+      "section": "Adlandırmalar; Tamgaç Han medrese ve hastanesi; Doğu Karahanlı sonu/Nayman ayrımı.",
+      "type": "Akademik başvuru kaynağı",
+      "accessed": "2026-10-11"
+    },
+    "TIS-A2": {
+      "title": "TDV İslâm Ansiklopedisi — Biruni",
+      "url": "https://islamansiklopedisi.org.tr/biruni",
+      "section": "Gazne ve Hindistan araştırmaları.",
+      "type": "Akademik başvuru kaynağı",
+      "accessed": "2026-10-11"
+    },
+    "TIS-A3": {
+      "title": "TDV İslâm Ansiklopedisi — Firdevsi",
+      "url": "https://islamansiklopedisi.org.tr/firdevsi",
+      "section": "Şehname, şairi ve İran kahramanlık anlatısı.",
+      "type": "Akademik başvuru kaynağı",
+      "accessed": "2026-10-11"
+    },
+    "TIS-A4": {
+      "title": "MEB Dinî Hitabet — Hutbe ve minber",
+      "url": "https://dogm.eba.gov.tr/panel/upload/etkilesimli/kitap/hitabet/unite3/files/basic-html/index.html",
+      "section": "Hutbe/minber kavramları; hükümdarlık işlevi TIS-M1.",
+      "type": "Resmî MEB eğitim materyali",
+      "accessed": "2026-10-11"
+    },
+    "TIS-A5": {
+      "title": "TDV İslâm Ansiklopedisi — Kutadgu Bilig",
+      "url": "https://islamansiklopedisi.org.tr/kutadgu-bilig",
+      "section": "Uygur ve Arap yazılı nüshalar; alfabe ile dil ayrımı.",
+      "type": "Akademik başvuru kaynağı",
+      "accessed": "2026-10-11"
+    },
+    "TIS-A6": {
+      "title": "TDV İslâm Ansiklopedisi — Atabeg",
+      "url": "https://islamansiklopedisi.org.tr/atabeg",
+      "section": "Meliklerin eğitimi ve siyasi/idari görev.",
+      "type": "Akademik başvuru kaynağı",
+      "accessed": "2026-10-11"
+    },
+    "TIS-OSYM": {
+      "title": "ÖSYM 2024 KPSS Lisans — Kamuya açık kitapçık",
+      "url": "https://dokuman.osym.gov.tr/pdfdokuman/2024/KPSS/LISANS/GYGK14072024.pdf",
+      "section": "Soru yapısı için önceki yazım standardında incelendi. Tarihsel iddiaların kaynağı değildir; sorular kopyalanmadı.",
+      "type": "Resmî sınav örneği",
+      "accessed": "2026-10-11"
+    },
+    "TIS-SULTAN": {
+      "title": "TDV İslâm Ansiklopedisi — Sultan",
+      "url": "https://islamansiklopedisi.org.tr/sultan",
+      "type": "Akademik başvuru kaynağı",
+      "accessed": "2026-10-11",
+      "section": "Kelimenin eski kullanımı, Abbasi siyasi-idari unvanı, Gazneli Mahmut ve Selçuklular; dünya tarihinde koşulsuz ilk genellemesi yapılmadı."
+    }
+  },
+  "questions": [
+    {
+      "id": "TIS-001",
+      "revision": 1,
+      "topic": "Talas ve Türklerin İslamiyet’i Kabulü",
+      "subtopic": "Talas’ın tarafları ve ittifakı",
+      "skill": "Bilgi ve kavram ayrımı",
+      "stem": "751 yılında yapılan Talas Savaşı’nda Karlukların desteklediği taraf ve bu tarafın karşısındaki güç aşağıdakilerin hangisinde doğru verilmiştir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Emeviler – Çin",
+        "Abbasiler – Çin",
+        "Abbasiler – Gazneliler",
+        "Karahanlılar – Abbasiler",
+        "Emeviler – Karahanlılar"
+      ],
+      "answer": "B",
+      "explanation": "Karluklar, Çin kuvvetlerine karşı Abbasileri desteklemiştir. Mücadele Orta Asya’daki güç dengesiyle ilgilidir; Karahanlı ve Gazneli devletlerinin kuruluşu daha sonraki gelişmelerdir.",
+      "sources": [
+        "TIS-NOT",
+        "TIS-M1"
+      ]
+    },
+    {
+      "id": "TIS-002",
+      "revision": 1,
+      "topic": "Talas ve Türklerin İslamiyet’i Kabulü",
+      "subtopic": "Talas’ın siyasi ve kültürel sonuçları",
+      "skill": "Bilgi ve yorum",
+      "stem": "Talas Savaşı’nın ardından Çin’in Orta Asya’daki ilerleyişi sınırlandırılmış, Türklerle Abbasiler arasındaki ilişkiler gelişmiş ve kâğıt üretim bilgisi İslam dünyasında yaygınlaşmıştır.\n\nBu gelişmeler birlikte değerlendirildiğinde hangi çıkarım yapılabilir?",
+      "difficulty": "Orta",
+      "options": [
+        "Savaş, Türklerin ortak bir devlet çatısı altında birleşmesini sağlamıştır.",
+        "Askerî mücadele bölgedeki ticaret faaliyetlerini sona erdirmiştir.",
+        "Savaşın etkileri güç dengesi ve kültürel etkileşim alanlarına yansımıştır.",
+        "Çin’in siyasi gerilemesi üretim tekniklerinin de terk edilmesine yol açmıştır.",
+        "Türklerin İslamiyet’e geçişi aynı yıl bütün boylarda tamamlanmıştır."
+      ],
+      "answer": "C",
+      "explanation": "Çin’in ilerleyişinin sınırlandırılması siyasi, üretim bilgisinin aktarılması kültürel bir sonuçtur. İlişkilerin gelişmesi dinî yakınlaşmaya zemin hazırlayabilir; ancak bütün Türklerin aynı anda din değiştirdiğini göstermez.",
+      "sources": [
+        "TIS-NOT",
+        "TIS-M1",
+        "TIS-M2"
+      ]
+    },
+    {
+      "id": "TIS-003",
+      "revision": 1,
+      "topic": "Talas ve Türklerin İslamiyet’i Kabulü",
+      "subtopic": "Kâğıt üretiminin aktarılması",
+      "skill": "Bilgi ve kavram ayrımı",
+      "stem": "Talas Savaşı sonrasında Çinli ustaların kâğıt yapım bilgisinin Semerkant çevresinde yaygınlaşması hangi gelişmeye örnektir?",
+      "difficulty": "Orta",
+      "options": [
+        "İslam dünyasında kâğıdın ilk kez icat edilmesine",
+        "Türk devletlerinin resmî dilinin Çince olmasına",
+        "Savaş esirlerinin siyasi bağımsızlık kazanmasına",
+        "Üretim bilgisinin toplumlar arasında aktarılmasına",
+        "İpek Yolu ticaretinin denizlere kaymasına"
+      ],
+      "answer": "D",
+      "explanation": "Kâğıt yapımının başka bir coğrafyada öğrenilmesi bir teknik aktarımıdır. Tekniğin öğrenildiği yerde icat edilmiş olması gerekmez; savaşın askerî sonuçlarıyla bilgi dolaşımı birbirinden ayrılmalıdır.",
+      "sources": [
+        "TIS-NOT",
+        "TIS-M2"
+      ]
+    },
+    {
+      "id": "TIS-004",
+      "revision": 1,
+      "topic": "Talas ve Türklerin İslamiyet’i Kabulü",
+      "subtopic": "Din değiştirmede çok etkenlilik",
+      "skill": "Bilgi ve yorum",
+      "stem": "Abbasilerin Arap olmayan Müslümanlara yaklaşımı, Türklerle kurulan askerî ilişkiler ve önceki Türk inancıyla İslamiyet arasındaki bazı benzerlikler, Türklerin İslamiyet’i benimsemesini kolaylaştırmıştır.\n\nBu bilgilere göre aşağıdaki açıklamalardan hangisi daha uygundur?",
+      "difficulty": "Orta",
+      "options": [
+        "Din değiştirme, siyasi temaslar ile inanç ve toplum hayatının birlikte etkilediği bir süreçtir.",
+        "İnanç değişimi Türklerin Abbasilerle temasından bağımsız gerçekleşmiştir.",
+        "Türklerin önceki inancı ile İslamiyet arasında hiçbir farklılık bulunmamaktadır.",
+        "Askerî iş birliği, Türk boylarının doğrudan Abbasi toprağına dönüşmesini gerektirmiştir.",
+        "İslamiyet’in kabulü yalnız bir hükümdarın emriyle açıklanabilir."
+      ],
+      "answer": "A",
+      "explanation": "Verilen etkenler siyasi, toplumsal ve dinî alanlara aittir. Bazı benzerlikler benimsemeyi kolaylaştırmış olabilir; bu, iki inancın aynı olduğu veya sürecin tek bir karara indirgenebileceği anlamına gelmez.",
+      "sources": [
+        "TIS-NOT",
+        "TIS-M1",
+        "TIS-M3"
+      ]
+    },
+    {
+      "id": "TIS-005",
+      "revision": 1,
+      "topic": "Talas ve Türklerin İslamiyet’i Kabulü",
+      "subtopic": "Mevali politikasının etkisi",
+      "skill": "Bilgi ve kavram ayrımı",
+      "stem": "Emeviler döneminde Arap olmayan Müslümanlara yönelik ayrımcı uygulamalar ile Abbasilerin daha kapsayıcı yaklaşımı karşılaştırıldığında Türklerin İslamiyet’e yakınlaşmasında hangi etken öne çıkar?",
+      "difficulty": "Orta",
+      "options": [
+        "Türklerin askerî teşkilatlarının kaldırılması",
+        "Çin’in bütün Orta Asya’yı yönetmeye başlaması",
+        "Yerleşik hayatın din değişimi için zorunlu tutulması",
+        "Türkçenin dinî metinlerde kullanılmasının yasaklanması",
+        "Müslüman topluluklar arasındaki ayrımcılığın azalması"
+      ],
+      "answer": "E",
+      "explanation": "Arap olmayan Müslümanlara daha kapsayıcı yaklaşım, topluluklar arasındaki yakınlaşmayı kolaylaştırmıştır. Mevali kavramının tarihsel kullanımı ile bu gruplara yönelik ayrımcı siyaset aynı şey değildir; burada siyasetin ilişkiler üzerindeki etkisi ölçülmektedir.",
+      "sources": [
+        "TIS-NOT",
+        "TIS-M1"
+      ]
+    },
+    {
+      "id": "TIS-006",
+      "revision": 1,
+      "topic": "Talas ve Türklerin İslamiyet’i Kabulü",
+      "subtopic": "Samarra ve Avasım",
+      "skill": "Bilgi ve kavram ayrımı",
+      "stem": "Abbasilerde Türk askerlerinin yerleşimi için düzenlenen Samarra ile Bizans sınırındaki Avasım şehirlerinin işlevleri aşağıdakilerin hangisinde doğru ayrılmıştır?",
+      "difficulty": "Kolay",
+      "options": [
+        "İkisi de Karahanlıların başkentidir.",
+        "Samarra askerî yerleşim merkezidir; Avasım sınır savunmasıyla ilişkilidir.",
+        "Samarra deniz ticaret limanıdır; Avasım hanedan mezarlığıdır.",
+        "Samarra Çin sınırını, Avasım Hindistan sınırını korumuştur.",
+        "Samarra bir vergi türüdür; Avasım merkezî divanın adıdır."
+      ],
+      "answer": "B",
+      "explanation": "Samarra, Abbasilerde Türk askerlerinin barınması ve örgütlenmesiyle ilişkilidir. Avasım ise Bizans’a karşı sınır savunmasına hizmet eden şehirler hattını ifade eder. İki uygulama askerî amaç taşımakla birlikte aynı yerin adı değildir.",
+      "sources": [
+        "TIS-NOT",
+        "TIS-M4"
+      ]
+    },
+    {
+      "id": "TIS-007",
+      "revision": 1,
+      "topic": "Talas ve Türklerin İslamiyet’i Kabulü",
+      "subtopic": "Türklerin İslam dünyasındaki katkıları",
+      "skill": "Bilgi ve kavram ayrımı",
+      "stem": "Türklerin Abbasi ordusunda görev alması, sınır şehirlerinin savunmasına katılması ve bilim insanları yetiştirmesi birlikte düşünüldüğünde aşağıdakilerden hangisine ulaşılamaz?",
+      "difficulty": "Orta",
+      "options": [
+        "Türklerin katkıları farklı alanlarda görülmüştür.",
+        "Askerî hizmet Türklerin İslam dünyasıyla ilişkilerinde rol oynamıştır.",
+        "Abbasi yönetiminin bütün görevleri Türkler tarafından yürütülmüştür.",
+        "Sınır savunmasında Türk askerlerinden yararlanılmıştır.",
+        "Bilimsel faaliyetler askerî katkıların yanında değerlendirilmelidir."
+      ],
+      "answer": "C",
+      "explanation": "Askerî ve bilimsel katkıların varlığı, devletin bütün görevlerinin aynı toplulukça üstlenildiğini göstermez. Ordu hizmeti ve sınır savunması askerî katkıları; bilim insanlarının yetişmesi farklı bir faaliyet alanını destekler.",
+      "sources": [
+        "TIS-NOT",
+        "TIS-M4"
+      ]
+    },
+    {
+      "id": "TIS-008",
+      "revision": 1,
+      "topic": "Talas ve Türklerin İslamiyet’i Kabulü",
+      "subtopic": "Cihan hâkimiyeti ve cihat",
+      "skill": "Bilgi ve kavram ayrımı",
+      "stem": "Türklerin İslamiyet’i kabulünden sonra cihan hâkimiyeti düşüncesinin gaza ve cihat anlayışıyla birlikte sürmesi hangi değerlendirmeyi destekler?",
+      "difficulty": "Orta",
+      "options": [
+        "Eski siyasi geleneklerin hiçbir iz bırakmadan ortadan kalktığını",
+        "Hükümdarlığın hanedanla ilişkisinin kesildiğini",
+        "Türk devletlerinin fetih siyasetini terk ettiğini",
+        "Önceki siyasi idealin yeni dinî anlayışla yeniden yorumlandığını",
+        "Din değişiminin siyasi düşünceyi etkilemediğini"
+      ],
+      "answer": "D",
+      "explanation": "Cihan hâkimiyeti idealinin gaza ve cihatla ilişkilendirilmesi, eski anlayışın yeni dinî çerçevede anlam kazanmasıdır. Bu durum hem süreklilik hem değişim içerir; bütün geleneklerin kalktığı veya hiçbir değişim yaşanmadığı söylenemez.",
+      "sources": [
+        "TIS-NOT",
+        "TIS-M5"
+      ]
+    },
+    {
+      "id": "TIS-009",
+      "revision": 1,
+      "topic": "Talas ve Türklerin İslamiyet’i Kabulü",
+      "subtopic": "İslamlaşmanın zaman ölçeği",
+      "skill": "Bilgi ve kavram ayrımı",
+      "stem": "Talas Savaşı 751 yılında yapılmış; Karahanlı hükümdarı Satuk Buğra Han ise X. yüzyılda İslamiyet’i benimsemiştir.\n\nBu iki gelişme aşağıdaki yargılardan hangisinin sorgulanmasını gerektirir?",
+      "difficulty": "Orta",
+      "options": [
+        "Talas’taki yakınlaşmanın ardından bütün Türk devletlerinin hemen Müslüman olduğu",
+        "Türklerle Müslümanlar arasında siyasi temasların bulunduğu",
+        "İslamiyet’in benimsenmesinde hükümdarların rol oynayabildiği",
+        "Talas ile Karahanlıların dinî dönüşümünün farklı tarihlere ait olduğu",
+        "İslamlaşmanın çeşitli topluluklarda farklı zamanlarda ilerlediği"
+      ],
+      "answer": "A",
+      "explanation": "Talas ile Satuk Buğra Han’ın İslamiyet’i kabulü arasında yaklaşık iki yüzyıl bulunur. Bu zaman farkı, savaşın ardından bütün Türk devletlerinin hemen Müslüman olduğu genellemesine karşıdır. Yakınlaşma ile din değişiminin tamamlanması aynı gelişme değildir.",
+      "sources": [
+        "TIS-NOT",
+        "TIS-M1"
+      ]
+    },
+    {
+      "id": "TIS-010",
+      "revision": 1,
+      "topic": "Talas ve Türklerin İslamiyet’i Kabulü",
+      "subtopic": "Nevbet ve hükümdarlık göstergeleri",
+      "skill": "Bilgi ve kavram ayrımı",
+      "stem": "Türk-İslam devletlerinde hükümdar adına törenlerde ve belirli vakitlerde çalınan egemenlik müziği aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Tıraz",
+        "Çetr",
+        "Tuğra",
+        "Menşur",
+        "Nevbet"
+      ],
+      "answer": "E",
+      "explanation": "Nevbet, hükümdarlıkla ilişkilendirilen müzikli törensel uygulamadır. Tıraz hükümdarın adını taşıyan giysi, çetr hükümdarlık şemsiyesi, tuğra ise hükümdarın işaretidir; hepsi egemenlikle ilişkili olsa da işlevleri farklıdır.",
+      "sources": [
+        "TIS-NOT",
+        "TIS-M1"
+      ]
+    },
+    {
+      "id": "KAH-001",
+      "revision": 1,
+      "topic": "Karahanlılar",
+      "subtopic": "Kuruluş ve merkez",
+      "skill": "Bilgi ve kavram ayrımı",
+      "stem": "Karahanlıların bilinen ilk hükümdarı ve önemli yönetim merkezi aşağıdakilerin hangisinde doğru eşleştirilmiştir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Satuk Buğra Han – Gazne",
+        "Bilge Kül Kadir Han – Balasagun",
+        "Alp Tegin – Kaşgar",
+        "Tamgaç Buğra Han – Rey",
+        "Tuğrul Bey – Semerkant"
+      ],
+      "answer": "B",
+      "explanation": "Bilge Kül Kadir Han Karahanlıların bilinen ilk hükümdarıdır; Balasagun önemli yönetim merkezidir. Satuk Buğra Han’ın İslamiyet’i kabul etmesi devletin ilk kuruluşuyla aynı olay değildir. Kaşgar ve Semerkant da farklı dönemlerde Karahanlı siyasi ve kültürel hayatında önem taşımıştır.",
+      "sources": [
+        "TIS-NOT",
+        "TIS-M1"
+      ]
+    },
+    {
+      "id": "KAH-002",
+      "revision": 1,
+      "topic": "Karahanlılar",
+      "subtopic": "Satuk Buğra Han’ın dinî dönüşümü",
+      "skill": "Bilgi ve kavram ayrımı",
+      "stem": "İslamiyet’i kabul ederek Abdülkerim adını alan Karahanlı hükümdarı aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Bilge Kül Kadir Han",
+        "Yusuf Kadir Han",
+        "Satuk Buğra Han",
+        "Tamgaç Buğra Han",
+        "Gazneli Mahmut"
+      ],
+      "answer": "C",
+      "explanation": "Satuk Buğra Han, İslamiyet’i kabul ettikten sonra Abdülkerim adını almıştır. Bu, hükümdarın dinî dönüşümüne ilişkin bilgidir; Karahanlıların kuruluş tarihiyle karıştırılmamalıdır.",
+      "sources": [
+        "TIS-NOT",
+        "TIS-M1"
+      ]
+    },
+    {
+      "id": "KAH-003",
+      "revision": 1,
+      "topic": "Karahanlılar",
+      "subtopic": "Kuruluşta etkili topluluklar",
+      "skill": "Bilgi ve kavram ayrımı",
+      "stem": "Karahanlıların kuruluşunda etkili olan topluluklar aşağıdakilerin hangisinde birlikte verilmiştir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Karluk – Kıpçak – Peçenek",
+        "Yağma – Uz – Avar",
+        "Çiğil – Kuman – Sabar",
+        "Karluk – Yağma – Çiğil",
+        "Oğuz – Bulgar – Hazar"
+      ],
+      "answer": "D",
+      "explanation": "Karluk, Yağma ve Çiğil toplulukları Karahanlıların kuruluşunda etkili olmuştur. Bazı anlatımlarda Tuhsiler de bu oluşuma dâhil edilir; soru seçeneklerinde ortak ve doğrulanmış üçlü esas alınmıştır.",
+      "sources": [
+        "TIS-NOT",
+        "TIS-M1"
+      ]
+    },
+    {
+      "id": "KAH-004",
+      "revision": 1,
+      "topic": "Karahanlılar",
+      "subtopic": "Türkçenin korunması",
+      "skill": "Bilgi ve kavram ayrımı",
+      "stem": "Karahanlılar döneminde Türkçe eserlerin yazılması ve Türkçenin kamusal hayatta önemini koruması, aşağıdaki yargılardan hangisini destekler?",
+      "difficulty": "Orta",
+      "options": [
+        "Din değişimi dil ve kültür mirasının bütünüyle terk edilmesini gerektirmemiştir.",
+        "Türkçe eserlerin yazılması Arapçanın İslam dünyasındaki yerini sona erdirmiştir.",
+        "Türkçenin korunması devletin bütün tebaasının aynı boydan olduğunu kanıtlar.",
+        "İslamiyet’in kabulü Karahanlıların yabancı toplumlarla ilişkisini kesmiştir.",
+        "Dil sürekliliği devlet teşkilatında hiçbir değişiklik olmadığını gösterir."
+      ],
+      "answer": "A",
+      "explanation": "Yeni bir dinin benimsenmesiyle birlikte Türkçe eser üretiminin sürmesi, kültürel sürekliliği gösterir. Bundan bütün halkın tek boydan olduğu veya devlet kurumlarının hiç değişmediği çıkarılamaz; dil ile siyasi teşkilat farklı inceleme alanlarıdır.",
+      "sources": [
+        "TIS-NOT",
+        "TIS-M6"
+      ]
+    },
+    {
+      "id": "KAH-005",
+      "revision": 1,
+      "topic": "Karahanlılar",
+      "subtopic": "Türk geleneğinin devamı",
+      "skill": "Bilgi ve kavram ayrımı",
+      "stem": "Karahanlılarda eski Türk devlet geleneğinin sürdüğünü göstermek isteyen bir araştırmacı aşağıdakilerden hangisini en doğrudan kanıt olarak kullanabilir?",
+      "difficulty": "Orta",
+      "options": [
+        "İslamiyet’in devletin dinî hayatında etkili olmasını",
+        "Müslüman bilginlerin korunmasını",
+        "Medreselerin kurulmasını",
+        "Dinî öğretime önem verilmesini",
+        "Ülkenin doğu ve batı kanatlarıyla yönetilmesini"
+      ],
+      "answer": "E",
+      "explanation": "Doğu ve batı kanatlarına dayalı ikili yönetim, İslamiyet öncesi Türk siyasi geleneğiyle ilişkilidir. Diğer seçenekler İslam kültürünün etkisini veya dinî eğitim faaliyetlerini gösterir; eski yönetim geleneğinin devamını doğrudan ölçmez.",
+      "sources": [
+        "TIS-NOT",
+        "TIS-M7"
+      ]
+    },
+    {
+      "id": "KAH-006",
+      "revision": 1,
+      "topic": "Karahanlılar",
+      "subtopic": "Ribat ve bimarhane",
+      "skill": "Bilgi ve kavram ayrımı",
+      "stem": "Karahanlılarda kervanların konaklaması ve hastaların tedavisi için kullanılan kurumlar aşağıdakilerin hangisinde sırasıyla verilmiştir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Bimarhane – ribat",
+        "Ribat – medrese",
+        "Ribat – bimarhane",
+        "Medrese – kümbet",
+        "İmaret – ribat"
+      ],
+      "answer": "C",
+      "explanation": "Ticaret yollarında konaklamaya hizmet eden ribatlar kervansaray işlevi görmüştür; bimarhane ise tedavi kurumudur. Ribat sözcüğü başka dönem ve bağlamlarda sınır karakolu anlamı da taşıyabilir; burada kervan konaklaması bağlamı açıkça belirtilmiştir.",
+      "sources": [
+        "TIS-NOT",
+        "TIS-M6",
+        "TIS-M12"
+      ]
+    },
+    {
+      "id": "KAH-007",
+      "revision": 1,
+      "topic": "Karahanlılar",
+      "subtopic": "Ribatların ekonomik işlevi",
+      "skill": "Bilgi ve kavram ayrımı",
+      "stem": "Karahanlıların ticaret yollarında kervanların konaklayabildiği ribatlar inşa ettirmesi aşağıdakilerden hangisini en doğrudan destekler?",
+      "difficulty": "Orta",
+      "options": [
+        "Tarım gelirlerinin vergi dışı bırakılmasını",
+        "Ticari dolaşımın altyapıyla desteklenmesini",
+        "Ordunun tamamının tüccarlardan oluşturulmasını",
+        "İpek Yolu üzerindeki bütün devletlerin birleşmesini",
+        "Ticaretin devlet dışındaki kurumlara yasaklanmasını"
+      ],
+      "answer": "B",
+      "explanation": "Konaklama imkânı, kervanların yolculuğunu destekleyen bir altyapıdır. Bu uygulama ticaretin teşvikine işaret eder; vergilerin kaldırıldığı veya bütün ticaretin devlet tekeline alındığı sonucunu vermez.",
+      "sources": [
+        "TIS-NOT",
+        "TIS-M6",
+        "TIS-M12"
+      ]
+    },
+    {
+      "id": "KAH-008",
+      "revision": 1,
+      "topic": "Karahanlılar",
+      "subtopic": "Medrese ve öğrenci desteği",
+      "skill": "Bilgi ve kavram ayrımı",
+      "stem": "Tamgaç Buğra Han döneminde Semerkant’ta medrese kurulması ve öğrencilere maddi destek sağlanması birlikte değerlendirildiğinde hangi sonuca ulaşılır?",
+      "difficulty": "Orta",
+      "options": [
+        "Eğitimde hükümdarlığın bütün görevlerinin öğrencilere devredildiğine",
+        "Medresenin ticari malların depolandığı bir yapı olduğuna",
+        "Öğrencilerin eğitim giderlerinin desteklenerek öğretim faaliyetinin güçlendirildiğine",
+        "Türkçenin kültür hayatından çıkarıldığına",
+        "Devletin askerî teşkilatının medresenin yönetimine bağlandığına"
+      ],
+      "answer": "C",
+      "explanation": "Medrese öğretim kurumudur; maddi destek öğrencilerin eğitime devamını kolaylaştırır. Bu iki uygulama eğitim faaliyetine kaynak ayrıldığını gösterir. Öğrenci desteği siyasi yetki devri veya askerî teşkilatın değişmesi anlamına gelmez.",
+      "sources": [
+        "TIS-NOT",
+        "TIS-M8",
+        "TIS-A1"
+      ]
+    },
+    {
+      "id": "KAH-009",
+      "revision": 1,
+      "topic": "Karahanlılar",
+      "subtopic": "Gulam uygulamasının niteliği",
+      "skill": "Bilgi ve kavram ayrımı",
+      "stem": "Karahanlı ve Gazneli teşkilatlarında gulamların saray ve hükümdara bağlı askerî hizmetlerde kullanılması hangi değerlendirmeye uygundur?",
+      "difficulty": "Orta",
+      "options": [
+        "Boy kuvvetleriyle saraya bağlı askerlerin aynı örgütlenme biçimine sahip olduğuna",
+        "Gulamların hanedan üyeleri arasından seçilen eyalet yöneticileri olduğuna",
+        "Hükümdarın askerî gücünün yalnız gönüllü boy katılımına dayanmasına",
+        "Saray çevresinde yetiştirilen bağlı askerî personelden yararlanıldığına",
+        "Gulamların sınır şehirlerine verilen coğrafi ad olduğuna"
+      ],
+      "answer": "D",
+      "explanation": "Gulam uygulaması, saray ve hükümdara bağlı personelin yetiştirilmesi ve hizmete alınmasıyla ilişkilidir. Boy kuvvetleri ve hanedan mensubu melikler farklı kategorilerdir. Bu uygulama Osmanlı devşirmesiyle benzer yönler taşısa da iki kurumun bütün ayrıntıları aynı sayılmaz.",
+      "sources": [
+        "TIS-NOT",
+        "TIS-M1"
+      ]
+    },
+    {
+      "id": "KAH-010",
+      "revision": 1,
+      "topic": "Karahanlılar",
+      "subtopic": "Karahanlı kolları ve dış güçler",
+      "skill": "Bilgi ve kavram ayrımı",
+      "stem": "Doğu Karahanlılar üzerinde nüfuz kuran güç ile Batı Karahanlıların siyasi varlığına son veren güç aşağıdakilerin hangisinde sırasıyla doğru verilmiştir?",
+      "difficulty": "Orta",
+      "options": [
+        "Karahitaylar – Harzemşahlar",
+        "Bizans – Gazneliler",
+        "Gurlular – Abbasiler",
+        "Harzemşahlar – Bizans",
+        "Emeviler – Karahitaylar"
+      ],
+      "answer": "A",
+      "explanation": "Doğu Karahanlılar Karahitay nüfuzu altına girmiş, Batı Karahanlılar ise Harzemşahlar tarafından ortadan kaldırılmıştır. Nüfuz altına girme ile hanedanın son hükümdarının ortadan kaldırılması aynı olay değildir. Bu nedenle Doğu kolunun nihai sonunu, önceki Karahitay bağlılığıyla tek bir gelişme olarak değerlendirmemek gerekir.",
+      "sources": [
+        "TIS-NOT",
+        "TIS-M1",
+        "TIS-A1"
+      ]
+    },
+    {
+      "id": "KAH-011",
+      "revision": 1,
+      "topic": "Karahanlılar",
+      "subtopic": "Dönem eserleri ve alfabeler",
+      "skill": "Bilgi ve yorum",
+      "stem": "Karahanlılar dönemindeki Türkçe eserlerin Arap ve Uygur yazısıyla hazırlanmış veya istinsah edilmiş nüshalarının bulunması hangi çıkarımı destekler?",
+      "difficulty": "Orta",
+      "options": [
+        "Arap yazısının kullanıldığı bütün eserlerin dili Arapçadır.",
+        "Uygur yazısı kullanılan metinlerde İslami konular işlenemez.",
+        "Farklı alfabeler kullanılması ortak bir edebiyat geleneğini engeller.",
+        "Eserlerin dili kullanılan alfabeden bağımsız olarak değiştirilemez.",
+        "Yazı sistemindeki değişimle eski yazı geleneğinin izleri bir arada görülebilir."
+      ],
+      "answer": "E",
+      "explanation": "Alfabe, metni yazmak için kullanılan işaret sistemidir; dil ise metnin ifade edildiği dildir. Türkçe metinlerin farklı alfabelerle aktarılması yazı geleneğindeki süreklilik ve değişime işaret eder. Bir nüshanın alfabesi bütün dönem eserlerinin aynı yazıyla üretildiğini kanıtlamaz.",
+      "sources": [
+        "TIS-NOT",
+        "TIS-M6",
+        "TIS-A5"
+      ]
+    },
+    {
+      "id": "KAH-012",
+      "revision": 1,
+      "topic": "Karahanlılar",
+      "subtopic": "Karahanlıların adları",
+      "skill": "Bilgi ve kavram ayrımı",
+      "stem": "İlig Hanlar ve Hakaniye adlarıyla da anılan Türk-İslam devleti aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Gazneliler",
+        "Büyük Selçuklular",
+        "Karahanlılar",
+        "Harzemşahlar",
+        "Türkiye Selçukluları"
+      ],
+      "answer": "C",
+      "explanation": "İlig Hanlar ve Hakaniye adlandırmaları Karahanlılarla ilişkilidir. Bu adlar aynı siyasi oluşumun farklı adlandırmalarıdır; ayrı devletler veya doğu ve batı kollarının birbirinden bağımsız kuruluş adları gibi düşünülmemelidir.",
+      "sources": [
+        "TIS-NOT",
+        "TIS-A1"
+      ]
+    },
+    {
+      "id": "GAZ-001",
+      "revision": 1,
+      "topic": "Gazneliler",
+      "subtopic": "Kurucu ve adın kaynağı",
+      "skill": "Bilgi ve kavram ayrımı",
+      "stem": "Samanilerin hizmetindeki Alp Tegin’in kuruluşunda rol oynadığı ve adını Afganistan’daki merkezinden alan devlet aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Gazneliler",
+        "Karahanlılar",
+        "Büyük Selçuklular",
+        "Harzemşahlar",
+        "İdil Bulgarları"
+      ],
+      "answer": "A",
+      "explanation": "Alp Tegin Gazne’deki siyasi oluşumun kurucusu kabul edilir. Devletin adı Gazne şehrinden gelir. Sebük Tegin’in hanedanın güçlenmesindeki rolüyle Alp Tegin’in kuruluş faaliyeti birbirinden ayrılmalıdır.",
+      "sources": [
+        "TIS-NOT",
+        "TIS-M1"
+      ]
+    },
+    {
+      "id": "GAZ-002",
+      "revision": 1,
+      "topic": "Gazneliler",
+      "subtopic": "Mahmut dönemi ve hükümdarlık unvanı",
+      "skill": "Bilgi ve kavram ayrımı",
+      "stem": "Sultan unvanını kullanan ilk Türk hükümdarı aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Alp Tegin",
+        "Sebük Tegin",
+        "Sultan Mesut",
+        "Gazneli Mahmut",
+        "Satuk Buğra Han"
+      ],
+      "answer": "D",
+      "explanation": "Sultan unvanını kullanan ilk Türk hükümdarı Gazneli Mahmut’tur. Tuğrul Bey’in daha sonra aldığı Doğu’nun ve Batı’nın Sultanı unvanı farklı bir hükümdar ve döneme aittir. Türk hükümdarları arasındaki bu kullanım, sultan kelimesinin daha eski siyasi ve idari kullanımlarıyla aynı ölçüt değildir.",
+      "sources": [
+        "TIS-NOT",
+        "TIS-M1",
+        "TIS-SULTAN"
+      ]
+    },
+    {
+      "id": "GAZ-003",
+      "revision": 1,
+      "topic": "Gazneliler",
+      "subtopic": "Hindistan seferlerinin amaçları",
+      "skill": "Bilgi ve kavram ayrımı",
+      "stem": "Gazneli Mahmut’un Hindistan seferleri, İslamiyet’in yayılmasına katkı sağlamış ve devletin bölgedeki ekonomik ve siyasi gücünü artırmıştır.\n\nBu bilgiler hangi yorumu destekler?",
+      "difficulty": "Orta",
+      "options": [
+        "Seferlerin ekonomik yönü dinî amaçların varlığını geçersiz kılar.",
+        "Seferler dinî, ekonomik ve siyasi amaçlarla birlikte değerlendirilebilir.",
+        "Dinî amaç taşıyan seferlerde siyasi kazanım elde edilemez.",
+        "Hindistan’daki bütün topluluklar seferler sırasında aynı dine geçmiştir.",
+        "Seferler Gaznelilerin Orta Asya’daki bütün rakiplerini ortadan kaldırmıştır."
+      ],
+      "answer": "B",
+      "explanation": "Bir seferin dinî, siyasi ve ekonomik hedefleri birlikte bulunabilir. İslamiyet’in yayılmasıyla kaynak ve nüfuz kazanılması birbirini dışlamaz. Bu bilgiler bütün Hindistan halkının din değiştirdiğini veya diğer rakiplerin yok edildiğini göstermez.",
+      "sources": [
+        "TIS-NOT",
+        "TIS-M1"
+      ]
+    },
+    {
+      "id": "GAZ-004",
+      "revision": 1,
+      "topic": "Gazneliler",
+      "subtopic": "Çok uluslu yapı ve merkezî otorite",
+      "skill": "Bilgi ve kavram ayrımı",
+      "stem": "Gaznelilerin farklı diller konuşan ve farklı toplumsal yapılara sahip bölgeleri yönetmesi, merkezî otoritenin zayıfladığı dönemlerde aşağıdaki sorunlardan hangisini artırabilir?",
+      "difficulty": "Orta",
+      "options": [
+        "Başkent adının devletin adında kullanılmasını",
+        "Hanedan üyelerinin aynı hükümdara bağlı kalmasını",
+        "Farklı bölgeleri ortak siyasi bağlılıkta tutmanın güçleşmesini",
+        "Sarayın edebî faaliyetleri desteklemesini",
+        "Askerî teşkilatın her bölgede aynı başarıyı kazanmasını"
+      ],
+      "answer": "C",
+      "explanation": "Çok uluslu coğrafyada merkez zayıflayınca yerel güçleri aynı siyasi yapı içinde tutmak güçleşebilir. Farklı toplulukların varlığı tek başına kaçınılmaz yıkım sebebi değildir; merkezî otorite, askerî yenilgiler ve bölgesel güçler birlikte değerlendirilmelidir.",
+      "sources": [
+        "TIS-NOT",
+        "TIS-M5"
+      ]
+    },
+    {
+      "id": "GAZ-005",
+      "revision": 1,
+      "topic": "Gazneliler",
+      "subtopic": "Nesa–Serahs–Dandanakan dizisi",
+      "skill": "Bilgi ve kavram ayrımı",
+      "stem": "Gaznelilerin Selçuklular karşısında uğradığı Nesa, Serahs ve Dandanakan yenilgilerinin doğru kronolojik sırası aşağıdakilerden hangisidir?",
+      "difficulty": "Orta",
+      "options": [
+        "Serahs – Dandanakan – Nesa",
+        "Dandanakan – Nesa – Serahs",
+        "Nesa – Dandanakan – Serahs",
+        "Serahs – Nesa – Dandanakan",
+        "Nesa – Serahs – Dandanakan"
+      ],
+      "answer": "E",
+      "explanation": "Nesa 1035, Serahs 1038 ve Dandanakan 1040 yıllarındadır. Bu sıra Selçukluların Horasan’daki yükselişini ve Gaznelilerin bölgedeki gücünün gerilemesini izlemeyi sağlar. Dandanakan bu mücadelelerin başlangıcı değildir.",
+      "sources": [
+        "TIS-NOT",
+        "TIS-M1"
+      ]
+    },
+    {
+      "id": "GAZ-006",
+      "revision": 1,
+      "topic": "Gazneliler",
+      "subtopic": "Dandanakan’ın iki devlet için sonuçları",
+      "skill": "Bilgi ve kavram ayrımı",
+      "stem": "1040 Dandanakan Savaşı’nın Gazneliler ve Selçuklular açısından sonuçları aşağıdakilerin hangisinde doğru karşılaştırılmıştır?",
+      "difficulty": "Orta",
+      "options": [
+        "Gaznelilerin Horasan’daki gücü geriledi; Büyük Selçuklu Devleti’nin kuruluşu kesinleşti.",
+        "Gazneliler yıkıldı; Türkiye Selçuklu Devleti kuruldu.",
+        "Gazneliler Bizans’ı yenilgiye uğrattı; Selçuklular Hindistan’a çekildi.",
+        "Gazneliler Karahanlıları ortadan kaldırdı; Selçuklular Rey’i kaybetti.",
+        "Gaznelilerin Abbasi hâkimiyeti sona erdi; Selçuklular Çin ilerleyişini durdurdu."
+      ],
+      "answer": "A",
+      "explanation": "Dandanakan, Selçukluların siyasi kuruluşunu kesinleştirirken Gaznelilerin Horasan’daki gücünü kırmıştır. Gazneli Devleti 1040’ta hemen yıkılmamış; varlığını daha sonraki dönemde de sürdürmüştür. Bu savaş Malazgirt ve Talas’ın taraf ve sonuçlarıyla karıştırılmamalıdır.",
+      "sources": [
+        "TIS-NOT",
+        "TIS-M1"
+      ]
+    },
+    {
+      "id": "GAZ-007",
+      "revision": 1,
+      "topic": "Gazneliler",
+      "subtopic": "Biruni ve Hindistan araştırmaları",
+      "skill": "Bilgi ve kavram ayrımı",
+      "stem": "Gazneli hükümdarlarının himayesinde çalışmalar yapan ve Hindistan’ın dinî, toplumsal ve bilimsel hayatını inceleyen eserleriyle tanınan bilgin aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Firdevsi",
+        "Yusuf Has Hacip",
+        "Kaşgarlı Mahmut",
+        "Biruni",
+        "Nizamülmülk"
+      ],
+      "answer": "D",
+      "explanation": "Biruni, Hindistan üzerine yaptığı araştırmalarla tanınır ve Gazneli çevresinde bilimsel faaliyet yürütmüştür. Firdevsi Şehname’nin şairidir; Kaşgarlı Mahmut’un eseri Türk dili ve söz varlığıyla ilişkilidir. Bu kişilerin eser ve araştırma alanları birbirinden farklıdır.",
+      "sources": [
+        "TIS-NOT",
+        "TIS-A2"
+      ]
+    },
+    {
+      "id": "GAZ-008",
+      "revision": 1,
+      "topic": "Gazneliler",
+      "subtopic": "Şehname ve yazarı",
+      "skill": "Bilgi ve kavram ayrımı",
+      "stem": "Gazneliler döneminin kültür hayatıyla ilişkilendirilen Şehname’nin yazarı aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Biruni",
+        "Firdevsi",
+        "Ömer Hayyam",
+        "Edip Ahmet Yükneki",
+        "Ahmet Yesevi"
+      ],
+      "answer": "B",
+      "explanation": "Şehname, Firdevsi’nin İran’ın efsanevi ve tarihî hükümdarlarıyla kahramanlarını anlattığı manzum eseridir. Biruni’nin Hindistan araştırmalarıyla veya Karahanlı dönemindeki Türkçe öğüt eserleriyle karıştırılmamalıdır.",
+      "sources": [
+        "TIS-NOT",
+        "TIS-A3"
+      ]
+    },
+    {
+      "id": "GAZ-009",
+      "revision": 1,
+      "topic": "Gazneliler",
+      "subtopic": "Gaznelilerin sona erişi",
+      "skill": "Bilgi ve kavram ayrımı",
+      "stem": "Dandanakan’dan sonra güç kaybeden Gazneli Devleti’ne son veren siyasi güç aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Karahitaylar",
+        "Harzemşahlar",
+        "Gurlular",
+        "Büveyhiler",
+        "Bizans"
+      ],
+      "answer": "C",
+      "explanation": "Gaznelilerin siyasi varlığı Gurlular tarafından sona erdirilmiştir. Selçuklular karşısındaki Dandanakan yenilgisi zayıflama sürecini açıklasa da devleti ortadan kaldıran son olayla aynı değildir.",
+      "sources": [
+        "TIS-NOT",
+        "TIS-M1"
+      ]
+    },
+    {
+      "id": "GAZ-010",
+      "revision": 1,
+      "topic": "Gazneliler",
+      "subtopic": "Gazneli dil kullanımı",
+      "skill": "Bilgi ve kavram ayrımı",
+      "stem": "Gaznelilerde Farsçanın resmî ve edebî hayatta, Arapçanın bilim çevrelerinde, Türkçenin ise saray ve orduda kullanılması hangi yorumu destekler?",
+      "difficulty": "Orta",
+      "options": [
+        "Devletin farklı kültür çevrelerinden yararlandığını",
+        "Türkçenin devlet hayatında hiçbir yeri olmadığını",
+        "Resmî dilin bütün halkın ana diliyle aynı olduğunu",
+        "Bilim dili ile ordu dilinin zorunlu olarak aynı olduğunu",
+        "Farsça kullanımının hanedanın Türk kökenini ortadan kaldırdığını"
+      ],
+      "answer": "A",
+      "explanation": "Farklı alanlarda farklı dillerden yararlanılması, çok katmanlı kültür hayatını gösterir. Bir devletin resmî dili, hanedanın kökeni ve bütün halkın ana dili aynı kavram değildir. Türkçenin saray ve ordudaki yeri, tamamen kullanılmadığı iddiasını dışlar.",
+      "sources": [
+        "TIS-NOT",
+        "TIS-M5"
+      ]
+    },
+    {
+      "id": "SEL-001",
+      "revision": 1,
+      "topic": "Büyük Selçuklu Devleti",
+      "subtopic": "Hanedan ve resmî kuruluş",
+      "skill": "Bilgi ve kavram ayrımı",
+      "stem": "Büyük Selçuklu hanedanının bağlı olduğu Oğuz boyu ile devletin resmî kurucusu aşağıdakilerin hangisinde doğru verilmiştir?",
+      "difficulty": "Orta",
+      "options": [
+        "Kayı – Selçuk Bey",
+        "Kınık – Tuğrul Bey",
+        "Avşar – Çağrı Bey",
+        "Kınık – Alp Arslan",
+        "Kayı – Melikşah"
+      ],
+      "answer": "B",
+      "explanation": "Selçuklu hanedanı Oğuzların Kınık boyuna mensuptur. Hanedana adını veren Selçuk Bey ile 1040 Dandanakan zaferinden sonra devletin resmî kuruluşuyla ilişkilendirilen Tuğrul Bey farklı kişilerdir. Çağrı Bey kuruluş sürecinde Tuğrul Bey’le birlikte önemli rol oynamıştır.",
+      "sources": [
+        "TIS-NOT",
+        "TIS-M9"
+      ]
+    },
+    {
+      "id": "SEL-002",
+      "revision": 1,
+      "topic": "Büyük Selçuklu Devleti",
+      "subtopic": "Kuruluş coğrafyası ve dil",
+      "skill": "Bilgi ve kavram ayrımı",
+      "stem": "Dandanakan sonrasında Horasan merkezli güçlenen, yönetiminde Farsçanın önemli yer tuttuğu ve Tuğrul Bey ile Çağrı Bey’in kuruluşunda etkili olduğu devlet aşağıdakilerden hangisidir?",
+      "difficulty": "Orta",
+      "options": [
+        "Karahanlılar",
+        "Gazneliler",
+        "Büyük Selçuklular",
+        "Harzemşahlar",
+        "Türkiye Selçukluları"
+      ],
+      "answer": "C",
+      "explanation": "Tuğrul ve Çağrı beylerin faaliyetleri Büyük Selçuklu Devleti’nin kuruluş sürecine aittir. Horasan’daki mücadele Gaznelilere karşı yürütülmüştür. Farsça kullanımı Gaznelilerde de görüldüğünden devleti tek başına belirleyen ipucu değildir; bütün ipuçları birlikte değerlendirilmelidir.",
+      "sources": [
+        "TIS-NOT",
+        "TIS-M1"
+      ]
+    },
+    {
+      "id": "SEL-003",
+      "revision": 1,
+      "topic": "Büyük Selçuklu Devleti",
+      "subtopic": "Çağrı Bey’in keşif akınları",
+      "skill": "Bilgi ve kavram ayrımı",
+      "stem": "Çağrı Bey’in Anadolu’ya yönelik keşif akınları, Türkmenler için yeni yerleşim alanlarının araştırılmasıyla ilişkilendirilir.\n\nBu akınlarla ilgili aşağıdaki yargılardan hangisi daha uygundur?",
+      "difficulty": "Orta",
+      "options": [
+        "Anadolu’da Bizans egemenliği akınlarla tamamen sona ermiştir.",
+        "Türkiye Selçuklu Devleti bu akınlar sırasında kurulmuştur.",
+        "Anadolu’ya ilk temas Malazgirt’ten sonra gerçekleşmiştir.",
+        "Keşif faaliyeti sonraki fetih ve yerleşme hedeflerine zemin hazırlamıştır.",
+        "Keşif akınları kalıcı yerleşmenin bütün bölgelerde tamamlandığını gösterir."
+      ],
+      "answer": "D",
+      "explanation": "Keşif akınları bölgenin siyasi ve coğrafi şartlarının öğrenilmesine hizmet eder. Bu faaliyetler sonraki fetih ve yerleşmelere zemin hazırlamıştır; keşif ile ülkenin tümünü ele geçirme veya bir devlet kurma aynı gelişme değildir.",
+      "sources": [
+        "TIS-NOT",
+        "TIS-M1"
+      ]
+    },
+    {
+      "id": "SEL-004",
+      "revision": 1,
+      "topic": "Büyük Selçuklu Devleti",
+      "subtopic": "Pasinler’in tarafları ve komutanları",
+      "skill": "Bilgi ve kavram ayrımı",
+      "stem": "1048 Pasinler Savaşı’nda Selçuklu kuvvetlerinin karşısında yer alan birleşik güç aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Bizans ve Gürcü kuvvetleri",
+        "Gazneli ve Karahanlı kuvvetleri",
+        "Abbasi ve Büveyhi kuvvetleri",
+        "Karahitay ve Karluk kuvvetleri",
+        "Haçlı ve Gurlu kuvvetleri"
+      ],
+      "answer": "A",
+      "explanation": "Pasinler’de Selçuklular Bizans-Gürcü kuvvetleriyle savaşmıştır. Selçuklu tarafında İbrahim Yinal ve Kutalmış, karşı tarafta Gürcü komutan Liparit öne çıkar. Gazneli-Selçuklu mücadelesi Dandanakan’ın bağlamıdır.",
+      "sources": [
+        "TIS-NOT",
+        "TIS-M1"
+      ]
+    },
+    {
+      "id": "SEL-005",
+      "revision": 1,
+      "topic": "Büyük Selçuklu Devleti",
+      "subtopic": "Pasinler ve Malazgirt ayrımı",
+      "skill": "Bilgi ve kavram ayrımı",
+      "stem": "Pasinler ve Malazgirt savaşlarıyla ilgili aşağıdaki eşleştirmelerden hangisi yanlıştır?",
+      "difficulty": "Orta",
+      "options": [
+        "Pasinler – İbrahim Yinal ve Kutalmış’ın faaliyetleri",
+        "Pasinler – Bizans-Gürcü kuvvetleriyle mücadele",
+        "Malazgirt – Alp Arslan’ın hükümdarlığı",
+        "Malazgirt – Romen Diyojen’in esir alınması",
+        "Pasinler – Romen Diyojen’in Alp Arslan tarafından esir alınması"
+      ],
+      "answer": "E",
+      "explanation": "Romen Diyojen’in Alp Arslan tarafından esir alınması 1071 Malazgirt Savaşı’na aittir. Pasinler 1048’de, Tuğrul Bey döneminde gerçekleşmiştir; İbrahim Yinal, Kutalmış ve Gürcü komutan Liparit bu savaşın ayırt edici kişileridir.",
+      "sources": [
+        "TIS-NOT",
+        "TIS-M1"
+      ]
+    },
+    {
+      "id": "SEL-006",
+      "revision": 1,
+      "topic": "Büyük Selçuklu Devleti",
+      "subtopic": "Tuğrul Bey’in Bağdat siyaseti",
+      "skill": "Bilgi ve kavram ayrımı",
+      "stem": "1055’te Bağdat’a girerek Abbasi halifesini Büveyhi baskısından kurtaran Selçuklu hükümdarı aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Çağrı Bey",
+        "Tuğrul Bey",
+        "Alp Arslan",
+        "Melikşah",
+        "Sencer"
+      ],
+      "answer": "B",
+      "explanation": "Bağdat’a 1055’te giren hükümdar Tuğrul Bey’dir. Bu müdahale Selçukluların Abbasi hilafeti çevresindeki siyasi ve askerî etkisini güçlendirmiştir. Alp Arslan’ın Ani ve Malazgirt faaliyetleri daha sonraki dönemdedir.",
+      "sources": [
+        "TIS-NOT",
+        "TIS-M1"
+      ]
+    },
+    {
+      "id": "SEL-007",
+      "revision": 1,
+      "topic": "Büyük Selçuklu Devleti",
+      "subtopic": "Siyasi ve dinî otorite",
+      "skill": "Bilgi ve kavram ayrımı",
+      "stem": "Tuğrul Bey’in Abbasi halifesini koruması ve halifenin ona Doğu’nun ve Batı’nın Sultanı unvanını vermesi birlikte değerlendirildiğinde hangisine ulaşılamaz?",
+      "difficulty": "Orta",
+      "options": [
+        "Selçuklu sultanının İslam dünyasındaki itibarı güçlenmiştir.",
+        "Halife ile sultan arasında siyasi destek ilişkisi kurulmuştur.",
+        "Selçuklu hükümdarı halifelik makamını devralmıştır.",
+        "Askerî müdahale hükümdarın meşruiyetini desteklemiştir.",
+        "Halifenin unvan vermesi sultanın konumunu tanımasıyla ilişkilidir."
+      ],
+      "answer": "C",
+      "explanation": "Halifenin sultana unvan vermesi, Selçuklu siyasi gücünün tanınmasıdır. Askerî koruma ve dinî meşruiyet ilişkisi görülür; ancak sultan bu olayla halife olmaz. Makamların birbirini desteklemesi, aynı kişide birleştiği anlamına gelmez.",
+      "sources": [
+        "TIS-NOT",
+        "TIS-M1"
+      ]
+    },
+    {
+      "id": "SEL-008",
+      "revision": 1,
+      "topic": "Büyük Selçuklu Devleti",
+      "subtopic": "Ani ve Ebü’l-Feth",
+      "skill": "Bilgi ve kavram ayrımı",
+      "stem": "Ani Kalesi’nin 1064’te fethedilmesi üzerine Ebü’l-Feth unvanıyla anılan hükümdar aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Tuğrul Bey",
+        "Gazneli Mahmut",
+        "Sencer",
+        "Alp Arslan",
+        "Melikşah"
+      ],
+      "answer": "D",
+      "explanation": "Ani fethi ve buna bağlı Ebü’l-Feth unvanı Alp Arslan’la ilişkilidir. Doğu’nun ve Batı’nın Sultanı unvanı Tuğrul Bey’e aittir; aynı halifelik çevresinde verilen unvanlar farklı hükümdar ve olaylarla eşleştirilmelidir.",
+      "sources": [
+        "TIS-NOT",
+        "TIS-M10"
+      ]
+    },
+    {
+      "id": "SEL-009",
+      "revision": 1,
+      "topic": "Büyük Selçuklu Devleti",
+      "subtopic": "Malazgirt ve Anadolu’nun Türkleşmesi",
+      "skill": "Bilgi ve kavram ayrımı",
+      "stem": "1071 Malazgirt zaferinin ardından Anadolu’da Türk fetihleri ve yerleşmeleri hızlanmıştır.\n\nBu gelişme aşağıdakilerden hangisiyle en doğru açıklanır?",
+      "difficulty": "Orta",
+      "options": [
+        "Bizans savunmasının zayıflaması Türkmen ilerleyişi için elverişli ortam oluşturmuştur.",
+        "Anadolu’daki bütün şehirler savaş günü Selçuklu yönetimine geçmiştir.",
+        "Anadolu’ya Türklerin ilk gelişi bu savaşla gerçekleşmiştir.",
+        "Bizans Devleti savaşın hemen ardından ortadan kalkmıştır.",
+        "Büyük Selçuklu Devleti Anadolu’da bu zaferle kurulmuştur."
+      ],
+      "answer": "A",
+      "explanation": "Malazgirt, Bizans’ın Anadolu savunmasını zayıflatarak fetih ve yerleşmeleri hızlandırmıştır. Anadolu’ya önceki Türk akınları bulunduğundan ilk gelişle aynı sayılmaz. Bir meydan savaşı bütün bölgenin aynı gün fethedilmesi veya Bizans’ın sona ermesi değildir.",
+      "sources": [
+        "TIS-NOT",
+        "TIS-M1"
+      ]
+    },
+    {
+      "id": "SEL-010",
+      "revision": 1,
+      "topic": "Büyük Selçuklu Devleti",
+      "subtopic": "Malazgirt’te savaş yöntemi ve diplomasi",
+      "skill": "Bilgi ve yorum",
+      "stem": "Malazgirt’te sahte ricat ve pusuya dayanan taktik uygulanmış, Bizans imparatoru esir alınmış ve savaş sonrasında görüşmeler yapılmıştır.\n\nBu bilgilere göre;\nI. Savaş alanında manevra yönteminden yararlanılmıştır.\nII. Askerî sonuç diplomatik görüşmelere konu olmuştur.\nIII. İmparatorun esir alınması Bizans’ın bütün topraklarının fethedildiğini gösterir.\n\nyargılarından hangileri doğrudur?",
+      "difficulty": "Orta",
+      "options": [
+        "Yalnız I",
+        "Yalnız III",
+        "I ve III",
+        "II ve III",
+        "I ve II"
+      ],
+      "answer": "E",
+      "explanation": "Sahte ricat ve pusu manevraya dayalı askerî yöntemi, savaş sonrası görüşmeler diplomatik boyutu gösterir. Bir hükümdarın esir alınması devletinin bütün topraklarının fethedilmesiyle aynı değildir; III desteklenmez.",
+      "sources": [
+        "TIS-NOT",
+        "TIS-M1"
+      ]
+    },
+    {
+      "id": "SEL-011",
+      "revision": 1,
+      "topic": "Büyük Selçuklu Devleti",
+      "subtopic": "Hutbe ve minber",
+      "skill": "Bilgi ve kavram ayrımı",
+      "stem": "Türk-İslam hükümdarlarının egemenlik göstergelerinden biri olan, cuma namazlarında hükümdarın adının anıldığı konuşma ile bu konuşmanın yapıldığı yükseltilmiş yer aşağıdakilerin hangisinde sırasıyla verilmiştir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Minber – hutbe",
+        "Hutbe – minber",
+        "Nevbet – çetr",
+        "Menşur – mihrap",
+        "Hutbe – mihrap"
+      ],
+      "answer": "B",
+      "explanation": "Hutbe cuma ve bayram namazlarıyla ilişkili konuşmadır; minber bu konuşmanın yapıldığı yükseltilmiş yerdir. Mihrap ise camide kıble yönünü gösterir. Hükümdarın adının hutbede anılması siyasi tanınma göstergesi olarak kullanılmıştır.",
+      "sources": [
+        "TIS-NOT",
+        "TIS-M1",
+        "TIS-A4"
+      ]
+    },
+    {
+      "id": "SEL-012",
+      "revision": 1,
+      "topic": "Büyük Selçuklu Devleti",
+      "subtopic": "Melikşah ve Nizamülmülk",
+      "skill": "Bilgi ve kavram ayrımı",
+      "stem": "Büyük Selçukluların en parlak döneminin hükümdarı ve bu dönemin ünlü veziri aşağıdakilerin hangisinde doğru verilmiştir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Tuğrul Bey – Biruni",
+        "Alp Arslan – Firdevsi",
+        "Melikşah – Nizamülmülk",
+        "Sencer – Yusuf Has Hacip",
+        "Gazneli Mahmut – Nizamülmülk"
+      ],
+      "answer": "C",
+      "explanation": "Melikşah dönemi Büyük Selçukluların en parlak dönemi olarak değerlendirilir; vezir Nizamülmülk de bu dönemde etkilidir. Nizamülmülk daha önce Alp Arslan’a da vezirlik yapmıştır; sorudaki dönem ölçütü eşleştirmeyi belirler.",
+      "sources": [
+        "TIS-NOT",
+        "TIS-M1"
+      ]
+    },
+    {
+      "id": "SEL-013",
+      "revision": 1,
+      "topic": "Büyük Selçuklu Devleti",
+      "subtopic": "Melikşah dönemi genişlemesi",
+      "skill": "Bilgi ve yorum",
+      "stem": "Melikşah döneminde Selçuklu nüfuzu Karahanlılar üzerinde güçlenmiş ve Suriye ile Filistin’de genişlemiştir.\n\nBu bilgilere göre hangi yargıya ulaşılamaz?",
+      "difficulty": "Orta",
+      "options": [
+        "Selçuklu siyaseti doğu ve batı yönlerini birlikte kapsamıştır.",
+        "Başka Türk-İslam devletleriyle üstünlük ilişkileri kurulmuştur.",
+        "Filistin bölgesi devletin dış siyasetinde yer almıştır.",
+        "Siyasi genişleme ülkede taht kavgalarının doğmasını engellemiştir.",
+        "Suriye’deki gelişmeler devletin nüfuz sahasını büyütmüştür."
+      ],
+      "answer": "D",
+      "explanation": "Doğuda Karahanlılarla ilişkiler, batıda Suriye ve Filistin’deki faaliyetler farklı yönlerde genişlemeyi gösterir. Dış siyasette güçlenmek hanedan içi sorunların yaşanmayacağını kanıtlamaz. Nitekim Melikşah’ın ölümünden sonra taht mücadeleleri görülmüştür.",
+      "sources": [
+        "TIS-NOT",
+        "TIS-M1"
+      ]
+    },
+    {
+      "id": "SEL-014",
+      "revision": 1,
+      "topic": "Büyük Selçuklu Devleti",
+      "subtopic": "Bâtınilik ve Hasan Sabbah",
+      "skill": "Bilgi ve kavram ayrımı",
+      "stem": "Büyük Selçuklu döneminde Alamut merkezli faaliyetleriyle tanınan ve Bâtıni hareketle ilişkilendirilen kişi aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Hasan Sabbah",
+        "Nizamülmülk",
+        "İbrahim Yinal",
+        "Kutalmış",
+        "Liparit"
+      ],
+      "answer": "A",
+      "explanation": "Hasan Sabbah, Alamut merkezli Bâtıni faaliyetlerle ilişkilidir. Nizamülmülk bu faaliyetlerin karşısında Selçuklu devlet ve eğitim siyasetinin önemli temsilcisidir. İbrahim Yinal ile Kutalmış askerî faaliyetleriyle tanınır.",
+      "sources": [
+        "TIS-NOT",
+        "TIS-M1"
+      ]
+    },
+    {
+      "id": "SEL-015",
+      "revision": 1,
+      "topic": "Büyük Selçuklu Devleti",
+      "subtopic": "Katvan ve Sencer",
+      "skill": "Bilgi ve kavram ayrımı",
+      "stem": "Sultan Sencer döneminde 1141’de yaşanan Katvan yenilgisinde Selçukluların karşısındaki güç aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Gazneliler",
+        "Bizans",
+        "Büveyhiler",
+        "Gurlular",
+        "Karahitaylar"
+      ],
+      "answer": "E",
+      "explanation": "Katvan’da Sencer’in kuvvetleri Karahitaylara yenilmiştir. Bu yenilgi Selçuklu otoritesini sarsmış ve Maveraünnehir’deki hâkimiyetini zayıflatmıştır. Devletin sona erişi ise 1157’de Sencer’in ölümüyle ilişkilendirilir; yenilgi ve nihai sona eriş aynı tarih değildir.",
+      "sources": [
+        "TIS-NOT",
+        "TIS-M11"
+      ]
+    },
+    {
+      "id": "SEL-016",
+      "revision": 1,
+      "topic": "Büyük Selçuklu Devleti",
+      "subtopic": "Yıkılışta iç ve dış etkenler",
+      "skill": "Bilgi ve kavram ayrımı",
+      "stem": "Büyük Selçuklu Devleti’nin zayıflamasında;\nI. hanedan içi taht mücadeleleri,\nII. atabeylerin bağımsız hareket etmeleri,\nIII. Haçlı kuvvetleriyle mücadele\netkili olmuştur.\n\nBu etkenlerin iç ve dış gelişmeler olarak doğru sınıflandırılması hangisidir?",
+      "difficulty": "Orta",
+      "options": [
+        "İç: I; Dış: II ve III",
+        "İç: I ve II; Dış: III",
+        "İç: II ve III; Dış: I",
+        "İç: I ve III; Dış: II",
+        "İç: III; Dış: I ve II"
+      ],
+      "answer": "B",
+      "explanation": "Taht mücadeleleri hanedan içindeki, atabeylerin bağımsızlaşması devletin idari yapısındaki sorunlardır. Haçlı kuvvetleriyle mücadele dış baskı unsurudur. Bu ayrım bir etkenin diğerinden daha önemli olduğunu tek başına göstermez.",
+      "sources": [
+        "TIS-NOT",
+        "TIS-M11"
+      ]
+    },
+    {
+      "id": "SEL-017",
+      "revision": 1,
+      "topic": "Büyük Selçuklu Devleti",
+      "subtopic": "Atabey ve melik",
+      "skill": "Bilgi ve kavram ayrımı",
+      "stem": "Selçuklularda eyaletlere gönderilen hanedan mensubu meliklerin eğitim ve yönetim tecrübesi kazanmasına rehberlik eden görevli aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Kadı",
+        "Yuğruş",
+        "Atabey",
+        "Hacip",
+        "Bitikçi"
+      ],
+      "answer": "C",
+      "explanation": "Atabey, melikin yetiştirilmesi ve yönetim tecrübesi kazanmasında görev alır. Melik hanedan mensubu yöneticidir; atabey ise ona rehberlik eden kişidir. Merkezî otorite zayıfladığında bazı atabeylerin bağımsız siyasi güç hâline gelmesi bu görevin nüfuzla ilişkisini gösterir.",
+      "sources": [
+        "TIS-NOT",
+        "TIS-M7",
+        "TIS-A6"
+      ]
+    },
+    {
+      "id": "SEL-018",
+      "revision": 1,
+      "topic": "Büyük Selçuklu Devleti",
+      "subtopic": "Yetiştirme kurumu ve parçalanma",
+      "skill": "Bilgi ve kavram ayrımı",
+      "stem": "Meliklerin yanında görevlendirilen atabeyler başlangıçta Selçuklu idaresine hizmet etmiş, merkez zayıflayınca bazıları bağımsız hareket etmiştir.\n\nBu durum hangi yorumu destekler?",
+      "difficulty": "Orta",
+      "options": [
+        "Atabeylik ilk kurulduğu anda merkezden bağımsız bir devlettir.",
+        "Meliklerin eğitimi ile taşra idaresi arasında hiçbir bağlantı bulunmaz.",
+        "Merkeze bağlı görevlilerin yerel nüfuz kazanması mümkün değildir.",
+        "Bir idari görev, siyasi şartlar değişince bağımsız güç odağına dönüşebilir.",
+        "Hanedan mensuplarının eyalet yönetmesi taht sorunlarını zorunlu olarak bitirir."
+      ],
+      "answer": "D",
+      "explanation": "Atabeyler önce merkez adına görev yapan kişilerken bazıları otorite boşluğunda yerel güçlerini genişletmiştir. Aynı kurumun farklı siyasi şartlarda farklı sonuçlar doğurması mümkündür. Sonradan bağımsızlaşma başlangıçtan beri bağımsız devlet olunduğunu göstermez.",
+      "sources": [
+        "TIS-NOT",
+        "TIS-M11"
+      ]
+    },
+    {
+      "id": "SEL-019",
+      "revision": 1,
+      "topic": "Büyük Selçuklu Devleti",
+      "subtopic": "Atabeyliklerin bölgesel adları",
+      "skill": "Bilgi ve kavram ayrımı",
+      "stem": "Selçuklu siyasi çevresindeki atabeyliklerle bölgeleri arasında aşağıdaki eşleştirmelerden hangisi yanlıştır?",
+      "difficulty": "Orta",
+      "options": [
+        "Böriler – Şam",
+        "Zengiler – Musul ve Halep",
+        "İldenizliler – Azerbaycan",
+        "Salgurlular – Fars",
+        "Zengiler – Azerbaycan"
+      ],
+      "answer": "E",
+      "explanation": "Zengiler Musul ve Halep’le, İldenizliler Azerbaycan’la ilişkilidir. Böriler Şam, Salgurlular Fars atabeyliğidir. Bu siyasi yapıların bazıları Büyük Selçuklu merkezinin tamamen sona ermesinden önce güçlenmiştir; hepsini 1157’den sonra kurulmuş saymak doğru değildir.",
+      "sources": [
+        "TIS-NOT",
+        "TIS-M1"
+      ]
+    },
+    {
+      "id": "SEL-020",
+      "revision": 1,
+      "topic": "Büyük Selçuklu Devleti",
+      "subtopic": "Selçuklu kolları ve atabeylikler",
+      "skill": "Bilgi ve kavram ayrımı",
+      "stem": "Irak, Kirman, Suriye ve Türkiye Selçukluları ile Böriler, Zengiler, İldenizliler ve Salgurlular karşılaştırıldığında hangi değerlendirme doğrudur?",
+      "difficulty": "Orta",
+      "options": [
+        "İlk grup Selçuklu hanedanının bölgesel kollarını, ikinci grup atabeylikleri ifade eder.",
+        "İlk grup atabeylikleri, ikinci grup Selçuklu hanedanının bölgesel kollarını ifade eder.",
+        "Her iki grup Karahanlıların doğu ve batı kollarıdır.",
+        "Her iki grup Malazgirt’te kurulan ilk Anadolu beyliklerinin adlarıdır.",
+        "İlk grup Gazneli eyaletleri, ikinci grup Abbasi sınır şehirleridir."
+      ],
+      "answer": "A",
+      "explanation": "Selçuklu hanedanının bölgesel kolları ile atabeylikler farklı siyasi oluşumlardır. İki grubun aynı siyasi çevrede bulunması hanedan ve yönetici kökenlerinin aynı olduğu anlamına gelmez. Kuruluşlarını tek bir yıkılış tarihine bağlamak da doğru değildir.",
+      "sources": [
+        "TIS-NOT",
+        "TIS-M1"
+      ]
+    },
+    {
+      "id": "SEL-021",
+      "revision": 1,
+      "topic": "Büyük Selçuklu Devleti",
+      "subtopic": "Savaşları sonuçlarıyla birlikte ayırma",
+      "skill": "Bilgi ve kavram ayrımı",
+      "stem": "Bir öğrenci şu eşleştirmeleri yapmıştır:\nI. Dandanakan – Gaznelilerin Horasan’daki gücünün gerilemesi\nII. Malazgirt – Anadolu’da Türk fetih ve yerleşmelerinin hızlanması\nIII. Katvan – Büyük Selçuklu Devleti’nin kuruluşunun kesinleşmesi\n\nBu eşleştirmelerden hangileri doğrudur?",
+      "difficulty": "Orta",
+      "options": [
+        "Yalnız I",
+        "Yalnız III",
+        "I ve II",
+        "II ve III",
+        "I, II ve III"
+      ],
+      "answer": "C",
+      "explanation": "I Dandanakan’ın Gazneliler açısından, II Malazgirt’in Anadolu açısından sonucunu doğru verir. III’te kuruluş sonucu yanlışlıkla Katvan’a aktarılmıştır; Katvan Sencer dönemindeki ağır yenilgidir. Aynı devletin kuruluş, genişleme ve gerileme aşamaları birbirinden ayrılmalıdır.",
+      "sources": [
+        "TIS-NOT",
+        "TIS-M1",
+        "TIS-M11"
+      ]
+    },
+    {
+      "id": "SEL-022",
+      "revision": 1,
+      "topic": "Büyük Selçuklu Devleti",
+      "subtopic": "Dil, dinî tanınma ve siyasi egemenlik",
+      "skill": "Bilgi ve kavram ayrımı",
+      "stem": "Karahanlılarda Türkçe eserler üretilmiş, Gaznelilerde Farsça resmî ve edebî hayatta kullanılmış, Tuğrul Bey ise Abbasi halifesinden sultanlık unvanı almıştır.\n\nBu gelişmelerden hareketle;\nI. dil tercihi ile hanedanın kökeni ayrı ölçütlerdir,\nII. halifenin unvan vermesi siyasi tanınmayla ilişkilidir,\nIII. İslamiyet’i benimseyen Türk devletlerinin resmî dil tercihleri aynı olmak zorundadır\nyargılarından hangileri savunulabilir?",
+      "difficulty": "Zor",
+      "options": [
+        "Yalnız II",
+        "I ve II",
+        "I ve III",
+        "II ve III",
+        "I, II ve III"
+      ],
+      "answer": "B",
+      "explanation": "Türk hanedanlarının farklı dil tercihlerinde bulunması I’i, halifenin sultanlık unvanı vermesi II’yi destekler. Din ortaklığı tek bir resmî dil zorunluluğu doğurmaz; III savunulamaz. Dil, siyasi köken ve dinî meşruiyet birbirinden ayrılarak değerlendirilmelidir.",
+      "sources": [
+        "TIS-NOT",
+        "TIS-M5",
+        "TIS-M6",
+        "TIS-M1"
+      ]
+    },
+    {
+      "id": "SEL-023",
+      "revision": 1,
+      "topic": "Büyük Selçuklu Devleti",
+      "subtopic": "Merkezî güç ve kanıt sınırı",
+      "skill": "Bilgi ve yorum",
+      "stem": "Melikşah döneminde sınırlar genişlemiş; ölümünden sonra hanedan üyeleri arasında taht mücadeleleri yaşanmış ve merkeze bağlı bazı yöneticiler bağımsızlaşmıştır.\n\nBu bilgilere dayanarak aşağıdaki yargılardan hangisine ulaşılamaz?",
+      "difficulty": "Orta",
+      "options": [
+        "Bir dönemdeki dış genişleme sonraki iç istikrarı güvence altına almaz.",
+        "Hanedan içi mücadeleler merkezî yönetimi zayıflatabilir.",
+        "Merkezin zayıflaması yerel yöneticilerin hareket alanını genişletebilir.",
+        "Sınır genişlemesi, bütün taşra yöneticilerinin baştan beri bağımsız olduğunu kanıtlar.",
+        "Siyasi gücün sürekliliği hem hanedan ilişkileri hem taşra bağlılığıyla ilgilidir."
+      ],
+      "answer": "D",
+      "explanation": "Bağımsızlaşma başlangıçta merkeze bağlı olunduğunu, sonradan ilişkinin değiştiğini ifade eder; baştan beri bağımsızlık sonucu çıkarılamaz. Taht mücadeleleri merkezî otoriteyi, taşra yöneticilerinin ayrılması siyasi bütünlüğü etkiler. Dış genişleme bu iki alandaki sorunlara karşı kalıcı güvence değildir.",
+      "sources": [
+        "TIS-NOT",
+        "TIS-M11"
+      ]
+    },
+    {
+      "id": "KAH-013",
+      "revision": 1,
+      "topic": "Karahanlılar",
+      "subtopic": "Orta Asya’daki Müslüman Türk devleti",
+      "skill": "Bilgi ve kavram ayrımı",
+      "stem": "Orta Asya’da kurulan, Satuk Buğra Han döneminde İslamlaşma süreci güçlenen ve Türkçe eserlerle Türk-İslam kültürünün gelişmesine katkıda bulunan devlet aşağıdakilerden hangisidir?",
+      "difficulty": "Orta",
+      "options": [
+        "İdil Bulgarları",
+        "Karahanlılar",
+        "Gazneliler",
+        "Büyük Selçuklular",
+        "Harzemşahlar"
+      ],
+      "answer": "B",
+      "explanation": "Verilen coğrafya, hükümdar ve kültür özellikleri Karahanlıları gösterir. İdil Bulgarları da erken Müslüman Türk devletleri arasındadır; ancak Doğu Avrupa’daki coğrafyası ve Almış Han bağlantısı farklıdır. İlk Müslüman devlet değerlendirmesinde coğrafi kapsam açık tutulmalıdır.",
+      "sources": [
+        "TIS-NOT",
+        "TIS-M6"
+      ]
+    },
+    {
+      "id": "KAH-014",
+      "revision": 1,
+      "topic": "Karahanlılar",
+      "subtopic": "Taht mücadeleleri ve bölünme",
+      "skill": "Bilgi ve kavram ayrımı",
+      "stem": "Karahanlıların doğu ve batı kollarına ayrılmasında hanedan içi taht mücadelelerinin etkili olması hangi değerlendirmeye uygundur?",
+      "difficulty": "Orta",
+      "options": [
+        "Hanedan içi mücadele devletin siyasi bütünlüğünü zayıflatabilir.",
+        "İkili teşkilat uygulanan her devlet aynı tarihte yıkılır.",
+        "Türkçenin resmî dil olması siyasi bölünmeyi engeller.",
+        "İslamiyet’in kabulü hanedan üyelerinin veraset iddialarını kaldırır.",
+        "Bölünme yabancı devletlerin bütün ülkeyi aynı anda fethetmesini gerektirir."
+      ],
+      "answer": "A",
+      "explanation": "Taht mücadelesi aynı siyasi yapı içindeki hükümdarlık iddialarını karşı karşıya getirerek bölünmeye yol açabilir. Eski ikili yönetim geleneği ile sonradan ayrı siyasi kollar oluşması aynı olay değildir. Ortak dil ve din de veraset sorunlarının yaşanmasını kendiliğinden önlemez.",
+      "sources": [
+        "TIS-NOT",
+        "TIS-M1",
+        "TIS-M7"
+      ]
+    },
+    {
+      "id": "KAH-015",
+      "revision": 1,
+      "topic": "Karahanlılar",
+      "subtopic": "Karahanlı mimarisinin örnekleri",
+      "skill": "Bilgi ve kavram ayrımı",
+      "stem": "Aşağıdaki yapı çiftlerinden hangisi Karahanlı mimarisine örnek gösterilebilir?",
+      "difficulty": "Orta",
+      "options": [
+        "Ribat-ı Şerif – İsfahan Mescid-i Cuma",
+        "Divriği Ulu Cami – Karatay Medresesi",
+        "Arap Ata Türbesi – Ayşe Bibi Türbesi",
+        "Gevher Nesibe Darüşşifası – İnce Minareli Medrese",
+        "Nizamiye Medresesi – Sultan Hanı"
+      ],
+      "answer": "C",
+      "explanation": "Arap Ata ve Ayşe Bibi türbeleri Karahanlı mimarisinin örnekleridir. Ribat-ı Şerif ve İsfahan Mescid-i Cuma Büyük Selçuklu çevresiyle, diğer seçeneklerdeki Anadolu yapıları ise farklı beylik ve Türkiye Selçuklu dönemleriyle ilişkilidir.",
+      "sources": [
+        "TIS-NOT",
+        "TIS-M12"
+      ]
+    },
+    {
+      "id": "GAZ-011",
+      "revision": 1,
+      "topic": "Gazneliler",
+      "subtopic": "Hindistan seferleri ve kapsam",
+      "skill": "Bilgi ve kavram ayrımı",
+      "stem": "Hindistan’a on yedi sefer düzenleyen Gazneli Mahmut’un faaliyetleriyle ilgili hangi yargı doğrudur?",
+      "difficulty": "Kolay",
+      "options": [
+        "Seferler Sencer dönemindeki Katvan yenilgisinin ardından başlamıştır.",
+        "Seferler Karahanlıların doğu ve batı kollarına ayrılmasıdır.",
+        "Seferlerin asıl karşı tarafı Anadolu’daki Bizans kuvvetleridir.",
+        "Seferler Hindistan’da İslamiyet’in yayılmasına katkı sağlamıştır.",
+        "Seferler Dandanakan’ın Gazneliler tarafından kazanılmasıyla sonuçlanmıştır."
+      ],
+      "answer": "D",
+      "explanation": "Gazneli Mahmut’un Hindistan seferleri bölgede İslamiyet’in yayılmasına katkı sağlamıştır. Bu faaliyetler Mahmut dönemine, Dandanakan yenilgisi ise oğlu Mesut dönemine aittir. İki hükümdarın olaylarını ve iki farklı mücadele alanını ayırmak gerekir.",
+      "sources": [
+        "TIS-NOT",
+        "TIS-M1"
+      ]
+    },
+    {
+      "id": "SEL-024",
+      "revision": 1,
+      "topic": "Büyük Selçuklu Devleti",
+      "subtopic": "Hanedanın atası ve kurucu hükümdar",
+      "skill": "Bilgi ve kavram ayrımı",
+      "stem": "Büyük Selçuklu hanedanına adını veren, Oğuz Yabgu Devleti’nde görev yaptıktan sonra Cend’e gelen kişi aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Tuğrul Bey",
+        "Çağrı Bey",
+        "Kutalmış",
+        "İbrahim Yinal",
+        "Selçuk Bey"
+      ],
+      "answer": "E",
+      "explanation": "Selçuk Bey hanedana adını veren atadır ve Cend’deki faaliyetleri kuruluş öncesi sürece aittir. Tuğrul Bey’in resmî devlet kuruluşundaki rolüyle bu dönem ayrılmalıdır. Çağrı Bey ise Tuğrul Bey’le birlikte devletin güçlenmesinde etkili olmuştur.",
+      "sources": [
+        "TIS-NOT",
+        "TIS-M1"
+      ]
+    },
+    {
+      "id": "SEL-025",
+      "revision": 1,
+      "topic": "Büyük Selçuklu Devleti",
+      "subtopic": "Sencer’in son dönemi",
+      "skill": "Bilgi ve kavram ayrımı",
+      "stem": "1141 Katvan yenilgisi, 1153’te Oğuzlarla yaşanan mücadele ve 1157’de Büyük Selçuklu merkezî siyasi varlığının sona erişi hangi hükümdarın son dönemiyle ilişkilidir?",
+      "difficulty": "Orta",
+      "options": [
+        "Alp Arslan",
+        "Sencer",
+        "Melikşah",
+        "Tuğrul Bey",
+        "Muhammed Tapar"
+      ],
+      "answer": "B",
+      "explanation": "Bu gelişmeler Sultan Sencer’in son dönemine aittir. Katvan’da Karahitaylara, Oğuzlarla mücadelede ise devlet içindeki Türkmen kuvvetlerine karşı başarısızlık yaşanmıştır. Dış yenilgi ile iç çatışma aynı taraflara karşı gerçekleşmiş tek savaş değildir.",
+      "sources": [
+        "TIS-NOT",
+        "TIS-M11"
+      ]
+    },
+    {
+      "id": "SEL-026",
+      "revision": 1,
+      "topic": "Büyük Selçuklu Devleti",
+      "subtopic": "Yakın savaşlarda taraf–sonuç–zaman denetimi",
+      "skill": "Bilgi ve kavram ayrımı",
+      "stem": "Aşağıdaki yargılar birlikte değerlendirildiğinde hangileri doğrudur?\nI. Gaznelilerin Selçuklular karşısındaki Dandanakan yenilgisi, Malazgirt’ten önce gerçekleşmiştir.\nII. Katvan ve Malazgirt’te Selçuklular aynı rakiple karşılaşmış, iki savaşta da Anadolu’da ilerlemiştir.\nIII. Tuğrul Bey’in Bağdat müdahalesi ile Alp Arslan’ın Ani fethi farklı hükümdar dönemlerine aittir.",
+      "difficulty": "Zor",
+      "options": [
+        "Yalnız I",
+        "Yalnız II",
+        "I ve II",
+        "I ve III",
+        "II ve III"
+      ],
+      "answer": "D",
+      "explanation": "I doğrudur: Dandanakan 1040, Malazgirt 1071’dir. II yanlıştır: Malazgirt’te rakip Bizans, Katvan’da Karahitaylardır; Katvan Anadolu’da ilerleme sağlayan zafer değildir. III doğrudur: Bağdat 1055’te Tuğrul Bey, Ani 1064’te Alp Arslan dönemindedir. Cevap için kronoloji, rakip ve hükümdar bilgileri birlikte kullanılmalıdır.",
+      "sources": [
+        "TIS-NOT",
+        "TIS-M1",
+        "TIS-M10",
+        "TIS-M11"
+      ]
+    }
+  ]
+}

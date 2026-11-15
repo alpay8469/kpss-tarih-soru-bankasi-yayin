@@ -1,0 +1,67 @@
+{
+  "title": "Büyük Selçuklu — Malazgirt öncesi elçilik ek soruları",
+  "unit": "U02",
+  "date": "2026-10-11",
+  "question_count": 2,
+  "sources": {
+    "ELCI-NOT": {
+      "title": "Kullanıcının elçilik görüşmesini tamamlayan metin notu",
+      "type": "Kullanıcı tarafından sağlanan kapsam notu",
+      "date": "2026-10-11",
+      "section": "Romen Diyojen, İsfahan/Hemedan ve Selçuklu elçisinin karşılığı."
+    },
+    "ELCI-A1": {
+      "title": "Marmara Üniversitesi açık tez kaydı — Malazgirt öncesi elçilik anlatısı",
+      "url": "https://katalog.marmara.edu.tr/veriler/yordambt/cokluortam/5D/8D0CE38D-EDA8-FE48-9BD9-C0FAB96C8909.pdf",
+      "type": "Akademik araştırma",
+      "accessed": "2026-10-11",
+      "section": "İsfahan/Hemedan sorusu, kışlama iddiası ve elçinin karşılığı; sözlerin aktarım biçimleri farklı olduğundan özet anlatım kullanıldı."
+    }
+  },
+  "questions": [
+    {
+      "id": "SEL-027",
+      "revision": 1,
+      "topic": "Büyük Selçuklu Devleti",
+      "subtopic": "Malazgirt öncesi elçilik anlatısı",
+      "skill": "Bilgi",
+      "stem": "Bir elçilik anlatısında Bizans İmparatoru Romen Diyojen, İsfahan ve Hemedan hakkında soru sormuş; kendisinin İsfahan’da, binitlerinin Hemedan’da kışlayacağını ileri sürmüştür. Selçuklu elçisi ise imparatorun kendisi için aynı kesinlikle konuşamayacağını belirten bir karşılık vermiştir.\n\nBu görüşme aşağıdaki savaşlardan hangisinin öncesiyle ilişkilidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Dandanakan",
+        "Pasinler",
+        "Malazgirt",
+        "Katvan",
+        "Serahs"
+      ],
+      "answer": "C",
+      "explanation": "Anlatı, Alp Arslan ile Romen Diyojen’i karşı karşıya getiren 1071 Malazgirt Savaşı’nın öncesiyle ilişkilidir. Pasinler de Bizans kuvvetlerine karşı yapılmış olmakla birlikte 1048’deki farklı hükümdar ve komutanların mücadelesidir. Sözlerin farklı aktarım biçimleri bulunduğundan görüşmenin bağlamı esas alınır.",
+      "sources": [
+        "ELCI-NOT",
+        "ELCI-A1"
+      ]
+    },
+    {
+      "id": "SEL-028",
+      "revision": 1,
+      "topic": "Büyük Selçuklu Devleti",
+      "subtopic": "Elçilikte zafer beklentisi ve karşılık",
+      "skill": "Bilgi ve yorum",
+      "stem": "Malazgirt öncesindeki elçilik anlatısında Romen Diyojen, Selçuklu ülkesindeki İsfahan’da kışlama planından söz etmiştir. Selçuklu elçisi, imparatorun binitleri için söylediğinin gerçekleşebileceğini; fakat imparatorun kendisinin nerede bulunacağının belli olmadığını ima etmiştir.\n\nBu karşılıklı ifadelerden aşağıdaki yorumların hangisi yapılabilir?",
+      "difficulty": "Orta",
+      "options": [
+        "İmparator Selçuklu üstünlüğünü kabul etmiş, elçi teslim şartlarını açıklamıştır.",
+        "İmparator İran yönünde ilerlemeyi hedeflemiş, elçi bu hedefin gerçekleşmesini güvence altına almıştır.",
+        "İmparator savaştan çekileceğini bildirmiş, elçi görüşmeleri bitirmesini istemiştir.",
+        "İmparator zafer beklentisini dile getirmiş, elçi bu beklentinin kesinliğine karşı çıkmıştır.",
+        "İmparator esirlerin yerini sormuş, elçi savaş sonrasında alınmış kararı duyurmuştur."
+      ],
+      "answer": "D",
+      "explanation": "İsfahan’da kışlama iddiası, imparatorun Selçuklu ülkesine ilerleyebileceğine güvenmesini ifade eder. Elçinin imparatorla binitlerinin akıbetini ayıran karşılığı ise bu kesinliği sorgular. Savaş öncesindeki bu konuşma tek başına savaşın nasıl sonuçlandığını veya esirlerin nereye götürüldüğünü kanıtlamaz.",
+      "sources": [
+        "ELCI-NOT",
+        "ELCI-A1"
+      ]
+    }
+  ]
+}

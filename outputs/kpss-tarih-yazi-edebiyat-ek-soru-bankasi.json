@@ -1,0 +1,701 @@
+{
+  "title": "KPSS Tarih — Yazı, Dil ve Edebiyat: görsel ek bankası",
+  "unit": null,
+  "date": "2026-10-10",
+  "question_count": 28,
+  "sources": {
+    "YE01": {
+      "title": "TDV — Türk: tarih boyunca alfabeler ve Eski Türkçe",
+      "url": "https://islamansiklopedisi.org.tr/turk",
+      "type": "Uzman incelemesi",
+      "accessed": "2026-10-10"
+    },
+    "YE02": {
+      "title": "TDK Türk Dili 1958/83 — Orhon ve Uygur yazılarının millî kullanımı",
+      "url": "https://www.tdk.gov.tr/dosyalar/TDD/1958s83/1958s83_02_A.D.pdf",
+      "type": "Uzman incelemesi",
+      "accessed": "2026-10-10"
+    },
+    "YE03": {
+      "title": "MEB Türk Dili ve Edebiyatı 10 — Türk destanlarının sınıflandırılması",
+      "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/turkdiliveedebiyati/10/unite4/files/basic-html/page16.html",
+      "type": "Resmî eğitim materyali",
+      "accessed": "2026-10-10"
+    },
+    "YE04": {
+      "title": "TDV — Dede Korkut",
+      "url": "https://islamansiklopedisi.org.tr/dede-korkut",
+      "type": "Uzman incelemesi",
+      "accessed": "2026-10-10"
+    },
+    "YE05": {
+      "title": "Türk Dünyası Araştırmaları — Sozomenos ve Avrupa Hunları: Sihirli Geyik anlatısı",
+      "url": "https://dergipark.org.tr/tr/download/issue-full-file/85911",
+      "type": "Akademik tarih araştırması",
+      "accessed": "2026-10-10"
+    },
+    "YE06": {
+      "title": "Mirlanbek Nurmatov — Yenisey runik yazısı ve tarihlendirme sorunu",
+      "url": "https://dergipark.org.tr/en/download/article-file/54893",
+      "type": "Akademik araştırma",
+      "accessed": "2026-10-10"
+    },
+    "YE07": {
+      "title": "Cengiz Alyılmaz — Bugut Yazıtı ve Anıt Mezar Külliyesi Üzerine",
+      "url": "https://dergipark.org.tr/tr/download/article-file/258166",
+      "type": "Akademik epigrafi araştırması",
+      "accessed": "2026-10-10"
+    },
+    "YE08": {
+      "title": "TDV — Orhon Yazıtları, Mustafa S. Kaçalin",
+      "url": "https://islamansiklopedisi.org.tr/orhon-yazitlari",
+      "type": "Uzman incelemesi",
+      "accessed": "2026-10-10"
+    },
+    "YE09": {
+      "title": "Türk Maarif Ansiklopedisi — Göktürk Yazıtları",
+      "url": "https://turkmaarifansiklopedisi.org.tr/gokturk-yazitlari",
+      "type": "Uzman incelemesi",
+      "accessed": "2026-10-10"
+    },
+    "YE10": {
+      "title": "Hatice Şirin — Şine Us ve Karabalgasun Yazıtları Üzerine (2022)",
+      "url": "https://dergipark.org.tr/tr/download/article-file/2592917",
+      "type": "Akademik araştırma",
+      "accessed": "2026-10-10"
+    },
+    "YE11": {
+      "title": "Halil Gürgün — Tes ve Tariat Yazıtlarının Türü ve Yazılış Amacı/İşlevi (2026)",
+      "url": "https://tdkbelleten.gov.tr/tam-metin/1132/tur",
+      "type": "TDK araştırma makalesi",
+      "accessed": "2026-10-10"
+    },
+    "YE12": {
+      "title": "Ahmet Yesevi Üniversitesi — Bilge Kağan Yazıtı, Türk Edebiyatı Eserler Sözlüğü",
+      "url": "https://tees.yesevi.edu.tr/madde-detay/bilge-kagan-yaziti",
+      "type": "Uzman eser maddesi; erişilebilir arama özeti, sayfa açılışı yönlendirme hatalı",
+      "accessed": "2026-10-10"
+    },
+    "KT22": {
+      "title": "MEB Türk Dili ve Edebiyatı 10 — Sözlü ürünler ve kopuz",
+      "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/kavram_calismalari/10/edebiyat/tek/files/basic-html/page10.html",
+      "type": "Resmî eğitim materyali",
+      "accessed": "2026-10-10"
+    },
+    "KK2": {
+      "title": "UNESCO — Kyrgyz epic trilogy: Manas, Semetey, Seytek",
+      "url": "https://ich.unesco.org/en/RL/kyrgyz-epic-trilogy-manas-semetey-seytek-00876"
+    },
+    "KK12": {
+      "title": "UNESCO — Art of Akyns, Kyrgyz epic tellers",
+      "url": "https://ich.unesco.org/en/RL/art-of-akyns-kyrgyz-epic-tellers-00065"
+    }
+  },
+  "questions": [
+    {
+      "id": "KU-065",
+      "revision": 1,
+      "topic": "İslamiyet Öncesi Türklerde Kültür ve Uygarlık",
+      "subtopic": "Millî alfabeler",
+      "skill": "Bilgi",
+      "stem": "Türk kültür tarihinde millî alfabeler olarak anılan iki eski yazı sistemi aşağıdakilerin hangisinde birlikte verilmiştir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Orhon – Uygur",
+        "Soğd – Brahmi",
+        "Uygur – Süryani",
+        "Orhon – Arap",
+        "Kiril – Latin"
+      ],
+      "answer": "A",
+      "explanation": "Orhon, Göktürk alfabesi adıyla da anılır; diğer yazı sistemi Uygur alfabesidir. Millî kullanım nitelemesi, her iki yazının bütün işaretlerinin dış etkileşim olmadan icat edildiği anlamına gelmez. Uygur yazısı Soğd yazısından geliştirilmiştir.",
+      "sources": [
+        "YE01",
+        "YE02"
+      ]
+    },
+    {
+      "id": "KU-066",
+      "revision": 1,
+      "topic": "İslamiyet Öncesi Türklerde Kültür ve Uygarlık",
+      "subtopic": "Dil ve alfabe ayrımı",
+      "skill": "Bilgi–Yorum",
+      "stem": "Türkçenin farklı dönem ve bölgelerde Uygur, Arap ve Kiril harfleriyle yazılmış olması öncelikle hangi ayrımın yapılmasını gerektirir?",
+      "difficulty": "Orta",
+      "options": [
+        "Yazı sisteminin değişmesiyle edebî türlerin değişmesini aynı olay saymak",
+        "Alfabe adından devletin resmî dinini doğrudan belirlemek",
+        "Kullanılan harfleri metnin diliyle özdeşleştirmemek",
+        "Harf değişimini siyasi bağımsızlık kaybının göstergesi saymak",
+        "Aynı dili kullanan toplulukları tek devlet kabul etmek"
+      ],
+      "answer": "C",
+      "explanation": "Alfabe dili yazıya geçirmede kullanılan işaret sistemidir. Türkçe farklı alfabelerle yazılabilir; Arap harfli bir Türkçe metin bu nedenle Arapça olmaz. Aynı şekilde harf tercihinden devletin bağımsızlığı veya bütün edebî türleri tek başına belirlenemez.",
+      "sources": [
+        "YE01"
+      ]
+    },
+    {
+      "id": "KU-067",
+      "revision": 1,
+      "topic": "İslamiyet Öncesi Türklerde Kültür ve Uygarlık",
+      "subtopic": "Alfabe çeşitliliği ve kültürel temas",
+      "skill": "Bilgi–Yorum",
+      "stem": "Uygur çevresinde Türkçe metinlerin Uygur harflerinin yanında Brahmi ve Süryani gibi yazı sistemleriyle de kaydedilmesi hakkında,\nI. Yazılı kültür farklı kültür çevreleriyle temas içinde gelişmiştir.\nII. Her alfabe değişikliği konuşulan dilin değiştiğini gösterir.\nIII. Bir topluluğun yazılı ürünleri tek bir alfabe türüne indirgenemez.\nyargılarından hangileri savunulabilir?",
+      "difficulty": "Orta",
+      "options": [
+        "Yalnız II",
+        "I ve II",
+        "II ve III",
+        "I, II ve III",
+        "I ve III"
+      ],
+      "answer": "E",
+      "explanation": "I ve III savunulabilir: farklı yazı sistemleri kültürel temasın ve yazılı ürünlerdeki çeşitliliğin göstergesidir. II savunulamaz; metinler farklı harflerle yine Türkçe kaydedilebilir. Brahmi ve Süryani de eski Türkçe metinlerin yazımında kullanılan sistemler arasındadır.",
+      "sources": [
+        "YE01"
+      ]
+    },
+    {
+      "id": "KU-068",
+      "revision": 1,
+      "topic": "İslamiyet Öncesi Türklerde Kültür ve Uygarlık",
+      "subtopic": "Sözlü ürünlerin kaynak değeri",
+      "skill": "Bilgi–Yorum",
+      "stem": "Bir araştırmacı toplumsal öğütleri ve davranış ölçülerini incelerken savlara; kahramanlık hafızasını incelerken destanlara başvurmaktadır. Bu tercih aşağıdakilerin hangisine dayanır?",
+      "difficulty": "Orta",
+      "options": [
+        "Savların hükümdarların resmî emirleri olmasına",
+        "Sözlü ürünlerin türlerine göre farklı kültürel bilgiler taşımasına",
+        "Destanların olayların günü gününe tutulmuş kayıtları olmasına",
+        "Savların tek bir kişinin hayat hikâyesini anlatmasına",
+        "Destanların toplumsal değerlerden bağımsız olmasına"
+      ],
+      "answer": "B",
+      "explanation": "Savlar atasözü niteliğindeki kısa, özlü sözlerdir; toplumsal öğüt ve değerler hakkında bilgi verebilir. Destanlar ise kahramanlık ve ortak hafızayı yansıtır. İkisi farklı kaynak sorularına yardımcı olur; destan, olayların doğrudan günlük kaydı olarak kullanılmaz.",
+      "sources": [
+        "KT22",
+        "YE03"
+      ]
+    },
+    {
+      "id": "KU-069",
+      "revision": 1,
+      "topic": "İslamiyet Öncesi Türklerde Kültür ve Uygarlık",
+      "subtopic": "Dede Korkut ve aktarım",
+      "skill": "Bilgi ve yorum",
+      "stem": "Dede Korkut Hikâyeleri’nde olayların anlatıldığı düz yazı bölümleriyle kahramanların sözlerinin şiir biçiminde verildiği bölümler birlikte yer alır.\n\nBu özellik için aşağıdaki değerlendirmelerden hangisi doğrudur?",
+      "difficulty": "Orta",
+      "options": [
+        "Şiir bölümlerinin bulunması eserin bütünüyle sagu türünde olduğunu gösterir.",
+        "Hikâye türündeki bir eserde nazım ve nesir anlatım biçimleri birlikte kullanılabilir.",
+        "Düz yazı bölümleri sav, şiir bölümleri destan olarak bağımsız eserler sayılmalıdır.",
+        "Kahramanlık konusunun işlenmesi eserin bütün bölümlerini nazım hâline getirir.",
+        "Anlatım biçiminin bölümden bölüme değişmesi her bölümün farklı Türk boyuna ait olduğunu gösterir."
+      ],
+      "answer": "B",
+      "explanation": "Düz yazı nesir, şiir biçimindeki anlatım nazımdır; aynı hikâye bu iki biçimi bir araya getirebilir. Edebî tür ile anlatım biçimi aynı sınıflandırma ölçütü değildir. Şiir bölümü görülmesi eseri ağıt olan saguya dönüştürmez veya kahramanlık konusu bütün metni şiir yapmaz.",
+      "sources": [
+        "YE04"
+      ]
+    },
+    {
+      "id": "KU-070",
+      "revision": 1,
+      "topic": "İslamiyet Öncesi Türklerde Kültür ve Uygarlık",
+      "subtopic": "Destan ve kültür çevresi",
+      "skill": "Bilgi",
+      "stem": "Türk destan geleneğine ilişkin aşağıdaki eşleştirmelerden hangisi yanlıştır?",
+      "difficulty": "Orta",
+      "options": [
+        "Alp Er Tunga – Saka/İskit çevresi",
+        "Oğuz Kağan – Asya Hun çevresi",
+        "Bozkurt ve Ergenekon – Uygurlar",
+        "Türeyiş ve Göç – Uygurlar",
+        "Manas – Kırgızlar"
+      ],
+      "answer": "C",
+      "explanation": "Bozkurt ve Ergenekon Göktürklerle, Türeyiş ve Göç ise Uygurlarla ilişkilendirilir. Alp Er Tunga Saka/İskit çevresinde, Oğuz Kağan Asya Hun geleneğiyle bağlantılı sınıflandırılır. Bunlar edebî kültür çevresi eşleştirmeleridir; bir destanın bütün olaylarını arşiv kaydı gibi doğrulamaz.",
+      "sources": [
+        "YE03",
+        "YE04",
+        "KK2",
+        "KK12"
+      ]
+    },
+    {
+      "id": "KU-071",
+      "revision": 1,
+      "topic": "İslamiyet Öncesi Türklerde Kültür ve Uygarlık",
+      "subtopic": "Saka destanları",
+      "skill": "Bilgi",
+      "stem": "Türk edebiyatındaki geleneksel sınıflandırmada Saka/İskit kültür çevresiyle ilişkilendirilen destan çifti aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Türeyiş – Göç",
+        "Alp Er Tunga – Şu",
+        "Ergenekon – Bozkurt",
+        "Oğuz Kağan – Attila",
+        "Manas – Göç"
+      ],
+      "answer": "B",
+      "explanation": "Alp Er Tunga ve Şu destanları edebî sınıflandırmada Saka/İskit çevresiyle ilişkilendirilir. Türeyiş–Göç Uygur, Ergenekon–Bozkurt Göktürk geleneğiyle bağlantılıdır. Edebî ilişkilendirme, İskit dilinin sınıflandırılması hakkında tek başına kesin bir hüküm değildir.",
+      "sources": [
+        "YE03"
+      ]
+    },
+    {
+      "id": "KU-072",
+      "revision": 1,
+      "topic": "İslamiyet Öncesi Türklerde Kültür ve Uygarlık",
+      "subtopic": "Hun destanlarının coğrafi çevresi",
+      "skill": "Bilgi",
+      "stem": "Asya Hunlarıyla ilişkilendirilen destan ile Avrupa Hunlarının hükümdarı çevresinde gelişen anlatı aşağıdakilerin hangisinde sırasıyla verilmiştir?",
+      "difficulty": "Orta",
+      "options": [
+        "Attila – Oğuz Kağan",
+        "Manas – Attila",
+        "Oğuz Kağan – Göç",
+        "Şu – Ergenekon",
+        "Oğuz Kağan – Attila"
+      ],
+      "answer": "E",
+      "explanation": "Oğuz Kağan destanı Asya Hunlarıyla, Attila çevresindeki anlatılar Avrupa Hunlarıyla ilişkilendirilir. İkisinin Hun tarihiyle bağlantısı aynı coğrafi ve siyasi çevreye ait oldukları anlamına gelmez. Göç Uygur, Manas Kırgız geleneğindedir.",
+      "sources": [
+        "YE03"
+      ]
+    },
+    {
+      "id": "KU-073",
+      "revision": 1,
+      "topic": "İslamiyet Öncesi Türklerde Kültür ve Uygarlık",
+      "subtopic": "Sihirli Geyik ve Hun anlatıları",
+      "skill": "Bilgi",
+      "stem": "Sihirli Geyik anlatısının, Hunların batıya ilerleyişini konu alan tarihsel gelenek içindeki yeri aşağıdakilerden hangisiyle ilişkilidir?",
+      "difficulty": "Orta",
+      "options": [
+        "Avrupa Hunları çevresinde aktarılan menşe ve ilerleyiş anlatılarıyla",
+        "Kırgızların Manas geleneğindeki boy birleşmesiyle",
+        "Uygurların Göç ve Türeyiş geleneğindeki köken anlatılarıyla",
+        "Göktürklerin Ergenekondan çıkışındaki demir dağı eritmesiyle",
+        "Asya Hunlarıyla ilişkilendirilen Oğuz Kağan çevresindeki anlatılarla"
+      ],
+      "answer": "A",
+      "explanation": "Sihirli Geyik, Avrupa Hunlarının ortaya çıkışı ve batıya ilerlemesine ilişkin efsanevi anlatılar içinde aktarılır. Menşe veya yol gösterici hayvan motifi anlatının türünü ve kültürel hafızayı incelemeye yardımcıdır. Motifin aktarılması, bütün ayrıntılarının tarihsel olay olarak gerçekleştiğini kanıtlamaz.",
+      "sources": [
+        "YE05"
+      ]
+    },
+    {
+      "id": "KU-074",
+      "revision": 1,
+      "topic": "İslamiyet Öncesi Türklerde Kültür ve Uygarlık",
+      "subtopic": "Sözlü türler ve yazılı kayıt",
+      "skill": "Bilgi–Yorum",
+      "stem": "Bir sagu ile bir destanın daha sonraki bir yazma eserde kaydedildiği görülmektedir. Bu kayıt hakkında,\nI. Sagu ölüm ve yas, destan ise kahramanlık anlatısı bakımından incelenebilir.\nII. Yazıya geçirilmiş olmaları sözlü gelenekle bağlantılarını ortadan kaldırır.\nIII. Yazmanın tarihi ile anlatıların oluşma tarihi ayrı araştırılmalıdır.\nyargılarından hangileri savunulabilir?",
+      "difficulty": "Orta",
+      "options": [
+        "I ve II",
+        "Yalnız II",
+        "II ve III",
+        "I ve III",
+        "I, II ve III"
+      ],
+      "answer": "D",
+      "explanation": "I ve III savunulabilir: türlerin farklı işlevleri vardır ve kayıt tarihi oluşma tarihiyle aynı değildir. II savunulamaz; sözlü bir ürün yazıya geçirildiğinde sözlü gelenekle tarihsel bağlantısı silinmez. Sagu ağıt, destan kahramanlık anlatısıdır; koşuk ise bunlarla aynı işlevi taşımayan şiir türüdür.",
+      "sources": [
+        "KT22",
+        "YE03"
+      ]
+    },
+    {
+      "id": "KU-075",
+      "revision": 1,
+      "topic": "İslamiyet Öncesi Türklerde Kültür ve Uygarlık",
+      "subtopic": "Yenisey yazıtlarının tarihi",
+      "skill": "Bilgi ve yorum",
+      "stem": "Tarih kaydı bulunmayan varsayımsal bir Yenisey yazıtının harf biçimleri tarihlendirilebilen bir yazıt grubuna benzemektedir. Arkeolojik çevresi de incelenmektedir.\n\nBu yazıtı tarihlendirirken aşağıdaki yaklaşımlardan hangisi daha uygundur?",
+      "difficulty": "Orta",
+      "options": [
+        "Benzer harf kullanan anıtın dikiliş yılını yeni yazıtın kesin tarihi saymak",
+        "Harf biçimleriyle arkeolojik bağlamın işaret ettiği zaman aralıklarını birlikte değerlendirmek",
+        "Aynı coğrafyadaki en eski yazıtın tarihini bütün grubun başlangıç ve bitişi saymak",
+        "Yazıtın bulunduğu tabakanın tarihini, taşın daha önce kullanılıp kullanılmadığını araştırmadan benimsemek",
+        "Runik adlandırmayı yazıtın ait olduğu hükümdar dönemini belirleyen ölçüt saymak"
+      ],
+      "answer": "B",
+      "explanation": "Harf biçimleri bir zaman aralığına işaret edebilir; arkeolojik bağlam bu tahmini destekleyebilir veya sınırlayabilir. Benzer harfler aynı yılın, aynı coğrafya aynı dönemin kesin kanıtı değildir. Taşın sonradan taşınması ya da yeniden kullanılması ihtimali de bağlamı değerlendirirken araştırılmalıdır.",
+      "sources": [
+        "YE06"
+      ]
+    },
+    {
+      "id": "KU-076",
+      "revision": 1,
+      "topic": "İslamiyet Öncesi Türklerde Kültür ve Uygarlık",
+      "subtopic": "Bugut ve devlet dönemi",
+      "skill": "Bilgi",
+      "stem": "Moğolistan’da bulunan ve Soğdca yüzleriyle tanınan Bugut Yazıtı hangi siyasi dönemin mirasıdır?",
+      "difficulty": "Kolay",
+      "options": [
+        "II. Göktürk Kağanlığı",
+        "Ötüken Uygur Kağanlığı",
+        "I. Göktürk Kağanlığı",
+        "Asya Hun Devleti",
+        "Turfan Uygurları"
+      ],
+      "answer": "C",
+      "explanation": "Bugut I. Göktürk Kağanlığı döneminden kalmadır; Soğdca metinleriyle tanınır. Kül Tigin ve Bilge Kağan yazıtları ise II. Göktürk dönemindedir. Bir yazıtın Göktürk siyasi çevresine ait olması, her yüzünün Türkçe olduğu anlamına gelmez.",
+      "sources": [
+        "YE07"
+      ]
+    },
+    {
+      "id": "KU-077",
+      "revision": 1,
+      "topic": "İslamiyet Öncesi Türklerde Kültür ve Uygarlık",
+      "subtopic": "Bugut ve kültürel etkileşim",
+      "skill": "Bilgi–Yorum",
+      "stem": "I. Göktürk Kağanlığı’na ait Bugut Yazıtı’nın Soğdca bölümler içermesinden hangi çıkarım yapılabilir?",
+      "difficulty": "Orta",
+      "options": [
+        "Soğdcanın kullanılması eserin Göktürklerle siyasi bağını ortadan kaldırır.",
+        "Anıt Göktürklerin Türkçe konuşmadığını kanıtlar.",
+        "Kağanlığın sınırları Soğdca konuşulan yerlerle örtüşmüştür.",
+        "Göktürk anıt üretiminde farklı dil çevrelerinin etkisi görülebilmiştir.",
+        "Soğdca bölümler Göktürk alfabesinin kullanılmadığını bütün dönem için gösterir."
+      ],
+      "answer": "D",
+      "explanation": "Bugutun Göktürk siyasi çevresinde Soğdca kullanılması kültürel ve dilsel temasın göstergesidir. Siyasi aidiyetle metnin dili farklı ölçütlerdir. Bu anıt, toplumun tamamının konuşma dilini veya dönemde kullanılan bütün alfabeleri tek başına belirlemez.",
+      "sources": [
+        "YE07"
+      ]
+    },
+    {
+      "id": "KU-078",
+      "revision": 1,
+      "topic": "İslamiyet Öncesi Türklerde Kültür ve Uygarlık",
+      "subtopic": "Yazıtları diktirenler",
+      "skill": "Bilgi",
+      "stem": "Kül Tigin adına dikilen anıtı yaptıran hükümdar ile Bilge Kağan adına dikilen anıtı yaptıran hükümdar aşağıdakilerin hangisinde sırasıyla doğru verilmiştir?",
+      "difficulty": "Orta",
+      "options": [
+        "Bilge Kağan – Tengri Kağan",
+        "Yolluğ Tigin – Tonyukuk",
+        "Tengri Kağan – Bilge Kağan",
+        "Bilge Kağan – Yolluğ Tigin",
+        "Tonyukuk – Tengri Kağan"
+      ],
+      "answer": "A",
+      "explanation": "Kül Tigin anıtını ağabeyi Bilge Kağan, Bilge Kağan anıtını ise oğlu Tengri Kağan diktirmiştir. Türkçe metinleri taşa yazan Yolluğ Tigin bu göreviyle diktiren hükümdarlardan ayrılır. Anıtın adına dikildiği kişi de bu iki rolle özdeş değildir.",
+      "sources": [
+        "YE08"
+      ]
+    },
+    {
+      "id": "KU-079",
+      "revision": 1,
+      "topic": "İslamiyet Öncesi Türklerde Kültür ve Uygarlık",
+      "subtopic": "Anlatıcı ve yazıcı ayrımı",
+      "skill": "Bilgi ve yorum",
+      "stem": "Kül Tigin anıtını Bilge Kağan, Bilge Kağan anıtını ise Tengri Kağan yaptırmıştır. İki anıtın Türkçe metinlerini taşa işleyen kişi Yolluğ Tigin’dir.\n\nBu bilgilerde anıtı yaptıran, adına dikilen kişi ve yazıcı rolleri aşağıdakilerin hangisinde doğru eşleştirilmiştir?",
+      "difficulty": "Orta",
+      "options": [
+        "Kül Tigin anıtı: Yolluğ Tigin – Kül Tigin – Bilge Kağan",
+        "Bilge Kağan anıtı: Bilge Kağan – Tengri Kağan – Yolluğ Tigin",
+        "Kül Tigin anıtı: Bilge Kağan – Yolluğ Tigin – Kül Tigin",
+        "Bilge Kağan anıtı: Tengri Kağan – Yolluğ Tigin – Bilge Kağan",
+        "Bilge Kağan anıtı: Tengri Kağan – Bilge Kağan – Yolluğ Tigin"
+      ],
+      "answer": "E",
+      "explanation": "Bilge Kağan anıtında yaptıran Tengri Kağan, anılan kişi Bilge Kağan, Türkçe metni taşa işleyen kişi Yolluğ Tigin’dir. Kül Tigin anıtında ise yaptıran Bilge Kağan, anılan kişi Kül Tigin’dir. Yazıcı, yaptıran ve adına dikilen kişi aynı rolü ifade etmez.",
+      "sources": [
+        "YE08"
+      ]
+    },
+    {
+      "id": "KU-080",
+      "revision": 1,
+      "topic": "İslamiyet Öncesi Türklerde Kültür ve Uygarlık",
+      "subtopic": "Tonyukuk ve kaynak bakışı",
+      "skill": "Bilgi ve yorum",
+      "stem": "Tonyukuk kendi anıtında bağımsızlık mücadelesindeki katkısını anlatırken İlteriş ve Kapgan kağanları iktidara getirmedeki rolünü de vurgulamaktadır.\n\nBu anlatıyı değerlendiren tarihçi aşağıdaki yöntemlerden hangisini benimsemelidir?",
+      "difficulty": "Orta",
+      "options": [
+        "Olaylara katılmış olmasını anlatıdaki vurgu ve seçimleri denetlemeyi gereksiz kılan ölçüt saymak",
+        "Tanıklığını kullanırken kendi katkısını öne çıkarma biçimini başka kaynaklarla karşılaştırmak",
+        "Kendi adına anıt diktirmesini anlattığı olayların doğrudan çağdaşı olmadığının kanıtı saymak",
+        "Vezirin anlatısına hükümdarın anlatısından bağımsız olarak daha yüksek doğruluk değeri vermek",
+        "Anlatıdaki kişisel bakışın siyasi olaylar için kaynak değerini ortadan kaldırdığını kabul etmek"
+      ],
+      "answer": "B",
+      "explanation": "Tonyukuk’un olaylara katılması anlatısına tanıklık değeri kazandırır; kendi rolünü vurgulaması ise bakış açısını incelemeyi gerektirir. Tarihçi iki özelliği birlikte ele alıp başka kaynaklarla karşılaştırabilir. Kişisel anlatım kaynağı değersiz kılmadığı gibi, olaylara katılım da bütün yorumları kendiliğinden doğrulamaz.",
+      "sources": [
+        "YE08",
+        "YE09"
+      ]
+    },
+    {
+      "id": "KU-081",
+      "revision": 1,
+      "topic": "İslamiyet Öncesi Türklerde Kültür ve Uygarlık",
+      "subtopic": "Orhun yazıtlarında diller",
+      "skill": "Bilgi ve yorum",
+      "stem": "Orhun anıtlarının dil ve anlatım özelliklerine ilişkin aşağıdaki eşleştirmelerden hangisi yanlıştır?",
+      "difficulty": "Orta",
+      "options": [
+        "Kül Tigin – Türkçe bölüm ve Çin imparatorunun Çince hitabesi",
+        "Bilge Kağan – Türkçe siyasi anlatı ve Çince bölüm",
+        "Tonyukuk – Devlet adamının kendi katkısını anlattığı Türkçe metin",
+        "Tonyukuk – Bilge Kağan’ın hizmetlerini onun ağzından anlatan metin",
+        "Kül Tigin ve Bilge Kağan – Türkçe metinlerde Göktürk harfleri"
+      ],
+      "answer": "D",
+      "explanation": "Tonyukuk anıtında olaylar Tonyukuk’un kendi katkısı ve bakış açısıyla anlatılır. Bilge Kağan’ın hizmetlerinin onun ağzından anlatılması Kül Tigin ve Bilge Kağan metinlerinin özelliğidir. Anıtların siyasi döneminin ortak olması anlatıcılarının aynı olduğu anlamına gelmez.",
+      "sources": [
+        "YE08",
+        "YE09"
+      ]
+    },
+    {
+      "id": "KU-082",
+      "revision": 1,
+      "topic": "İslamiyet Öncesi Türklerde Kültür ve Uygarlık",
+      "subtopic": "Anıt kaideleri ve tasvirler",
+      "skill": "Bilgi",
+      "stem": "Orhun anıtlarının kaplumbağa biçimli kaidesi ile üst bölümlerindeki kurt ve çocuk tasvirleri aşağıdakilerin hangisinde sırasıyla doğru sınıflandırılmıştır?",
+      "difficulty": "Kolay",
+      "options": [
+        "Taşı taşıyan mimari unsur – simgesel tasvir",
+        "Cenaze töreni – hükümdar unvanı",
+        "Balbal sırası – yazıcı imzası",
+        "Metnin alfabesi – metnin dili",
+        "Anıtın adına dikildiği kişi – yazıcı"
+      ],
+      "answer": "A",
+      "explanation": "Kaplumbağa biçimli kaide anıt taşını taşıyan unsurdur; kurt ve çocuk tasvirleri simgesel görsel anlatımdır. Bunlar metnin harfleri veya yazıcı imzası değildir. Aynı anıt üzerinde bulunmaları mimari, görsel ve yazılı unsurların işlevlerinin aynı olduğu anlamına gelmez.",
+      "sources": [
+        "YE08",
+        "YE07"
+      ]
+    },
+    {
+      "id": "KU-083",
+      "revision": 1,
+      "topic": "İslamiyet Öncesi Türklerde Kültür ve Uygarlık",
+      "subtopic": "Runik biçim ve köken",
+      "skill": "Bilgi–Yorum",
+      "stem": "Göktürk harflerinin bazı İskandinav runik harflerine şekil bakımından benzemesi nedeniyle runik olarak adlandırılması hakkında hangi yargı daha isabetlidir?",
+      "difficulty": "Orta",
+      "options": [
+        "Runik adı Türkçe metinlerin İskandinav dilinde olduğunu belirtir.",
+        "Şekil benzerliği iki topluluğun aynı devleti kurduğunu gösterir.",
+        "Adlandırma görünüş benzerliğine ilişkindir; ortak köken için ayrıca kanıt gerekir.",
+        "Benzer harfler kullanılması bütün işaretlerin ses değerlerinin aynı olduğunu gösterir.",
+        "Runik terimi harflerin çözülmüş olduğu tarih anlamındadır."
+      ],
+      "answer": "C",
+      "explanation": "Runik nitelemesi burada harf biçimlerindeki benzerlikle ilişkilidir. Benzer şekiller metinlerin aynı dilde olduğunu veya alfabelerin ortak kökenini tek başına kanıtlamaz. Köken ve ses değerleri için ayrı dilbilimsel kanıtlar gerekir.",
+      "sources": [
+        "YE08"
+      ]
+    },
+    {
+      "id": "KU-084",
+      "revision": 1,
+      "topic": "İslamiyet Öncesi Türklerde Kültür ve Uygarlık",
+      "subtopic": "Orhun metinlerinin edebî niteliği",
+      "skill": "Bilgi–Yorum",
+      "stem": "Orhun metinlerinde siyasi olayların yanında benzetme, deyim ve karşıtlıklardan yararlanılması hangi değerlendirmeyi destekler?",
+      "difficulty": "Orta",
+      "options": [
+        "Edebî anlatım kullanılması olaylara ilişkin kaynak değerini ortadan kaldırır.",
+        "Türkçe ifade imkânları siyasi anlatımda etkili biçimde kullanılabilmiştir.",
+        "Benzetmeler metinlerin sözlü destanlarla aynı türde olduğunu kanıtlar.",
+        "Deyimler metinlerin halk tarafından aynı biçimde yorumlandığını gösterir.",
+        "Metinlerdeki karşıtlıklar hükümdarın bütün yetkilerini hukuk maddesi olarak düzenler."
+      ],
+      "answer": "B",
+      "explanation": "Benzetme, deyim ve karşıtlıkların kullanılması Türkçenin ifade gücünün siyasi anlatımda da değerlendirildiğini gösterir. Bir metin hem edebî özellik taşıyabilir hem tarih için kaynak olabilir. Edebî araçların bulunması metni kendiliğinden destan veya kanun derlemesi yapmaz.",
+      "sources": [
+        "YE08",
+        "YE09"
+      ]
+    },
+    {
+      "id": "KU-085",
+      "revision": 1,
+      "topic": "İslamiyet Öncesi Türklerde Kültür ve Uygarlık",
+      "subtopic": "Yazının çözümlenmesi",
+      "skill": "Bilgi–Yorum",
+      "stem": "Thomsen’in yazıtlarda sık geçen Türk, Tengri ve Kül Tigin sözcüklerinden hareketle harflerin ses değerlerini belirlemesi aşağıdaki yöntemlerden hangisiyle ilişkilidir?",
+      "difficulty": "Orta",
+      "options": [
+        "Göktürk işaretlerini benzedikleri Latin harflerinin sesleriyle okumayla",
+        "Metin dilini yalnız anıtın siyasi aidiyetinden çıkarmayla",
+        "Çince bölümdeki her işareti Türkçe bölümün aynı sıradaki işaretiyle eşitlemeyle",
+        "Uygur harflerinin ses değerlerini Göktürk işaretlerine doğrudan aktarmayla",
+        "Tanınabilen sözcükleri işaret–ses eşleştirmesinde anahtar olarak kullanmayla"
+      ],
+      "answer": "E",
+      "explanation": "Tanınabilen ve tekrar eden sözcükler, işaretlerin hangi seslere karşılık geldiğini belirlemeye yardımcı olabilir. Thomsenin çözüm sürecinde Türk, Tengri ve Kül Tigin adları bu bakımdan önemlidir. Bu çalışma yazıcıyı veya devletin sınırlarını doğrudan belirleme yöntemi değildir.",
+      "sources": [
+        "YE12",
+        "YE09"
+      ]
+    },
+    {
+      "id": "KU-086",
+      "revision": 1,
+      "topic": "İslamiyet Öncesi Türklerde Kültür ve Uygarlık",
+      "subtopic": "Tariat ve Uygur kağanı",
+      "skill": "Bilgi",
+      "stem": "Terhin/Tariat Yazıtı hangi Uygur hükümdarının dönemine ve faaliyetlerine ilişkin önemli bir kaynaktır?",
+      "difficulty": "Kolay",
+      "options": [
+        "Bumin Kağan",
+        "Bilge Kağan",
+        "Bögü Kağan",
+        "Moyen Çor",
+        "Kutluk Bilge Kül Kağan"
+      ],
+      "answer": "D",
+      "explanation": "Tariat Moyen Çor dönemindeki Uygur kağanlığıyla ilişkilidir ve hükümdarın siyasi/askerî faaliyetlerine ilişkin bilgi verir. Bögü Kağanın Maniheizmle bağlantılı dönemiyle karıştırılmamalıdır. Moyen Çor adı Moyun Çor veya Bayan Çor biçimlerinde de aktarılır.",
+      "sources": [
+        "YE11"
+      ]
+    },
+    {
+      "id": "KU-087",
+      "revision": 1,
+      "topic": "İslamiyet Öncesi Türklerde Kültür ve Uygarlık",
+      "subtopic": "Şine Usu ve alfabe sürekliliği",
+      "skill": "Bilgi",
+      "stem": "Şine Usu/Moyen Çor Yazıtı’nın siyasi çevresi ve kullanılan yazı sistemi aşağıdakilerin hangisinde birlikte doğru verilmiştir?",
+      "difficulty": "Orta",
+      "options": [
+        "Uygur Kağanlığı – Göktürk harfleri",
+        "II. Göktürk Kağanlığı – Uygur harfleri",
+        "Uygur Kağanlığı – Arap harfleri",
+        "I. Göktürk Kağanlığı – Soğd harfleri",
+        "Uygur Kağanlığı – Kiril harfleri"
+      ],
+      "answer": "A",
+      "explanation": "Şine Usu Uygur Kağanlığına aittir; Göktürk/runik harfli Türkçe bir anıttır. Uygur siyasi dönemindeki her metnin Uygur alfabesiyle yazılması gerekmez. Siyasi dönem, metnin dili ve kullanılan alfabe ayrı ölçütlerdir.",
+      "sources": [
+        "YE10"
+      ]
+    },
+    {
+      "id": "KU-088",
+      "revision": 1,
+      "topic": "İslamiyet Öncesi Türklerde Kültür ve Uygarlık",
+      "subtopic": "Karabalgasun dilleri",
+      "skill": "Bilgi",
+      "stem": "I. Karabalgasun Yazıtı’nı dil özellikleri bakımından ayırt eden üçlü aşağıdakilerden hangisidir?",
+      "difficulty": "Orta",
+      "options": [
+        "Türkçe – Arapça – Farsça",
+        "Türkçe – Çince – Sanskritçe",
+        "Türkçe – Soğdca – Çince",
+        "Soğdca – Süryanice – Sanskritçe",
+        "Çince – Arapça – Moğolca"
+      ],
+      "answer": "C",
+      "explanation": "I. Karabalgasun Türkçe/Uygurca, Soğdca ve Çince bölümleri olan üç dilli bir anıttır. Dil ile alfabe aynı kavram değildir; üç dilin bulunması bütün yüzlerde aynı harflerin kullanıldığı anlamına gelmez. Şine Usu ise Türkçe tek dilli anıttır.",
+      "sources": [
+        "YE10"
+      ]
+    },
+    {
+      "id": "KU-089",
+      "revision": 1,
+      "topic": "İslamiyet Öncesi Türklerde Kültür ve Uygarlık",
+      "subtopic": "Uygur yazıtları ve dinî değişim",
+      "skill": "Bilgi–Yorum",
+      "stem": "Şine Usu’nun siyasi başarıları anlatan Türkçe metni ile daha sonraki I. Karabalgasun’un Maniheizm tarihine ilişkin kayıtları karşılaştırıldığında hangi yargı savunulabilir?",
+      "difficulty": "Orta",
+      "options": [
+        "İki anıt aynı siyasi çevreden olduğu için aynı dinî dönemi anlatır.",
+        "Karabalgasundaki dinî kayıt Şine Usunun Uygurlara ait olmadığını gösterir.",
+        "Dil sayısının artması Türkçenin kullanılmadığını kanıtlar.",
+        "Anıt içeriklerinin farklı olması eski anlatım geleneğiyle bütün bağların kesildiğini gösterir.",
+        "Aynı siyasi geleneğin yazıtları değişen dinî ve kültürel ortamı yansıtabilir."
+      ],
+      "answer": "E",
+      "explanation": "Şine Usu ile Karabalgasun aynı Uygur siyasi geleneğinde farklı dönemlerin ürünleridir. Karabalgasundaki Maniheizm kayıtları dinî değişimin yazılı anıta yansımasını incelemeyi sağlar. Bu fark Şine Usunun siyasi aidiyetini değiştirmez ve Türkçenin yok olduğunu göstermez.",
+      "sources": [
+        "YE10"
+      ]
+    },
+    {
+      "id": "KU-090",
+      "revision": 1,
+      "topic": "İslamiyet Öncesi Türklerde Kültür ve Uygarlık",
+      "subtopic": "Yazıtlar arasında karma eşleştirme",
+      "skill": "Bilgi",
+      "stem": "Aşağıdaki yazıt–siyasi çevre eşleştirmelerinden hangisi yanlıştır?",
+      "difficulty": "Orta",
+      "options": [
+        "Bugut – I. Göktürk Kağanlığı",
+        "Tariat – II. Göktürk Kağanlığı",
+        "Tonyukuk – II. Göktürk Kağanlığı",
+        "Şine Usu – Uygur Kağanlığı",
+        "I. Karabalgasun – Uygur Kağanlığı"
+      ],
+      "answer": "B",
+      "explanation": "Tariat Uygur Kağanlığı dönemine aittir; II. Göktürk anıtı değildir. Tonyukuk II. Göktürk, Bugut I. Göktürk, Şine Usu ve I. Karabalgasun Uygur çevresindedir. Kullanılan harflerin benzerliği, bütün anıtların aynı devlet dönemine ait olduğunu göstermez.",
+      "sources": [
+        "YE07",
+        "YE08",
+        "YE10",
+        "YE11"
+      ]
+    },
+    {
+      "id": "KU-091",
+      "revision": 1,
+      "topic": "İslamiyet Öncesi Türklerde Kültür ve Uygarlık",
+      "subtopic": "Orhun olayları ve anıtların tarihi",
+      "skill": "Bilgi ve yorum",
+      "stem": "Kül Tigin 731’de ölmüş, anıtı 732’de Bilge Kağan tarafından yaptırılmıştır. Bilge Kağan 734’te ölmüş, anıtı 735’te Tengri Kağan tarafından yaptırılmıştır.\n\nBu olay dizisi ile ilgili aşağıdaki yargılardan hangisi doğrudur?",
+      "difficulty": "Orta",
+      "options": [
+        "Bilge Kağan, kardeşinin anılmasına katkı sağlamış; ölümünden sonra kendisi de başka bir hükümdarca anılmıştır.",
+        "Tengri Kağan, Kül Tigin anıtı yapılırken Bilge Kağan’ın anıtını da tamamlamıştır.",
+        "Kül Tigin anıtının yapılması Bilge Kağan’ın ölümünün ardından gerçekleşmiştir.",
+        "İki anıtı yaptıran kişi aynı olduğu için hanedanın anma siyaseti değişmeden kalmıştır.",
+        "Bilge Kağan’ın anıtındaki hizmet anlatıları 735 yılındaki hükümdarlık faaliyetlerini kaydeder."
+      ],
+      "answer": "A",
+      "explanation": "Bilge Kağan 732’de kardeşi Kül Tigin’in anıtını yaptırmış; 734’teki ölümünden sonra kendi anıtı Tengri Kağan tarafından yaptırılmıştır. Olay dizisi yaptıran kişinin de sonradan anılan kişiye dönüşebildiğini gösterir. Anıtın dikiliş yılı, anlatılan hizmetlerin tamamının gerçekleştiği yıl değildir.",
+      "sources": [
+        "YE08",
+        "YE09"
+      ]
+    },
+    {
+      "id": "KU-092",
+      "revision": 1,
+      "topic": "İslamiyet Öncesi Türklerde Kültür ve Uygarlık",
+      "subtopic": "Dil, alfabe ve siyasi dönem sentezi",
+      "skill": "Bilgi–Yorum",
+      "stem": "Yazıtları sınıflandıran bir araştırmacı şu değerlendirmeleri yapmıştır:\nI. Bugutun I. Göktürk çevresine ait olması, Soğdca yüzlerini Türkçe metinler olarak sınıflandırmak için yeterlidir.\nII. Şine Usunun Uygur dönemine ait olması, Göktürk harfleriyle yazılmış olmasına engel değildir.\nIII. Karabalgasundaki Soğdca ile Şine Usudaki Göktürk harfleri aynı sınıflandırma ölçütü değildir.\nBu değerlendirmelerden hangileri doğrudur?",
+      "difficulty": "Orta",
+      "options": [
+        "Yalnız I",
+        "I ve II",
+        "I ve III",
+        "II ve III",
+        "I, II ve III"
+      ],
+      "answer": "D",
+      "explanation": "I yanlıştır: siyasi aidiyet metnin dilini değiştirmez; Bugutun Soğdca yüzleri Soğdcadır. II doğrudur: Şine Usu Uygur siyasi döneminde Göktürk harfleriyle yazılmıştır. III de doğrudur: Soğdca dil adı, Göktürk harfleri alfabe adıdır; sınıflandırmada dil, harf sistemi ve dönem ayrı sütunlar olmalıdır.",
+      "sources": [
+        "YE07",
+        "YE10",
+        "YE01"
+      ]
+    }
+  ]
+}

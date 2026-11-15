@@ -1,0 +1,825 @@
+{
+  "title": "KPSS Tarih — Kırgızlar, Karluklar ve diğer Türk toplulukları",
+  "unit": null,
+  "date": "2026-10-06",
+  "question_count": 35,
+  "sources": {
+    "KK1": {
+      "title": "TDV — Kırgızlar (İsmail Türkoğlu)",
+      "url": "https://islamansiklopedisi.org.tr/kirgizlar"
+    },
+    "KK2": {
+      "title": "UNESCO — Kyrgyz epic trilogy: Manas, Semetey, Seytek",
+      "url": "https://ich.unesco.org/en/RL/kyrgyz-epic-trilogy-manas-semetey-seytek-00876"
+    },
+    "KK3": {
+      "title": "Erhan Aydın — Yenisey Yazıtlarındaki Tek Örnekler, Türkbilig (2012)",
+      "url": "https://dergipark.org.tr/tr/pub/turkbilig/article/697622"
+    },
+    "KK4": {
+      "title": "TDV — Karluklar (Hüseyin Salman)",
+      "url": "https://islamansiklopedisi.org.tr/karluklar"
+    },
+    "KK5": {
+      "title": "TDV — Talas Savaşı",
+      "url": "https://islamansiklopedisi.org.tr/talas-savasi"
+    },
+    "KK6": {
+      "title": "Kültür Portalı — Türklerin Müslüman Oluşu ve İlk Müslüman Türk Devletleri",
+      "url": "https://www.kulturportali.gov.tr/portal/turklerin-musluman-olusu-ve-ilk-musluman-turk-devletleri"
+    },
+    "KK7": {
+      "title": "TDV — Türk: İlk Türk devletleri ve toplulukları",
+      "url": "https://islamansiklopedisi.org.tr/turk"
+    },
+    "KK8": {
+      "title": "MEB — Türk Kültür ve Medeniyet Tarihi, ekonomi ünitesi: paralar",
+      "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/turkkulturvemedeniyettarihi/sec/unite4/files/basic-html/page6.html"
+    },
+    "KK9": {
+      "title": "İbrahim Canbulut — Tabgaçlar (2017)",
+      "url": "https://dergipark.org.tr/tr/pub/joiss/article/323310"
+    },
+    "KK10": {
+      "title": "TDV — Oğuzlar (Faruk Sümer)",
+      "url": "https://islamansiklopedisi.org.tr/oguzlar"
+    },
+    "KK11": {
+      "title": "TDV — Başkırt (Mehmet Saray)",
+      "url": "https://islamansiklopedisi.org.tr/baskirt"
+    },
+    "KK12": {
+      "title": "UNESCO — Art of Akyns, Kyrgyz epic tellers",
+      "url": "https://ich.unesco.org/en/RL/art-of-akyns-kyrgyz-epic-tellers-00065"
+    },
+    "KK13": {
+      "title": "MEB — Tarih 9 Çalışma Defteri: Baga Tarkan ve para basımı",
+      "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/calisma_defteri/f6/9/tarih/files/basic-html/page11.html"
+    },
+    "KK14": {
+      "title": "Tuğba Gökçe Balcı — Tabgaç Tarihinin Ana Kaynağı Wei-Shu Üzerine (2018)",
+      "url": "https://dergipark.org.tr/tr/pub/turktarars/article/501746"
+    },
+    "KK15": {
+      "title": "TDV — Asya: İslam Öncesi Türk Devletleri",
+      "url": "https://islamansiklopedisi.org.tr/asya"
+    },
+    "KK16": {
+      "title": "MEB — Oğuzlar Kimdir? Tarih 9 Kavram Öğretimi",
+      "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/kavram_calismalari/9y/tarih/files/basic-html/page264.html"
+    }
+  },
+  "questions": [
+    {
+      "id": "KIR-001",
+      "revision": 1,
+      "topic": "Kırgızlar",
+      "subtopic": "Siyasi tarih",
+      "skill": "Bilgi",
+      "stem": "Kırgızların 840’ta Uygurlara karşı kazandığı başarı ile bunun Uygurlar açısından sonraki sonucu aşağıdakilerin hangisinde doğru eşleştirilmiştir?",
+      "difficulty": "Orta",
+      "options": [
+        "Uygur kültürünün sona ermesi — Kırgızların Turfan’da eski kağanlığı sürdürmesi",
+        "Karlukların Ötüken’i alması — Uygurların Kırgız yönetimine bağlanması",
+        "Turfan Devleti’nin yıkılması — Kansu’daki Uygur varlığının sona ermesi",
+        "Kırgızların Asya’dan ayrılması — Ötüken’de Uygur yönetiminin güçlenmesi",
+        "Ötüken merkezli kağanlığın sona ermesi — Uygur gruplarının yeni sahalara yönelmesi"
+      ],
+      "answer": "E",
+      "explanation": "Kırgızların 840’taki saldırısı Ötüken merkezli Uygur Kağanlığı’nı sona erdirmiştir. Uygur grupları daha sonra Turfan ve Kansu gibi sahalarda siyasi ve kültürel faaliyetlerini sürdürmüştür. Yıkılan eski merkez ile sonradan oluşan siyasi yapılar aynı olayın hedefi değildir.",
+      "sources": [
+        "KK1"
+      ]
+    },
+    {
+      "id": "KIR-002",
+      "revision": 1,
+      "topic": "Kırgızlar",
+      "subtopic": "Moğollarla ilişkiler",
+      "skill": "Bilgi",
+      "stem": "1207 yılında Cengiz Han’ın hâkimiyetini kabul eden Yenisey çevresindeki Türk topluluğu aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Kıpçaklar",
+        "Oğuzlar",
+        "Kırgızlar",
+        "Uygurlar",
+        "Karluklar"
+      ],
+      "answer": "C",
+      "explanation": "1207’de Moğol hâkimiyetine giren topluluk Kırgızlardır. Karlukların Kayalık kolu ve Uygurların Moğollarla kurduğu ilişkiler ayrı gelişmelerdir; bunlar aynı tarihte gerçekleşen tek bir bağlılık hareketi sayılmaz.",
+      "sources": [
+        "KK1",
+        "KK4"
+      ]
+    },
+    {
+      "id": "KIR-003",
+      "revision": 1,
+      "topic": "Kırgızlar",
+      "subtopic": "Destan",
+      "skill": "Bilgi",
+      "stem": "Kırgızların kahramanlıklarını, toplumsal hafızasını ve boylar arasındaki birlik idealini yansıtan; geniş hacmiyle tanınan destan aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Manas",
+        "Alp Er Tunga",
+        "Göç",
+        "Ergenekon",
+        "Oğuz Kağan"
+      ],
+      "answer": "A",
+      "explanation": "Manas, Kırgızların sözlü kültüründe kuşaktan kuşağa aktarılan büyük bir destan geleneğidir. Farklı anlatıcıların varyantları bulunduğundan tek bir kişinin belirli bir tarihte yazdığı metin olarak değerlendirilmez.",
+      "sources": [
+        "KK2",
+        "KK12"
+      ]
+    },
+    {
+      "id": "KIR-004",
+      "revision": 1,
+      "topic": "Kırgızlar",
+      "subtopic": "Yenisey Yazıtları",
+      "skill": "Bilgi",
+      "stem": "Güney Sibirya’da bulunan, Kırgızların yanı sıra bölgedeki başka Türk topluluklarıyla da ilişkilendirilen runik harfli anıtlar aşağıdakilerden hangisidir?",
+      "difficulty": "Orta",
+      "options": [
+        "Talas Yazıtları",
+        "Karabalgasun Yazıtı",
+        "Şine Usu Yazıtı",
+        "Yenisey Yazıtları",
+        "Orhun Yazıtları"
+      ],
+      "answer": "D",
+      "explanation": "Yenisey Yazıtları, Güney Sibirya’daki Türkçe runik yazılı mirasın önemli bölümünü oluşturur. Kırgızlarla bağlantıları vardır; fakat bu gruptaki her yazıtı aynı devletin veya aynı hükümdarın eseri saymak doğru değildir. Orhun ve Talas adları farklı coğrafi grupları belirtir.",
+      "sources": [
+        "KK3"
+      ]
+    },
+    {
+      "id": "KIR-005",
+      "revision": 1,
+      "topic": "Kırgızlar",
+      "subtopic": "Sözlü ve yazılı kaynaklar",
+      "skill": "Yorum",
+      "stem": "Manas anlatıları farklı destan icracıları tarafından kuşaktan kuşağa aktarılmıştır. Yenisey çevresindeki Türkçe yazıtlarda ise ölen kişilerin yakınları ve yaşantılarıyla ilgili ifadeler bulunur. Bu iki kaynak türü birlikte değerlendirildiğinde aşağıdakilerden hangisine ulaşılamaz?",
+      "difficulty": "Orta",
+      "options": [
+        "Tarih araştırmasında sözlü ve yazılı mirasın birlikte incelenebileceğine",
+        "Manas’taki olayların tamamının Yenisey Yazıtları ile tarihlendirilebildiğine",
+        "Kültürel hafızanın farklı yollarla korunabildiğine",
+        "Yazıtların toplumsal yaşam hakkında bilgi verebildiğine",
+        "Destanların aktarımında anlatıcıların rol oynadığına"
+      ],
+      "answer": "B",
+      "explanation": "Destan ile yazıtı birlikte incelemek, her destan olayının yazıtlarda karşılığının bulunduğu anlamına gelmez. Destanlar anlatıcı ve varyantlarıyla, yazıtlar ise bağlamı ve tarihlendirme sorunlarıyla değerlendirilir. Diğer yargılar kökte verilen aktarım yolları ve içerik özellikleriyle desteklenir.",
+      "sources": [
+        "KK2",
+        "KK3"
+      ]
+    },
+    {
+      "id": "KIR-006",
+      "revision": 1,
+      "topic": "Kırgızlar",
+      "subtopic": "Siyasi ve kültürel devamlılık",
+      "skill": "Bilgi ve yorum",
+      "stem": "Kırgızların 840’ta Ötüken Uygur Kağanlığı’nı yıkmasının ardından Orta Asya’da oluşan siyasi tabloyla ilgili;\nI. Uygurların Kansu ve Turfan çevresinde siyasi-kültürel varlıklarını sürdürdüğü,\nII. Karluk hükümdarının yeni siyasi ortamda Kara Han unvanını kullandığı,\nIII. Uygurların göç ettiği bütün bölgelerin Kırgız yönetimine geçtiği\nyargılarından hangileri doğrudur?",
+      "difficulty": "Zor",
+      "options": [
+        "Yalnız I",
+        "Yalnız II",
+        "I ve III",
+        "II ve III",
+        "I ve II"
+      ],
+      "answer": "E",
+      "explanation": "Uygurların Kansu ve Turfan çevresindeki devamlılığı I’i, Karluk hükümdarının Kara Han unvanını kullanması II’yi doğrular. Ötüken merkezinin alınması, Uygurların gittiği her bölgenin Kırgız egemenliğine girdiğini göstermez; III yanlıştır. Böylece bir devletin yıkılışı, topluluğun devamlılığı ve komşu gücün hükümdarlık iddiası birlikte değerlendirilir.",
+      "sources": [
+        "KK1",
+        "KK4",
+        "KK6"
+      ]
+    },
+    {
+      "id": "KAR-001",
+      "revision": 1,
+      "topic": "Karluklar",
+      "subtopic": "Talas Savaşı",
+      "skill": "Bilgi",
+      "stem": "751 Talas Savaşı’nda Çin ordusuna karşı Abbasilerin yanında yer alarak savaşın sonucunda etkili olan Türk topluluğu aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Uygurlar",
+        "Basmıllar",
+        "Karluklar",
+        "Türgişler",
+        "Kırgızlar"
+      ],
+      "answer": "C",
+      "explanation": "Karlukların desteği Abbasilerin Tang Çin ordusu karşısındaki başarısında etkili oldu. Talas’taki tercih, Türgişlerin daha önce Emevi ordularına karşı yürüttüğü mücadeleyle karıştırılmamalıdır; dönemler ve siyasi koşullar farklıdır.",
+      "sources": [
+        "KK4",
+        "KK5"
+      ]
+    },
+    {
+      "id": "KAR-002",
+      "revision": 1,
+      "topic": "Karluklar",
+      "subtopic": "Türgişlerle ilişkiler",
+      "skill": "Bilgi",
+      "stem": "Karluklar, 766’da Tokmok ve Talas çevresini ele geçirerek aşağıdaki siyasi yapılardan hangisinin hâkimiyetine son vermiştir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Türgişler",
+        "Akhunlar",
+        "Uygurlar",
+        "II. Göktürkler",
+        "Kırgızlar"
+      ],
+      "answer": "A",
+      "explanation": "Karluklar, Türgişlerin önemli merkezlerini ele geçirerek bölgede kendi siyasi hâkimiyetlerini kurdu. Bu gelişme, Türgişlerin bir topluluk olarak bir anda yok olması anlamına gelmez; söz konusu olan egemenliğin el değiştirmesidir.",
+      "sources": [
+        "KK4"
+      ]
+    },
+    {
+      "id": "KAR-003",
+      "revision": 1,
+      "topic": "Karluklar",
+      "subtopic": "Karahanlıların kuruluşu",
+      "skill": "Bilgi",
+      "stem": "Karluk, Yağma ve Çiğil toplulukları aşağıdaki devletlerden hangisinin kuruluş ve toplumsal temelinde etkili olmuştur?",
+      "difficulty": "Kolay",
+      "options": [
+        "Büyük Selçuklular",
+        "İdil Bulgarları",
+        "Tolunoğulları",
+        "Karahanlılar",
+        "Gazneliler"
+      ],
+      "answer": "D",
+      "explanation": "Bu topluluklar Karahanlıların siyasi ve toplumsal temelinde yer alır. Karahanlıların oluşumunu tek bir boyun bütün diğerlerini ortadan kaldırması şeklinde açıklamak eksik kalır; birden fazla topluluğun katkısı vardır.",
+      "sources": [
+        "KK6"
+      ]
+    },
+    {
+      "id": "KAR-004",
+      "revision": 1,
+      "topic": "Karluklar",
+      "subtopic": "Askerî ittifak ve din",
+      "skill": "Yorum",
+      "stem": "Karluklar, Talas’ta Abbasi ordusuna destek vermiş; sonraki yüzyıllarda Karluk grupları Müslüman Türk devletlerinin oluşumunda rol almıştır. Bu bilgilerden aşağıdakilerden hangisine ulaşılamaz?",
+      "difficulty": "Orta",
+      "options": [
+        "Karlukların askerî ve siyasi gelişmelerde yer aldığına",
+        "Talas’taki askerî tercihin resmî din değişikliğini belgelediğine",
+        "Karlukların Çin-Abbasi mücadelesinde bir tarafı desteklediğine",
+        "Karluk faaliyetlerinin Talas sonrasına da uzandığına",
+        "Karluk gruplarının Türk-İslam siyasi çevresinde yer aldığına"
+      ],
+      "answer": "B",
+      "explanation": "Talas’ta Abbasileri desteklemek askerî bir tercihtir; tek başına resmî din değişikliği belgesi değildir. Karluk gruplarının sonraki Türk-İslam siyasi oluşumlarında yer alması, faaliyetlerinin bu savaştan sonra da sürdüğünü gösterir. Askerî ittifak ile İslamlaşma ayrı süreçlerdir.",
+      "sources": [
+        "KK4",
+        "KK5",
+        "KK6"
+      ]
+    },
+    {
+      "id": "KAR-005",
+      "revision": 1,
+      "topic": "Karluklar",
+      "subtopic": "Moğollarla ilişkiler",
+      "skill": "Bilgi",
+      "stem": "Cengiz Han’a bağlılığını bildiren Arslan Han’ın yönettiği Kayalık beyliği aşağıdaki topluluklardan hangisine aittir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Kırgızlar",
+        "Uygurlar",
+        "Oğuzlar",
+        "Kıpçaklar",
+        "Karluklar"
+      ],
+      "answer": "E",
+      "explanation": "Kayalık beyliği Karlukların bir koluna aitti; Arslan Han dönemindeki bağlılık bu siyasi yapı üzerinden değerlendirilir. Kırgızların Yenisey çevresindeki ve Uygurların kendi merkezlerindeki Moğol ilişkileri farklı olaylardır.",
+      "sources": [
+        "KK4"
+      ]
+    },
+    {
+      "id": "KAR-006",
+      "revision": 1,
+      "topic": "Karluklar",
+      "subtopic": "Kuruluşlarda boyların rolü",
+      "skill": "Yorum",
+      "stem": "Karluklar, Basmıllarla birlikte II. Göktürk Devleti’nin sona ermesinde rol almış; Uygurların yükseliş sürecinde de etkili olmuştur. Daha sonraki dönemde Karahanlıların kuruluş çevresinde yer almıştır. Bu durum aşağıdakilerden hangisini gösterir?",
+      "difficulty": "Orta",
+      "options": [
+        "Aynı boyun yer almasının devletler arasında aynı hanedanı kanıtlaması",
+        "Uygur ve Karahanlı kuruluş çevrelerinin aynı siyasi yapı olması",
+        "Bir boyun farklı dönemlerde farklı siyasi oluşumlara katkı sağlayabilmesi",
+        "Sonraki kuruluşun önceki devletin hukuki devamı olması",
+        "Karlukların kuruluş ortaklığının ilgili devletlerin dış politikasını aynılaştırması"
+      ],
+      "answer": "C",
+      "explanation": "Karlukların farklı siyasi oluşumların çevresinde bulunması bir boyun birden fazla devletin gelişmesine katkı verebildiğini gösterir. Bu toplumsal devamlılık, devletlerin aynı hanedan veya aynı hukuki yapı olması demek değildir. Dış politika da yalnız ortak boy unsurundan belirlenemez.",
+      "sources": [
+        "KK4",
+        "KK6"
+      ]
+    },
+    {
+      "id": "KAR-007",
+      "revision": 1,
+      "topic": "Karluklar",
+      "subtopic": "Olayların ilişkili sıralaması",
+      "skill": "Bilgi ve yorum",
+      "stem": "Karlukların Orta Asya’daki siyasi konumunu etkileyen;\nI. Talas Savaşı’nda Abbasileri desteklemeleri,\nII. Türgiş merkezleri üzerinde hâkimiyet kurmaları,\nIII. Ötüken Uygur Kağanlığı’nın yıkılmasının ardından hükümdarlarının Kara Han unvanını kullanması\ngelişmelerinin kronolojik sırası aşağıdakilerden hangisidir?",
+      "difficulty": "Zor",
+      "options": [
+        "I – II – III",
+        "II – I – III",
+        "I – III – II",
+        "III – I – II",
+        "II – III – I"
+      ],
+      "answer": "A",
+      "explanation": "Talas desteği 751’de, Türgiş merkezlerinin ele geçirilmesi 766’da gerçekleşti. 840’taki Uygur yıkılışının ardından Karluk hükümdarının Kara Han unvanını kullanması daha sonraki aşamadır. Sıralama askerî ittifak, bölgesel hâkimiyet ve hükümdarlık iddiasındaki değişimi birbirinden ayırır.",
+      "sources": [
+        "KK4",
+        "KK5"
+      ]
+    },
+    {
+      "id": "DTR-001",
+      "revision": 1,
+      "topic": "Diğer Türk devlet ve toplulukları",
+      "subtopic": "Türgişler: hükümdar",
+      "skill": "Bilgi",
+      "stem": "VIII. yüzyılda Maveraünnehir’de Emevi ilerleyişine karşı mücadele eden Türgiş hükümdarı aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Bilge Kağan",
+        "Bögü Kağan",
+        "Kutluk Bilge Kül Kağan",
+        "Sulu Kağan",
+        "Moyen Çor"
+      ],
+      "answer": "D",
+      "explanation": "Sulu Kağan, Türgişlerin Emevi ilerleyişine karşı mücadelesinde öne çıkar. Bilge Kağan aynı yüzyılın önemli bir hükümdarı olsa da II. Göktürk Devleti’ni yönetmiştir.",
+      "sources": [
+        "KK7"
+      ]
+    },
+    {
+      "id": "DTR-002",
+      "revision": 1,
+      "topic": "Diğer Türk devlet ve toplulukları",
+      "subtopic": "Türgişler: para",
+      "skill": "Yorum",
+      "stem": "Türgişlere ait bazı sikkelerde kağan unvanı ile hükümdarlığı temsil eden damgalar bulunur. Sikkelerin bu özelliği en doğrudan aşağıdakilerden hangisine kanıt oluşturur?",
+      "difficulty": "Orta",
+      "options": [
+        "Paranın ilk kez Türgişler tarafından kullanılmasına",
+        "Siyasi otoritenin para üzerinde görünür kılınmasına",
+        "Ticaretin tamamının devlet memurlarınca yürütülmesine",
+        "Vergilerin ürün yerine para olarak toplanmasına",
+        "Boy teşkilatının sona ermesine"
+      ],
+      "answer": "B",
+      "explanation": "Hükümdarlık işaretleri, siyasi otoritenin para yoluyla da temsil edildiğini gösterir. Sikkenin varlığından bütün vergilerin para olarak alındığı veya özel ticaretin bulunmadığı sonucu çıkmaz; bunlar ayrı kanıtlar gerektirir.",
+      "sources": [
+        "KK8"
+      ]
+    },
+    {
+      "id": "DTR-003",
+      "revision": 1,
+      "topic": "Diğer Türk devlet ve toplulukları",
+      "subtopic": "Türgişler: dış politika karşılaştırması",
+      "skill": "Bilgi ve yorum",
+      "stem": "“Türk topluluklarının Müslüman siyasi güçlerle ilişkileri, dönem ve siyasi koşullara göre değişebilmiştir.” yargısını;\nI. Sulu Kağan dönemindeki Türgiş–Emevi mücadeleleri,\nII. Talas Savaşı’ndaki Karluk–Abbasi iş birliği,\nIII. Tabgaç yönetici çevrelerinin Budizmi benimsemesi\ngelişmelerinden hangileri birlikte destekler?",
+      "difficulty": "Orta",
+      "options": [
+        "Yalnız I",
+        "Yalnız II",
+        "I ve III",
+        "II ve III",
+        "I ve II"
+      ],
+      "answer": "E",
+      "explanation": "Sulu Kağan dönemindeki mücadele ile Talas’taki destek, Müslüman siyasi güçlerle çatışma ve iş birliği kurulabildiğini birlikte gösterir; I ve II seçilmelidir. Tabgaçların Budizmi benimsemesi dinî bir değişimdir; Müslüman siyasi güçlerle ilişkilerin niteliğine örnek oluşturmaz. İki olayın tarafları ve dönemleri ayırt edilmelidir.",
+      "sources": [
+        "KK4",
+        "KK5",
+        "KK7"
+      ]
+    },
+    {
+      "id": "DTR-004",
+      "revision": 1,
+      "topic": "Diğer Türk devlet ve toplulukları",
+      "subtopic": "Tabgaçlar: coğrafya",
+      "skill": "Bilgi",
+      "stem": "Tabgaçların Kuzey Wei adıyla anılan siyasi hâkimiyetinin merkez sahası aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "İdil–Kama havzası",
+        "Tuna–Tisa havzası",
+        "Kuzey Çin",
+        "Kuzey Hindistan",
+        "Aşağı Seyhun"
+      ],
+      "answer": "C",
+      "explanation": "Tabgaçların kurduğu Kuzey Wei, Kuzey Çin’de hüküm sürmüştür. Bu coğrafya Çin yönetim geleneği ve kültürüyle yoğun etkileşimi açıklamada önemlidir; Aşağı Seyhun ve Tuna–Tisa farklı siyasi çevrelerdir.",
+      "sources": [
+        "KK9"
+      ]
+    },
+    {
+      "id": "DTR-005",
+      "revision": 1,
+      "topic": "Diğer Türk devlet ve toplulukları",
+      "subtopic": "Tabgaçlar: inanç",
+      "skill": "Bilgi",
+      "stem": "Tabgaçların Kuzey Çin’deki döneminde tapınaklar ve dinî sanat üzerinde etkili olan, yönetici çevrelerinde de benimsenen din aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Budizm",
+        "Maniheizm",
+        "Musevilik",
+        "İslamiyet",
+        "Hristiyanlık"
+      ],
+      "answer": "A",
+      "explanation": "Budizm Tabgaçların dinî ve sanatsal hayatında etkili olmuştur. Bununla birlikte dinin benimsenmesi, bir toplumun dilinin ve bütün geleneklerinin kendiliğinden ortadan kalktığı anlamına gelmez.",
+      "sources": [
+        "KK9"
+      ]
+    },
+    {
+      "id": "DTR-006",
+      "revision": 1,
+      "topic": "Diğer Türk devlet ve toplulukları",
+      "subtopic": "Tabgaçlar: kültürel değişim",
+      "skill": "Yorum",
+      "stem": "Tabgaç yönetiminde bir dönemde Çin tarzı ad ve kıyafetlerin yaygınlaştırılması, sarayda eski dilin kullanımının sınırlandırılması gibi uygulamalar görülmüştür. Bu uygulamalar aşağıdakilerden hangisini en doğrudan gösterir?",
+      "difficulty": "Orta",
+      "options": [
+        "Saraydaki değişimin bütün toplumsal kesimlerde aynı hızda gerçekleştiğini",
+        "Din değiştirmenin dil değişikliğini zorunlu kıldığını",
+        "Çin’in Tabgaç ülkesini askerî bir seferle ele geçirdiğini",
+        "Yönetimin kültürel dönüşümü kurallarla yönlendirmeye çalıştığını",
+        "Kültürel etkileşimin yönetimin kararlarından bağımsız ilerlediğini"
+      ],
+      "answer": "D",
+      "explanation": "Ad, kıyafet ve dil üzerindeki kararlar yönetimin kültürel değişime müdahale ettiğini gösterir. Bu veriler değişimin her yerde aynı hızda benimsendiğini veya devletin dışarıdan fethedildiğini kanıtlamaz. Din, dil ve siyasi egemenlik aynı kavramlar değildir.",
+      "sources": [
+        "KK9"
+      ]
+    },
+    {
+      "id": "DTR-007",
+      "revision": 1,
+      "topic": "Diğer Türk devlet ve toplulukları",
+      "subtopic": "Akhunlar: adlandırma",
+      "skill": "Bilgi",
+      "stem": "Orta Asya, Afganistan ve Kuzey Hindistan çevresinde etkili olan Akhunlar, aşağıdaki adlardan hangisiyle de anılır?",
+      "difficulty": "Kolay",
+      "options": [
+        "Kitanlar",
+        "Eftalitler",
+        "Juan-Juan",
+        "Tabgaçlar",
+        "Türgişler"
+      ],
+      "answer": "B",
+      "explanation": "Eftalit adı Akhunları ifade eder. Juan-Juan ise Asya Avarlarıyla ilişkilendirilir; iki ad birbirinin yerine kullanılamaz.",
+      "sources": [
+        "KK7"
+      ]
+    },
+    {
+      "id": "DTR-008",
+      "revision": 1,
+      "topic": "Diğer Türk devlet ve toplulukları",
+      "subtopic": "Akhunlar: yıkılış",
+      "skill": "Bilgi",
+      "stem": "VI. yüzyılda Akhun siyasi hâkimiyetine ağır darbe vurarak topraklarını paylaşan iki güç aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Göktürkler – Bizans",
+        "Sasaniler – Avarlar",
+        "Uygurlar – Karluklar",
+        "Abbasiler – Karluklar",
+        "Göktürkler – Sasaniler"
+      ],
+      "answer": "E",
+      "explanation": "Göktürk–Sasani iş birliği Akhunların merkezî hâkimiyetini sona erdiren süreci belirledi. Göktürk–Bizans diplomatik ilişkileri de aynı geniş dönemin konusudur; fakat sorudaki Akhunlara karşı ortak hareketin tarafı Bizans değildir.",
+      "sources": [
+        "KK7"
+      ]
+    },
+    {
+      "id": "DTR-009",
+      "revision": 1,
+      "topic": "Diğer Türk devlet ve toplulukları",
+      "subtopic": "Akhunlar: ittifak ve egemenlik",
+      "skill": "Yorum",
+      "stem": "Göktürkler ile Sasaniler Akhunlara karşı birlikte hareket etmiş, Akhun ülkesinin farklı kesimleri iki gücün hâkimiyetine girmiştir. Bu bilgilerden aşağıdakilerden hangisine ulaşılamaz?",
+      "difficulty": "Orta",
+      "options": [
+        "Göktürklerle Sasanilerin ortak bir rakibe yöneldiğine",
+        "Akhun ülkesinin tamamının tek bir galibin eline geçmediğine",
+        "Göktürklerle Sasanilerin tek hükümdara bağlı bir devlet oluşturduğuna",
+        "Akhunların egemenlik alanının daraldığına",
+        "Askerî iş birliğinin siyasi haritayı etkilediğine"
+      ],
+      "answer": "C",
+      "explanation": "Birlikte savaşmak ve toprak paylaşmak, iki devletin tek hükümdar altında birleştiğini göstermez. Kökte ortak rakip ve egemenlik alanlarının değişmesi açıkça verilmiştir; diğer dört seçenek bu sınırlı bilgilerden çıkarılabilir.",
+      "sources": [
+        "KK7"
+      ]
+    },
+    {
+      "id": "DTR-010",
+      "revision": 1,
+      "topic": "Diğer Türk devlet ve toplulukları",
+      "subtopic": "Oğuzlar: siyasi merkez",
+      "skill": "Bilgi",
+      "stem": "X. yüzyılda Aşağı Seyhun çevresindeki Oğuz siyasi yapısının hükümdarlık unvanı ve merkezi aşağıdakilerden hangisinde birlikte doğru verilmiştir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Yabgu – Yenikent",
+        "Yabgu – Ötüken",
+        "İdikut – Yenikent",
+        "Şanyü – Karabalgasun",
+        "Kağan – İtil"
+      ],
+      "answer": "A",
+      "explanation": "Oğuz hükümdarı yabgu unvanını taşır; Yenikent özellikle kışlık siyasi merkez olarak öne çıkar. Ötüken ve Karabalgasun doğudaki başka devletlerin merkezleridir.",
+      "sources": [
+        "KK10"
+      ]
+    },
+    {
+      "id": "DTR-011",
+      "revision": 1,
+      "topic": "Diğer Türk devlet ve toplulukları",
+      "subtopic": "Oğuzlar: boy teşkilatı",
+      "skill": "Bilgi",
+      "stem": "Oğuz boylarının geleneksel tasnifinde kullanılan iki ana kol aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Tuna – İtil",
+        "Kansu – Turfan",
+        "Doğu – Batı",
+        "Bozok – Üçok",
+        "Sarı – Kara"
+      ],
+      "answer": "D",
+      "explanation": "Bozok ve Üçok, Oğuzların geleneksel boy tasnifinin iki ana koludur. Tuna–İtil veya Kansu–Turfan ayrımları başka toplulukların coğrafi-siyasi kollarını anlatır; aynı sınıflandırma değildir.",
+      "sources": [
+        "KK10"
+      ]
+    },
+    {
+      "id": "DTR-012",
+      "revision": 1,
+      "topic": "Diğer Türk devlet ve toplulukları",
+      "subtopic": "Oğuzlar: Dede Korkut",
+      "skill": "Bilgi ve yorum",
+      "stem": "Dede Korkut anlatılarında Oğuzların aile ilişkileri, şölenleri, kahramanlıkları ve boylar arası bağları yer alır. Bu özellikleri nedeniyle eser aşağıdaki araştırmalardan hangisine en doğrudan katkı sağlar?",
+      "difficulty": "Orta",
+      "options": [
+        "Boy yöneticilerinin görev sürelerini kesin bir kronolojiye yerleştirmeye",
+        "Oğuzların aile, dayanışma ve kahramanlık değerlerini incelemeye",
+        "Boylar arasındaki anlaşmazlıkların resmî yargılama usulünü belirlemeye",
+        "Şölenlerin düzenli vergi tahsilindeki yerini hesaplamaya",
+        "Seyhun’daki bütün boyların yerleşim sınırlarını çizmeye"
+      ],
+      "answer": "B",
+      "explanation": "Aile, şölen ve boylar arası bağlar Oğuzların toplumsal değerlerini incelemek için kültürel veri sağlar. Edebî anlatı resmî yargı usulü, vergi tahsil cetveli veya kapsamlı idari sınır kaydı gibi kullanılamaz. Kaynağın değeri, araştırılan iddia ve metnin türüyle birlikte değerlendirilmelidir.",
+      "sources": [
+        "KK10"
+      ]
+    },
+    {
+      "id": "DTR-013",
+      "revision": 1,
+      "topic": "Diğer Türk devlet ve toplulukları",
+      "subtopic": "Başkurtlar: coğrafya",
+      "skill": "Bilgi",
+      "stem": "Başkurtların tarihî yurtları denildiğinde aşağıdaki bölgelerden hangisi öncelikle akla gelmelidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Orhun ve Selenga havzaları",
+        "Çu ve Talas vadileri",
+        "Aşağı Seyhun ve Aral çevresi",
+        "Kuzey Çin ve Sarı Irmak çevresi",
+        "Ural Dağları ve İdil çevresi"
+      ],
+      "answer": "E",
+      "explanation": "Başkurtlar Ural ve İdil çevresinin tarihî Türk topluluklarındandır. Orhun–Selenga doğudaki kağanlıkların, Aşağı Seyhun ise Oğuz siyasi tarihinin başlıca merkezleriyle ilişkilidir.",
+      "sources": [
+        "KK11"
+      ]
+    },
+    {
+      "id": "DTR-014",
+      "revision": 1,
+      "topic": "Diğer Türk devlet ve toplulukları",
+      "subtopic": "Başkurtlar: siyasi bağlılık",
+      "skill": "Bilgi",
+      "stem": "Başkurtların XIII–XV. yüzyıllardaki siyasi tarihi aşağıdaki devletlerden hangisinin hâkimiyet sahası içinde değerlendirilir?",
+      "difficulty": "Orta",
+      "options": [
+        "Yuan Hanedanı",
+        "Delhi Sultanlığı",
+        "Altın Orda",
+        "Çağatay Hanlığı",
+        "İlhanlılar"
+      ],
+      "answer": "C",
+      "explanation": "Başkurtlar Moğol hâkimiyetinin ardından Altın Orda siyasi çevresinde yer aldı. Çağatay Hanlığı ve İlhanlılar da Moğol sonrası devletlerdir; ancak merkezleri ve egemenlik sahaları farklıdır.",
+      "sources": [
+        "KK11"
+      ]
+    },
+    {
+      "id": "DTR-015",
+      "revision": 1,
+      "topic": "Diğer Türk devlet ve toplulukları",
+      "subtopic": "Başkurtlar: din ve siyasi bağlılık",
+      "skill": "Yorum",
+      "stem": "Başkurtlar arasında İslamiyet’in yayılması Moğol hâkimiyetinden önce başlamıştır. Daha sonra Başkurt savaşçıları Moğol ordularında görev almıştır. Bu iki bilgi birlikte değerlendirildiğinde aşağıdakilerden hangisi söylenebilir?",
+      "difficulty": "Orta",
+      "options": [
+        "Bir topluluğun dinî geçmişi, sonradan katıldığı ordunun siyasi aidiyetinden ayrı incelenmelidir.",
+        "Başkurtların İslamiyet’i tanıması Moğol seferlerinin sonucudur.",
+        "Bir orduda görev almak o ordunun yöneticilerinin dinini benimsemeyi gerektirir.",
+        "Moğol ordularına katılan Türk toplulukları bağımsız devletler kurmuştur.",
+        "Başkurtların eski dinî ilişkileri Moğol hâkimiyetiyle sona ermiştir."
+      ],
+      "answer": "A",
+      "explanation": "Dinî temaslar ve askerî-siyasi bağlılık farklı zamanlarda gelişebilir. Başkurtların Moğol ordularında görev alması, İslamiyet’i ilk kez bu orduda tanıdıklarını veya yöneticilerle aynı inanca sahip olduklarını göstermez.",
+      "sources": [
+        "KK11"
+      ]
+    },
+    {
+      "id": "DTR-016",
+      "revision": 1,
+      "topic": "Diğer Türk devlet ve toplulukları",
+      "subtopic": "Türgişler: Baga Tarkan",
+      "skill": "Bilgi",
+      "stem": "Türgişlerde kendi adına para bastırmasıyla tanınan hükümdar aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Bilge Kağan",
+        "Bögü Kağan",
+        "Baga Tarkan",
+        "Sulu Kağan",
+        "Moyen Çor"
+      ],
+      "answer": "C",
+      "explanation": "Baga Tarkan, Türgişlerde kendi adına para bastırmasıyla tanınır. Sulu Kağan ise Emevi ilerleyişine karşı mücadeleyle öne çıkar. Kendi adına para bastırma ile Türklerin para kullanmaya başlaması aynı olay değildir; daha eski Göktürk sikkeleri de bilinmektedir.",
+      "sources": [
+        "KK13",
+        "KK8"
+      ]
+    },
+    {
+      "id": "DTR-017",
+      "revision": 1,
+      "topic": "Diğer Türk devlet ve toplulukları",
+      "subtopic": "Türgişler: Emevilerle mücadele",
+      "skill": "Bilgi",
+      "stem": "VIII. yüzyılda Emevi ordularına karşı Maveraünnehir’de ve Kafkasya’da mücadele eden Türk siyasi güçleri, bu iki bölgenin sırasına göre aşağıdakilerden hangisidir?",
+      "difficulty": "Orta",
+      "options": [
+        "Hazarlar – Türgişler",
+        "Karluklar – Hazarlar",
+        "Türgişler – İdil Bulgarları",
+        "Uygurlar – Karluklar",
+        "Türgişler – Hazarlar"
+      ],
+      "answer": "E",
+      "explanation": "Türgişler Maveraünnehir’de, Hazarlar ise Kafkasya’da Emevi ordularıyla mücadele etti. İki mücadele aynı coğrafyada gerçekleşmedi. Askerî ilerleyişe direnmek, bir dinin bütün yayılma yollarının kalıcı olarak durduğu anlamına gelmez.",
+      "sources": [
+        "KK7"
+      ]
+    },
+    {
+      "id": "DTR-018",
+      "revision": 1,
+      "topic": "Diğer Türk devlet ve toplulukları",
+      "subtopic": "Akhunlar: Sasani iç siyaseti",
+      "skill": "Bilgi",
+      "stem": "Sasani ülkesindeki Mazdek hareketine karşı askerî yardım sağlayan Türk siyasi gücü aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Avarlar",
+        "Akhunlar",
+        "Göktürkler",
+        "Türgişler",
+        "Hazarlar"
+      ],
+      "answer": "B",
+      "explanation": "Akhunlar, Sasani ülkesindeki Mazdek hareketinin bastırılmasına askerî yardımla katkı sağladı. Bu yardım, bütün sürecin yalnız Akhunlar tarafından yürütüldüğü anlamına gelmez; Sasani yönetiminin iç siyaseti de belirleyicidir. Göktürk–Sasani ittifakının Akhunlara yönelmesi daha sonraki bir gelişmedir.",
+      "sources": [
+        "KK15"
+      ]
+    },
+    {
+      "id": "DTR-019",
+      "revision": 1,
+      "topic": "Diğer Türk devlet ve toplulukları",
+      "subtopic": "Akhunlar: değişen ilişkiler",
+      "skill": "Bilgi ve yorum",
+      "stem": "Akhun–Sasani ilişkileriyle ilgili;\nI. Mazdek hareketiyle bağlantılı krizde Akhun askerî yardımının Sasani yönetimini desteklediği,\nII. Sasani–Göktürk iş birliğinin daha sonra Akhun siyasi hâkimiyetine yöneldiği,\nIII. Akhunların Sasani yönetimine yardımının Sasaniler üzerinde sürekli egemenlik kurduklarını kanıtladığı\nyargılarından hangileri doğrudur?",
+      "difficulty": "Zor",
+      "options": [
+        "Yalnız II",
+        "I ve III",
+        "II ve III",
+        "I ve II",
+        "Yalnız I"
+      ],
+      "answer": "D",
+      "explanation": "Akhunların Sasani iç krizinde yardım sağlaması I’i, sonraki Göktürk–Sasani ittifakı II’yi doğrular. Yardım veren ve alan güçler daha sonra karşı karşıya gelebilir. Bir dönemde verilen askerî destek, sürekli egemenliğin veya değişmez dostluğun kanıtı değildir; III yanlıştır.",
+      "sources": [
+        "KK15",
+        "KK7"
+      ]
+    },
+    {
+      "id": "DTR-020",
+      "revision": 1,
+      "topic": "Diğer Türk devlet ve toplulukları",
+      "subtopic": "Oğuzlar: adın anlamı",
+      "skill": "Bilgi",
+      "stem": "Oğuz adının “ok” ve çokluk ekiyle açıklandığı köken görüşünde, adın toplumsal karşılığı aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Boylar, kabileler",
+        "Hükümdar ailesi",
+        "Askerî birlik komutanı",
+        "Vergiye bağlı şehir",
+        "Dinî tören görevlisi"
+      ],
+      "answer": "A",
+      "explanation": "Bu köken görüşü Oğuz adını boylar veya kabileler anlamıyla açıklar. Buradaki karşılık toplumsal örgütlenmeyle ilgilidir; hükümdarlık makamı veya tek bir aile değildir. Adın kökeni hakkında farklı görüşler bulunduğundan bu açıklama tek ve tartışmasız etimoloji olarak sunulmaz.",
+      "sources": [
+        "KK16"
+      ]
+    },
+    {
+      "id": "DTR-021",
+      "revision": 1,
+      "topic": "Diğer Türk devlet ve toplulukları",
+      "subtopic": "Oğuzlar: devletlerin kuruluş çevresi",
+      "skill": "Bilgi",
+      "stem": "Büyük Selçuklu, Türkiye Selçuklu ve Osmanlı devletlerinin kuruluş çevrelerinde etkili olan ortak Türk toplulukları aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Uygurlar",
+        "İdil Bulgarları",
+        "Oğuzlar",
+        "Karluklar",
+        "Kıpçaklar"
+      ],
+      "answer": "C",
+      "explanation": "Üç devletin kuruluş çevresinde Oğuz-Türkmen toplulukları etkili olmuştur. Oğuzlar, çok sayıda boydan oluşan geniş bir topluluktur; bu ifade bütün kurucu hanedanların aynı dar boya veya aynı aileye mensup olduğu anlamına gelmez. Karlukların Karahanlıların oluşumundaki rolü ayrı bir bağlantıdır.",
+      "sources": [
+        "KK16",
+        "KK10"
+      ]
+    },
+    {
+      "id": "DTR-022",
+      "revision": 1,
+      "topic": "Diğer Türk devlet ve toplulukları",
+      "subtopic": "Tabgaçlar: dönemlendirme",
+      "skill": "Yorum",
+      "stem": "Tabgaçların Kuzey Wei Devleti 386–534 arasında hüküm sürmüş, 534’te Doğu ve Batı Wei olarak bölünmüştür. Bu kolların yerini daha sonra 550 ve 557’de başka hanedanlar almıştır. Bu bilgilerden aşağıdakilerden hangisine ulaşılamaz?",
+      "difficulty": "Orta",
+      "options": [
+        "Devletin siyasi örgütlenmesinin VI. yüzyılda değiştiğine",
+        "Kuzey Wei’nin kuruluşunun IV. yüzyıla rastladığına",
+        "Bölünmenin ardından farklı hanedanlara geçişlerin yaşandığına",
+        "Birleşik devlet ile onu izleyen kolların dönemlerinin ayrılması gerektiğine",
+        "386–557 arasındaki dönemin tamamında tek merkezli Kuzey Wei yönetiminin sürdüğüne"
+      ],
+      "answer": "E",
+      "explanation": "534’te bölünme gerçekleştiğinden 386–557 aralığının tamamı tek merkezli Kuzey Wei dönemi sayılamaz. İlk devlet, bölünmüş kollar ve sonraki hanedanlar ayrı değerlendirilmelidir. Bu yüzden yuvarlak bir hâkimiyet süresi, hangi siyasi aşamaların kapsandığı belirtilmeden kullanılmamalıdır.",
+      "sources": [
+        "KK14",
+        "KK9"
+      ]
+    }
+  ]
+}

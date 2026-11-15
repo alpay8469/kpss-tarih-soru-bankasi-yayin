@@ -1,0 +1,371 @@
+{
+  "title": "KPSS Tarih — Avarlar",
+  "unit": null,
+  "date": "2026-10-02",
+  "question_count": 16,
+  "sources": {
+    "AV1": {
+      "title": "MEB — Avarlar: kuruluş, iki kıta ve Avrupa topluluklarına etkiler",
+      "url": "https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/konu-pekistirme/ayt/tarih/files/basic-html/page41.html"
+    },
+    "AV2": {
+      "title": "Ahmet Taşağıl — Türk, Avarlar bölümü (TDV İslâm Ansiklopedisi)",
+      "url": "https://islamansiklopedisi.org.tr/turk"
+    },
+    "AV3": {
+      "title": "Max Planck — Avar seçkinlerinin kökeni ve Avrasya göçü (2022)",
+      "url": "https://www.mpg.de/18495750/0330-evan-origins-of-the-avars-elucidated-with-ancient-dna-150495-x"
+    },
+    "AV4": {
+      "title": "EBA — İslamiyet Öncesi Türk Devletleri, Avar adlandırmaları",
+      "url": "https://img.eba.gov.tr/754/3cf/305/20a/91b/564/094/84c/07a/7ed/15d/6b2/83b/07a/003/7543cf30520a91b56409484c07a7ed15d6b283b07a003.pdf?name=%C4%B0slamiyet+%C3%96ncesi+T%C3%BCrk+Devletleri.pdf"
+    }
+  },
+  "questions": [
+    {
+      "id": "AVR-001",
+      "revision": 1,
+      "topic": "Avarlar",
+      "subtopic": "Kuruluş",
+      "skill": "Bilgi",
+      "stem": "Avrupa Avar Devleti’nin kurucusu kabul edilen hükümdar aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Balamir",
+        "Bayan Han",
+        "Bumin Kağan",
+        "Attila",
+        "Kutluk Bilge Kül Kağan"
+      ],
+      "answer": "B",
+      "explanation": "Bayan Han, Avrupa Avar Devleti’nin kuruluşu ve Orta Avrupa’da güçlenmesiyle ilişkilidir. Balamir Avrupa Hunlarının, Bumin ise I. Göktürk Devleti’nin kuruluşuyla anılır. Bayan Han’ı Orta Asya’daki Juan-Juan devletinin kurucusu olarak değerlendirmemek gerekir.",
+      "sources": [
+        "AV1",
+        "AV2"
+      ]
+    },
+    {
+      "id": "AVR-002",
+      "revision": 1,
+      "topic": "Avarlar",
+      "subtopic": "Coğrafya",
+      "skill": "Bilgi",
+      "stem": "Karadeniz’in kuzeyi ve Balkanlarda da faaliyet gösteren Avrupa Avarlarının siyasi merkez sahası aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "İdil–Kama havzası",
+        "Orhun–Selenga havzası",
+        "Tarım havzası",
+        "Tuna–Tisa havzası",
+        "Seyhun–Ceyhun havzası"
+      ],
+      "answer": "D",
+      "explanation": "Avarların Avrupa’daki merkez sahası, bugünkü Macaristan çevresindeki Tuna–Tisa havzasıdır. Bu alan Orta Avrupa’da bulunur; Doğu Avrupa ve Balkanlardaki faaliyetleri merkezleriyle aynı coğrafi kapsamı ifade etmez. İdil–Kama havzası ise İdil Bulgarlarıyla ilişkilidir.",
+      "sources": [
+        "AV2",
+        "AV3"
+      ]
+    },
+    {
+      "id": "AVR-003",
+      "revision": 1,
+      "topic": "Avarlar",
+      "subtopic": "Adlandırmalar",
+      "skill": "Bilgi",
+      "stem": "Avar tarihiyle ilişkilendirilen adlandırmalardan Çin kaynak geleneğindeki ad ile Göktürk yazıtlarında geçen ad aşağıdakilerin hangisinde sırasıyla verilmiştir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Juan-Juan — Apar",
+        "Apar — Juan-Juan",
+        "Töles — On Ok",
+        "Dokuz Oğuz — On Uygur",
+        "Saka — İskit"
+      ],
+      "answer": "A",
+      "explanation": "Çin kaynak geleneğindeki Juan-Juan (Rouran) adı ile Göktürk yazıtlarındaki Apar adı, Avar tarihi ele alınırken birlikte anılır. Avrupa Avarları ile Asya’daki Juan-Juanlar arasındaki ilişkinin niteliği ise araştırmalarda farklı değerlendirilmiştir. Adlandırmaları eşleştirmek, iki siyasi yapının bütünüyle özdeş ve kesintisiz olduğunu kanıtlamaz.",
+      "sources": [
+        "AV2",
+        "AV3",
+        "AV4"
+      ]
+    },
+    {
+      "id": "AVR-004",
+      "revision": 1,
+      "topic": "Avarlar",
+      "subtopic": "İstanbul kuşatması",
+      "skill": "Bilgi",
+      "stem": "İstanbul’u kuşatan ilk Türk devleti olarak anılan siyasi yapı aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Avrupa Hun Devleti",
+        "Hazar Kağanlığı",
+        "Tuna Bulgar Devleti",
+        "I. Göktürk Devleti",
+        "Avar Devleti"
+      ],
+      "answer": "E",
+      "explanation": "İstanbul’u kuşatan ilk Türk devleti olarak Avarlar anılır. 626’daki kuşatmada Sasanilerle birlikte Bizans üzerinde baskı kurmuş, ancak şehri ele geçirememişlerdir. Avrupa Hunlarının Bizans’la savaşmış olması, İstanbul’u kuşatan devletin onlar olduğu anlamına gelmez.",
+      "sources": [
+        "AV1",
+        "AV2"
+      ]
+    },
+    {
+      "id": "AVR-005",
+      "revision": 1,
+      "topic": "Avarlar",
+      "subtopic": "İttifak",
+      "skill": "Bilgi",
+      "stem": "Avarların 626 yılında gerçekleştirdiği İstanbul kuşatmasında Bizans’a karşı birlikte hareket ettiği devlet aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Frank Krallığı",
+        "Hazar Kağanlığı",
+        "Sasani Devleti",
+        "Longobard Krallığı",
+        "Vizigot Krallığı"
+      ],
+      "answer": "C",
+      "explanation": "626 kuşatmasında Avarlar Sasanilerle birlikte Bizans’a karşı hareket etti. Avar kuvvetleri Balkanlar üzerinden İstanbul önlerine gelirken Sasani ordusu Anadolu üzerinden Boğaziçi’nin karşı kıyısına ulaştı. Avarların başka dönemlerde Longobardlarla iş birliği yapması, bu kuşatmadaki ortağını değiştirmez.",
+      "sources": [
+        "AV2"
+      ]
+    },
+    {
+      "id": "AVR-006",
+      "revision": 1,
+      "topic": "Avarlar",
+      "subtopic": "Yıkılış",
+      "skill": "Bilgi",
+      "stem": "Avrupa Avar Devleti’nin VIII. yüzyıl sonları ile IX. yüzyıl başlarında çözülmesinde belirleyici olan seferleri düzenleyen siyasi güç aşağıdakilerden hangisidir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Franklar",
+        "Bizanslılar",
+        "Tuna Bulgarları",
+        "Lombardlar",
+        "Slav toplulukları"
+      ],
+      "answer": "A",
+      "explanation": "VIII. yüzyıl sonları ile IX. yüzyıl başlarındaki Frank seferleri, özellikle Şarlman dönemindeki saldırılar, Avar siyasi gücünün çözülmesinde belirleyici olmuştur. Bizans ve Bulgar ilişkileri aynı dönemin bütününü açıklayan tek sefer dizisi değildir. Bağlı toplulukların ayrılması ile dış askerî seferler ayrı etkenler olarak değerlendirilmelidir.",
+      "sources": [
+        "AV2"
+      ]
+    },
+    {
+      "id": "AVR-007",
+      "revision": 1,
+      "topic": "Avarlar",
+      "subtopic": "Askerî teknoloji",
+      "skill": "Yorum",
+      "stem": "Avarların Avrupa’da üzengi kullanımının yayılmasında rol oynaması ve üzenginin binicinin at üzerinde daha dengeli durmasını sağlaması birlikte değerlendirildiğinde aşağıdakilerden hangisine ulaşılamaz?",
+      "difficulty": "Orta",
+      "options": [
+        "Atlı savaşçının donanımı askerî uygulamaları etkileyebilir.",
+        "Topluluklar arasındaki temas teknik bilginin taşınmasına aracılık edebilir.",
+        "Avarların Avrupa’ya etkileri askerî teknoloji alanını da kapsar.",
+        "Üzenginin ilk icadı Avrupa Avar Devleti’nde gerçekleşmiştir.",
+        "Bir binicilik aracının kullanımı farklı coğrafyalara yayılabilir."
+      ],
+      "answer": "D",
+      "explanation": "Avrupa’da yayılmasına aracılık etmek, üzengiyi ilk kez icat etmiş olmakla aynı değildir. Verilen bilgiler, Avarların teknik aktarımda rol aldığını ve üzenginin biniciliğe katkısını destekler. İcadın yeri ve zamanı için ayrıca kanıt gerekir.",
+      "sources": [
+        "AV3"
+      ]
+    },
+    {
+      "id": "AVR-008",
+      "revision": 1,
+      "topic": "Avarlar",
+      "subtopic": "Avrupa topluluklarına etkiler",
+      "skill": "Bilgi",
+      "stem": "Avarların Avrupa’da askerlik ve siyasi teşkilatlanma bakımından etkilediği topluluklar aşağıdakilerin hangisinde birlikte verilmiştir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Germenler — Roman toplulukları",
+        "Germenler — Slavlar",
+        "Slavlar — Keltler",
+        "Roman toplulukları — İskandinav toplulukları",
+        "Keltler — Roman toplulukları"
+      ],
+      "answer": "B",
+      "explanation": "Avarların askerlik ve siyasi teşkilatlanma bakımından etkilediği çevreler Germen ve Slav topluluklarıdır. Avrupa’da bulunmak, diğer grupları bu belirli eşleşmenin doğru karşılığı yapmaz. Etkileşim, toplulukların aynı soy veya siyasi kimliğe sahip olduğu anlamına gelmez.",
+      "sources": [
+        "AV1"
+      ]
+    },
+    {
+      "id": "AVR-009",
+      "revision": 1,
+      "topic": "Avarlar",
+      "subtopic": "Asya–Avrupa ilişkisi",
+      "skill": "Yorum",
+      "stem": "Avar tarihinin Asya ve Avrupa evreleri bulunması, Avrupa’daki merkezlerinin ise Karpat Havzası’nda yer alması aşağıdaki yargılardan hangisini destekler?",
+      "difficulty": "Kolay",
+      "options": [
+        "Avrupa’daki merkezin Asya’daki siyasi yönetimin uzaktaki bir eyaleti olduğunu",
+        "Karpat Havzası’ndaki merkezin Asya’daki sınırları koruduğunu",
+        "Avrupa’daki kurucunun Asya’daki siyasi yapının da kurucusu olduğunu",
+        "Asya ile Avrupa’daki yapıların aynı anda tek merkezden yönetildiğini",
+        "Bozkır topluluklarının siyasi faaliyet merkezlerinin kıtalar arasında değişebildiğini"
+      ],
+      "answer": "E",
+      "explanation": "Asya bağlantısı ile Karpat Havzası’ndaki Avrupa merkezi faaliyet sahasının değişmesini gösterir. Bu bilgi aynı sınırların korunması veya iki kıtanın tek merkezden eş zamanlı yönetilmesi anlamına gelmez. Avrupa kuruluşuna ilişkin hükümdar bilgisi de doğrudan Asya geçmişine taşınmamalıdır.",
+      "sources": [
+        "AV1",
+        "AV3"
+      ]
+    },
+    {
+      "id": "AVR-010",
+      "revision": 1,
+      "topic": "Avarlar",
+      "subtopic": "Diplomasi",
+      "skill": "Yorum",
+      "stem": "Avarlar ile Sasanilerin 626’da Bizans’a karşı ortak hareket etmesi, öncelikle aşağıdakilerden hangisine örnektir?",
+      "difficulty": "Kolay",
+      "options": [
+        "Hanedanların birleşerek tek devlet oluşturmasına",
+        "Bir devletin diğerine vergi ödeyerek bağlanmasına",
+        "Farklı devletlerin ortak hedef doğrultusunda ittifak kurmasına",
+        "Komşu devletlerin birbirlerinin sınır güvenliğini üstlenmesine",
+        "Askerî mücadele yerine ticari iş birliğinin benimsenmesine"
+      ],
+      "answer": "C",
+      "explanation": "İki devletin Bizans’a karşı aynı hedefte buluşması bir askerî ittifaktır. Ortak harekât, devletlerin birleştiğini veya taraflardan birinin diğerine bağlandığını göstermez. Sınır güvenliği anlaşması ile düşmana karşı ortak saldırı da farklı ilişki biçimleridir.",
+      "sources": [
+        "AV2"
+      ]
+    },
+    {
+      "id": "AVR-011",
+      "revision": 1,
+      "topic": "Avarlar",
+      "subtopic": "Kuşatma ve kanıt sınırı",
+      "skill": "Yorum",
+      "stem": "626’da Avar kuvvetleri Balkanlar üzerinden İstanbul surlarına, Sasani kuvvetleri ise Anadolu üzerinden Boğaziçi’nin karşı kıyısına ulaştı. Ortak baskıya rağmen İstanbul ele geçirilemedi.\n\nBu bilgilerden,\nI. Bizans farklı yönlerden gelen askerî baskıyla karşılaşmıştır.\nII. Sasanilerin Boğaziçi’ne ulaşması, Avarların Anadolu’da egemenlik kurduğunu gösterir.\nIII. İttifak kurulması, hedeflenen askerî sonucun elde edilmesini garanti etmemiştir.\nyargılarından hangilerine ulaşılabilir?",
+      "difficulty": "Orta",
+      "options": [
+        "Yalnız I",
+        "I ve II",
+        "II ve III",
+        "I ve III",
+        "I, II ve III"
+      ],
+      "answer": "D",
+      "explanation": "Balkanlar ve Anadolu üzerinden ilerlenmesi I. yargıyı, şehrin ele geçirilememesi III. yargıyı destekler. II. yargıda Sasani ordusunun hareket sahası Avar egemenlik alanına dönüştürülmektedir. Müttefik ordunun bir bölgede bulunması, o bölgenin diğer müttefike ait olduğunu göstermez.",
+      "sources": [
+        "AV2"
+      ]
+    },
+    {
+      "id": "AVR-012",
+      "revision": 1,
+      "topic": "Avarlar",
+      "subtopic": "Siyasi süreç",
+      "skill": "Bilgi ve yorum",
+      "stem": "Avrupa Avar tarihiyle ilgili aşağıdaki gelişmelerin kronolojik sıralaması hangisidir?\n\nI. Frank seferlerinin devletin çözülmesinde belirleyici olması\nII. Bayan Han önderliğinde Avrupa’da devletleşme\nIII. Sasanilerle birlikte İstanbul’un kuşatılması",
+      "difficulty": "Orta",
+      "options": [
+        "II — III — I",
+        "III — II — I",
+        "II — I — III",
+        "I — II — III",
+        "III — I — II"
+      ],
+      "answer": "A",
+      "explanation": "Önce VI. yüzyılda Bayan Han önderliğinde Avrupa’daki siyasi yapı kurulmuş, ardından 626’da İstanbul kuşatılmıştır. Frank seferlerinin yoğunlaştığı çözülme süreci VIII. yüzyıl sonları ile IX. yüzyıl başlarına aittir. Kuşatmanın başarısızlığı ile devletin yıkılışı aynı tarihte gerçekleşmemiştir.",
+      "sources": [
+        "AV1",
+        "AV2"
+      ]
+    },
+    {
+      "id": "AVR-013",
+      "revision": 1,
+      "topic": "Avarlar",
+      "subtopic": "Kapsam kontrolü",
+      "skill": "Bilgi",
+      "stem": "Avarlarla ilgili aşağıdaki yargılardan hangisi yanlıştır?",
+      "difficulty": "Orta",
+      "options": [
+        "Avrupa’daki siyasi merkezleri Macaristan çevresinde yer almıştır.",
+        "626 İstanbul kuşatmasında Sasanilerle iş birliği yapmışlardır.",
+        "Bayan Han, Orta Asya’daki Juan-Juan devletinin kurucusudur.",
+        "Avrupa’daki askerî teknoloji aktarımında rol oynamışlardır.",
+        "Avrupa’daki siyasi varlıklarının sona ermesinde Frank saldırıları etkili olmuştur."
+      ],
+      "answer": "C",
+      "explanation": "Bayan Han’ın kuruculuk rolü Avrupa Avar Devleti’ne aittir; Orta Asya’daki Juan-Juan devletinin kuruluşuna ait değildir. Macaristan çevresindeki merkez, 626’daki Sasani iş birliği, askerî teknoloji aktarımı ve Frank saldırılarının etkisi Avrupa Avarlarıyla uyumludur.",
+      "sources": [
+        "AV1",
+        "AV2",
+        "AV3"
+      ]
+    },
+    {
+      "id": "AVR-014",
+      "revision": 1,
+      "topic": "Avarlar",
+      "subtopic": "Siyasi ve askerî etki",
+      "skill": "Yorum",
+      "stem": "Avarların Avrupa’daki Germen ve Slav topluluklarını askerî bakımdan etkilediği görüşünü araştıran bir tarihçi için aşağıdaki varsayımsal bulgulardan hangisi daha doğrudan kanıt oluşturur?",
+      "difficulty": "Orta",
+      "options": [
+        "Aynı ticaret yolunda farklı topluluklara ait malların bulunması",
+        "Avarlarda görülen bir atlı savaş donanımının temas sonrasında komşu birliklerde yaygınlaşması",
+        "Savaş kayıtlarında Avarların ve komşularının karşı saflarda anılması",
+        "Bir yerleşimde farklı topluluklara ait gündelik eşyaların birlikte bulunması",
+        "Komşu toplulukların kaynaklarında Avar hükümdarlarının adlarının geçmesi"
+      ],
+      "answer": "B",
+      "explanation": "Temas sonrasında aynı atlı savaş donanımının komşu birliklerde yaygınlaşması, askerî alandaki aktarımı diğer bulgulardan daha doğrudan destekler. Ticaret, komşuluk ve savaş temas için ortam oluşturabilir; hangi uygulamanın geçtiğini tek başına belirlemez. Örnekteki donanım benzerliği de tek başına ortak soy iddiası değildir.",
+      "sources": [
+        "AV1"
+      ]
+    },
+    {
+      "id": "AVR-015",
+      "revision": 1,
+      "topic": "Avarlar",
+      "subtopic": "Çözülmenin nedenleri",
+      "skill": "Yorum",
+      "stem": "Avar hâkimiyetindeki bazı toplulukların ayrılması siyasi birliği zayıflatmış, daha sonraki Frank seferleri de devletin çözülmesinde etkili olmuştur.\n\nBu süreç aşağıdakilerden hangisiyle en iyi açıklanabilir?",
+      "difficulty": "Orta",
+      "options": [
+        "İç siyasi bağlılığın artması ile dış baskının azaltılması",
+        "Ticaret yollarının kaybının Frank seferlerini başlatması",
+        "Bağlı toplulukların ayrılmasının Franklarla ortak yönetim kurulmasına yol açması",
+        "Frank saldırılarının önceden başlayan ayrılmaları tek başına açıklaması",
+        "İç siyasi çözülme ile dış askerî baskının birlikte etkili olması"
+      ],
+      "answer": "E",
+      "explanation": "Bağlı toplulukların ayrılması iç siyasi çözülmeyi, Frank seferleri dış askerî baskıyı gösterir. Her iki etken devletin zayıflamasında birlikte değerlendirilebilir. Önce başlayan iç ayrılmaları yalnız sonraki saldırının sonucu saymak zaman sırasını ve etken çeşitliliğini gözden kaçırır.",
+      "sources": [
+        "AV2"
+      ]
+    },
+    {
+      "id": "AVR-016",
+      "revision": 1,
+      "topic": "Avarlar",
+      "subtopic": "Tarihsel kanıt değerlendirme",
+      "skill": "Yorum",
+      "stem": "Avarların kökenini araştıran bir tarihçi, bazı Avrupa Avar seçkinlerine ait bulguların Asya bozkırlarıyla bağlantı gösterdiğini; Avrupa’daki siyasi merkezin ise Tuna–Tisa havzasında bulunduğunu belirlemiştir.\n\nBu bulgulardan,\nI. Asya’dan Avrupa’ya insan hareketliliği yaşanmış olabileceği,\nII. Asya’daki siyasi yapının Avrupa’da aynı sınırlarla varlığını sürdürdüğü,\nIII. Asya bağlantısının, Avrupa’daki bütün toplulukların aynı kökenden geldiğini tek başına kanıtlamadığı\nyargılarından hangilerine ulaşılabilir?",
+      "difficulty": "Orta",
+      "options": [
+        "Yalnız I",
+        "Yalnız II",
+        "I ve II",
+        "I ve III",
+        "II ve III"
+      ],
+      "answer": "D",
+      "explanation": "Seçkinlere ait Asya bağlantısı göç ihtimalini destekler; ancak bir grubun kökeni, yönetilen nüfusun tamamının kökenini belirlemez. Bu nedenle I ve III savunulabilir. II’de ise insan hareketliliğine ilişkin bulgular, kanıt sunulmadan siyasi sınırların değişmeden sürdüğü iddiasına dönüştürülmektedir.",
+      "sources": [
+        "AV3"
+      ]
+    }
+  ]
+}
